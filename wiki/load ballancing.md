@@ -1,0 +1,21 @@
+---
+creationDate        : 2005-11-21 14:50:02 +0100 
+author              : kocka 
+title               : load ballancing 
+name                : load ballancing 
+layout              : wiki 
+path                : load ballancing 
+date                : 2005-11-21 14:50:02 +0100 
+version             : 1 
+creator             : kocka 
+---
+Azaz terheles elosztas. Sokfelekeppen megoldhato, pl:
+
+*   [mod_jk](mod_jk.html)-val tobb remote tomcathoz
+*   BIND-del, csinalsz egy round robin DNS megoldast
+
+Lasd: [cluster](cluster.html)
+
+Cikkek:
+
+*   [Load Balancing Web Applications](http://www.onjava.com/lpt/a/1228)
