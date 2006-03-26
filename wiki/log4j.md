@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-20 00:12:41 +0200 
-author              : kocka 
+author              : admin 
 title               : log4j 
 name                : log4j 
 layout              : wiki 
 path                : log4j 
-date                : 2005-06-12 16:01:53 +0200 
-version             : 4 
+date                : 2006-03-26 01:48:24 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://logging.apache.org/log4j/docs/images/logo.jpg)(http://logging.apache.org/)
