@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-22 17:34:04 +0200 
-author              : kocka 
+author              : admin 
 title               : j4sql/javadoc tags/j4sql.trigger 
 name                : j4sql/javadoc tags/j4sql.trigger 
 layout              : wiki 
 path                : j4sql/javadoc tags/j4sql.trigger 
-date                : 2005-05-06 21:03:52 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:07 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A triggerket ketfelekeppen lehet deklaralni:
