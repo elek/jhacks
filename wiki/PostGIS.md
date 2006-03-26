@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-06 14:09:35 +0200 
-author              : kocka 
+author              : admin 
 title               : PostGIS 
 name                : PostGIS 
 layout              : wiki 
 path                : PostGIS 
-date                : 2005-04-06 14:09:35 +0200 
+date                : 2006-03-26 01:42:50 +0100 
 version             : 1 
 creator             : kocka 
 ---
