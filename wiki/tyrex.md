@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-06 10:53:39 +0200 
-author              : kocka 
+author              : admin 
 title               : tyrex 
 name                : tyrex 
 layout              : wiki 
 path                : tyrex 
-date                : 2004-08-23 16:04:15 +0200 
-version             : 2 
+date                : 2006-03-26 01:51:21 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Tyrex__
