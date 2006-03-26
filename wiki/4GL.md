@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-09 14:53:23 +0100 
-author              : kocka 
+author              : admin 
 title               : 4th Generation Language 
 name                : 4GL 
 layout              : wiki 
 path                : 4GL 
-date                : 2005-02-09 14:53:23 +0100 
+date                : 2006-03-26 01:42:33 +0100 
 version             : 1 
 creator             : kocka 
 ---
