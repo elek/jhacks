@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-29 22:26:34 +0200 
-author              : kocka 
+author              : admin 
 title               : kocka/RDBMS 
 name                : kocka/RDBMS 
 layout              : wiki 
 path                : kocka/RDBMS 
-date                : 2005-02-25 17:03:24 +0100 
-version             : 4 
+date                : 2006-03-26 01:48:19 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Na erre muszaly kicsit kiternem :)
