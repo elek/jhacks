@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-06-18 13:14:32 +0200 
-author              : kocka 
+author              : admin 
 title               : checkstyle 
 name                : checkstyle 
 layout              : wiki 
 path                : checkstyle 
-date                : 2005-06-18 13:14:32 +0200 
+date                : 2006-03-26 01:43:09 +0100 
 version             : 1 
 creator             : kocka 
 ---
