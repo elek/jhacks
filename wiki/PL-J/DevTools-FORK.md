@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-12 11:12:30 +0200 
-author              : kocka 
+author              : admin 
 title               : PL-J/DevTools-FORK 
 name                : PL-J/DevTools-FORK 
 layout              : wiki 
 path                : PL-J/DevTools-FORK 
-date                : 2005-04-12 11:51:04 +0200 
-version             : 5 
+date                : 2006-03-26 01:42:49 +0100 
+version             : 1 
 creator             : kocka 
 ---
 This is the ongoing spec-kinda-thing of the project intended to fork out from [PL-J](../PL-J.html) [PL-J/DevTools](../PL-J/DevTools.html). It contains nothing more than we have already agreed in.
