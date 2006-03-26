@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-11 13:46:41 +0100 
-author              : kocka 
+author              : admin 
 title               : Savepoint 
 name                : Savepoint 
 layout              : wiki 
 path                : Savepoint 
-date                : 2005-01-11 13:46:41 +0100 
+date                : 2006-03-26 01:42:54 +0100 
 version             : 1 
 creator             : kocka 
 ---
