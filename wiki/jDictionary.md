@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-22 11:49:06 +0100 
-author              : kocka 
+author              : admin 
 title               : jDictionary 
 name                : jDictionary 
 layout              : wiki 
 path                : jDictionary 
-date                : 2005-03-22 11:49:06 +0100 
+date                : 2006-03-26 01:48:07 +0100 
 version             : 1 
 creator             : kocka 
 ---
