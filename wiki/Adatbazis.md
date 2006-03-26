@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-23 21:51:16 +0100 
-author              : kocka 
+author              : admin 
 title               : Adatbazis 
 name                : Adatbazis 
 layout              : wiki 
 path                : Adatbazis 
-date                : 2005-05-06 09:27:56 +0200 
-version             : 6 
+date                : 2006-03-26 01:42:34 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [zsoltk](zsoltk.html) billentyuzetebol:
