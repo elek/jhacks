@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-08 14:54:43 +0100 
-author              : kocka 
+author              : admin 
 title               : plugin 
 name                : plugin 
 layout              : wiki 
 path                : plugin 
-date                : 2004-12-18 10:59:20 +0100 
-version             : 2 
+date                : 2006-03-26 01:48:37 +0100 
+version             : 1 
 creator             : kanni_baa 
 ---
 kiegeszito cucc, amit bedugaszolhacc egy tamogato alkalmazasba bele
