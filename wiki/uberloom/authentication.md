@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-06 15:30:11 +0100 
-author              : kocka 
+author              : admin 
 title               : uberloom/authentication 
 name                : uberloom/authentication 
 layout              : wiki 
 path                : uberloom/authentication 
-date                : 2005-02-06 15:30:11 +0100 
+date                : 2006-03-26 01:51:22 +0100 
 version             : 1 
 creator             : kocka 
 ---
