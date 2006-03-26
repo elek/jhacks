@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-12-06 13:38:19 +0100 
-author              : kocka 
+author              : admin 
 title               : Portable Document Format 
 name                : PDF 
 layout              : wiki 
 path                : PDF 
-date                : 2005-12-06 13:38:19 +0100 
+date                : 2006-03-26 01:42:49 +0100 
 version             : 1 
 creator             : kocka 
 ---
