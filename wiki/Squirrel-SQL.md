@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-22 18:57:04 +0200 
-author              : renszarv 
+author              : admin 
 title               : Squirrel-SQL 
 name                : Squirrel-SQL 
 layout              : wiki 
 path                : Squirrel-SQL 
-date                : 2005-08-22 18:57:04 +0200 
+date                : 2006-03-26 01:42:58 +0100 
 version             : 1 
 creator             : renszarv 
 ---
