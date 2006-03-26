@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-06 10:04:54 +0100 
-author              : renszarv 
+author              : admin 
 title               : j2me 
 name                : j2me 
 layout              : wiki 
 path                : j2me 
-date                : 2005-01-05 16:02:07 +0100 
-version             : 4 
+date                : 2006-03-26 01:48:05 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __java 2 micro edition__
