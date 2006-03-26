@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-29 09:33:35 +0200 
-author              : kocka 
+author              : admin 
 title               : mx4j 
 name                : mx4j 
 layout              : wiki 
 path                : mx4j 
-date                : 2005-03-29 09:33:35 +0200 
+date                : 2006-03-26 01:48:31 +0100 
 version             : 1 
 creator             : kocka 
 ---
