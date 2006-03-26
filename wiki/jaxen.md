@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-08 10:12:24 +0200 
-author              : kocka 
+author              : admin 
 title               : jaxen 
 name                : jaxen 
 layout              : wiki 
 path                : jaxen 
-date                : 2005-04-08 10:12:24 +0200 
+date                : 2006-03-26 01:48:14 +0100 
 version             : 1 
 creator             : kocka 
 ---
