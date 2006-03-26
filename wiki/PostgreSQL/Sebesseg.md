@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-29 10:00:19 +0200 
-author              : kocka 
+author              : admin 
 title               : Sebesseg 
 name                : PostgreSQL/Sebesseg 
 layout              : wiki 
 path                : PostgreSQL/Sebesseg 
-date                : 2005-03-29 10:00:19 +0200 
+date                : 2006-03-26 01:42:51 +0100 
 version             : 1 
 creator             : kocka 
 ---
