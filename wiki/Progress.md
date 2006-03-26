@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-24 23:39:46 +0200 
-author              : zsoltk 
+author              : admin 
 title               : Progress 
 name                : Progress 
 layout              : wiki 
 path                : Progress 
-date                : 2004-08-24 23:39:46 +0200 
+date                : 2006-03-26 01:42:51 +0100 
 version             : 1 
 creator             : zsoltk 
 ---
