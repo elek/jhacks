@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-03-12 09:42:49 +0100 
-author              : pedro 
+author              : admin 
 title               : eXist 
 name                : eXist 
 layout              : wiki 
 path                : eXist 
-date                : 2006-03-12 11:25:47 +0100 
-version             : 8 
+date                : 2006-03-26 01:47:53 +0100 
+version             : 1 
 creator             : pedro 
 ---
 Nyílt forrású natív [XML](XML.html) adatbázis. Natív alatt azt kell érteni, hogy az adattárolás történik [XML](XML.html)-ben.
