@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-28 20:41:22 +0200 
-author              : kocka 
+author              : admin 
 title               : java pathfinder 
 name                : java pathfinder 
 layout              : wiki 
 path                : java pathfinder 
-date                : 2005-04-28 20:41:22 +0200 
+date                : 2006-03-26 01:48:12 +0100 
 version             : 1 
 creator             : kocka 
 ---
