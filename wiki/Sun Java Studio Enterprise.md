@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-31 12:17:22 +0200 
-author              : renszarv 
+author              : admin 
 title               : Sun Java Studio Enterprise 
 name                : Sun Java Studio Enterprise 
 layout              : wiki 
 path                : Sun Java Studio Enterprise 
-date                : 2005-08-31 12:17:22 +0200 
+date                : 2006-03-26 01:42:58 +0100 
 version             : 1 
 creator             : renszarv 
 ---
