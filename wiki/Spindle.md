@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-30 00:53:46 +0200 
-author              : renszarv 
+author              : admin 
 title               : Spindle 
 name                : Spindle 
 layout              : wiki 
 path                : Spindle 
-date                : 2005-08-22 18:24:18 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:57 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Web fejlesztéshez használjuk a legjobb web frameworköt, s hozzá a legjobb plugint. Amennyiben kérdéses lenne, hogy mi a legjobb web framework akkor elárulom: [Tapestry](tapestry.html). Szvsz. 
