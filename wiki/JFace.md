@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-11-16 01:26:32 +0100 
-author              : boci 
+author              : admin 
 title               : JFace 
 name                : JFace 
 layout              : wiki 
 path                : JFace 
-date                : 2004-11-16 01:26:32 +0100 
+date                : 2006-03-26 01:42:42 +0100 
 version             : 1 
 creator             : boci 
 ---
