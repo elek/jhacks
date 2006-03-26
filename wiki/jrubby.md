@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-09-09 10:47:19 +0200 
-author              : kocka 
+author              : admin 
 title               : jrubby 
 name                : jrubby 
 layout              : wiki 
 path                : jrubby 
-date                : 2004-09-09 10:47:19 +0200 
+date                : 2006-03-26 01:48:17 +0100 
 version             : 1 
 creator             : kocka 
 ---
