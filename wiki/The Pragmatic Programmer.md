@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-29 10:15:40 +0200 
-author              : sztupi 
+author              : admin 
 title               : The Pragmatic Programmer 
 name                : The Pragmatic Programmer 
 layout              : wiki 
 path                : The Pragmatic Programmer 
-date                : 2004-07-29 10:32:07 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:59 +0100 
+version             : 1 
 creator             : sztupi 
 ---
 Az eddig altalam a programozasrol olvasott legaltalanosabb konyv (mar ami valoban hasznos is). Gyakorlati tanacsokat, otleteket ad, hogyan fejlesszen az ember ugy, hogy konnyen lepest tudjon tartani a koddal, a tarsaival, a technologiaval, stb. Mindezt majdnem teljesen oprendszer/prog. nyelv/feladattipus fuggetlenul. Igazabol egy gondolkodasmodot mutat be, amelynek elsodleges celja a programozo 'jobba' tetele. 
