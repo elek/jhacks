@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-06 23:04:14 +0200 
-author              : stoned 
+author              : admin 
 title               : hivemind 
 name                : hivemind 
 layout              : wiki 
 path                : hivemind 
-date                : 2004-08-06 23:04:14 +0200 
+date                : 2006-03-26 01:48:01 +0100 
 version             : 1 
 creator             : stoned 
 ---
