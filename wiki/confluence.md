@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-08 23:36:27 +0100 
-author              : kocka 
+author              : admin 
 title               : confluence 
 name                : confluence 
 layout              : wiki 
 path                : confluence 
-date                : 2004-12-08 23:36:27 +0100 
+date                : 2006-03-26 01:47:49 +0100 
 version             : 1 
 creator             : kocka 
 ---
