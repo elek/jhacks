@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-09-13 12:17:46 +0200 
-author              : kocka 
+author              : admin 
 title               : magic 
 name                : magic 
 layout              : wiki 
 path                : magic 
-date                : 2005-09-13 12:17:46 +0200 
+date                : 2006-03-26 01:48:25 +0100 
 version             : 1 
 creator             : kocka 
 ---
