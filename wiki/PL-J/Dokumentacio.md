@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-16 14:08:52 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/Dokumentacio 
 name                : PL-J/Dokumentacio 
 layout              : wiki 
 path                : PL-J/Dokumentacio 
-date                : 2005-02-18 10:43:35 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:49 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Hat eleg alaposan szet van szorva :)
