@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-15 17:41:16 +0100 
-author              : kocka 
+author              : admin 
 title               : banners/sidebar 
 name                : banners/sidebar 
 layout              : wiki 
 path                : banners/sidebar 
-date                : 2005-02-03 08:51:38 +0100 
-version             : 18 
+date                : 2006-03-26 01:43:06 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __sidebar banners__
