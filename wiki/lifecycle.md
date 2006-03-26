@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-11 16:13:27 +0200 
-author              : kocka 
+author              : admin 
 title               : lifecycle 
 name                : lifecycle 
 layout              : wiki 
 path                : lifecycle 
-date                : 2005-10-11 16:13:27 +0200 
+date                : 2006-03-26 01:48:23 +0100 
 version             : 1 
 creator             : kocka 
 ---
