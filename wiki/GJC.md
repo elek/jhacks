@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-12 10:22:08 +0100 
-author              : boci 
+author              : admin 
 title               : GJC 
 name                : GJC 
 layout              : wiki 
 path                : GJC 
-date                : 2005-01-12 10:22:08 +0100 
+date                : 2006-03-26 01:42:39 +0100 
 version             : 1 
 creator             : boci 
 ---
