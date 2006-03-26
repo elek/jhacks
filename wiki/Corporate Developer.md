@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-22 21:46:34 +0100 
-author              : zsoltk 
+author              : admin 
 title               : Corporate Developer 
 name                : Corporate Developer 
 layout              : wiki 
 path                : Corporate Developer 
-date                : 2005-01-22 21:46:34 +0100 
+date                : 2006-03-26 01:42:36 +0100 
 version             : 1 
 creator             : zsoltk 
 ---
