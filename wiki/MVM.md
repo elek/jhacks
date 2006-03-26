@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-25 13:35:44 +0100 
-author              : kocka 
+author              : admin 
 title               : Multitasking Virtual Mashine 
 name                : MVM 
 layout              : wiki 
 path                : MVM 
-date                : 2005-03-25 13:35:44 +0100 
+date                : 2006-03-26 01:42:46 +0100 
 version             : 1 
 creator             : kocka 
 ---
