@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-07-19 12:14:16 +0200 
-author              : kocka 
+author              : admin 
 title               : single sign-on 
 name                : single sign-on 
 layout              : wiki 
 path                : single sign-on 
-date                : 2005-07-19 12:14:16 +0200 
+date                : 2006-03-26 01:48:46 +0100 
 version             : 1 
 creator             : kocka 
 ---
