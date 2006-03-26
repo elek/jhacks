@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-18 09:20:57 +0100 
-author              : kocka 
+author              : admin 
 title               : pljava 
 name                : pljava 
 layout              : wiki 
 path                : pljava 
-date                : 2005-03-23 13:47:34 +0100 
-version             : 5 
+date                : 2006-03-26 01:48:37 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://gborg.postgresql.org/projects/pljava/](http://gborg.postgresql.org/projects/pljava/)
