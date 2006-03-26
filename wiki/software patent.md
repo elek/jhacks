@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-12 15:06:56 +0100 
-author              : kocka 
+author              : admin 
 title               : software patent 
 name                : software patent 
 layout              : wiki 
 path                : software patent 
-date                : 2005-07-09 13:21:16 +0200 
-version             : 4 
+date                : 2006-03-26 01:48:51 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Yet Another American Sh|t__
