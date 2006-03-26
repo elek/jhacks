@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-24 23:43:17 +0100 
-author              : renszarv 
+author              : admin 
 title               : Nevezhetném __MégEgyÚjabbKomponensKeretrendszernek__ de a __bigyo__ rövidebbnek tünt.  
 name                : bigyo 
 layout              : wiki 
 path                : bigyo 
-date                : 2004-11-29 22:50:28 +0100 
-version             : 3 
+date                : 2006-03-26 01:43:07 +0100 
+version             : 1 
 creator             : renszarv 
 ---
  Miért is irtam? 
