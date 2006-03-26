@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-19 21:18:58 +0100 
-author              : renszarv 
+author              : admin 
 title               : CMS/document management system 
 name                : CMS/document management system 
 layout              : wiki 
 path                : CMS/document management system 
-date                : 2005-07-12 14:19:40 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A document management rendszerek megadott formanyomtatvanyok kulturalt tarolasa. Ez a kulturalt tarolas vegre felemelkedik az MS-WORD melysegeibol, de tobbnyire megdobbenten kell tapasztalnunk hogy [XML](../XML.html) adatbazisokban landol, bar relacios adatbazis megoldasokkal is volt mar dolgunk ugye ;)
