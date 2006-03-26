@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-09-13 14:41:43 +0200 
-author              : kocka 
+author              : admin 
 title               : komponensgyujtemeny 
 name                : komponensgyujtemeny 
 layout              : wiki 
 path                : komponensgyujtemeny 
-date                : 2004-09-13 14:41:43 +0200 
+date                : 2006-03-26 01:48:22 +0100 
 version             : 1 
 creator             : kocka 
 ---
