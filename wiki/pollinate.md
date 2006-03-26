@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-15 11:44:24 +0100 
-author              : kocka 
+author              : admin 
 title               : pollinate 
 name                : pollinate 
 layout              : wiki 
 path                : pollinate 
-date                : 2005-10-10 14:23:59 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:38 +0100 
+version             : 1 
 creator             : boci 
 ---
 [__Eclipse Pollinate Plugin__](http://www.eclipse.org/pollinate/)
