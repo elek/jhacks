@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-03 10:03:43 +0200 
-author              : kocka 
+author              : admin 
 title               : Vector 
 name                : Vector 
 layout              : wiki 
 path                : Vector 
-date                : 2005-05-03 10:03:43 +0200 
+date                : 2006-03-26 01:43:00 +0100 
 version             : 1 
 creator             : kocka 
 ---
