@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-16 16:54:20 +0100 
-author              : kocka 
+author              : admin 
 title               : FishEye 
 name                : fisheye 
 layout              : wiki 
 path                : fisheye 
-date                : 2005-02-16 16:54:20 +0100 
+date                : 2006-03-26 01:47:56 +0100 
 version             : 1 
 creator             : kocka 
 ---
