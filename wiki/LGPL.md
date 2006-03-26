@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-10 13:07:30 +0100 
-author              : kocka 
+author              : admin 
 title               : (Lesser|Library) GPL 
 name                : LGPL 
 layout              : wiki 
 path                : LGPL 
-date                : 2005-02-10 13:07:30 +0100 
+date                : 2006-03-26 01:42:45 +0100 
 version             : 1 
 creator             : kocka 
 ---
