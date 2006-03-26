@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-25 13:45:29 +0200 
-author              : kocka 
+author              : admin 
 title               : WTF/PHPDump 
 name                : WTF/PHPDump 
 layout              : wiki 
 path                : WTF/PHPDump 
-date                : 2005-05-25 13:45:29 +0200 
+date                : 2006-03-26 01:43:02 +0100 
 version             : 1 
 creator             : kocka 
 ---
