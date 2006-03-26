@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-07 14:01:24 +0100 
-author              : kocka 
+author              : admin 
 title               : harvest/containers 
 name                : harvest/containers 
 layout              : wiki 
 path                : harvest/containers 
-date                : 2005-03-07 14:01:24 +0100 
+date                : 2006-03-26 01:48:01 +0100 
 version             : 1 
 creator             : kocka 
 ---
