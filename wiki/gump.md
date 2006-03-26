@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-07-29 11:40:33 +0200 
-author              : kocka 
+author              : admin 
 title               : gump 
 name                : gump 
 layout              : wiki 
 path                : gump 
-date                : 2005-07-29 11:40:33 +0200 
+date                : 2006-03-26 01:47:59 +0100 
 version             : 1 
 creator             : kocka 
 ---
