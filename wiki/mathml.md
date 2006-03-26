@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-09-14 12:31:10 +0200 
-author              : kocka 
+author              : admin 
 title               : mathml 
 name                : mathml 
 layout              : wiki 
 path                : mathml 
-date                : 2005-09-14 12:31:10 +0200 
+date                : 2006-03-26 01:48:26 +0100 
 version             : 1 
 creator             : kocka 
 ---
