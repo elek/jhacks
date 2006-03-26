@@ -1,11 +1,11 @@
 ---
 creationDate        : 2006-02-26 17:31:22 +0100 
-author              : kocka 
+author              : admin 
 title               : jackrabbit 
 name                : jackrabbit 
 layout              : wiki 
 path                : jackrabbit 
-date                : 2006-02-26 17:31:22 +0100 
+date                : 2006-03-26 01:48:08 +0100 
 version             : 1 
 creator             : kocka 
 ---
