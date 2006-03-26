@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 10:23:53 +0200 
-author              : kocka 
+author              : admin 
 title               : codehaus 
 name                : codehaus 
 layout              : wiki 
 path                : codehaus 
-date                : 2005-02-12 21:45:11 +0100 
-version             : 4 
+date                : 2006-03-26 01:43:09 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://codehaus.org/codehaus-small.png)<br/>
