@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-16 15:30:40 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/JDBC 
 name                : PL-J/JDBC 
 layout              : wiki 
 path                : PL-J/JDBC 
-date                : 2005-02-16 15:57:12 +0100 
-version             : 2 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A [PL-J](../PL-J.html) [JDBC](../JDBC.html) drivere. Sajatos allatfaj:
