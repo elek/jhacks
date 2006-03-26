@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-22 11:48:26 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/ObjectStorage 
 name                : PL-J/ObjectStorage 
 layout              : wiki 
 path                : PL-J/ObjectStorage 
-date                : 2005-04-20 23:46:04 +0200 
-version             : 4 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A [PL-J/Devtools](../PL-J/DevTools.html) for utan az ObjectStorage otlet is kicsit kanyarodik. Egy kis kiegeszites lenne a forkolt projecten.
