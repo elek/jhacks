@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 13:01:08 +0200 
-author              : kocka 
+author              : admin 
 title               : harvest 
 name                : harvest 
 layout              : wiki 
 path                : harvest 
-date                : 2005-03-07 13:58:33 +0100 
-version             : 10 
+date                : 2006-03-26 01:48:00 +0100 
+version             : 1 
 creator             : kocka 
 ---
 
