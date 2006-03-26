@@ -1,0 +1,43 @@
+---
+creationDate        : 2005-04-27 09:58:41 +0200 
+author              : admin 
+title               : Continuous Integration 
+name                : Continuous Integration 
+layout              : wiki 
+path                : Continuous Integration 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
+creator             : kocka 
+---
+[http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
+
+Nagyon hasznos lehet ha valaki idonkent felhivja a figyelmedet arra hogy valamelyik funkcionalitas a projectben eltorott, foleg ha az illeto nem az ugyfeled ;) es meg csak nem is egy fizetett tesztelo, hanem egy program.
+
+Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja rajta a teszteket, es ertesit az eredmenyerol. Eleg sok ilyen eszkoz van.
+
+[Open source](Open%20Source.html) es free:
+
+*   [continuum](continuum.html)
+*   [damagecontrol](damagecontrol.html)
+*   [luntbuild](Missing.html)
+*   [gump](gump.html)?
+*   [cruisecontrol](cruisecontrol.html)
+
+Ezekhez erdemes megnezni ezt a [feature matrix](http://damagecontrol.codehaus.org/Continuous+Integration+Server+Feature+Matrix)ot.
+
+Meg pl a munkahelyem is irt sajatot, az is eleg jo, es persze van tucat mas belso fejlesztes meg kereskedelmi cucc.
+
+Mit is tud egy ilyen eszkoz:
+
+*   Ismeri a [version control](version%20control.html) rendszeredet
+*   Estenkent kicsekoutol, lebuildel fullra
+*   Teszteket is lefuttatja (peldaul [junit](junit.html))
+*   Amikor becommitolsz valamit akkor is figyelhet. (bar ez ritkabb mert eroforrasigenyesebb)
+*   A [build](build.html) outputot es a teszteredmenyeket kikuldi a megfelelo cssatornakra (mail, [irc](irc.html), [IM](Missing.html), miegymas)
+*   Es persze mindehhez gyonyoru szep feluletet is biztosit.
+*   Mos, foz, takarit, megmenti a vilagot, neked mar telleg csak a kodot kell irnod
+
+Lasd meg: [XP](XP.html)
+
+
+
