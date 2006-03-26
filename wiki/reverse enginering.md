@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-08 14:23:07 +0200 
-author              : kocka 
+author              : admin 
 title               : Reverse enginering 
 name                : reverse enginering 
 layout              : wiki 
 path                : reverse enginering 
-date                : 2005-04-08 14:23:07 +0200 
+date                : 2006-03-26 01:48:42 +0100 
 version             : 1 
 creator             : kocka 
 ---
