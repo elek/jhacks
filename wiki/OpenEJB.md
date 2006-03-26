@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 11:10:42 +0200 
-author              : kocka 
+author              : admin 
 title               : OpenEJB 
 name                : OpenEJB 
 layout              : wiki 
 path                : OpenEJB 
-date                : 2004-08-04 11:33:57 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
 creator             : zsoltk 
 ---
 [http://www.openejb.org/](http://www.openejb.org/)
