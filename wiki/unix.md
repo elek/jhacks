@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-20 16:22:00 +0100 
-author              : kocka 
+author              : admin 
 title               : unix 
 name                : unix 
 layout              : wiki 
 path                : unix 
-date                : 2004-12-20 16:22:00 +0100 
+date                : 2006-03-26 01:51:23 +0100 
 version             : 1 
 creator             : kocka 
 ---
