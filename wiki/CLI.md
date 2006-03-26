@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-17 14:08:54 +0200 
-author              : renszarv 
+author              : admin 
 title               : CLI 
 name                : CLI 
 layout              : wiki 
 path                : CLI 
-date                : 2005-05-17 14:08:54 +0200 
+date                : 2006-03-26 01:42:35 +0100 
 version             : 1 
 creator             : renszarv 
 ---
