@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-12-06 18:09:15 +0100 
-author              : kocka 
+author              : admin 
 title               : lamp 
 name                : lamp 
 layout              : wiki 
 path                : lamp 
-date                : 2005-12-06 18:10:40 +0100 
-version             : 2 
+date                : 2006-03-26 01:48:22 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A [Linux](Linux.html) [Apache](apache.html) [PHP](PHP.html) [MySQL](MySQL.html) roviditese. 
