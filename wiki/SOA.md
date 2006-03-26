@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-12 09:35:51 +0200 
-author              : kocka 
+author              : admin 
 title               : Service Oriented Architecture 
 name                : SOA 
 layout              : wiki 
 path                : SOA 
-date                : 2005-07-12 12:57:06 +0200 
-version             : 4 
+date                : 2006-03-26 01:42:53 +0100 
+version             : 1 
 creator             : kocka 
 ---
 _SOA nem volt meg ilyen jo dolgunk._
