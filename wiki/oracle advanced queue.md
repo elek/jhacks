@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-04 00:29:30 +0200 
-author              : kocka 
+author              : admin 
 title               : oracle advanced queue 
 name                : oracle advanced queue 
 layout              : wiki 
 path                : oracle advanced queue 
-date                : 2005-10-04 00:29:30 +0200 
+date                : 2006-03-26 01:48:34 +0100 
 version             : 1 
 creator             : kocka 
 ---
