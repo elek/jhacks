@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-22 17:34:41 +0200 
-author              : kocka 
+author              : admin 
 title               : j4sql/javadoc tags/j4sql.function 
 name                : j4sql/javadoc tags/j4sql.function 
 layout              : wiki 
 path                : j4sql/javadoc tags/j4sql.function 
-date                : 2005-05-08 01:00:01 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:06 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A jsproc.function taggel egyszeruen keszithetunk SQL funkciokat.
