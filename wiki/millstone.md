@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 15:47:18 +0200 
-author              : zsoltk 
+author              : admin 
 title               : millstone 
 name                : millstone 
 layout              : wiki 
 path                : millstone 
-date                : 2004-07-28 15:48:05 +0200 
-version             : 2 
+date                : 2006-03-26 01:48:29 +0100 
+version             : 1 
 creator             : zsoltk 
 ---
 Egyik kedvencem.
