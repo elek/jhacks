@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-06 15:45:45 +0100 
-author              : kocka 
+author              : admin 
 title               : uberloom/juzer management 
 name                : uberloom/juzer management 
 layout              : wiki 
 path                : uberloom/juzer management 
-date                : 2005-02-06 15:45:45 +0100 
+date                : 2006-03-26 01:51:23 +0100 
 version             : 1 
 creator             : kocka 
 ---
