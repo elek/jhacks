@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-23 19:16:05 +0200 
-author              : kocka 
+author              : admin 
 title               : Object Oriented Programming 
 name                : oop 
 layout              : wiki 
 path                : oop 
-date                : 2005-08-23 19:16:05 +0200 
+date                : 2006-03-26 01:48:33 +0100 
 version             : 1 
 creator             : kocka 
 ---
