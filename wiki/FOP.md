@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-09-09 11:53:59 +0200 
-author              : kocka 
+author              : admin 
 title               : FOP 
 name                : FOP 
 layout              : wiki 
 path                : FOP 
-date                : 2005-12-06 13:34:12 +0100 
-version             : 4 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://jakarta.apache.org/fop/](http://jakarta.apache.org/fop/)
