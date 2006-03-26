@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-09 13:23:34 +0100 
-author              : kocka 
+author              : admin 
 title               : profiler 
 name                : profiler 
 layout              : wiki 
 path                : profiler 
-date                : 2005-10-19 15:35:12 +0200 
-version             : 4 
+date                : 2006-03-26 01:48:39 +0100 
+version             : 1 
 creator             : kocka 
 ---
 
