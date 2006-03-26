@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-30 01:30:28 +0100 
-author              : kocka 
+author              : admin 
 title               : UberLoom/ApacheDSLoom 
 name                : UberLoom/ApacheDSLoom 
 layout              : wiki 
 path                : UberLoom/ApacheDSLoom 
-date                : 2005-03-02 00:03:04 +0100 
-version             : 5 
+date                : 2006-03-26 01:43:00 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Egy egyelore nagyon egyszeru wrapper az [apache directory](../apache%20directory.html) kore [loom](../loom.html)hoz.
