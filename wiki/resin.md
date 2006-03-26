@@ -1,11 +1,11 @@
 ---
 creationDate        : 2006-01-09 10:46:36 +0100 
-author              : renszarv 
+author              : admin 
 title               : resin 
 name                : resin 
 layout              : wiki 
 path                : resin 
-date                : 2006-01-09 10:46:36 +0100 
+date                : 2006-03-26 01:48:41 +0100 
 version             : 1 
 creator             : renszarv 
 ---
