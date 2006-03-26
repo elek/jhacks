@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-22 18:34:33 +0200 
-author              : renszarv 
+author              : admin 
 title               : Eclipse/Plug-in/JettyLauncher 
 name                : Eclipse/Plug-in/JettyLauncher 
 layout              : wiki 
 path                : Eclipse/Plug-in/JettyLauncher 
-date                : 2005-08-22 18:34:33 +0200 
+date                : 2006-03-26 01:42:38 +0100 
 version             : 1 
 creator             : renszarv 
 ---
