@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-10 21:06:29 +0200 
-author              : kocka 
+author              : admin 
 title               : SAPDB 
 name                : SAPDB 
 layout              : wiki 
 path                : SAPDB 
-date                : 2005-04-07 16:25:08 +0200 
-version             : 4 
+date                : 2006-03-26 01:42:53 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://dev.mysql.com/common/logos/maxdb-by-mysql-80x47.png)(http://www.mysql.com/products/maxdb/)
