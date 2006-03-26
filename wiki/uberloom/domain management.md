@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-06 15:35:39 +0100 
-author              : kocka 
+author              : admin 
 title               : uberloom/domain management 
 name                : uberloom/domain management 
 layout              : wiki 
 path                : uberloom/domain management 
-date                : 2005-02-06 15:35:39 +0100 
+date                : 2006-03-26 01:51:22 +0100 
 version             : 1 
 creator             : kocka 
 ---
