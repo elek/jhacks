@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-05 14:41:47 +0200 
-author              : kocka 
+author              : admin 
 title               : WSUnit 
 name                : WSUnit 
 layout              : wiki 
 path                : WSUnit 
-date                : 2005-05-05 14:41:47 +0200 
+date                : 2006-03-26 01:43:00 +0100 
 version             : 1 
 creator             : kocka 
 ---
