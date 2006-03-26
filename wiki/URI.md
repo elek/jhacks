@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-03-12 14:22:43 +0100 
-author              : pedro 
+author              : admin 
 title               : URI 
 name                : URI 
 layout              : wiki 
 path                : URI 
-date                : 2006-03-12 16:19:21 +0100 
-version             : 4 
+date                : 2006-03-26 01:42:59 +0100 
+version             : 1 
 creator             : kocka 
 ---
 URI - Universal Resource Identifier
