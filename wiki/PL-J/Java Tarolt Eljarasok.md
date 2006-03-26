@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-28 23:18:34 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/Java Tarolt Eljarasok 
 name                : PL-J/Java Tarolt Eljarasok 
 layout              : wiki 
 path                : PL-J/Java Tarolt Eljarasok 
-date                : 2004-12-28 23:18:34 +0100 
+date                : 2006-03-26 01:42:50 +0100 
 version             : 1 
 creator             : kocka 
 ---
