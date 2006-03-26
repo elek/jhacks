@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-06-11 22:22:10 +0200 
-author              : kocka 
+author              : admin 
 title               : deprecated 
 name                : deprecated 
 layout              : wiki 
 path                : deprecated 
-date                : 2005-06-11 22:22:10 +0200 
+date                : 2006-03-26 01:47:51 +0100 
 version             : 1 
 creator             : kocka 
 ---
