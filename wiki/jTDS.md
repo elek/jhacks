@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-27 09:16:44 +0100 
-author              : kocka 
+author              : admin 
 title               : jTDS 
 name                : jTDS 
 layout              : wiki 
 path                : jTDS 
-date                : 2005-01-27 09:18:59 +0100 
-version             : 4 
+date                : 2006-03-26 01:48:08 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://jtds.sourceforge.net/images/logo.gif)<br/>
