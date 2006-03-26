@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-17 17:59:14 +0200 
-author              : kocka 
+author              : admin 
 title               : IETF 
 name                : IETF 
 layout              : wiki 
 path                : IETF 
-date                : 2005-04-17 17:59:47 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:41 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://www.ietf.org/images/ietflogo2e.gif)(http://www.ietf.org/)
