@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-20 16:18:06 +0100 
-author              : kocka 
+author              : admin 
 title               : mevenide 
 name                : mevenide 
 layout              : wiki 
 path                : mevenide 
-date                : 2005-08-30 11:07:08 +0200 
-version             : 4 
+date                : 2006-03-26 01:48:28 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://mevenide.codehaus.org/](http://mevenide.codehaus.org/)
