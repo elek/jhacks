@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-16 19:34:26 +0200 
-author              : kocka 
+author              : admin 
 title               : Eclipse/Plug-in/CDT 
 name                : Eclipse/Plug-in/CDT 
 layout              : wiki 
 path                : Eclipse/Plug-in/CDT 
-date                : 2005-06-26 15:07:57 +0200 
-version             : 6 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __[C](../../C.html) Developement Task__
