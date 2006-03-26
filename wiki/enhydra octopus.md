@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-08-03 15:23:25 +0200 
-author              : kocka 
+author              : admin 
 title               : enhydra octopus 
 name                : enhydra octopus 
 layout              : wiki 
 path                : enhydra octopus 
-date                : 2005-08-03 15:24:38 +0200 
-version             : 3 
+date                : 2006-03-26 01:47:55 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://octopus.objectweb.org/](http://octopus.objectweb.org/)
