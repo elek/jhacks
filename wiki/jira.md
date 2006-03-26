@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-17 22:40:19 +0100 
-author              : kocka 
+author              : admin 
 title               : jira 
 name                : jira 
 layout              : wiki 
 path                : jira 
-date                : 2005-01-17 22:40:19 +0100 
+date                : 2006-03-26 01:48:16 +0100 
 version             : 1 
 creator             : kocka 
 ---
