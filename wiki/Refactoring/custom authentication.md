@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-02 21:31:14 +0200 
-author              : kocka 
+author              : admin 
 title               : Kis torteneti attekintes 
 name                : Refactoring/custom authentication 
 layout              : wiki 
 path                : Refactoring/custom authentication 
-date                : 2005-07-02 21:37:14 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:52 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A regi frameworkokben nem volt arra semmi kozponti megoldas hogy ki milyen eroforrast hasznalhat, hogyan azonositsuk, stb, meg a ma hasznalatos webes programozasi nyelvek ([php](../PHP.html), [perl](../perl.html), satobbi) sem tartalmaz ra valami sok tamogatast.
