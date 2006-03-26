@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-12 10:09:01 +0200 
-author              : kocka 
+author              : admin 
 title               : Container Managed Persistence 
 name                : CMP 
 layout              : wiki 
 path                : CMP 
-date                : 2005-10-05 12:32:35 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Az [EJB/entity bean](EJB/entity%20bean.html)ek rabizhatjak a perzisztalast a containerre is, igy 
