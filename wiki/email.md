@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-28 13:58:34 +0200 
-author              : kocka 
+author              : admin 
 title               : email 
 name                : email 
 layout              : wiki 
 path                : email 
-date                : 2005-07-28 14:08:54 +0200 
-version             : 2 
+date                : 2006-03-26 01:47:55 +0100 
+version             : 1 
 creator             : renszarv 
 ---
 Zománc németül.
