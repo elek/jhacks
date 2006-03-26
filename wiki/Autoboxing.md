@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-04 15:31:06 +0100 
-author              : kocka 
+author              : admin 
 title               : Autoboxing 
 name                : Autoboxing 
 layout              : wiki 
 path                : Autoboxing 
-date                : 2006-03-11 16:38:20 +0100 
-version             : 6 
+date                : 2006-03-26 01:42:34 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Autoboxing/unboxing
