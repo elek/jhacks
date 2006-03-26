@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-22 09:57:41 +0100 
-author              : kocka 
+author              : admin 
 title               : plexus 
 name                : plexus 
 layout              : wiki 
 path                : plexus 
-date                : 2006-02-28 14:40:45 +0100 
-version             : 3 
+date                : 2006-03-26 01:48:37 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://plexus.codehaus.org/](http://plexus.codehaus.org/)
