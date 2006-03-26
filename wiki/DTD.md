@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-05-13 15:08:54 +0200 
-author              : kocka 
+author              : admin 
 title               : Document Type Definition 
 name                : DTD 
 layout              : wiki 
 path                : DTD 
-date                : 2005-05-13 15:09:19 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:37 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [XML](XML.html) dokumentum tipusok formajat es tartalmat meghatarozo, egyuttal alapszintu validaciora is hasznalhato szabvany.
