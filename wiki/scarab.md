@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-17 23:00:57 +0100 
-author              : kocka 
+author              : admin 
 title               : scarab 
 name                : scarab 
 layout              : wiki 
 path                : scarab 
-date                : 2005-01-28 09:28:46 +0100 
-version             : 2 
+date                : 2006-03-26 01:48:44 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://scarab.tigris.org/](http://scarab.tigris.org/)
