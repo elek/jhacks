@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-07 16:21:48 +0200 
-author              : kocka 
+author              : admin 
 title               : 2 Phase Commit 
 name                : 2PC 
 layout              : wiki 
 path                : 2PC 
-date                : 2005-04-07 16:21:48 +0200 
+date                : 2006-03-26 01:42:33 +0100 
 version             : 1 
 creator             : kocka 
 ---
