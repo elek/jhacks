@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-04 11:29:08 +0200 
-author              : zsoltk 
+author              : admin 
 title               : Torque 
 name                : Torque 
 layout              : wiki 
 path                : Torque 
-date                : 2004-08-04 11:29:08 +0200 
+date                : 2006-03-26 01:42:59 +0100 
 version             : 1 
 creator             : zsoltk 
 ---
