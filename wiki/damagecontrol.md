@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-27 10:02:13 +0200 
-author              : kocka 
+author              : admin 
 title               : damagecontrol 
 name                : damagecontrol 
 layout              : wiki 
 path                : damagecontrol 
-date                : 2005-04-27 10:03:58 +0200 
-version             : 3 
+date                : 2006-03-26 01:47:50 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://damagecontrol.codehaus.org/damagecontrol-logo.png)(http://damagecontrol.codehaus.org/)
