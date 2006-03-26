@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-03-12 14:25:40 +0100 
-author              : pedro 
+author              : admin 
 title               : REST 
 name                : REST 
 layout              : wiki 
 path                : REST 
-date                : 2006-03-12 16:26:47 +0100 
-version             : 5 
+date                : 2006-03-26 01:42:52 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Egy Roy T. Fielding nevű ember megunta az ostoba módot, ahogyan a .com lufi idején kinézett az Internet (most sem jobb a helyzet) és a filozófia disszerzációjában leírt valamit, ami azóta híres lett:
