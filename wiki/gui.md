@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-28 17:10:52 +0100 
-author              : kocka 
+author              : admin 
 title               : Graphical User Interface 
 name                : gui 
 layout              : wiki 
 path                : gui 
-date                : 2005-11-28 17:10:52 +0100 
+date                : 2006-03-26 01:47:59 +0100 
 version             : 1 
 creator             : kocka 
 ---
