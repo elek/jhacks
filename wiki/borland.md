@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-07 14:54:25 +0200 
-author              : kocka 
+author              : admin 
 title               : borland 
 name                : borland 
 layout              : wiki 
 path                : borland 
-date                : 2005-04-07 14:55:15 +0200 
-version             : 2 
+date                : 2006-03-26 01:43:08 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.borland.com/](http://www.borland.com/)
