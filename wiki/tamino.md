@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-05-13 11:35:29 +0200 
-author              : kocka 
+author              : admin 
 title               : tamino 
 name                : tamino 
 layout              : wiki 
 path                : tamino 
-date                : 2005-08-01 16:32:14 +0200 
-version             : 2 
+date                : 2006-03-26 01:51:17 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www1.softwareag.com/tamino/](http://www1.softwareag.com/tamino/)
