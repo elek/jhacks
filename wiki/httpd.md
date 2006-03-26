@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-28 22:41:40 +0100 
-author              : kocka 
+author              : admin 
 title               : httpd 
 name                : httpd 
 layout              : wiki 
 path                : httpd 
-date                : 2004-12-28 22:41:40 +0100 
+date                : 2006-03-26 01:48:01 +0100 
 version             : 1 
 creator             : kocka 
 ---
