@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-07 14:27:11 +0200 
-author              : kocka 
+author              : admin 
 title               : ORO 
 name                : ORO 
 layout              : wiki 
 path                : ORO 
-date                : 2005-04-07 14:27:11 +0200 
+date                : 2006-03-26 01:42:48 +0100 
 version             : 1 
 creator             : kocka 
 ---
