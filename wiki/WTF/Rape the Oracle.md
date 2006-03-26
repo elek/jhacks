@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-04 00:23:15 +0200 
-author              : kocka 
+author              : admin 
 title               : WTF/Rape the Oracle 
 name                : WTF/Rape the Oracle 
 layout              : wiki 
 path                : WTF/Rape the Oracle 
-date                : 2005-10-04 00:23:15 +0200 
+date                : 2006-03-26 01:43:02 +0100 
 version             : 1 
 creator             : kocka 
 ---
