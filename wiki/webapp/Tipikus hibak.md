@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-28 22:58:12 +0200 
-author              : kocka 
+author              : admin 
 title               : webapp/Tipikus hibak 
 name                : webapp/Tipikus hibak 
 layout              : wiki 
 path                : webapp/Tipikus hibak 
-date                : 2005-03-28 23:48:23 +0200 
-version             : 5 
+date                : 2006-03-26 01:51:26 +0100 
+version             : 1 
 creator             : kocka 
 ---
 En tipikus [webapp](../webapp.html) hibanak tartom azt, amikor valaki annak ellenere hogy valojaban nincs szuksege tobbre mint amennyit a [servlet](../servlet.html) container vagy [j2ee](../j2ee.html) [alkalmazas szerver](../Alkalmazas%20Szerver.html) egyebkent is szolgaltat, megis sajat megoldas kerul implementaciora a [webapp](../webapp.html)ban.
