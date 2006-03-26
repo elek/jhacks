@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-22 21:51:33 +0100 
-author              : zsoltk 
+author              : admin 
 title               : domain 
 name                : domain 
 layout              : wiki 
 path                : domain 
-date                : 2005-01-22 21:52:51 +0100 
-version             : 3 
+date                : 2006-03-26 01:47:52 +0100 
+version             : 1 
 creator             : zsoltk 
 ---
 Sok ertelmezes van, de amit a leginkabb nehez volt megertenem azt a jo kis arhitekturalis konyvekben olvastam. Igyhat alljon itt egy kis magyarazat.<br/>
