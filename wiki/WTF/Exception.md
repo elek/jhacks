@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-18 12:18:52 +0200 
-author              : kocka 
+author              : admin 
 title               : WTF/Exception 
 name                : WTF/Exception 
 layout              : wiki 
 path                : WTF/Exception 
-date                : 2005-04-18 13:35:36 +0200 
-version             : 4 
+date                : 2006-03-26 01:43:01 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Megoldas az exception okanak titokban tartasara.
