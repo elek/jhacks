@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 20:36:01 +0200 
-author              : kocka 
+author              : admin 
 title               : cocoon 
 name                : cocoon 
 layout              : wiki 
 path                : cocoon 
-date                : 2006-02-28 14:34:41 +0100 
-version             : 5 
+date                : 2006-03-26 01:43:09 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://cocoon.apache.org/images/cocoon.gif)(http://cocoon.codehaus.org/)
