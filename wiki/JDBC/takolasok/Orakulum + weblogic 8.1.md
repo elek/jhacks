@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-16 15:47:38 +0100 
-author              : kocka 
+author              : admin 
 title               : JDBC/takolasok/Orakulum + weblogic 8.1 
 name                : JDBC/takolasok/Orakulum + weblogic 8.1 
 layout              : wiki 
 path                : JDBC/takolasok/Orakulum + weblogic 8.1 
-date                : 2005-02-16 15:47:38 +0100 
+date                : 2006-03-26 01:42:42 +0100 
 version             : 1 
 creator             : kocka 
 ---
