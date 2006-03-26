@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-21 14:10:14 +0200 
-author              : kocka 
+author              : admin 
 title               : j4sql 
 name                : j4sql 
 layout              : wiki 
 path                : j4sql 
-date                : 2005-04-21 14:10:14 +0200 
+date                : 2006-03-26 01:48:05 +0100 
 version             : 1 
 creator             : kocka 
 ---
