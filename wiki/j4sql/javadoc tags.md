@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-21 14:26:22 +0200 
-author              : kocka 
+author              : admin 
 title               : j4sql/javadoc tags 
 name                : j4sql/javadoc tags 
 layout              : wiki 
 path                : j4sql/javadoc tags 
-date                : 2005-04-22 19:25:09 +0200 
-version             : 5 
+date                : 2006-03-26 01:48:06 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A kovetkezo fobb javadoc tagek lesznek tamogatva:
