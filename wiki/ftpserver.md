@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-24 10:00:52 +0100 
-author              : kocka 
+author              : admin 
 title               : ftpserver 
 name                : ftpserver 
 layout              : wiki 
 path                : ftpserver 
-date                : 2005-01-24 10:00:52 +0100 
+date                : 2006-03-26 01:47:57 +0100 
 version             : 1 
 creator             : kocka 
 ---
