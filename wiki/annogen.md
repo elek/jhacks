@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-20 14:10:58 +0200 
-author              : kocka 
+author              : admin 
 title               : annogen 
 name                : annogen 
 layout              : wiki 
 path                : annogen 
-date                : 2005-04-20 14:10:58 +0200 
+date                : 2006-03-26 01:43:04 +0100 
 version             : 1 
 creator             : kocka 
 ---
