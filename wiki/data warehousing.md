@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-05-06 09:23:40 +0200 
-author              : kocka 
+author              : admin 
 title               : data warehousing 
 name                : data warehousing 
 layout              : wiki 
 path                : data warehousing 
-date                : 2005-12-07 12:47:11 +0100 
-version             : 6 
+date                : 2006-03-26 01:47:50 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A data warehouse egy az operativ [adatbazis](Adatbazis.html)tol elkulonitett, uzleti elemzest szolgalo adatbazis.
