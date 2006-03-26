@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-06 11:06:29 +0200 
-author              : kocka 
+author              : admin 
 title               : loom 
 name                : loom 
 layout              : wiki 
 path                : loom 
-date                : 2005-03-07 09:57:47 +0100 
-version             : 6 
+date                : 2006-03-26 01:48:25 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://loom.codehaus.org/images/loom-logo.png)
