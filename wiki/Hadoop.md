@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-02-14 15:59:41 +0100 
-author              : kocka 
+author              : admin 
 title               : Hadoop 
 name                : Hadoop 
 layout              : wiki 
 path                : Hadoop 
-date                : 2006-02-14 17:12:10 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:40 +0100 
+version             : 1 
 creator             : pedro 
 ---
 A [lucene](Lucene.html) es [nutch](nutch.html) szulojenek ujabb projektje.
