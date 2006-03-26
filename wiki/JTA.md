@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 15:00:54 +0200 
-author              : kocka 
+author              : admin 
 title               : JTA 
 name                : JTA 
 layout              : wiki 
 path                : JTA 
-date                : 2005-01-11 14:31:53 +0100 
-version             : 6 
+date                : 2006-03-26 01:42:43 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Java Transaction Architecture__
