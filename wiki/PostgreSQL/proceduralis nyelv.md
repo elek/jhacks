@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-29 09:54:58 +0200 
-author              : kocka 
+author              : admin 
 title               : PostgreSQL/proceduralis nyelv 
 name                : PostgreSQL/proceduralis nyelv 
 layout              : wiki 
 path                : PostgreSQL/proceduralis nyelv 
-date                : 2005-03-29 09:54:58 +0200 
+date                : 2006-03-26 01:42:51 +0100 
 version             : 1 
 creator             : kocka 
 ---
