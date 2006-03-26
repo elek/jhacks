@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-23 13:49:45 +0200 
-author              : kocka 
+author              : admin 
 title               : JTS 
 name                : JTS 
 layout              : wiki 
 path                : JTS 
-date                : 2004-08-23 13:49:45 +0200 
+date                : 2006-03-26 01:42:44 +0100 
 version             : 1 
 creator             : kocka 
 ---
