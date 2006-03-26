@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-26 11:13:05 +0200 
-author              : kocka 
+author              : admin 
 title               : Java Studio Creator 
 name                : Java Studio Creator 
 layout              : wiki 
 path                : Java Studio Creator 
-date                : 2005-07-04 17:35:11 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://developers.sun.com/prodtech/javatools/jscreator/](http://developers.sun.com/prodtech/javatools/jscreator/)
