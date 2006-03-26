@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-23 23:08:26 +0100 
-author              : kocka 
+author              : admin 
 title               : QDox 
 name                : QDox 
 layout              : wiki 
 path                : QDox 
-date                : 2005-01-23 23:08:26 +0100 
+date                : 2006-03-26 01:42:51 +0100 
 version             : 1 
 creator             : kocka 
 ---
