@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-15 15:54:59 +0100 
-author              : kocka 
+author              : admin 
 title               : Jedit 
 name                : Jedit 
 layout              : wiki 
 path                : Jedit 
-date                : 2005-03-15 15:54:59 +0100 
+date                : 2006-03-26 01:42:44 +0100 
 version             : 1 
 creator             : kocka 
 ---
