@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-06 23:28:54 +0200 
-author              : kocka 
+author              : admin 
 title               : VI 
 name                : VI 
 layout              : wiki 
 path                : VI 
-date                : 2005-08-31 11:12:51 +0200 
-version             : 2 
+date                : 2006-03-26 01:43:00 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Egy osi [unix](unix.html)os editor.
