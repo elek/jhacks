@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-28 13:57:43 +0200 
-author              : renszarv 
+author              : admin 
 title               : TIBCO 
 name                : TIBCO 
 layout              : wiki 
 path                : TIBCO 
-date                : 2005-07-28 13:59:07 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:58 +0100 
+version             : 1 
 creator             : renszarv 
 ---
  TIBCO (http://www.tibco.com)
