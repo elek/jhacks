@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-09-25 15:52:30 +0200 
-author              : kocka 
+author              : admin 
 title               : DNA 
 name                : DNA 
 layout              : wiki 
 path                : DNA 
-date                : 2004-12-07 14:14:29 +0100 
-version             : 4 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://dna.codehaus.org/images/dna-logo.png)<br/>
