@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-16 17:55:06 +0200 
-author              : kocka 
+author              : admin 
 title               : iCal4j 
 name                : iCal4j 
 layout              : wiki 
 path                : iCal4j 
-date                : 2005-05-16 17:55:06 +0200 
+date                : 2006-03-26 01:48:02 +0100 
 version             : 1 
 creator             : kocka 
 ---
