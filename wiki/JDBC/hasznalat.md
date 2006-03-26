@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-16 15:51:51 +0100 
-author              : kocka 
+author              : admin 
 title               : Nehany gyakorlati tanacs 
 name                : JDBC/hasznalat 
 layout              : wiki 
 path                : JDBC/hasznalat 
-date                : 2005-10-05 12:25:19 +0200 
-version             : 5 
+date                : 2006-03-26 01:42:42 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A [JDBC](../JDBC.html) szolgaltatasokat unmanaged kornyezetben ugy tudod elerni, hogy:
