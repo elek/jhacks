@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-21 21:56:37 +0100 
-author              : kocka 
+author              : admin 
 title               : Sync4J 
 name                : Sync4J 
 layout              : wiki 
 path                : Sync4J 
-date                : 2005-01-21 21:56:37 +0100 
+date                : 2006-03-26 01:42:58 +0100 
 version             : 1 
 creator             : kocka 
 ---
