@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-06-12 15:54:51 +0200 
-author              : kocka 
+author              : admin 
 title               : log4rss 
 name                : log4rss 
 layout              : wiki 
 path                : log4rss 
-date                : 2005-06-12 15:54:51 +0200 
+date                : 2006-03-26 01:48:24 +0100 
 version             : 1 
 creator             : kocka 
 ---
