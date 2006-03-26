@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-12-12 14:08:47 +0100 
-author              : kocka 
+author              : admin 
 title               : Ger/JMeter 
 name                : Ger/JMeter 
 layout              : wiki 
 path                : Ger/JMeter 
-date                : 2005-12-12 15:27:37 +0100 
-version             : 7 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
 creator             : Ger 
 ---
 Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.
