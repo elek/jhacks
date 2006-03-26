@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-28 09:36:59 +0100 
-author              : kocka 
+author              : admin 
 title               : Open Solaris 
 name                : Open Solaris 
 layout              : wiki 
 path                : Open Solaris 
-date                : 2005-07-01 21:49:06 +0200 
-version             : 6 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://opensolaris.org/](http://opensolaris.org/)
