@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-31 08:50:12 +0100 
-author              : kocka 
+author              : admin 
 title               : JetNuke 
 name                : JetNuke 
 layout              : wiki 
 path                : JetNuke 
-date                : 2005-02-06 21:48:42 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://hackers.forgeahead.hu/space/banners/sidebar/jetnuke-logo.gif)<br/>
