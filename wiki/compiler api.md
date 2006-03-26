@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-18 10:59:45 +0100 
-author              : kocka 
+author              : admin 
 title               : JSR 199 Java Compiler API 
 name                : compiler api 
 layout              : wiki 
 path                : compiler api 
-date                : 2005-02-18 10:59:45 +0100 
+date                : 2006-03-26 01:47:49 +0100 
 version             : 1 
 creator             : kocka 
 ---
