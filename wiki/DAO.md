@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 12:43:45 +0200 
-author              : zsoltk 
+author              : admin 
 title               : Data Access Object 
 name                : DAO 
 layout              : wiki 
 path                : DAO 
-date                : 2004-08-04 12:44:32 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
 creator             : zsoltk 
 ---
 Amolyan adateleresi reteg OOP modra. Jellemzoen arra szolgal, hogy a relacios adatbazis tulajdonsagait, kezeleset elrejtsuk a felhasznalo elol es egy OOP-ban jobban (nem biztos hogy egyszerubben) hasznalhato nezetet adjuk az adatbazis strukturanak. (lasd meg: [OR Mapping](OR%20Mapping.html))
