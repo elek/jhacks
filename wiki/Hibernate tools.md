@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-20 10:25:50 +0200 
-author              : boci 
+author              : admin 
 title               : Hibernate tools 
 name                : Hibernate tools 
 layout              : wiki 
 path                : Hibernate tools 
-date                : 2005-10-20 10:25:50 +0200 
+date                : 2006-03-26 01:42:40 +0100 
 version             : 1 
 creator             : boci 
 ---
