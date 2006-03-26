@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-10 14:00:43 +0100 
-author              : kocka 
+author              : admin 
 title               : ActiveSpace 
 name                : ActiveSpace 
 layout              : wiki 
 path                : ActiveSpace 
-date                : 2004-12-10 14:01:20 +0100 
-version             : 2 
+date                : 2006-03-26 01:42:34 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://activespace.codehaus.org/](http://activespace.codehaus.org/)
