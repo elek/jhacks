@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-14 11:37:23 +0100 
-author              : kocka 
+author              : admin 
 title               : XPath 
 name                : XPath 
 layout              : wiki 
 path                : XPath 
-date                : 2005-04-08 14:16:31 +0200 
-version             : 3 
+date                : 2006-03-26 01:43:04 +0100 
+version             : 1 
 creator             : kocka 
 ---
 (Ettol a szotol a munkehelyemen egyesek rohogni kezdenek, masok sirnak. En hol ez hol az...)
