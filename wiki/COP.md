@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 10:13:58 +0200 
-author              : kocka 
+author              : admin 
 title               : Component Oriented Programming\\ 
 name                : COP 
 layout              : wiki 
 path                : COP 
-date                : 2005-07-31 23:17:40 +0200 
-version             : 3 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
 creator             : kocka 
 ---
 <br/>
