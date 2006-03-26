@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-06 23:10:21 +0200 
-author              : kocka 
+author              : admin 
 title               : VIM 
 name                : VIM 
 layout              : wiki 
 path                : VIM 
-date                : 2005-04-06 23:21:07 +0200 
-version             : 2 
+date                : 2006-03-26 01:43:00 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://www.vim.org/images/vim_header.gif)(http://www.vim.org/)
