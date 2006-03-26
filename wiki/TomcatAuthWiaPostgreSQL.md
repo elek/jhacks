@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-19 21:53:57 +0100 
-author              : kocka 
+author              : admin 
 title               : TomcatAuthWiaPostgreSQL 
 name                : TomcatAuthWiaPostgreSQL 
 layout              : wiki 
 path                : TomcatAuthWiaPostgreSQL 
-date                : 2005-01-21 10:23:48 +0100 
-version             : 2 
+date                : 2006-03-26 01:42:59 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [Receptklub](Missing.html) :)
