@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-05 15:31:36 +0200 
-author              : kocka 
+author              : admin 
 title               : WTF/Class initialization 
 name                : WTF/Class initialization 
 layout              : wiki 
 path                : WTF/Class initialization 
-date                : 2005-04-05 15:31:36 +0200 
+date                : 2006-03-26 01:43:01 +0100 
 version             : 1 
 creator             : kocka 
 ---
