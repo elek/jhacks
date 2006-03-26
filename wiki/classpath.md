@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-29 12:38:37 +0200 
-author              : kocka 
+author              : admin 
 title               : classpath 
 name                : classpath 
 layout              : wiki 
 path                : classpath 
-date                : 2005-04-29 12:38:53 +0200 
-version             : 2 
+date                : 2006-03-26 01:43:09 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.gnu.org/software/classpath/](http://www.gnu.org/software/classpath/)
