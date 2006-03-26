@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-09 11:52:13 +0100 
-author              : kocka 
+author              : admin 
 title               : ActiveCluster 
 name                : ActiveCluster 
 layout              : wiki 
 path                : ActiveCluster 
-date                : 2004-12-09 11:52:13 +0100 
+date                : 2006-03-26 01:42:34 +0100 
 version             : 1 
 creator             : kocka 
 ---
