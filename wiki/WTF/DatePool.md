@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-04 12:05:39 +0200 
-author              : renszarv 
+author              : admin 
 title               : WTF/DatePool 
 name                : WTF/DatePool 
 layout              : wiki 
 path                : WTF/DatePool 
-date                : 2005-04-04 12:42:16 +0200 
-version             : 3 
+date                : 2006-03-26 01:43:01 +0100 
+version             : 1 
 creator             : renszarv 
 ---
 Már nem production kód, de az volt (emlékezetből, csak a lényeg)
