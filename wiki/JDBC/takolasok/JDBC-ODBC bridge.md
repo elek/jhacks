@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-16 15:46:09 +0100 
-author              : kocka 
+author              : admin 
 title               : JDBC/takolasok/JDBC-ODBC bridge 
 name                : JDBC/takolasok/JDBC-ODBC bridge 
 layout              : wiki 
 path                : JDBC/takolasok/JDBC-ODBC bridge 
-date                : 2005-02-16 15:46:09 +0100 
+date                : 2006-03-26 01:42:42 +0100 
 version             : 1 
 creator             : kocka 
 ---
