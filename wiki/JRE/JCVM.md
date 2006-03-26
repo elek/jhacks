@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-22 12:12:21 +0100 
-author              : renszarv 
+author              : admin 
 title               : JRE/JCVM 
 name                : JRE/JCVM 
 layout              : wiki 
 path                : JRE/JCVM 
-date                : 2005-11-22 12:12:21 +0100 
+date                : 2006-03-26 01:42:43 +0100 
 version             : 1 
 creator             : renszarv 
 ---
