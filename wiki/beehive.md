@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-15 11:44:40 +0100 
-author              : kocka 
+author              : admin 
 title               : beehive 
 name                : beehive 
 layout              : wiki 
 path                : beehive 
-date                : 2005-10-17 14:50:51 +0200 
-version             : 5 
+date                : 2006-03-26 01:43:07 +0100 
+version             : 1 
 creator             : boci 
 ---
 [__Apache Beehive__](http://beehive.apache.org/)
