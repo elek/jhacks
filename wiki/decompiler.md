@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-08 14:26:00 +0200 
-author              : renszarv 
+author              : admin 
 title               : decompiler 
 name                : decompiler 
 layout              : wiki 
 path                : decompiler 
-date                : 2005-04-11 01:37:02 +0200 
-version             : 2 
+date                : 2006-03-26 01:47:51 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A java [bytecode](bytecode.html)-bol viszonylag konnyen visszafordithato a forraskod, igy az esetleg eltitkolasra szant dolgok is konnyen kiderulnek.
