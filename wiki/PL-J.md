@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 14:51:02 +0200 
-author              : kocka 
+author              : admin 
 title               : PL-J 
 name                : PL-J 
 layout              : wiki 
 path                : PL-J 
-date                : 2005-05-21 12:35:54 +0200 
-version             : 21 
+date                : 2006-03-26 01:42:49 +0100 
+version             : 1 
 creator             : kocka 
 ---
 
