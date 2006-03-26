@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-28 22:36:22 +0200 
-author              : kocka 
+author              : admin 
 title               : testgen4web 
 name                : testgen4web 
 layout              : wiki 
 path                : testgen4web 
-date                : 2005-10-28 22:36:22 +0200 
+date                : 2006-03-26 01:51:17 +0100 
 version             : 1 
 creator             : kocka 
 ---
