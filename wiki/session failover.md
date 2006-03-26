@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-21 14:52:30 +0100 
-author              : kocka 
+author              : admin 
 title               : session failover 
 name                : session failover 
 layout              : wiki 
 path                : session failover 
-date                : 2005-11-21 14:52:30 +0100 
+date                : 2006-03-26 01:48:46 +0100 
 version             : 1 
 creator             : kocka 
 ---
