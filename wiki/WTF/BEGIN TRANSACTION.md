@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-02 12:16:04 +0200 
-author              : suhaig 
+author              : admin 
 title               : WTF/BEGIN TRANSACTION 
 name                : WTF/BEGIN TRANSACTION 
 layout              : wiki 
 path                : WTF/BEGIN TRANSACTION 
-date                : 2005-08-02 12:16:04 +0200 
+date                : 2006-03-26 01:43:01 +0100 
 version             : 1 
 creator             : suhaig 
 ---
