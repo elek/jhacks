@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-30 11:53:16 +0200 
-author              : kocka 
+author              : admin 
 title               : GC 
 name                : GC 
 layout              : wiki 
 path                : GC 
-date                : 2005-09-07 16:07:47 +0200 
-version             : 4 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Garbage Collector__
