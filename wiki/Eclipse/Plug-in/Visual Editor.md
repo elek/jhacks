@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-11-29 13:11:56 +0100 
-author              : renszarv 
+author              : admin 
 title               : Eclipse/Plug-in/Visual Editor 
 name                : Eclipse/Plug-in/Visual Editor 
 layout              : wiki 
 path                : Eclipse/Plug-in/Visual Editor 
-date                : 2005-12-03 21:45:48 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
 creator             : renszarv 
 ---
 [http://www.eclipse.org/vep/](http://www.eclipse.org/vep/)
