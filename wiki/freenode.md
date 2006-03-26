@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-03-28 22:40:41 +0200 
-author              : kocka 
+author              : admin 
 title               : freenode 
 name                : freenode 
 layout              : wiki 
 path                : freenode 
-date                : 2005-03-28 22:40:41 +0200 
+date                : 2006-03-26 01:47:57 +0100 
 version             : 1 
 creator             : kocka 
 ---
