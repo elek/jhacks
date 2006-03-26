@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-04 11:44:30 +0100 
-author              : kocka 
+author              : admin 
 title               : Eclipse/Plug-in/Visual Eclipse 
 name                : Eclipse/Plug-in/Visual Eclipse 
 layout              : wiki 
 path                : Eclipse/Plug-in/Visual Eclipse 
-date                : 2005-11-28 17:12:49 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.eclipse.org/vep/](http://www.eclipse.org/vep/)
