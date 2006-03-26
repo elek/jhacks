@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-17 11:36:48 +0100 
-author              : kocka 
+author              : admin 
 title               : objectweb 
 name                : objectweb 
 layout              : wiki 
 path                : objectweb 
-date                : 2005-02-17 11:38:28 +0100 
-version             : 3 
+date                : 2006-03-26 01:48:32 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://www.objectweb.org/media/interface/logoow3.gif)(http://www.objectweb.org/)<br/>
