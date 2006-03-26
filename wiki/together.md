@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 15:37:49 +0200 
-author              : kocka 
+author              : admin 
 title               : together 
 name                : together 
 layout              : wiki 
 path                : together 
-date                : 2005-04-07 16:00:05 +0200 
-version             : 18 
+date                : 2006-03-26 01:51:19 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Egy csili vili UML designer a [borland](borland.html)tol.
