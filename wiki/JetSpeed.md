@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-07 14:11:08 +0100 
-author              : kocka 
+author              : admin 
 title               : JetSpeed 
 name                : JetSpeed 
 layout              : wiki 
 path                : JetSpeed 
-date                : 2005-04-15 14:35:38 +0200 
-version             : 3 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://portals.apache.org/jetspeed-1/images/logo.gif)(http://portals.apache.org/)
