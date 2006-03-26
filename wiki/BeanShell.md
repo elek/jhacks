@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-12-12 15:30:46 +0100 
-author              : kocka 
+author              : admin 
 title               : BeanShell 
 name                : BeanShell 
 layout              : wiki 
 path                : BeanShell 
-date                : 2005-12-12 15:30:46 +0100 
+date                : 2006-03-26 01:42:35 +0100 
 version             : 1 
 creator             : kocka 
 ---
