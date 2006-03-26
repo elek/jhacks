@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 15:44:08 +0200 
-author              : kocka 
+author              : admin 
 title               : avalon 
 name                : avalon 
 layout              : wiki 
 path                : avalon 
-date                : 2006-02-28 14:37:41 +0100 
-version             : 13 
+date                : 2006-03-26 01:43:05 +0100 
+version             : 1 
 creator             : kocka 
 ---
 
