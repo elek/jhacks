@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-06 14:42:42 +0100 
-author              : renszarv 
+author              : admin 
 title               : Kaffe 
 name                : Kaffe 
 layout              : wiki 
 path                : Kaffe 
-date                : 2005-04-29 12:12:53 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.kaffe.org/](http://www.kaffe.org/)
