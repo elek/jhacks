@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-09-13 14:32:31 +0200 
-author              : kocka 
+author              : admin 
 title               : excalibur 
 name                : excalibur 
 layout              : wiki 
 path                : excalibur 
-date                : 2005-03-23 09:02:12 +0100 
-version             : 2 
+date                : 2006-03-26 01:47:56 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://excalibur.apache.org/](http://excalibur.apache.org/)
