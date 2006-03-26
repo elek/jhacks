@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-19 13:19:53 +0200 
-author              : renszarv 
+author              : admin 
 title               : Unix alapu rendszereknél egy kedvelt processzek közötti kommunikációs forma. 
 name                : Unix Domain Socket 
 layout              : wiki 
 path                : Unix Domain Socket 
-date                : 2005-10-19 13:19:53 +0200 
+date                : 2006-03-26 01:43:00 +0100 
 version             : 1 
 creator             : renszarv 
 ---
