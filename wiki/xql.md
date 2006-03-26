@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-05-13 10:57:00 +0200 
-author              : kocka 
+author              : admin 
 title               : XQL 
 name                : xql 
 layout              : wiki 
 path                : xql 
-date                : 2005-05-13 11:33:05 +0200 
-version             : 4 
+date                : 2006-03-26 01:51:29 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Lekerdezo nyelv [XML](XML.html)-hez, kb mint az [SQL](SQL.html) a relacios adatbazisokhoz (lasd [rdbms](RDBMS.html)). Kapcsolod technologia az [xpath](XPath.html), stb. 
