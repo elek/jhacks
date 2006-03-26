@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-08 10:23:06 +0200 
-author              : kocka 
+author              : admin 
 title               : dom4j 
 name                : dom4j 
 layout              : wiki 
 path                : dom4j 
-date                : 2005-04-08 10:23:06 +0200 
+date                : 2006-03-26 01:47:52 +0100 
 version             : 1 
 creator             : kocka 
 ---
