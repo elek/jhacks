@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-11-17 22:36:50 +0100 
-author              : boci 
+author              : admin 
 title               : XSLT 
 name                : XSLT 
 layout              : wiki 
 path                : XSLT 
-date                : 2004-11-17 22:36:50 +0100 
+date                : 2006-03-26 01:43:04 +0100 
 version             : 1 
 creator             : boci 
 ---
