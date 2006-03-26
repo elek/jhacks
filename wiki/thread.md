@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-11 10:52:40 +0200 
-author              : kocka 
+author              : admin 
 title               : thread 
 name                : thread 
 layout              : wiki 
 path                : thread 
-date                : 2005-04-11 10:52:40 +0200 
+date                : 2006-03-26 01:51:18 +0100 
 version             : 1 
 creator             : kocka 
 ---
