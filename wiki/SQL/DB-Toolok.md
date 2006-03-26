@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-11-22 11:58:32 +0100 
-author              : kocka 
+author              : admin 
 title               : SQL/DB-Toolok 
 name                : SQL/DB-Toolok 
 layout              : wiki 
 path                : SQL/DB-Toolok 
-date                : 2005-11-22 12:40:05 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:53 +0100 
+version             : 1 
 creator             : renszarv 
 ---
 Pár hasznos tool, ha már úgyis mindenki könyékig turkál az adatbázisokban naphosszat:
