@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-21 14:19:48 +0200 
-author              : kocka 
+author              : admin 
 title               : j4sql/Annotations vs javadocs 
 name                : j4sql/Annotations vs javadocs 
 layout              : wiki 
 path                : j4sql/Annotations vs javadocs 
-date                : 2005-04-21 14:20:34 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:05 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Mindket megoldasnak megvan a maga elonye es hatranya:
