@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-05 15:41:31 +0200 
-author              : kocka 
+author              : admin 
 title               : bizgres 
 name                : bizgres 
 layout              : wiki 
 path                : bizgres 
-date                : 2005-08-05 15:41:31 +0200 
+date                : 2006-03-26 01:43:07 +0100 
 version             : 1 
 creator             : kocka 
 ---
