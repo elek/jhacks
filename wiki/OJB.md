@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-10 12:28:02 +0200 
-author              : kocka 
+author              : admin 
 title               : OJB 
 name                : OJB 
 layout              : wiki 
 path                : OJB 
-date                : 2005-12-19 15:06:05 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:47 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __ObJectRelational Bridge__
