@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-18 10:38:00 +0100 
-author              : kocka 
+author              : admin 
 title               : MetaClass 
 name                : MetaClass 
 layout              : wiki 
 path                : MetaClass 
-date                : 2005-04-20 14:08:13 +0200 
-version             : 6 
+date                : 2006-03-26 01:42:46 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://metaclass.codehaus.org/images/logo.gif)(http://metaclass.codehaus.org/)
