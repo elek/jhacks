@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-08 10:30:41 +0200 
-author              : kocka 
+author              : admin 
 title               : JBuilder 
 name                : JBuilder 
 layout              : wiki 
 path                : JBuilder 
-date                : 2005-04-08 10:30:41 +0200 
+date                : 2006-03-26 01:42:41 +0100 
 version             : 1 
 creator             : kocka 
 ---
