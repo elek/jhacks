@@ -1,11 +1,11 @@
 ---
 creationDate        : 2006-01-05 11:58:34 +0100 
-author              : kocka 
+author              : admin 
 title               : filter 
 name                : filter 
 layout              : wiki 
 path                : filter 
-date                : 2006-01-05 11:58:34 +0100 
+date                : 2006-03-26 01:47:56 +0100 
 version             : 1 
 creator             : kocka 
 ---
