@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-16 21:04:55 +0100 
-author              : kocka 
+author              : admin 
 title               : beanutils 
 name                : beanutils 
 layout              : wiki 
 path                : beanutils 
-date                : 2005-01-16 21:04:55 +0100 
+date                : 2006-03-26 01:43:07 +0100 
 version             : 1 
 creator             : kocka 
 ---
