@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-05 16:11:52 +0100 
-author              : renszarv 
+author              : admin 
 title               : EclipseME 
 name                : EclipseME 
 layout              : wiki 
 path                : EclipseME 
-date                : 2005-01-05 16:11:52 +0100 
+date                : 2006-03-26 01:42:38 +0100 
 version             : 1 
 creator             : renszarv 
 ---
