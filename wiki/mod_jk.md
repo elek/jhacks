@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-30 12:09:41 +0100 
-author              : kocka 
+author              : admin 
 title               : mod_jk 
 name                : mod_jk 
 layout              : wiki 
 path                : mod_jk 
-date                : 2004-12-30 12:09:41 +0100 
+date                : 2006-03-26 01:48:29 +0100 
 version             : 1 
 creator             : kocka 
 ---
