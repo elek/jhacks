@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-30 14:19:52 +0200 
-author              : kocka 
+author              : admin 
 title               : Sybase 
 name                : Sybase 
 layout              : wiki 
 path                : Sybase 
-date                : 2005-05-10 14:55:44 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:58 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.sybase.com/](http://www.sybase.com/)
