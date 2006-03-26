@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-27 15:01:26 +0100 
-author              : kocka 
+author              : admin 
 title               : IDEA 
 name                : IDEA 
 layout              : wiki 
 path                : IDEA 
-date                : 2005-08-31 14:41:25 +0200 
-version             : 5 
+date                : 2006-03-26 01:42:41 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Szoval, [profiler](profiler.html) ugy tnik nincs benne. Alapvetoen nem kuloniti el a funkcionalis reszeket olyan apro teruletekre, kicsit jobban egyben van az egesz. Nagyon rakoncentral a kod refactoringra, a designre es a minoseg ellenorzesre. Szoval verbeli [tak](tak.html)ereknek nem ajanlanam, meg azoknak sem akik [tak](tak.html) projecteken szenvednek, de ha esetleg from stratch project akkor nagyon siraj.
