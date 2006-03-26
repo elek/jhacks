@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-02 23:33:14 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/PL-J belulrol 
 name                : PL-J/PL-J belulrol 
 layout              : wiki 
 path                : PL-J/PL-J belulrol 
-date                : 2005-01-03 00:00:43 +0100 
-version             : 8 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
 creator             : kocka 
 ---
 _Most meglatjatok milyen rettenetes abraka lehet rajzolni gimppel egy kis hozzaertes es igenyesseg nelkul :)_
