@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-19 13:11:04 +0100 
-author              : kocka 
+author              : admin 
 title               : james 
 name                : james 
 layout              : wiki 
 path                : james 
-date                : 2005-07-12 19:53:48 +0200 
-version             : 4 
+date                : 2006-03-26 01:48:09 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __James__, a Java Mail Server
