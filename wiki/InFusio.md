@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-03-13 12:19:23 +0100 
-author              : pedro 
+author              : admin 
 title               : InFusio 
 name                : InFusio 
 layout              : wiki 
 path                : InFusio 
-date                : 2006-03-13 12:35:54 +0100 
-version             : 3 
+date                : 2006-03-26 01:42:41 +0100 
+version             : 1 
 creator             : pedro 
 ---
 InFusio - Information Fusion
