@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-05-13 14:26:14 +0200 
-author              : kocka 
+author              : admin 
 title               : jrun 
 name                : jrun 
 layout              : wiki 
 path                : jrun 
-date                : 2005-05-13 14:26:14 +0200 
+date                : 2006-03-26 01:48:18 +0100 
 version             : 1 
 creator             : kocka 
 ---
