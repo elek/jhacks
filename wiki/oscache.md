@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-08 16:58:13 +0100 
-author              : kocka 
+author              : admin 
 title               : oscache 
 name                : oscache 
 layout              : wiki 
 path                : oscache 
-date                : 2005-11-08 16:58:13 +0100 
+date                : 2006-03-26 01:48:34 +0100 
 version             : 1 
 creator             : kocka 
 ---
