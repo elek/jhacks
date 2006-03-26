@@ -1,11 +1,11 @@
 ---
 creationDate        : 2006-01-14 16:16:47 +0100 
-author              : kocka 
+author              : admin 
 title               : compass 
 name                : compass 
 layout              : wiki 
 path                : compass 
-date                : 2006-01-14 16:16:47 +0100 
+date                : 2006-03-26 01:47:48 +0100 
 version             : 1 
 creator             : kocka 
 ---
