@@ -1,11 +1,11 @@
 ---
 creationDate        : 2006-01-02 23:16:03 +0100 
-author              : kocka 
+author              : admin 
 title               : websphere application server - community edition 
 name                : was-ce 
 layout              : wiki 
 path                : was-ce 
-date                : 2006-01-02 23:16:03 +0100 
+date                : 2006-03-26 01:51:25 +0100 
 version             : 1 
 creator             : kocka 
 ---
