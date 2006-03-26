@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-08 19:40:07 +0200 
-author              : kocka 
+author              : admin 
 title               : lenya 
 name                : lenya 
 layout              : wiki 
 path                : lenya 
-date                : 2005-03-19 21:41:20 +0100 
-version             : 5 
+date                : 2006-03-26 01:48:22 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://lenya.apache.org/images/apache-lenya-light.png)(http://lenya.apache.org/)
