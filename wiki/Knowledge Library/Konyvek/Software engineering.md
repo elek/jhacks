@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-07-29 09:49:25 +0200 
-author              : sztupi 
+author              : admin 
 title               : Knowledge Library/Konyvek/Software engineering 
 name                : Knowledge Library/Konyvek/Software engineering 
 layout              : wiki 
 path                : Knowledge Library/Konyvek/Software engineering 
-date                : 2004-07-29 09:49:25 +0200 
+date                : 2006-03-26 01:42:45 +0100 
 version             : 1 
 creator             : sztupi 
 ---
