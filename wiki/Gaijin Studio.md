@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-11-17 09:46:47 +0100 
-author              : boci 
+author              : admin 
 title               : Gaijin Studio 
 name                : Gaijin Studio 
 layout              : wiki 
 path                : Gaijin Studio 
-date                : 2004-11-17 09:46:47 +0100 
+date                : 2006-03-26 01:42:39 +0100 
 version             : 1 
 creator             : boci 
 ---
