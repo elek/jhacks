@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-07 09:52:05 +0200 
-author              : kocka 
+author              : admin 
 title               : Regular expression 
 name                : regexp 
 layout              : wiki 
 path                : regexp 
-date                : 2005-04-07 09:52:05 +0200 
+date                : 2006-03-26 01:48:40 +0100 
 version             : 1 
 creator             : kocka 
 ---
