@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-12 13:07:49 +0200 
-author              : kocka 
+author              : admin 
 title               : RDBMS/Tablespaces 
 name                : RDBMS/Tablespaces 
 layout              : wiki 
 path                : RDBMS/Tablespaces 
-date                : 2004-08-12 13:07:49 +0200 
+date                : 2006-03-26 01:42:52 +0100 
 version             : 1 
 creator             : kocka 
 ---
