@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-04 11:30:45 +0200 
-author              : zsoltk 
+author              : admin 
 title               : Mr. Persister 
 name                : Mr. Persister 
 layout              : wiki 
 path                : Mr. Persister 
-date                : 2004-08-04 11:30:45 +0200 
+date                : 2006-03-26 01:42:47 +0100 
 version             : 1 
 creator             : zsoltk 
 ---
