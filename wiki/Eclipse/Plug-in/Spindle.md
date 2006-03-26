@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-08-22 18:26:11 +0200 
-author              : renszarv 
+author              : admin 
 title               : Eclipse/Plug-in/Spindle 
 name                : Eclipse/Plug-in/Spindle 
 layout              : wiki 
 path                : Eclipse/Plug-in/Spindle 
-date                : 2005-08-22 18:26:11 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
 creator             : renszarv 
 ---
 Web fejlesztéshez használjuk a legjobb web frameworköt, s hozzá a legjobb plugint. Amennyiben kérdéses lenne, hogy mi a legjobb web framework akkor elárulom: [Tapestry](../../tapestry.html). Szvsz. 
