@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-11-18 09:23:28 +0100 
-author              : boci 
+author              : admin 
 title               : SVG 
 name                : SVG 
 layout              : wiki 
 path                : SVG 
-date                : 2004-11-18 09:23:28 +0100 
+date                : 2006-03-26 01:42:54 +0100 
 version             : 1 
 creator             : boci 
 ---
