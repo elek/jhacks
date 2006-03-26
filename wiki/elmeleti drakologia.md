@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-23 23:00:36 +0100 
-author              : renszarv 
+author              : admin 
 title               : elmeleti drakologia 
 name                : elmeleti drakologia 
 layout              : wiki 
 path                : elmeleti drakologia 
-date                : 2005-01-23 23:00:36 +0100 
+date                : 2006-03-26 01:47:54 +0100 
 version             : 1 
 creator             : renszarv 
 ---
