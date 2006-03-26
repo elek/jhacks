@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-08-22 18:52:09 +0200 
-author              : renszarv 
+author              : admin 
 title               : Eclipse/Plug-in/SQLExplorer 
 name                : Eclipse/Plug-in/SQLExplorer 
 layout              : wiki 
 path                : Eclipse/Plug-in/SQLExplorer 
-date                : 2005-08-22 18:52:09 +0200 
+date                : 2006-03-26 01:42:38 +0100 
 version             : 1 
 creator             : renszarv 
 ---
