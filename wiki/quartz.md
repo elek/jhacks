@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-15 15:46:38 +0100 
-author              : kocka 
+author              : admin 
 title               : quartz 
 name                : quartz 
 layout              : wiki 
 path                : quartz 
-date                : 2005-07-31 23:04:42 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:39 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://www.opensymphony.com/quartz/images/quartzEJS.jpg)<br/>
