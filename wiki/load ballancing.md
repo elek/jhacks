@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-21 14:50:02 +0100 
-author              : kocka 
+author              : admin 
 title               : load ballancing 
 name                : load ballancing 
 layout              : wiki 
 path                : load ballancing 
-date                : 2005-11-21 14:50:02 +0100 
+date                : 2006-03-26 01:48:23 +0100 
 version             : 1 
 creator             : kocka 
 ---
