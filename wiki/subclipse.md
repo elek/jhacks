@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-14 15:38:55 +0100 
-author              : kocka 
+author              : admin 
 title               : subclipse 
 name                : subclipse 
 layout              : wiki 
 path                : subclipse 
-date                : 2006-02-24 16:55:12 +0100 
-version             : 3 
+date                : 2006-03-26 01:51:12 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://subclipse.tigris.org/](http://subclipse.tigris.org/)
