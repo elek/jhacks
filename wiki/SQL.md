@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-22 21:23:20 +0200 
-author              : kocka 
+author              : admin 
 title               : SQL 
 name                : SQL 
 layout              : wiki 
 path                : SQL 
-date                : 2005-09-07 10:33:10 +0200 
-version             : 3 
+date                : 2006-03-26 01:42:53 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Structured Query Language__
