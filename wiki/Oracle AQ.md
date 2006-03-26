@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-10-19 16:18:27 +0200 
-author              : kocka 
+author              : admin 
 title               : Oracle Advanced Queueing 
 name                : Oracle AQ 
 layout              : wiki 
 path                : Oracle AQ 
-date                : 2005-10-19 22:52:35 +0200 
-version             : 4 
+date                : 2006-03-26 01:42:49 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Egy [MOM](MOM.html) az [Oracle](Oracle.html) [RDBMS](RDBMS.html) termekbe epitve, gyakorlatilag egy tucat PL/SQL eljarasbol megepitve. Egy sajatos, [JMS](JMS.html)-t is implementalo [java](java.html) APIn keresztul lehet elerni, persze csak a standard feature-ket, a tobbit [Oracle](Oracle.html) specifikus APIn keresztul.
