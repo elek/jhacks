@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-11-28 09:40:52 +0100 
-author              : Ger 
+author              : admin 
 title               : jFreeChart 
 name                : jFreeChart 
 layout              : wiki 
 path                : jFreeChart 
-date                : 2005-11-28 10:43:21 +0100 
-version             : 6 
+date                : 2006-03-26 01:48:08 +0100 
+version             : 1 
 creator             : Ger 
 ---
 Mindenféle fullos grafikon rajzolására alkalmas könyvtár, és itt a hangsúly a mindenen van. Ha mégsem találtál neked megfelelő grafikont, akkor egyszerűen bővíthető.
