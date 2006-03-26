@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-06 14:11:59 +0200 
-author              : kocka 
+author              : admin 
 title               : geotools 
 name                : geotools 
 layout              : wiki 
 path                : geotools 
-date                : 2005-04-06 14:11:59 +0200 
+date                : 2006-03-26 01:47:58 +0100 
 version             : 1 
 creator             : kocka 
 ---
