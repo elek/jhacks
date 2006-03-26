@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-12-28 23:12:10 +0100 
-author              : kocka 
+author              : admin 
 title               : jasper 
 name                : jasper 
 layout              : wiki 
 path                : jasper 
-date                : 2005-12-28 23:12:10 +0100 
+date                : 2006-03-26 01:48:09 +0100 
 version             : 1 
 creator             : kocka 
 ---
