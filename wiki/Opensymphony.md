@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-08 23:29:56 +0100 
-author              : kocka 
+author              : admin 
 title               : Opensymphony 
 name                : Opensymphony 
 layout              : wiki 
 path                : Opensymphony 
-date                : 2004-12-08 23:29:56 +0100 
+date                : 2006-03-26 01:42:48 +0100 
 version             : 1 
 creator             : kocka 
 ---
