@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-10-20 14:16:39 +0200 
-author              : kocka 
+author              : admin 
 title               : Manta 
 name                : Manta 
 layout              : wiki 
 path                : Manta 
-date                : 2005-10-21 14:52:03 +0200 
-version             : 3 
+date                : 2006-03-26 01:42:46 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://www.mantamq.org/](http://www.mantamq.org/)
