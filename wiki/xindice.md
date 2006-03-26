@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-14 11:40:31 +0100 
-author              : kocka 
+author              : admin 
 title               : Xindice 
 name                : xindice 
 layout              : wiki 
 path                : xindice 
-date                : 2006-03-13 14:33:47 +0100 
-version             : 3 
+date                : 2006-03-26 01:51:29 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://xml.apache.org/xindice/](http://xml.apache.org/xindice/)
