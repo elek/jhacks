@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-14 10:51:58 +0100 
-author              : renszarv 
+author              : admin 
 title               : Trails 
 name                : Trails 
 layout              : wiki 
 path                : Trails 
-date                : 2005-02-14 10:51:58 +0100 
+date                : 2006-03-26 01:42:59 +0100 
 version             : 1 
 creator             : renszarv 
 ---
