@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-16 17:44:46 +0200 
-author              : kocka 
+author              : admin 
 title               : Java native Directory Interface 
 name                : JNDI 
 layout              : wiki 
 path                : JNDI 
-date                : 2005-11-23 13:34:32 +0100 
-version             : 5 
+date                : 2006-03-26 01:42:43 +0100 
+version             : 1 
 creator             : kocka 
 ---
 A szabvanyos megoldas arra hogy eroforrasokat megtalalj egy managed kornyezetben.
