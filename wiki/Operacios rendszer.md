@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-06 14:25:53 +0100 
-author              : kocka 
+author              : admin 
 title               : Operacios rendszer 
 name                : Operacios rendszer 
 layout              : wiki 
 path                : Operacios rendszer 
-date                : 2005-08-25 15:04:23 +0200 
-version             : 5 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Mint azt a versenyhivatlatol megtudtuk:
