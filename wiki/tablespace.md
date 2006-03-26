@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-01-06 19:22:06 +0100 
-author              : kocka 
+author              : admin 
 title               : tablespace 
 name                : tablespace 
 layout              : wiki 
 path                : tablespace 
-date                : 2005-01-06 19:22:06 +0100 
+date                : 2006-03-26 01:51:16 +0100 
 version             : 1 
 creator             : kocka 
 ---
