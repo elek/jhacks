@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-30 15:52:49 +0100 
-author              : kocka 
+author              : admin 
 title               : SableVM 
 name                : SableVM 
 layout              : wiki 
 path                : SableVM 
-date                : 2005-09-07 16:10:21 +0200 
-version             : 2 
+date                : 2006-03-26 01:42:54 +0100 
+version             : 1 
 creator             : kocka 
 ---
 [http://sablevm.org/](http://sablevm.org/)
