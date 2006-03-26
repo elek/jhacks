@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-10-03 15:17:23 +0200 
-author              : suhaig 
+author              : admin 
 title               : WTF/Unsupported constructor 
 name                : WTF/Unsupported constructor 
 layout              : wiki 
 path                : WTF/Unsupported constructor 
-date                : 2005-10-03 15:17:23 +0200 
+date                : 2006-03-26 01:43:02 +0100 
 version             : 1 
 creator             : suhaig 
 ---
