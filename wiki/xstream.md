@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-09-25 16:06:31 +0200 
-author              : kocka 
+author              : admin 
 title               : xstream 
 name                : xstream 
 layout              : wiki 
 path                : xstream 
-date                : 2006-02-28 15:15:47 +0100 
-version             : 3 
+date                : 2006-03-26 01:51:30 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://xstream.codehaus.org/logo.gif)<br/>
