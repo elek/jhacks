@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-25 13:47:22 +0200 
-author              : kocka 
+author              : admin 
 title               : szabadalom 
 name                : szabadalom 
 layout              : wiki 
 path                : szabadalom 
-date                : 2005-04-25 13:51:27 +0200 
-version             : 3 
+date                : 2006-03-26 01:51:14 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Bejegyzés a nagy értelmező szótárból:
