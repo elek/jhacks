@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 14:35:47 +0200 
-author              : zsoltk 
+author              : admin 
 title               : Velocity 
 name                : Velocity 
 layout              : wiki 
 path                : Velocity 
-date                : 2004-07-27 14:36:43 +0200 
-version             : 4 
+date                : 2006-03-26 01:43:00 +0100 
+version             : 1 
 creator             : zsoltk 
 ---
 [http://jakarta.apache.org/velocity/index.html](http://jakarta.apache.org/velocity/index.html)
