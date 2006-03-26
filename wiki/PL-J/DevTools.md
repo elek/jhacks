@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-22 10:18:39 +0100 
-author              : kocka 
+author              : admin 
 title               : PL-J/DevTools 
 name                : PL-J/DevTools 
 layout              : wiki 
 path                : PL-J/DevTools 
-date                : 2005-05-21 12:37:01 +0200 
-version             : 10 
+date                : 2006-03-26 01:42:49 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __FORKOLVA__
