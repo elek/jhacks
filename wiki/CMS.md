@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-08 19:37:58 +0200 
-author              : kocka 
+author              : admin 
 title               : CMS 
 name                : CMS 
 layout              : wiki 
 path                : CMS 
-date                : 2006-02-23 09:59:10 +0100 
-version             : 5 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
 creator             : kocka 
 ---
 __Content Management System__
