@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-11-28 17:08:09 +0100 
-author              : kocka 
+author              : admin 
 title               : on-site customer 
 name                : on-site customer 
 layout              : wiki 
 path                : on-site customer 
-date                : 2005-11-28 17:08:09 +0100 
+date                : 2006-03-26 01:48:33 +0100 
 version             : 1 
 creator             : kocka 
 ---
