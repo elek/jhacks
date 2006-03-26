@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-04-17 16:50:10 +0200 
-author              : kocka 
+author              : admin 
 title               : jad 
 name                : jad 
 layout              : wiki 
 path                : jad 
-date                : 2005-04-17 16:50:10 +0200 
+date                : 2006-03-26 01:48:09 +0100 
 version             : 1 
 creator             : kocka 
 ---
