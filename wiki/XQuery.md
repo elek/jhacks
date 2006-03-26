@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-14 11:32:55 +0100 
-author              : pedro 
+author              : admin 
 title               : XQuery 
 name                : XQuery 
 layout              : wiki 
 path                : XQuery 
-date                : 2006-03-11 14:16:50 +0100 
-version             : 10 
+date                : 2006-03-26 01:43:04 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Az XQuery egy [XML](XML.html) alapu szabvany [XML](XML.html) adatbazisokban lekerdezesekre. Kapcsolodo szabvany meg az [XPath](XPath.html), ezzel hatarozod meg hogy melyik elemere hivatkozol egy [XML](XML.html) entitasnak.
