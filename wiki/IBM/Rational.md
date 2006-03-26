@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-02-24 13:31:39 +0100 
-author              : kocka 
+author              : admin 
 title               : IBM/Rational 
 name                : IBM/Rational 
 layout              : wiki 
 path                : IBM/Rational 
-date                : 2005-02-24 13:31:39 +0100 
+date                : 2006-03-26 01:42:40 +0100 
 version             : 1 
 creator             : kocka 
 ---
