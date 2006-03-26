@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-11 14:25:52 +0200 
-author              : kocka 
+author              : admin 
 title               : jython 
 name                : jython 
 layout              : wiki 
 path                : jython 
-date                : 2005-07-31 15:33:40 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:18 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://www.jython.org/images/jython-new-small.gif)(http://www.jython.org/)
