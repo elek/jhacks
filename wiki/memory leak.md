@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-30 15:47:35 +0200 
-author              : kocka 
+author              : admin 
 title               : memory leak 
 name                : memory leak 
 layout              : wiki 
 path                : memory leak 
-date                : 2005-09-07 16:07:17 +0200 
-version             : 5 
+date                : 2006-03-26 01:48:27 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Olyan memoria terulet, amit a program allokalt, de valamilyen hiba vagy hianyossag miatt akkor sem szabaditja fel es adja vissza a rendszernek, amikor mar nem hasznalja.
