@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-12-09 23:39:40 +0100 
-author              : renszarv 
+author              : admin 
 title               : nice 
 name                : nice 
 layout              : wiki 
 path                : nice 
-date                : 2004-12-09 23:39:40 +0100 
+date                : 2006-03-26 01:48:31 +0100 
 version             : 1 
 creator             : renszarv 
 ---
