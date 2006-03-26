@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-09-20 14:08:42 +0200 
-author              : kocka 
+author              : admin 
 title               : Java 2 Standard edition 
 name                : j2se 
 layout              : wiki 
 path                : j2se 
-date                : 2005-09-20 14:08:42 +0200 
+date                : 2006-03-26 01:48:05 +0100 
 version             : 1 
 creator             : kocka 
 ---
