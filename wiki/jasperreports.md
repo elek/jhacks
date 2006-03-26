@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-18 23:00:44 +0200 
-author              : kocka 
+author              : admin 
 title               : jasperreports 
 name                : jasperreports 
 layout              : wiki 
 path                : jasperreports 
-date                : 2005-09-07 12:07:39 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:10 +0100 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://jasperreports.sourceforge.net/jasperreports.png)(http://jasperreports.sourceforge.net/)
