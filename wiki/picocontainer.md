@@ -1,11 +1,11 @@
 ---
 creationDate        : 2004-08-22 21:06:00 +0200 
-author              : kocka 
+author              : admin 
 title               : picocontainer 
 name                : picocontainer 
 layout              : wiki 
 path                : picocontainer 
-date                : 2004-08-22 21:06:00 +0200 
+date                : 2006-03-26 01:48:37 +0100 
 version             : 1 
 creator             : kocka 
 ---
