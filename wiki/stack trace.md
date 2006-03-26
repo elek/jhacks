@@ -1,11 +1,11 @@
 ---
 creationDate        : 2005-06-29 12:52:10 +0200 
-author              : kocka 
+author              : admin 
 title               : stack trace 
 name                : stack trace 
 layout              : wiki 
 path                : stack trace 
-date                : 2005-06-29 12:52:10 +0200 
+date                : 2006-03-26 01:48:52 +0100 
 version             : 1 
 creator             : kocka 
 ---
