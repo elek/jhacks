@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-16 11:42:07 +0100 
-author              : kocka 
+author              : admin 
 title               : lomboz 
 name                : lomboz 
 layout              : wiki 
 path                : lomboz 
-date                : 2005-05-04 16:40:21 +0200 
-version             : 3 
+date                : 2006-03-26 01:48:25 +0100 
+version             : 1 
 creator             : boci 
 ---
 ![image](http://www.objectlearn.com/images/lomtext.gif)(http://www.objectlearn.com/index.jsp)
