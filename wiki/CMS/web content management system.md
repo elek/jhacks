@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-19 21:04:43 +0100 
-author              : renszarv 
+author              : admin 
 title               : CMS/web content management system 
 name                : CMS/web content management system 
 layout              : wiki 
 path                : CMS/web content management system 
-date                : 2005-09-12 16:20:38 +0200 
-version             : 5 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Webes tartalmat szolgalo [CMS](../CMS.html) rendszerek (roviden __WEB CMS__). Ez a legelterjedtebb az [open source](../Open%20Source.html) vilagban, es a vallalatok is rajottek mar hogy szukseguk van ilyesmire.
