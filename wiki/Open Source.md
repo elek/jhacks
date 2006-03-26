@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-08 23:25:11 +0100 
-author              : pedro 
+author              : admin 
 title               : Open Source 
 name                : Open Source 
 layout              : wiki 
 path                : Open Source 
-date                : 2006-03-12 17:26:07 +0100 
-version             : 6 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
 creator             : kocka 
 ---
 Nyitott forraskod. Egy nagyon jo dolog. A sun jdk forrasat is le lehet tolteni.
