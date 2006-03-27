@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-28 23:37:36 +0200 
-author              : admin 
+author              : kocka 
 title               : Content repository 
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2006-03-26 01:42:36 +0100 
-version             : 1 
+date                : 2006-03-27 12:16:08 +0200 
+version             : 17 
 creator             : kocka 
 ---
 Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de remelem azert nem annyira rossz :)
@@ -26,6 +26,11 @@ penzes cuccos:
 Cikkek:
 
 *   [Introducing the Java Content Repository API](http://www-128.ibm.com/developerworks/java/library/j-jcr/)
+*   [Catch Jackrabbit and the Java Content Repository API](http://www.artima.com/lejava/articles/contentrepository.html)
+
+[cms](CMS.html)ek amik tamogatjak a szabvanyt:
+
+*   [http://www.magnolia.info](http://www.magnolia.info) ([lgpl](LGPL.html))
 
 Erdekes lehet meg: peldaul a [cocoon](cocoon.html) is tamogatja a CR-t mint tartalom forrast, sajat kis adapteren keresztul. Egy megfelelo konfig, egy kis [xslt](XSLT.html) es egesz jo kis prezentacios rendszert kaphatsz...
 
