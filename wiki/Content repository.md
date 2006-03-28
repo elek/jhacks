@@ -5,11 +5,11 @@ title               : Content repository
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2006-03-27 12:16:08 +0200 
-version             : 17 
+date                : 2006-03-28 15:32:31 +0200 
+version             : 18 
 creator             : kocka 
 ---
-Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de remelem azert nem annyira rossz :)
+Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de talan azert nem annyira rossz :) Az adatokat egyszeru [XML](XML.html) szeru faban tarthatod, lekerdezhetsz [xpath](XPath.html) vagy [sql](SQL.html)-szeru nyelven.
 
 [http://www.jcp.org/en/jsr/detail?id=170](http://www.jcp.org/en/jsr/detail?id=170)
 
