@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-31 09:50:45 +0100 
-author              : admin 
+author              : kocka 
 title               : junit 
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-03-26 01:48:18 +0100 
-version             : 1 
+date                : 2006-03-28 16:06:22 +0200 
+version             : 3 
 creator             : kocka 
 ---
 Jeeezusom! Nincs Junit snip!?!?!?!?
@@ -40,4 +40,8 @@ A junit mindenféle portjai:
 
 Nekem a kedvencem az amikor egyszerűen csinálsz egy spring context-et és abból szedsz ki bean-eket amiken meghívhatsz a tesztekben metódusokat. Nagyon könnyen ujrafelhasználhatóvá teszi a teszteket.
 
-Lasd meg: [XP](XP.html)
+Cikkek:
+
+*   [Testing Java in an Object-Oriented Way](http://today.java.net/pub/a/today/2006/03/28/testing-java-object-oriented.html) (advanced)
+
+Lasd meg: [XP](XP.html) [test](test.html)
