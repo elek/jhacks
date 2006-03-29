@@ -5,8 +5,8 @@ title               : Content repository
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2006-03-28 15:32:31 +0200 
-version             : 18 
+date                : 2006-03-29 23:32:04 +0200 
+version             : 19 
 creator             : kocka 
 ---
 Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de talan azert nem annyira rossz :) Az adatokat egyszeru [XML](XML.html) szeru faban tarthatod, lekerdezhetsz [xpath](XPath.html) vagy [sql](SQL.html)-szeru nyelven.
@@ -27,6 +27,7 @@ Cikkek:
 
 *   [Introducing the Java Content Repository API](http://www-128.ibm.com/developerworks/java/library/j-jcr/)
 *   [Catch Jackrabbit and the Java Content Repository API](http://www.artima.com/lejava/articles/contentrepository.html)
+*   [JSR-170: What's in it for me?](http://www.cmswatch.com/Feature/123?printable=1)
 
 [cms](CMS.html)ek amik tamogatjak a szabvanyt:
 
