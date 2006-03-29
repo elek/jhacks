@@ -5,8 +5,8 @@ title               : Oracle
 name                : linkek 
 layout              : wiki 
 path                : linkek 
-date                : 2006-03-29 10:32:52 +0200 
-version             : 6 
+date                : 2006-03-29 10:35:18 +0200 
+version             : 7 
 creator             : kocka 
 ---
 *   [Oracle technology network](http://otn.oracle.com/)
@@ -22,6 +22,6 @@ creator             : kocka
 
 # Egyeb magyar
 
-*   [JTechBlog](http://dragon.unideb.hu/~vicziani/jtechlog.htm)
+*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm)
 *   [JoeBlog](http://joeblog.hu/)<br/>
 *   [Java lista](http://java.sch.bme.hu/)
