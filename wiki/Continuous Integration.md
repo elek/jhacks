@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-27 09:58:41 +0200 
-author              : admin 
+author              : kocka 
 title               : Continuous Integration 
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2006-03-26 01:42:36 +0100 
-version             : 1 
+date                : 2006-03-29 12:32:04 +0200 
+version             : 9 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -22,6 +22,7 @@ Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja raj
 *   [luntbuild](Missing.html)
 *   [gump](gump.html)?
 *   [cruisecontrol](cruisecontrol.html)
+*   [hudson](https://hudson.dev.java.net/)
 
 Ezekhez erdemes megnezni ezt a [feature matrix](http://damagecontrol.codehaus.org/Continuous+Integration+Server+Feature+Matrix)ot.
 
