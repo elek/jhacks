@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-03-30 12:18:14 +0200 
-version             : 4 
+date                : 2006-03-30 12:18:47 +0200 
+version             : 5 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -22,3 +22,5 @@ Cikkek:
 *   [Maven 2.0: Compile, Test, Run, Deploy, and More](http://www.onjava.com/lpt/a/6528)
 
 Egy egesz jol fejlodo [eclipse](../Eclipse.html) [eclipse/plug-in](../Eclipse/Plug-in.html) hozza: [http://m2eclipse.codehaus.org/](http://m2eclipse.codehaus.org/)
+
+Lasd: [maven](../maven.html), [maven/maven1](../maven/maven1.html), [build](../build.html)
