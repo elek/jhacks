@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-09-13 14:29:42 +0200 
-author              : admin 
+author              : kocka 
 title               : commons 
 name                : commons 
 layout              : wiki 
 path                : commons 
-date                : 2006-03-26 01:47:48 +0100 
-version             : 1 
+date                : 2006-03-31 18:06:50 +0200 
+version             : 4 
 creator             : kocka 
 ---
 [http://jakarta.apache.org/commons/](http://jakarta.apache.org/commons/)
@@ -22,3 +22,5 @@ A legszelesebb korben hasznaltak:
 *   [threadpool](Missing.html)
 
 satobbi.
+
+Konyv letoltheto itt: [http://www.phptr.com/content/images/0131478303/downloads/Iverson_book.pdf](http://www.phptr.com/content/images/0131478303/downloads/Iverson_book.pdf)
