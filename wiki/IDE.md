@@ -1,22 +1,22 @@
 ---
 creationDate        : 2004-08-06 11:47:22 +0200 
-author              : admin 
+author              : kocka 
 title               : IDE 
 name                : IDE 
 layout              : wiki 
 path                : IDE 
-date                : 2006-03-26 01:42:40 +0100 
-version             : 1 
+date                : 2006-04-05 12:42:02 +0200 
+version             : 5 
 creator             : kocka 
 ---
 __Integrated Developement Environment__
 
-*   [eclipse](Eclipse.html)
-*   [netbeans](Netbeans.html)
-*   [JDeveloper](JDeveloper.html)
-*   [JBuilder](JBuilder.html)
-*   [IDEA](IDEA.html)
+*   [eclipse](Eclipse.html) (tobbek kozt az [IBM](IBM.html), az [oracle](Oracle.html) es a [BEA](bea.html))
+*   [netbeans](Netbeans.html) ([sun](Sun.html) fejlesztes)
+*   [JDeveloper](JDeveloper.html) ([oracle](Oracle.html))
+*   [JBuilder](JBuilder.html) (@deprecated, [borland](borland.html))
+*   [IDEA](IDEA.html) (Intelij)
 *   [vim meg javac](vim%20meg%20javac.html) :)
-*   [Websphere App Dev](Websphere%20App%20Dev.html)
-*   [Sun Java Studio Enterprise](Sun%20Java%20Studio%20Enterprise.html)
-*   [weblogic workshop](weblogic%20workshop.html)
+*   [Websphere App Dev](Websphere%20App%20Dev.html) ([IBM](IBM.html))
+*   [Sun Java Studio Enterprise](Sun%20Java%20Studio%20Enterprise.html) ([sun](Sun.html))
+*   [weblogic workshop](weblogic%20workshop.html) ([BEA](bea.html))
