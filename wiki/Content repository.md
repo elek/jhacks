@@ -5,13 +5,15 @@ title               : Content repository
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2006-03-29 23:32:04 +0200 
-version             : 19 
+date                : 2006-04-06 16:12:23 +0200 
+version             : 20 
 creator             : kocka 
 ---
 Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de talan azert nem annyira rossz :) Az adatokat egyszeru [XML](XML.html) szeru faban tarthatod, lekerdezhetsz [xpath](XPath.html) vagy [sql](SQL.html)-szeru nyelven.
 
 [http://www.jcp.org/en/jsr/detail?id=170](http://www.jcp.org/en/jsr/detail?id=170)
+
+[http://www.jcp.org/en/jsr/detail?id=283](http://www.jcp.org/en/jsr/detail?id=283) (a 170-es spec tovabfejlesztese lesz egyszer, meg nincs publikus eredmeny :( )
 
 Implementaciok:
 
