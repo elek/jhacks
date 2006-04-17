@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-04-17 09:55:58 +0200 
-version             : 12 
+date                : 2006-04-17 09:56:34 +0200 
+version             : 13 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -19,7 +19,7 @@ Amivel erdemesse valik nagyobb ceges felhasznalasra is, az a felhasznalo es csop
 
 Van, pontosabban lenne neki egy szep [xfire](xfire.html)-os web services interface is, ez viszont teljesen eltort es alapbol ki van belole iktatva. Szoval nincs, de lehetne :)
 
-[maven2](Missing.html) projectek eseteben igazan sokmindennel kapraztatja el a felhasznalot, peldaul a pom-bol kiszedi hogy kinek kell szolnia buildeles eseten, kulon projectkent jegyzi be a modulokat.
+[maven/maven2](maven/maven2.html) projectek eseteben igazan sokmindennel kapraztatja el a felhasznalot, peldaul a pom-bol kiszedi hogy kinek kell szolnia buildeles eseten, kulon projectkent jegyzi be a modulokat.
 
 Szivasok:
 
