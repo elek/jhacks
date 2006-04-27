@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-06 10:10:53 +0200 
-author              : admin 
+author              : kocka 
 title               : Linux 
 name                : Linux 
 layout              : wiki 
 path                : Linux 
-date                : 2006-03-26 01:42:45 +0100 
-version             : 1 
+date                : 2006-04-27 22:43:58 +0200 
+version             : 6 
 creator             : kocka 
 ---
 ![image](http://www.linux.org/info/images/officialpenguin.gif)(http://www.linux.org/)
@@ -23,3 +23,4 @@ Ha esetleg tobbre lenne szukseg:
 *   [http://www.kernel.org/](http://www.kernel.org/) a kernel fejlesztes honlapja
 *   [http://www.hup.hu/](http://www.hup.hu/) a magyar linux (es bsd) fanok klubbja
 *   [http://community.java.net/linux/](http://community.java.net/linux/) a java.net linux kozossegi lapja
+*   [Oszama Bin Laden Linuxot hasznal](http://shelleytherepublican.com/2006/04/linux-european-threat-to-our-computers.html) :-D
