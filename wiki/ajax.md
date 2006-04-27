@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-04-27 10:20:54 +0200 
-author              : kocka 
+author              : renszarv 
 title               : Asynchronous JavaScript And XML 
 name                : ajax 
 layout              : wiki 
 path                : ajax 
-date                : 2006-04-27 10:20:54 +0200 
-version             : 1 
+date                : 2006-04-27 14:19:26 +0200 
+version             : 2 
 creator             : kocka 
 ---
 Egy nagyon elterjed buzzword a sokfele technologiara ami ide besorolhato. Meg olyanokat is ide sorolnak gyakran amik nem is [javascript](javascript.html)esek, csak rich client interface-t ado [webapp](webapp.html) legyen.
@@ -18,3 +18,4 @@ Cuccok:
 *   direct web remoting [dwr](Missing.html) (konkretan ez [javascript](javascript.html)es)
 *   [openlaszlo](openlaszlo.html), (html es flash)
 *   [zk1](http://zk1.sourceforge.net/)
+*   [Tacos](http://tacos.sourceforge.net/)
