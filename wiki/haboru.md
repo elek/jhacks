@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-31 12:51:42 +0100 
-author              : admin 
+author              : kocka 
 title               : haboru 
 name                : haboru 
 layout              : wiki 
 path                : haboru 
-date                : 2006-03-26 01:48:00 +0100 
-version             : 1 
+date                : 2006-04-28 12:10:41 +0200 
+version             : 9 
 creator             : kocka 
 ---
 Szoval a java vilag haborui:
@@ -21,6 +21,7 @@ Szoval a java vilag haborui:
 *   [workflow](workflow.html) enginek haburuja
 *   _space-vel tabulalos idiota formazas_ __vs__ _szep tab-os,minden editorban széteső formazas, ahogy néhány [python](python.html) s [whitespace](Missing.html) fanatikus elképzeli _ :)
 *   [maven](maven.html) vs [ant](ant.html) vs [shell script](Missing.html) vs [make](Missing.html) (vs semmi, igenytelen [tak](tak.html)erek eseteben ilyen is megfigyelheto)
+*   [dom4j](dom4j.html) vs [jdom](jdom.html) :-D
 
 Egyeb erdekes flame-k:
 
