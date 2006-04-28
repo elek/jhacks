@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-17 22:36:54 +0100 
-author              : admin 
+author              : kocka 
 title               : eXtended Markup Language 
 name                : XML 
 layout              : wiki 
 path                : XML 
-date                : 2006-03-26 01:43:03 +0100 
-version             : 1 
+date                : 2006-04-28 12:14:32 +0200 
+version             : 7 
 creator             : boci 
 ---
 A [Word Wide Web Consurtium](http://www.w3.org) altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. [XSLT](XSLT.html) segitsegevel az adatstruktura konnyen megjelenitheto.
@@ -22,6 +22,7 @@ Szivasok az XML-ben:
 Linkek:
 
 *   [http://www.w3.org/XML/](http://www.w3.org/XML/)
+*   alternativ xml apik: [jdom](jdom.html), [dom4j](dom4j.html)
 
 Lasd: [w3c](w3c.html), [xslt](XSLT.html)
 
