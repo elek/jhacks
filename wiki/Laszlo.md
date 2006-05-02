@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-13 10:40:02 +0100 
-author              : admin 
+author              : kocka 
 title               : Laszlo 
 name                : Laszlo 
 layout              : wiki 
 path                : Laszlo 
-date                : 2006-03-26 01:42:45 +0100 
-version             : 1 
+date                : 2006-05-02 10:43:42 +0200 
+version             : 6 
 creator             : zsoltk 
 ---
 Rich Internet Application development framework.
@@ -22,7 +22,7 @@ Rich Internet Application development framework.
 
 Egy flash oldalakat generalo cucc, sajat xml nyelvvel [laszlo/lzx](laszlo/LZX.html), [OOP](oop.html) design, satobbi. Ja es [XML](XML.html)alapu, nem ar ismerni nemi [XPath](XPath.html)t se hozza.
 
-[laszlo/LZX](laszlo/LZX.html) cuccokat a laszlo compilerrel atfordithatod [bytecode](bytecode.html)ba, vagy futtathatod siman a prezentacios szerveren ami szukseg szerint fogja forditani neked. Nehany hatarozottan pozitiv [rpc](RPC.html) feature-t meg kielemnek: [java](java.html) hivasok, persze remote, [xmlrpc](Missing.html), [soap](SOAP.html)...
+[laszlo/LZX](laszlo/LZX.html) cuccokat a laszlo compilerrel atfordithatod [bytecode](bytecode.html)ba, vagy futtathatod siman a prezentacios szerveren ami szukseg szerint fogja forditani neked. Nehany hatarozottan pozitiv [rpc](RPC.html) feature-t meg kielemnek: [java](java.html) hivasok, persze remote, [xml-rpc](xml-rpc.html), [soap](SOAP.html)...
 
 *   [http://www.openlaszlo.org/](http://www.openlaszlo.org/)
 *   [http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/](http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/) (nagyon impressziv demok)
