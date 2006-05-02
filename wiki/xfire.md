@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-21 11:09:26 +0100 
-author              : admin 
+author              : kocka 
 title               : xfire 
 name                : xfire 
 layout              : wiki 
 path                : xfire 
-date                : 2006-03-26 01:51:28 +0100 
-version             : 1 
+date                : 2006-05-02 12:30:45 +0200 
+version             : 7 
 creator             : kocka 
 ---
 ![image](http://xfire.codehaus.org/xfire_logo.jpg)(http://xfire.codehaus.org/)
@@ -22,5 +22,9 @@ Azert a hianyossagokrol: szedegetheted ossze magadnak a dependency-ket. Vagy [ja
 A [spring](spring.html) integracioja egesz erdekes. Nyilvan evidens modon a [spring](spring.html) beaneket felhasznalhatod mint [webservice](Missing.html), ami uber-rulez.
 
 Van egy sajat belso processing pipeline-ja, amit erdemes vegignezni, handlereket assignolhatsz mindenfele feldolgozasi fazishoz, peldaul felhasznalo azonositast is.
+
+cikkek:
+
+*   [XFire: The easy and simple way to develop Web services](http://www.javaworld.com/javaworld/jw-05-2006/jw-0501-xfire_p.html)
 
 Lasd: [webservices](WebServices.html)
