@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-30 14:31:47 +0200 
-author              : admin 
+author              : kocka 
 title               : spring 
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2006-03-26 01:48:52 +0100 
-version             : 1 
+date                : 2006-05-10 10:13:08 +0200 
+version             : 8 
 creator             : kocka 
 ---
 __Spring Framework__
@@ -40,3 +40,4 @@ Linkek:
 
 *   [Spring weboldal](http://www.springframework.org/)
 *   [Spring HUB](http://springhub.com/)
+*   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
