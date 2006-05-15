@@ -5,8 +5,8 @@ title               : eXtended Markup Language
 name                : XML 
 layout              : wiki 
 path                : XML 
-date                : 2006-04-28 12:14:32 +0200 
-version             : 7 
+date                : 2006-05-15 14:30:11 +0200 
+version             : 8 
 creator             : boci 
 ---
 A [Word Wide Web Consurtium](http://www.w3.org) altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. [XSLT](XSLT.html) segitsegevel az adatstruktura konnyen megjelenitheto.
@@ -17,6 +17,7 @@ Mindig tartsd szemelott hogy az XML egy portolhato adatformatum, de a parsolasa 
 Szivasok az XML-ben: 
 
 *   amikor peldaul a parsered mindenkeppen validalni akarja a [dtd](DTD.html)vel, de vagy offline vagy vagy a szerver eppen pihen. Ilyenkor kicsit pocsolhetsz rajta hogy vajon mi is romolhatott el... 
+*   A [java](java.html) default xml apik olyan mint egy horrorfilmsorozat.
 
 
 Linkek:
