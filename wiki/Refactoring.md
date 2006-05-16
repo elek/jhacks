@@ -1,14 +1,16 @@
 ---
 creationDate        : 2005-06-30 13:39:20 +0200 
-author              : admin 
+author              : kocka 
 title               : Refactoring 
 name                : Refactoring 
 layout              : wiki 
 path                : Refactoring 
-date                : 2006-03-26 01:42:52 +0100 
-version             : 1 
+date                : 2006-05-16 10:21:24 +0200 
+version             : 4 
 creator             : kocka 
 ---
+Egy ismerosom szerint nem az szamit hogy hogy designolsz es hogy kodolsz, hanem az hogy hogy tudsz refaktoralni. Van benne valami igazsag :)
+
 Ide had jojjenek a gyenge kod javitasara tett javaslatok, eszkozok, foleg a [WTF](WTF.html)ek. Ihletonek esetleg jol johet nehany tipp a [petshop collection](petshop%20collection.html)bol.
 
 
@@ -23,3 +25,7 @@ Igazabol van egy olyan problema is, hogy ezeket a dolgokat munkaido alatt csinal
 Ilyenkor a legjobb az ha az ember keszit nekik egy kis demot abbol hogy hol lehet a rendszert megdugni, es megerteti veluk hogy ezeket ki kell javitani, megpedig meg mielott az uj funkcionalitas implementaciojara sor kerulne, mert jobb ugye elobb az ember az alapot epiti fel, csak utanna a falakat. Vajoghaz alapjaira meg nem epitunk luxusvillat.
 
 Na es ez nem mindig sikerul, de ennek nem feltetlenul te vagy az oka. Mindenki donccccse el mennyire fontos a munkahelye es a munkajanak a minosege :)
+
+Hasznos cuccok:
+
+*   [http://www.refactoring.com/](http://www.refactoring.com/)
