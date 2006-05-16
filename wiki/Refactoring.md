@@ -5,11 +5,13 @@ title               : Refactoring
 name                : Refactoring 
 layout              : wiki 
 path                : Refactoring 
-date                : 2006-05-16 10:21:24 +0200 
-version             : 4 
+date                : 2006-05-16 10:25:24 +0200 
+version             : 5 
 creator             : kocka 
 ---
 Egy ismerosom szerint nem az szamit hogy hogy designolsz es hogy kodolsz, hanem az hogy hogy tudsz refaktoralni. Van benne valami igazsag :)
+
+A refacoringhoz jol jon egy kis [IDE](IDE.html) support is, <[kocka](kocka.html)-maganvelemeny>ebben az [IDEA](IDEA.html) verhetetlen, de az [eclipse](Eclipse.html) is tud trukkoket</[kocka](kocka.html)-maganvelemeny>
 
 Ide had jojjenek a gyenge kod javitasara tett javaslatok, eszkozok, foleg a [WTF](WTF.html)ek. Ihletonek esetleg jol johet nehany tipp a [petshop collection](petshop%20collection.html)bol.
 
