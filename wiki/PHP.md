@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-08 23:59:43 +0100 
-author              : admin 
+author              : kocka 
 title               : PHP 
 name                : PHP 
 layout              : wiki 
 path                : PHP 
-date                : 2006-03-26 01:42:49 +0100 
-version             : 1 
+date                : 2006-05-17 10:39:49 +0200 
+version             : 3 
 creator             : kocka 
 ---
 Hitteritek egy kicsit mert jol esik.
@@ -27,3 +27,8 @@ Ha idonkent sajatos ambivalenciakat talatok egymas melletti mondatokban, ne kuld
 ~~
 
 Mindez nem fuggetlen velemeny. A legnagyobb [tak](tak.html)okat amiket eddig lattam PHPben irtak.
+
+[java](java.html) [alkalmazas szerver](Alkalmazas%20Szerver.html)ek php futtatashoz:
+
+*   [resin](resin.html)
+*   [weblogic](weblogic.html)
