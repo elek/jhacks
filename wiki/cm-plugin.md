@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-02-05 16:36:58 +0100 
-author              : admin 
+author              : kocka 
 title               : cm-plugin 
 name                : cm-plugin 
 layout              : wiki 
 path                : cm-plugin 
-date                : 2006-03-26 01:43:09 +0100 
-version             : 1 
+date                : 2006-05-29 11:06:18 +0200 
+version             : 9 
 creator             : kocka 
 ---
 Egy [eclipse](Eclipse.html) [eclipse/plug-in](Eclipse/Plug-in.html) [continuum](continuum.html)-hoz. [download](http://www.codehaus.org/~kocka/cm-plugin/)
@@ -20,6 +20,9 @@ _Preferences oldal, beallithato continuum URL, a tobbi felejtos :)_
 _A fo atrakcio_
 
 En kovettem el egyebkent :-D
+
+A [continuum](continuum.html) csapat is fellelkesedett az otletert hogy kene egy ilyen, be is szoltam hogy nekem van, talan kezdenek is majd vele valamit. [http://jira.codehaus.org/browse/CONTINUUM-663](http://jira.codehaus.org/browse/CONTINUUM-663) Mivel a codehaus server crash elvitte a cuccamiat amik fent coltak, a issue mellett meg lehet talalni a forrast csatolva.
+
 
 __TODO__:
 
