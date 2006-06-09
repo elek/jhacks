@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-04-17 09:56:34 +0200 
-version             : 13 
+date                : 2006-06-09 09:41:58 +0200 
+version             : 14 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -24,3 +24,7 @@ Van, pontosabban lenne neki egy szep [xfire](xfire.html)-os web services interfa
 Szivasok:
 
 *   ha egy sourceforge-os svn repot akarsz hasznalni, de meg nem trustoltad a sourceforge svn repo kulcsat, ilyenkor addig anyaz amig svn klienssel ki nem csekoutolsz egy tetszoleges projectet es el nem fogadod orokre a kulcsot
+
+Cikkek:
+
+*   [Continuous Integration with Continuum](http://today.java.net/pub/a/today/2006/05/30/continuous-integration-with-continuum.html)
