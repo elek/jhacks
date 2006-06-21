@@ -5,8 +5,8 @@ title               : junit
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-03-28 16:06:22 +0200 
-version             : 3 
+date                : 2006-06-21 23:54:42 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Jeeezusom! Nincs Junit snip!?!?!?!?
@@ -29,6 +29,22 @@ class TestWhatever extends TestCase {
 }
 
 ```
+
+A kicsit ujabb es modernebb junit 4 a [java 1.5](java%201.5.html) [annotations](annotations.html) feature-re epit, ezzel kb igy nez ki egy teszt:
+
+```
+class TestWhatever { //nem am extends, pojo baszkikaim!!!
+    @Test // ez a teszt maga
+    public void something() {
+    ...
+    }
+    @Before
+    public void elottehivdMarMegLecci() {
+    }
+}
+```
+
+Szoval a jo oreg junit utannaeredt a fiatal tronfosztoknak mint a [testng](testng.html). Ha lassan is.
 
 Az [IDE](IDE.html)-k altalaban tartalmaznak valamilyen supportot a junit futtatashoz, az [eclipse](Eclipse.html)-ben ez nagyon rulla, a tobbit nem tudom, de itt egy link hozza: [http://www.junit.org/news/ide/index.htm](http://www.junit.org/news/ide/index.htm)
 
