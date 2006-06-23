@@ -5,8 +5,8 @@ title               : junit
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-06-21 23:54:42 +0200 
-version             : 4 
+date                : 2006-06-23 11:35:03 +0200 
+version             : 5 
 creator             : kocka 
 ---
 Jeeezusom! Nincs Junit snip!?!?!?!?
@@ -44,7 +44,7 @@ class TestWhatever { //nem am extends, pojo baszkikaim!!!
 }
 ```
 
-Szoval a jo oreg junit utannaeredt a fiatal tronfosztoknak mint a [testng](testng.html). Ha lassan is.
+Szoval a jo oreg junit utannaeredt a fiatal tronfosztoknak mint a [testng](testng.html). Ha lassan is. A teljesen uj [pojo](pojo.html) teszteknek szerintem az lesz a vege hogy paran beleirjak a teszteket az objektumokba magaba, tovabblepve pedig majd az eles metodusok teszt metodusokat is fognak hivni. En barmilyen allatsagot el tudok kepzelni :)
 
 Az [IDE](IDE.html)-k altalaban tartalmaznak valamilyen supportot a junit futtatashoz, az [eclipse](Eclipse.html)-ben ez nagyon rulla, a tobbit nem tudom, de itt egy link hozza: [http://www.junit.org/news/ide/index.htm](http://www.junit.org/news/ide/index.htm)
 
