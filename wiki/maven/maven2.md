@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-05-31 00:22:47 +0200 
-version             : 9 
+date                : 2006-06-23 10:33:49 +0200 
+version             : 10 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -17,6 +17,7 @@ A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban v
 *   uj repository struktura
 *   archetype-ok új projectek villám gyors létrehozására
 *   mirrorozhato a repository, nem al meg az elet ha lehal egy szerver: [http://maven.apache.org/guides/mini/guide-mirror-settings.html](http://maven.apache.org/guides/mini/guide-mirror-settings.html)
+*   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/)
 
 Cikkek:
 
