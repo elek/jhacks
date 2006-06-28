@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-06-09 09:41:58 +0200 
-version             : 14 
+date                : 2006-06-28 13:35:08 +0200 
+version             : 15 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -17,7 +17,7 @@ Egyebkent [plexus](plexus.html) [ioc](ioc.html) kontenerben fut es [jetty](jetty
 
 Amivel erdemesse valik nagyobb ceges felhasznalasra is, az a felhasznalo es csoportkezelese, kioszthato hogy melyik csoport tid projecteket felvenni, buildeket inditani, stb. Na meg persze minden projecthez rendelhetsz kulon notifyereket: [irc](irc.html), [msn](Missing.html), [mail](mail.html), [jabber](jabber.html) amellett hogy a webes interface-n keresztul is hozzaferhetsz a logokhoz.
 
-Van, pontosabban lenne neki egy szep [xfire](xfire.html)-os web services interface is, ez viszont teljesen eltort es alapbol ki van belole iktatva. Szoval nincs, de lehetne :)
+Van, pontosabban lenne neki egy szep [xfire](xfire.html)-os web services interface is, ez viszont teljesen eltort es alapbol ki van belole iktatva, a fejlesztok szerint az 1.1-ben lesz megint (http://jira.codehaus.org/browse/CONTINUUM-713) (/me alig varja :) )
 
 [maven/maven2](maven/maven2.html) projectek eseteben igazan sokmindennel kapraztatja el a felhasznalot, peldaul a pom-bol kiszedi hogy kinek kell szolnia buildeles eseten, kulon projectkent jegyzi be a modulokat.
 
