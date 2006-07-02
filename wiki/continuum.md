@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-06-28 13:35:08 +0200 
-version             : 15 
+date                : 2006-07-02 23:09:50 +0200 
+version             : 16 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -28,3 +28,7 @@ Szivasok:
 Cikkek:
 
 *   [Continuous Integration with Continuum](http://today.java.net/pub/a/today/2006/05/30/continuous-integration-with-continuum.html)
+
+Neten elerheto continuum szerverek:
+
+*   [http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/](http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/) ([cocoon](cocoon.html) projectek)
