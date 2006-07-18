@@ -5,10 +5,11 @@ title               : JMeter
 name                : JMeter 
 layout              : wiki 
 path                : JMeter 
-date                : 2006-07-18 18:15:46 +0200 
-version             : 1 
+date                : 2006-07-18 18:16:43 +0200 
+version             : 3 
 creator             : kocka 
 ---
+([GER](Ger.html) billentyuzetebol, en csak atmasoltam...)<br/>
 Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.
 
 __Leírás:__ apache-os univerzális teljesítmény tesztelő, komponensekből építhetjük fel a teszteket egy GUI segítségével. 
