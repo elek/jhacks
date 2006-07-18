@@ -6,7 +6,7 @@ name                : JMeter
 layout              : wiki 
 path                : JMeter 
 date                : 2006-07-18 18:15:46 +0200 
-version             : 2 
+version             : 1 
 creator             : kocka 
 ---
 Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.
