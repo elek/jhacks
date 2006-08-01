@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-06-23 10:33:49 +0200 
-version             : 10 
+date                : 2006-08-01 15:47:52 +0200 
+version             : 11 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -24,6 +24,10 @@ Cikkek:
 *   [Get the most out of Maven 2 site generation](http://www.javaworld.com/javaworld/jw-02-2006/jw-0227-maven_p.html)
 *   [Maven 2.0: Compile, Test, Run, Deploy, and More](http://www.onjava.com/lpt/a/6528)
 *   [The Maven 2 POM demystified](http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html)
+
+linkek:
+
+*   [http://mvnrepository.com/](http://mvnrepository.com/) (ha valamilyen artifactot keresel, hasznos)
 
 __konyv__:
 
