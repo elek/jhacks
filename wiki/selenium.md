@@ -5,8 +5,8 @@ title               : selenium
 name                : selenium 
 layout              : wiki 
 path                : selenium 
-date                : 2006-08-10 11:30:48 +0200 
-version             : 5 
+date                : 2006-08-10 11:34:26 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [http://www.openqa.org/selenium](http://www.openqa.org/selenium)
@@ -18,3 +18,6 @@ A junit teszthez viszont meg szukseged lesz a selenium-rc-re (remote control), e
 Hat a nyilvanvalo hatranya az az hogy ehhez pl [unix](unix.html)on egy X szervernek kell fusson, [windows](Windows.html)on meg nem is tudom lehet-e ezt igy (ez utobbi annyira nem is erdekel :))
 
 A javas api hozza kicsit flat, ugy 9 osztaly, parszaz metodus, a lenyeg a Selenium osztaly, ami kb ugy nez ki mint egy browser, persze csak kepletesen.
+
+![image](http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Se%2C34.jpg/125px-Se%2C34.jpg)<br/>
+_ hat kb igy nez ki, sajnos nagyon radiokativ, ugyhogy inkab csak kepen nezegessetek :) _
