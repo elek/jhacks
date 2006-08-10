@@ -5,8 +5,8 @@ title               : selenium
 name                : selenium 
 layout              : wiki 
 path                : selenium 
-date                : 2006-08-10 11:34:26 +0200 
-version             : 6 
+date                : 2006-08-10 11:38:55 +0200 
+version             : 7 
 creator             : kocka 
 ---
 [http://www.openqa.org/selenium](http://www.openqa.org/selenium)
@@ -20,4 +20,4 @@ Hat a nyilvanvalo hatranya az az hogy ehhez pl [unix](unix.html)on egy X szerver
 A javas api hozza kicsit flat, ugy 9 osztaly, parszaz metodus, a lenyeg a Selenium osztaly, ami kb ugy nez ki mint egy browser, persze csak kepletesen.
 
 ![image](http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Se%2C34.jpg/125px-Se%2C34.jpg)<br/>
-_ hat kb igy nez ki, sajnos nagyon radiokativ, ugyhogy inkab csak kepen nezegessetek :) _
+_ hat kb igy nez ki :) _
