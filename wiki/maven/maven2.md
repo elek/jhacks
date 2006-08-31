@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-08-31 17:16:21 +0200 
-version             : 13 
+date                : 2006-08-31 18:08:28 +0200 
+version             : 14 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -41,6 +41,9 @@ __extra repo-k__:
 *   central: [http://repo1.maven.org/m2/](http://repo1.maven.org/m2/)
 *   [codehaus](../codehaus.html) [http://dist.codehaus.org/](http://dist.codehaus.org/)
 
-Egy egesz jol fejlodo [eclipse](../Eclipse.html) [eclipse/plug-in](../Eclipse/Plug-in.html) hozza: [http://m2eclipse.codehaus.org/](http://m2eclipse.codehaus.org/)
+__[IDE](../IDE.html) support:__
+
+*   Egy egesz jol fejlodo [eclipse](../Eclipse.html) [eclipse/plug-in](../Eclipse/Plug-in.html) hozza:[http://m2eclipse.codehaus.org/](http://m2eclipse.codehaus.org/)
+*   A [mevenide](../mevenide.html) [netbeans](../Netbeans.html) pluginje kivalloan tamogatja, nagyon elegedett voltam vele. Barcsak az [eclipse](../Eclipse.html)-s lenne ilyen franko.
 
 Lasd: [maven](../maven.html), [maven/maven1](../maven/maven1.html), [build](../build.html)
