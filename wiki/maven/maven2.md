@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-08-01 16:46:55 +0200 
-version             : 12 
+date                : 2006-08-31 17:16:21 +0200 
+version             : 13 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -34,6 +34,12 @@ linkek:
 __konyv__:
 
 *   Egy regisztracio utan [letoltheto konyv](http://www.mergere.com/m2book_download.jsp). Beleolvasva: nem rossz.
+
+__extra repo-k__:
+
+*   [https://maven-repository.dev.java.net/nonav/repository/](https://maven-repository.dev.java.net/nonav/repository/) [leiras](https://maven-repository.dev.java.net/nonav/)
+*   central: [http://repo1.maven.org/m2/](http://repo1.maven.org/m2/)
+*   [codehaus](../codehaus.html) [http://dist.codehaus.org/](http://dist.codehaus.org/)
 
 Egy egesz jol fejlodo [eclipse](../Eclipse.html) [eclipse/plug-in](../Eclipse/Plug-in.html) hozza: [http://m2eclipse.codehaus.org/](http://m2eclipse.codehaus.org/)
 
