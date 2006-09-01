@@ -5,13 +5,13 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-07-15 18:49:17 +0200 
-version             : 3 
+date                : 2006-09-01 11:20:41 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
 
-*   [http://thediscoblog.com/](http://thediscoblog.com/) [XP](XP.html) es korszeru technologiak, idonkent [.net](.net.html) is
+*   [http://thediscoblog.com/](http://thediscoblog.com/) [XP](XP.html) es korszeru technologiak, idonkent [.net](.net.html) is, bar nem kicsit faraszto a 80-as evek buzidiszko stilusa :-D
 *   [http://weblogs.java.net/](http://weblogs.java.net/) a java.net blogjai, foleg [sun](Sun.html) dolgozok
 *   [http://www.trajano.net/](http://www.trajano.net/) jopofa, bar van benne offtopic alaposan
 *   [http://www.jroller.com/page/fate](http://www.jroller.com/page/fate) _Bile Blog_, nagyon nepszeru de idonkent tenyleg nem ertem hogy miert
