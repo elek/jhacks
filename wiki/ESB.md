@@ -5,11 +5,11 @@ title               : Enterprise Service Bus
 name                : ESB 
 layout              : wiki 
 path                : ESB 
-date                : 2006-09-05 01:32:27 +0200 
-version             : 6 
+date                : 2006-09-05 01:38:39 +0200 
+version             : 7 
 creator             : kocka 
 ---
-Vallalati integraciora kitalalt szoftverkategoria. Van szabvanyunk is: [jsr 208](http://www.jcp.org/en/jsr/detail?id=208)
+Vallalati integraciora kitalalt szoftverkategoria. Van szabvanyunk is: [jsr 208](http://www.jcp.org/en/jsr/detail?id=208) ([jbi](JBI.html))
 
 A szabvannyal kapcsolatban erdemes elolvasni a [BEA](bea.html) es az [IBM](IBM.html) fanyalgasat a legutobbi final release-ben: [http://www.jcp.org/en/jsr/results?id=3226](http://www.jcp.org/en/jsr/results?id=3226) A [JBoss](jboss.html) nagyon orult viszont. Mindenesetre gyanussa valt hogy nem biztos hogy rendet teremt majd a teruleten az uj szabvany.
 
