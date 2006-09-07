@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-09-01 11:20:41 +0200 
-version             : 4 
+date                : 2006-09-07 19:25:23 +0200 
+version             : 5 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -16,6 +16,7 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://www.trajano.net/](http://www.trajano.net/) jopofa, bar van benne offtopic alaposan
 *   [http://www.jroller.com/page/fate](http://www.jroller.com/page/fate) _Bile Blog_, nagyon nepszeru de idonkent tenyleg nem ertem hogy miert
 *   [http://jroller.com/page/RickHigh](http://jroller.com/page/RickHigh) Az egyik kedvencem, jo otletei vannak es meg is csinalja
+*   [http://javapeople.blogspot.com/](http://javapeople.blogspot.com/) (kezdoknek, de abban a kategoriaban nagyon szinvonalas)
 
 Magyar:
 
