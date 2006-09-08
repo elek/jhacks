@@ -5,8 +5,8 @@ title               : maven
 name                : maven 
 layout              : wiki 
 path                : maven 
-date                : 2006-09-08 13:46:29 +0200 
-version             : 23 
+date                : 2006-09-08 13:50:59 +0200 
+version             : 24 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/images/maven-small.gif)(http://maven.apache.org)<br/>
@@ -15,7 +15,7 @@ creator             : kocka
 Egy java [build](build.html) tool, erosen epit az [ant](ant.html)ra, uj reteget kepez felette. Ket, egymastol eleg erosen kulonbozo verzioja van: [maven/maven1](maven/maven1.html) es [maven/maven2](maven/maven2.html) Gyorsan osszehasonlitva az plain [ant](ant.html)-tal:
 
 1.   __legfontosabb kulonbseg:__ a maven fejlesztesi processz, nem csak [build](build.html) tool
-1.   Sok __elore megirt goal__-t tartalmaz, igy a fejlesztoknek mar csak ritkan kell sajatot irniuk
+1.   Sok __elore megirt goal__-t tartalmaz, igy a fejlesztoknek mar csak ritkan kell sajatot irniuk, ez kb az ant targetnek felel meg, de ilyet csak specialis esetekben kell irni
 1.   __kozponti repository__ a fuggosegek tarolasara. Alapbol ez a [http://www.ibiblio.irg/maven](http://www.ibiblio.irg/maven) Minden dependency innen toltodik le a local cache-be (kellemetlen amikor gprs-ed van, akkor meg foleg amikor leall az ibiblio szerver)
 1.   A __POM__ (project object model) tartalmazza a legfontosabb informaciokat a projectedrol, es azokat a pluginok fel is hasznalhatjak. Altalanos informaciok, mint bugtrackered url-je, cvs vagy svn hozzaferes, levlistak, satobbi. Ami nem fer bele a POM-ba, mert pl plugin fuggo, azt a project.properties-ban definialhatod tulajdonsagkent.
 1.   Ant taskdef helyett pluginek. A pluginek is termeszetesen a kozponti repo-bol jonnek. Persze hasznalhatod az ant taskokat is.
@@ -25,10 +25,10 @@ Ha meg akarod szeretni a maven-t probald ki a weboldal generalast \(maven site\)
 
 A szopas a maven-ben:
 
-1.   amikor az arcodba vagja az erthetetlen [jelly](jelly.html) stacktraceit (hala jehovanak most mar azert ritkan)
-1.   amikor nincs neted
-1.   van amikor egyszeruen proceduralisan leirni a build menetet egyszerubb (ilyenkor jon az [ant](ant.html))
-1.   amikor sokszor kell buildelned, s nincs kedved 20 másodperceket várni, hogy elinduljon, amikor csak egy forditás és jar-olás lenne a feladat.
+1.   [maven/maven1](maven/maven1.html): amikor az arcodba vagja az erthetetlen [jelly](jelly.html) stacktraceit (hala jehovanak most mar azert ritkan)
+1.   amikor nincs neted (de az amugy is)
+1.   van amikor egyszeruen proceduralisan leirni a build menetet egyszerubb (ilyenkor jon az [ant](ant.html)) (bar szerintem ez ritkabb)
+1.   [maven/maven1](maven/maven1.html): amikor sokszor kell buildelned, s nincs kedved 20 másodperceket várni, hogy elinduljon, amikor csak egy forditás és jar-olás lenne a feladat. Hala jehovanak a [maven/maven2](maven/maven2.html) tenyleg sokkal gyorsabb, meg kissebb is (ugy 1 mega).
 
 
 linkek:
