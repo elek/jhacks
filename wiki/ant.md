@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-05 10:40:57 +0200 
-author              : admin 
+author              : kocka 
 title               : ant 
 name                : ant 
 layout              : wiki 
 path                : ant 
-date                : 2006-03-26 01:43:05 +0100 
-version             : 1 
+date                : 2006-09-08 13:52:49 +0200 
+version             : 8 
 creator             : kocka 
 ---
 ![image](http://hackers.forgeahead.hu/space/banners/sidebar/ant_logo_large.gif)<br/>
@@ -59,3 +59,5 @@ linkek:
 Alternativa lehet esetleg a [maven](maven.html)
 
 Az Ant a [Netbeans](Netbeans.html) 4.x-es szeria beepitett build rendszere lesz, ami garantalja azt hogy a [Netbeans](Netbeans.html)re epitett projectek barmilyen kornyezetben konnyen lefordithatoak. Termeszetesen szinte minden [IDE](IDE.html) integralta es valamilyen feluletet biztosit hozza.
+
+Lasd meg: [continuous integration](Continuous%20Integration.html), [ide](IDE.html), [build](build.html)
