@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 17:23:25 +0200 
-author              : admin 
+author              : kocka 
 title               : maven 
 name                : maven 
 layout              : wiki 
 path                : maven 
-date                : 2006-03-26 01:48:26 +0100 
-version             : 1 
+date                : 2006-09-08 13:46:29 +0200 
+version             : 23 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/images/maven-small.gif)(http://maven.apache.org)<br/>
@@ -14,6 +14,7 @@ creator             : kocka
 
 Egy java [build](build.html) tool, erosen epit az [ant](ant.html)ra, uj reteget kepez felette. Ket, egymastol eleg erosen kulonbozo verzioja van: [maven/maven1](maven/maven1.html) es [maven/maven2](maven/maven2.html) Gyorsan osszehasonlitva az plain [ant](ant.html)-tal:
 
+1.   __legfontosabb kulonbseg:__ a maven fejlesztesi processz, nem csak [build](build.html) tool
 1.   Sok __elore megirt goal__-t tartalmaz, igy a fejlesztoknek mar csak ritkan kell sajatot irniuk
 1.   __kozponti repository__ a fuggosegek tarolasara. Alapbol ez a [http://www.ibiblio.irg/maven](http://www.ibiblio.irg/maven) Minden dependency innen toltodik le a local cache-be (kellemetlen amikor gprs-ed van, akkor meg foleg amikor leall az ibiblio szerver)
 1.   A __POM__ (project object model) tartalmazza a legfontosabb informaciokat a projectedrol, es azokat a pluginok fel is hasznalhatjak. Altalanos informaciok, mint bugtrackered url-je, cvs vagy svn hozzaferes, levlistak, satobbi. Ami nem fer bele a POM-ba, mert pl plugin fuggo, azt a project.properties-ban definialhatod tulajdonsagkent.
