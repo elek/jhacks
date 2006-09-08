@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-08-31 18:08:28 +0200 
-version             : 14 
+date                : 2006-09-08 14:20:53 +0200 
+version             : 15 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -33,7 +33,7 @@ linkek:
 
 __konyv__:
 
-*   Egy regisztracio utan [letoltheto konyv](http://www.mergere.com/m2book_download.jsp). Beleolvasva: nem rossz.
+*   Egy regisztracio utan [letoltheto konyv](http://www.mergere.com/m2book_download.jsp). Beleolvasva: nem rossz. Sajno kuldik a promo leveleket, de a spamfilter hamar megtanulja, meg udvariasak es le is lehet iratkozni :)
 
 __extra repo-k__:
 
