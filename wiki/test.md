@@ -5,8 +5,8 @@ title               : test
 name                : test 
 layout              : wiki 
 path                : test 
-date                : 2006-09-08 13:41:44 +0200 
-version             : 4 
+date                : 2006-09-10 23:47:15 +0200 
+version             : 5 
 creator             : kocka 
 ---
 A teszt nelkuli kod nem program hanem bughalmaz.
@@ -15,6 +15,8 @@ Teszt frameworkok:
 
 *   [junit](junit.html)
 *   [testng](testng.html)
+
+Kicsit nehez kozuluk valasztani, mert mindegyikbol hianyzik valami. Ezen a teren meg johetne egy kis fejlesztes :)
 
 Snippek ez alatt:
 
