@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-09-10 17:11:47 +0200 
-version             : 7 
+date                : 2006-09-13 11:19:09 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -17,6 +17,7 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://www.jroller.com/page/fate](http://www.jroller.com/page/fate) _Bile Blog_, nagyon nepszeru de idonkent tenyleg nem ertem hogy miert (idonkent atom marhasagokat ir)
 *   [http://jroller.com/page/RickHigh](http://jroller.com/page/RickHigh) Az egyik kedvencem, jo otletei vannak es meg is csinalja
 *   [http://javapeople.blogspot.com/](http://javapeople.blogspot.com/) (kezdoknek, de abban a kategoriaban nagyon szinvonalas)
+*   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
 
 Magyar:
 
