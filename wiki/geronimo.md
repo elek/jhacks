@@ -5,13 +5,13 @@ title               : geronimo
 name                : geronimo 
 layout              : wiki 
 path                : geronimo 
-date                : 2006-09-14 16:32:19 +0200 
-version             : 9 
+date                : 2006-09-14 16:33:41 +0200 
+version             : 10 
 creator             : kocka 
 ---
 ![image](http://www.epiqtech.com/corp/products/technology/opensource/images/design7_450x50.gif)(http://geronimo.apache.org/)
 
-A geronimo az apache [j2ee](j2ee.html) szervere. A komponens architekturajanak rugalmassagarol legendakat lehet hallani, valamint a [j2ee](j2ee.html) compliance teszten is atcsuszik (ez jelentjheti azt is hogy enterprise-ready ha gondolod, de lehet hogy nem ;) ). Nem csak egy [j2ee](j2ee.html) szerver, de egy nagyon felxibilis [IoC](ioc.html) container amibe konnyen lehet integralni barmit, ez egyebkent [jmx](JMX.html)-re epul, de alaposan kiegesziti a [jmx](JMX.html) architekturat.
+A geronimo az apache [j2ee](j2ee.html) [alkalmazas szerver](Alkalmazas%20Szerver.html)e. A komponens architekturajanak rugalmassagarol legendakat lehet hallani, valamint a [j2ee](j2ee.html) compliance teszten is atcsuszik (ez jelentjheti azt is hogy enterprise-ready ha gondolod, de lehet hogy nem ;) ). Nem csak egy [j2ee](j2ee.html) szerver, de egy nagyon felxibilis [IoC](ioc.html) container amibe konnyen lehet integralni barmit, ez egyebkent [jmx](JMX.html)-re epul, de alaposan kiegesziti a [jmx](JMX.html) architekturat.
 
 Lasd meg:
 
