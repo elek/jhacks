@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-07-02 23:09:50 +0200 
-version             : 16 
+date                : 2006-09-14 11:10:39 +0200 
+version             : 17 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -32,3 +32,4 @@ Cikkek:
 Neten elerheto continuum szerverek:
 
 *   [http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/](http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/) ([cocoon](cocoon.html) projectek)
+*   [http://build1.webtide.com:8080/continuum/servlet/continuum](http://build1.webtide.com:8080/continuum/servlet/continuum) ([jetty](jetty.html))
