@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-11 01:45:21 +0200 
-author              : admin 
+author              : kocka 
 title               : java 
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2006-03-26 01:48:10 +0100 
-version             : 1 
+date                : 2006-09-14 16:27:16 +0200 
+version             : 11 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -31,7 +31,7 @@ Lasd: [java 1.3](Missing.html), [java 1.4](java%201.4.html), [java 1.5](java%201
 
 Anti-java kirohanasok :)
 
-*   [A java rossz](http://padre.web.elte.hu/java.html) ([perl](perl.html)-man)
+*   [A java rossz](http://padre.web.elte.hu/java.html) ([perl](perl.html)-man, imadnivalo hogy egy _public static void main_-ben hasonlitja ossze a ket nyelvet :-D )
 *   [Mese a sotet java korszak Perl vitezeirol](http://www.oreillynet.com/pub/wlg/8317) (mondanom se kell :) )
 
 Java gyarto cegek:
@@ -39,5 +39,6 @@ Java gyarto cegek:
 *   [sun](Sun.html)
 *   [ibm](IBM.html)
 *   [bea](bea.html) ([jrocket](jrocket.html))
+*   [apache](apache.html) ([harmony](Harmony.html))
 
 
