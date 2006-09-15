@@ -5,19 +5,20 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-09-15 12:13:02 +0200 
-version             : 19 
+date                : 2006-09-15 12:16:12 +0200 
+version             : 20 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
 
 *   regi maven peldaul egy pluginen keresztul tamogatta a multiprojecteket, ezt a maven 2 alapbol tudja
 *   Minden plugin lett, azaz mindener a halozathoz nyul, az alap cucc csak 1 mega, minden mast csak akkor tolt le ha kell.
-*   Uj, a regivel termeszetesen inkompatibilis plugin struktura
-*   uj repository struktura
+*   Uj, a regivel termeszetesen inkompatibilis plugin struktura ([maven/maven2/mojo](../maven/maven2/mojo.html))
+*   uj repository struktura (de tamogatja a regit is "legacy" neven)
 *   archetype-ok új projectek villám gyors létrehozására
 *   mirrorozhato a repository, nem al meg az elet ha lehal egy szerver: [http://maven.apache.org/guides/mini/guide-mirror-settings.html](http://maven.apache.org/guides/mini/guide-mirror-settings.html)
-*   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/)
+*   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/) (vagy a [proximity](../proximity.html))
+*   build lifecycle koncepcio
 
 [Test](../test.html) frameworkbol tamogatja a [junit](../junit.html) 3.8-at es a [testNG](../testng.html)-t, [junit](../junit.html) 4-el is meg lehet hajtani eppen, ha pont ugyanugy nevezed az metodusokat ahogy 3.8 alatt. [Test/Categorization](../Test/Categorization.html) [junit](../junit.html) 4-hez nincsen sajnos, pedig de jo is lenne, [testng](../testng.html)vel megy siman.
 
