@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-09-14 11:15:21 +0200 
-version             : 17 
+date                : 2006-09-15 11:54:38 +0200 
+version             : 18 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
@@ -19,7 +19,7 @@ A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban v
 *   mirrorozhato a repository, nem al meg az elet ha lehal egy szerver: [http://maven.apache.org/guides/mini/guide-mirror-settings.html](http://maven.apache.org/guides/mini/guide-mirror-settings.html)
 *   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/)
 
-[Test](../test.html) frameworkbol tamogatja a [junit](../junit.html) 3.8-at es a [testNG](../testng.html)-t, [junit](../junit.html) 4-el is meg lehet hajtani eppen, ha pont ugyanugy nevezed az metodusokat ahogy 3.8 alatt. [Test/Categorization](../Test/Categorization.html) nincsen sajnos, pedig de jo is lenne :)
+[Test](../test.html) frameworkbol tamogatja a [junit](../junit.html) 3.8-at es a [testNG](../testng.html)-t, [junit](../junit.html) 4-el is meg lehet hajtani eppen, ha pont ugyanugy nevezed az metodusokat ahogy 3.8 alatt. [Test/Categorization](../Test/Categorization.html) [junit](../junit.html) 4-hez nincsen sajnos, pedig de jo is lenne, [testng](../testng.html)vel megy siman.
 
 Cikkek:
 
