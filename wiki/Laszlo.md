@@ -5,8 +5,8 @@ title               : Laszlo
 name                : Laszlo 
 layout              : wiki 
 path                : Laszlo 
-date                : 2006-09-11 09:58:01 +0200 
-version             : 8 
+date                : 2006-09-17 16:23:20 +0200 
+version             : 9 
 creator             : zsoltk 
 ---
 Rich Internet Application development framework.
@@ -23,6 +23,9 @@ Rich Internet Application development framework.
 Egy flash oldalakat generalo cucc, sajat xml nyelvvel [laszlo/lzx](laszlo/LZX.html), [OOP](oop.html) design, satobbi. Ja es [XML](XML.html)alapu, nem ar ismerni nemi [XPath](XPath.html)t se hozza. Az eredmeny nagyon designos flash, mindenhol animalt, a juzerek kotelesek imadni, foleg ha meg valami funkcionalitas is akad mogotte.
 
 [laszlo/LZX](laszlo/LZX.html) cuccokat a laszlo compilerrel atfordithatod [bytecode](bytecode.html)ba, vagy futtathatod siman a prezentacios szerveren ami szukseg szerint fogja forditani neked. Nehany hatarozottan pozitiv [rpc](RPC.html) feature-t meg kielemnek: [java](java.html) hivasok, persze remote, [xml-rpc](xml-rpc.html), [soap](SOAP.html). Ezzel azert vannak szivasok helyenkent, a [soap](SOAP.html) api kicsit nehezen hasznalhato, a [java](java.html) [rpc](RPC.html) session-onkent egy objektumot csinal. (valahogy jobb otletnek tartanam az [ioc](ioc.html)-s service objektumok hasznalatat, de megoldhato, csak nagyon harcos :) )
+
+Nem volt teljesen evidens hogy hogyan lehet bele fejleszteni [maven](maven.html) alatt, de kikiserleteztem es irtam hozza egy archetype-ot is. Szoval egyszeruen maven-war-plugin hasznalataval, csak oda kell figyelni hogy a 2.0 verzio meg legyen belole mert a regebbiek nem eleg jok hozza. A maven fuggosegek koze tegyel be egyszeruen egy fuggoseget az openlaszlo war file-nak, ezt a war plugin ki fogja csomagolni neked, a sajat web.xml-ed pedig felulvaghatja az openlaszlo cuccot, az lzx filejaidat pedig egyszeruen benyomhatod a src/main/webapp ala. egy egyszeru jetty6:run azonnal uzemelo openlaszlo szervert hoz neked letre. Szoval bevetheto, csak kiserletezni kellett sokat, mert ez sehol nincs leirva.
+
 
 Sajat [test](test.html) rendszere is van lzunit neven.
 
