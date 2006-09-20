@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-09 09:30:34 +0100 
-author              : admin 
+author              : kocka 
 title               : EJB3 
 name                : EJB3 
 layout              : wiki 
 path                : EJB3 
-date                : 2006-03-26 01:42:37 +0100 
-version             : 1 
+date                : 2006-09-20 15:42:30 +0200 
+version             : 5 
 creator             : kocka 
 ---
 A [java 1.5](java%201.5.html)re epulo ejb specifikacio [annotations](annotations.html)-szel teljesen uj es a regivel teljesen inkompatibilis entity beanekkel, ilyesmi.
@@ -28,6 +28,10 @@ Erdemes [eclipse](Eclipse.html) 3.1-et hasznalni hozza, vagy [netbeans](Netbeans
 
 Letoltheto az [oc4j](oc4j.html) ejb3 preview verzioja, elerheto egy tucat dokumentacio is.
 
-Cikkek:
+__Cikkek__:
 
 *   [The new EJB 3 Persistence API](http://media.techtarget.com/tss/BeJUG/EJB3/index.html)
+
+__konyvek__:
+
+*   [Mastering EJB 3.0](http://www.theserverside.com/tt/books/wiley/masteringEJB3/downloads/MasteringEJB4thEd.pdf)
