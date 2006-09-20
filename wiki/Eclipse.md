@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 12:02:22 +0200 
-author              : admin 
+author              : kocka 
 title               : Eclipse 
 name                : Eclipse 
 layout              : wiki 
 path                : Eclipse 
-date                : 2006-03-26 01:42:37 +0100 
-version             : 1 
+date                : 2006-09-20 15:38:22 +0200 
+version             : 12 
 creator             : zsoltk 
 ---
 Hat akkor aljon is itt nemi bemutato a prg-rol.
@@ -20,13 +20,13 @@ Hat akkor aljon is itt nemi bemutato a prg-rol.
 
 Bar a neve azt jelenti, hogy napfogyatkozas, ami ugye sotetseggel jar egyutt, megis azt kell mondjam, hogy az egyik legjobban hasznalhato [IDE](IDE.html)-rol beszelunk. Fontos azonban megjegyezni, hogy jelen esetben ez egy 2 oldalu dolog.
 
-Magaban az Eclipse csomagban nem igazan van sok minden, amit hasznalni lehetne. Marmint kulonbozo libekre, kornyezetekre gondolok. Ilyen szempontbol egy [Oracle](Oracle.html) [JDeveloper](JDeveloper.html), egy [Borland](borland.html) JBuilder, vagy egy Sun NetBeans sokkal tobbet tud. Tehat ilyen szempontbol egy Eclipse meglehetosen fapados valami. De! Halistennek a plug-in felfogasa annyira egyszeru es szep, hogy rengeteg letoltheto beepulo van a neten. Ha ezt szamba vesszeuk, akkor egyertelmuen kiejelenthetjuk, hogy a leheto legsokretubb [IDE](IDE.html)-rol beszelunk. Ha ehhez meg hozzaveszuk a hasznalhatosagot... Szoval nem veletlen, hogy ennyian szeretik.
+Magaban az Eclipse csomagban nem igazan van sok minden, amit hasznalni lehetne. Marmint kulonbozo libekre, kornyezetekre gondolok. Ilyen szempontbol egy [Oracle](Oracle.html) [JDeveloper](JDeveloper.html), egy [Borland](borland.html) [JBuilder](JBuilder.html), vagy egy [Sun](Sun.html) [NetBeans](Netbeans.html) sokkal tobbet tud. Tehat ilyen szempontbol egy Eclipse meglehetosen fapados valami. De! Halistennek a [eclipse/plug-in](Eclipse/Plug-in.html) felfogasa annyira egyszeru es szep, hogy rengeteg letoltheto beepulo van a neten. Ha ezt szamba vesszeuk, akkor egyertelmuen kiejelenthetjuk, hogy a leheto legsokretubb [IDE](IDE.html)-rol beszelunk. Ha ehhez meg hozzaveszuk a hasznalhatosagot... Szoval nem veletlen, hogy ennyien szeretik.
 
 Peldanak okaert az [IBM](IBM.html) Application Developer-e is erre a platformra epul. Aki ismeri annak nem kell magyaraznom. Aki nem annak elegyen eleg annyi, hogy annyire sokretu funkcionalitast mint a WSAD szvsz egyik IDE sem kinal.
 
 # Install
 
-Mivel Java alapu IDE-rol beszelunk, ezert barmilyen platformon hasznalhato, ahol van VM. Elvileg, mert egy sajat megjelenitesi konyvtarat hasznal. Ez pedig az [SWT](swt.html) (Simple Windowing Toolkit). Szebb, gyorsabb, kevesbe eroforrasigenyes, es kell hozza nativ binaris. Szoval csak azon lehet futtatni, ahol van ilyen. Ezek a platformok pedig a kovetkezoek:
+Mivel [Java](java.html) alapu [IDE](IDE.html)-rol beszelunk, ezert barmilyen platformon hasznalhato, ahol van VM. Elvileg, mert egy sajat megjelenitesi konyvtarat hasznal. Ez pedig az [SWT](swt.html) (Simple Windowing Toolkit). Szebb, gyorsabb, kevesbe eroforrasigenyes, es kell hozza nativ binaris. Szoval csak azon lehet futtatni, ahol van ilyen. Ezek a platformok pedig a kovetkezoek:
 
 *   [Linux](Linux.html)
 *   [Windows](Windows.html)
@@ -48,7 +48,7 @@ De ha megis a masodik modszert valasztod, akkor a szukseges csomagok leirasa kov
 *   Plaform Runtime Binary: ez mindenfelekeppen kell, ez az alap.
 *   JDT Runtime: Java development tools. Ez ahhoz kell, hogy Javaban tudjal valamit fejleszetni. (A PRB semmit nem tartalmaz amivel fejleszteni lehetne...)
 
-Na most ez igy nem olyan sok, de altalaban az a vege, hogy az ember televagja plug-in-ekkel, amik viszont mindenfele dolgokat igenyelnek. Azokat meg persze le kell tolteni. Szoval erdemes a Platform SDK-t lehuzni.
+Na most ez igy nem olyan sok, de altalaban az a vege, hogy az ember televagja [eclipse/plug-in](Eclipse/Plug-in.html)-ekkel, amik viszont mindenfele dolgokat igenyelnek. Azokat meg persze le kell tolteni. Szoval erdemes a Platform SDK-t lehuzni. (-> lasd: [callisto](Callisto.html))
 
 Szoval a dolog gyakorlatilag abbol all, hogy a megfelelo platformra le kell toltenunk biz. fajlokat.
 
@@ -58,7 +58,7 @@ Megjegyeznem meg, hogy a [Linux](Linux.html)os verziobol erdemes a GTK frontende
 
 # [Plugin](plugin.html)ek
 
-Ez az a dolog, amiben az Eclipse rettenetesen eros. Annyit es olyat tudsz tolteni, amit csak nem szegyelsz. Gyakorlatilag maga a Java IDE is egy plugin. Csak eppen ez a fo plugin, amikre aztan szepen ra leehet tolni a tobbieket. 
+Ez az a dolog, amiben az Eclipse rettenetesen eros. Annyit es olyat tudsz tolteni, amit csak nem szegyelsz. Gyakorlatilag maga a [Java](java.html) [IDE](IDE.html) is egy plugin. Csak eppen ez a fo plugin, amikre aztan szepen ra leehet tolni a tobbieket. 
 
 Mivel alapbol az IDE-sok mindent nem lehet csinalni, ezert erdemes hozza plugineket toltogetni. Hogy alapbol mit tud az IDE? Java editalas, Ant build kezeles, Debug, CVS. Nagyjabol. Latszik szepen, hogy nem valami nagy funkcionalitas...
 
@@ -66,12 +66,9 @@ Ha pluginek kellenek, akkor ezeket megtalalalod a [Eclipse/Plug-in](Eclipse/Plug
 
 Amit persze kihagytam, az a site ahonnan letoltheted az egeszet: [http://www.eclipse.org](http://www.eclipse.org)
 
-![image](http://hackers.forgeahead.hu/space/Eclipse/eclipse-31m5wtp.png)<br/>
-_Egy betas [Eclipse/WTP](Missing.html) 3.1M5-ben, pont olyan [websphere app dev](Websphere%20App%20Dev.html), csak nincs olyan stabil_
-
 # Problemak
 
-Hiaba jo a plugin rendsyer, akkor is magadnak kell keresgetni a pluginokat, amibol konnyen kerekedhet egy hatalmas kaosz.<br/>
+Hiaba jo a plugin rendszer, akkor is magadnak kell keresgetni a pluginokat, amibol konnyen kerekedhet egy hatalmas kaosz.<br/>
 Nagy meretu projectek (mondjuk 20 mega felett) eseteben az Eclipse bosszantoan lassu tud lenni, jobb ha kikapcsolod az automatikus forditast...
 
 # Eclipse leszarmazottak
@@ -81,4 +78,5 @@ Nagy meretu projectek (mondjuk 20 mega felett) eseteben az Eclipse bosszantoan l
 
 # Linkek
 
-Mint a neve is mutatja, egy wiki eclipse temakorben: [http://eclipse-wiki.info/](http://eclipse-wiki.info/)
+*   [http://eclipse-wiki.info/](http://eclipse-wiki.info/) Mint a neve is mutatja, egy wiki eclipse temakorben
+*   [http://planeteclipse.org/planet/](http://planeteclipse.org/planet/) eclipse planet 
