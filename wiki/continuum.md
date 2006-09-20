@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-09-20 16:02:39 +0200 
-version             : 18 
+date                : 2006-09-20 16:02:59 +0200 
+version             : 19 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -24,7 +24,7 @@ Van, pontosabban lenne neki egy szep [xfire](xfire.html)-os web services interfa
 Szivasok:
 
 *   ha egy sourceforge-os svn repot akarsz hasznalni, de meg nem trustoltad a sourceforge svn repo kulcsat, ilyenkor addig anyaz amig svn klienssel ki nem csekoutolsz egy tetszoleges projectet es el nem fogadod orokre a kulcsot
-*   Valahogy beragad a build ha az svn szetesik eldaul azert mert rossz a halozatod. Mondjuk ha rossz a halozat az alapbol szopas. Ilyenkor ujra kell inditani.
+*   Valahogy beragad a build ha az [svn](svn.html) szetesik, peldaul azert mert rossz a halozatod. Mondjuk ha rossz a halozat az alapbol szopas. Ilyenkor ujra kell inditani.
 
 Cikkek:
 
