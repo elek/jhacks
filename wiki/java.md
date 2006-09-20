@@ -5,8 +5,8 @@ title               : java
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2006-09-14 16:27:16 +0200 
-version             : 11 
+date                : 2006-09-20 15:49:59 +0200 
+version             : 12 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -14,10 +14,10 @@ Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egye
 
 Fura, hogy erről nem volt még snip :)
 
-[hupwiki - A legnagyobb kérdés az, hogy a Java most vajon mi?](http://hup.hu/wiki/index.php/Java) Igazabol nem tudom ki az aki ezt nem erti, de akkor tessek:
+[hupwiki - A legnagyobb kérdés az, hogy a Java most vajon mi?](http://wiki.hup.hu/index.php/Java) Igazabol nem tudom ki az aki ezt nem erti, de akkor tessek:
 
 1.   A java egy [oop](oop.html) nyelv.
-1.   A java forraskodot [bytecode](bytecode.html)ra lehet leforditani es java futasi kornyezeten ([JRE](JRE.html)) futtatni
+1.   A java forraskodot [bytecode](bytecode.html)ra lehet leforditani es java futasi kornyezeten ([JRE](JRE.html)) futtatni.
 
 Ezt gondolom az is tudta aki irta csak olyan jo egy kicsit ertetlenkedni :-D
 
