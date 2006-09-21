@@ -5,8 +5,8 @@ title               : spring
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2006-05-10 10:13:08 +0200 
-version             : 8 
+date                : 2006-09-21 17:12:30 +0200 
+version             : 9 
 creator             : kocka 
 ---
 __Spring Framework__
@@ -34,8 +34,8 @@ Nehany fontosabb tulajdonsaga:
 *   [lifecycle](lifecycle.html): ezt a spring is sajat interfacekkel implementalja, azaz spring fuggove valik a bean-ed.
 *   security: [acegi](acegi.html)
 
-Igy tomoren ennyi. Nagyon jol hasznalhato Framework, akar application akar weblap keszitesrol legyen szo, barmelyik teruleten jol hasznalhato. Mas [webapp](webapp.html) frameworkok is integralva vannak hozza: [struts](struts.html), [webwork](WebWork.html), satobbi Ez ugy mukodik, hogy a [web.xml](Missing.html)-ben definialsz egy springes listenert ami elinditja a spring rendszert es beregisztralja a [servlet](servlet.html) contextedbe. Ezutan akarmalyik komponensnek szuksege van ra, innen veheti ki, de erre azert az alkalmazaskomponenseknek nincs nagyon szukseguk :)
-
+Igy tomoren ennyi. Nagyon jol hasznalhato Framework, akar application akar weblap keszitesrol legyen szo, barmelyik teruleten jol hasznalhato. Mas [webapp](webapp.html) frameworkok is integralva vannak hozza: [struts](struts.html), [webwork](WebWork.html), satobbi(sikerult [laszlo](Laszlo.html)t is integralni de ez nem volt olyan ecceru eset :))
+. Ez ugy mukodik, hogy a [web.xml](Missing.html)-ben definialsz egy springes listenert ami elinditja a spring rendszert es beregisztralja a [servlet](servlet.html) contextedbe. Ezutan akarmalyik komponensnek szuksege van ra, innen veheti ki, de erre azert az alkalmazaskomponenseknek nincs nagyon szukseguk :)
 Linkek:
 
 *   [Spring weboldal](http://www.springframework.org/)
