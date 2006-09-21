@@ -1,19 +1,21 @@
 ---
 creationDate        : 2004-12-14 11:54:36 +0100 
-author              : admin 
+author              : kocka 
 title               : subversion 
 name                : subversion 
 layout              : wiki 
 path                : subversion 
-date                : 2006-03-26 01:51:12 +0100 
-version             : 1 
+date                : 2006-09-21 14:41:46 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [http://subversion.tigris.org/](http://subversion.tigris.org/)
 
-Modern [version control](version%20control.html) eszkoz a [CVS](CVS.html) rendszerek lehelyettesitesere. [eclipse](Eclipse.html) [plugin](plugin.html)-ja a [subclipse](subclipse.html). Ugyanugy mint a CVS, tobbfelel protokol tetejen tud utazni, de a legjobb benne hogy [http](HTTP.html)n is, igy nem veszik ossze mindenfele ulszigoritott firewallal. Mostanaban uj fejlesztes inkab ezen megy a [cvs](CVS.html) helyett, bar a regi jo tomeghostolo helyek mint a sourceforge nem tamogatjak.
+Modern [version control](version%20control.html) eszkoz a [CVS](CVS.html) rendszerek lehelyettesitesere. Ugyanugy mint a CVS, tobbfelel protokol tetejen tud utazni, de a legjobb benne hogy [http](HTTP.html)n is, igy nem veszik ossze mindenfele ulszigoritott firewallal. Mostanaban uj fejlesztes inkab ezen megy a [cvs](CVS.html) helyett, bar a regi jo tomeghostolo helyek mint a sourceforge nem tamogatjak.
 
-Annyiban hasonlit a [clearcase](ClearCase.html)-hez, hogy ha veletlenul letorolsz valamit sima 'rm -f' paranccsal, akkor alaposan szetbarmolod a lokalis repodat, bar helyrehozhato (ez mar kulonbseg :) ).
+IDE support:
+
+*   [eclipse](Eclipse.html) [plugin](plugin.html): [subclipse](subclipse.html) vagy [subversive](Missing.html).
 
 Pár hasznos cucc :
 
