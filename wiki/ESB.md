@@ -5,8 +5,8 @@ title               : Enterprise Service Bus
 name                : ESB 
 layout              : wiki 
 path                : ESB 
-date                : 2006-09-05 01:38:39 +0200 
-version             : 7 
+date                : 2006-09-25 14:17:23 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Vallalati integraciora kitalalt szoftverkategoria. Van szabvanyunk is: [jsr 208](http://www.jcp.org/en/jsr/detail?id=208) ([jbi](JBI.html))
@@ -19,6 +19,7 @@ Ismert cuccosok:
 *   [celtix](celtix.html) keszuloben
 *   [servicemix](servicemix.html)
 *   van ilyen a [websphere](Websphere.html)ben es a [weblogic](weblogic.html)ban is
+*   [petals](Missing.html) [http://petals.objectweb.org/](http://petals.objectweb.org/)
 
 Linkek:
 
