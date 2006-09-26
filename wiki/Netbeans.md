@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-06 11:44:59 +0200 
-author              : admin 
+author              : karenin 
 title               : Netbeans 
 name                : Netbeans 
 layout              : wiki 
 path                : Netbeans 
-date                : 2006-03-26 01:42:47 +0100 
-version             : 1 
+date                : 2006-09-26 16:23:59 +0200 
+version             : 7 
 creator             : kocka 
 ---
 __Netbeans__
@@ -22,7 +22,7 @@ Ha nincs savszelesseged, akkor [ingyen kerhetsz](http://www.netbeans.org/about/c
 
 Mivel a felulete swinges, meglevo alkalmazasokat is konnyen lehet integralni bele. A Plugin felulete viszont allitolag egyszerubb mint az [Eclipse](Eclipse.html)-e.
 
-A netbeans aktualis generacioja, a 4.s-as szeria, ami a leglenyegesebb ujitas benne az [ant](ant.html) hasznalata a projectmanagementre, igy a kodod [ide](IDE.html)-tol fuggetlenul barhol [build](build.html)elheto annelkul hogy a fejlesztoknek foglalkoznia kellene vele.
+A netbeans 4.s-es szeriatol a leglenyegesebb ujitas volt benne az [ant](ant.html) hasznalata a projectmanagementre, igy a kodod [ide](IDE.html)-tol fuggetlenul barhol [build](build.html)elheto annelkul hogy a fejlesztoknek foglalkoznia kellene vele.
 
 A netbeans mogott a [SUN](Sun.html) all, ugyanugy mint az [eclipse](Eclipse.html)+[IBM](IBM.html) paros eseteben fizetos szoftvereket fejlesztenek a free alapra.<br/> A "netbeans vs [eclipse](Eclipse.html)" flamewar kb olyan magassagokba csap mint a "[linux](Linux.html) vs [windows](Windows.html)" es a "vim vs joe". (lasd: [haboru](haboru.html))
 
