@@ -5,8 +5,8 @@ title               : persistence
 name                : persistence 
 layout              : wiki 
 path                : persistence 
-date                : 2006-09-28 21:27:34 +0200 
-version             : 5 
+date                : 2006-09-28 22:58:09 +0200 
+version             : 6 
 creator             : kocka 
 ---
 *   [JDO](JDO.html)
@@ -16,3 +16,5 @@ creator             : kocka
 *   [EJB](EJB.html) es [EJB3](EJB3.html)
 *   [OR mapping](OR%20Mapping.html)
 *   [serialization](serialization.html)
+
+
