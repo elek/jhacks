@@ -5,8 +5,8 @@ title               : IDE
 name                : IDE 
 layout              : wiki 
 path                : IDE 
-date                : 2006-04-05 12:42:02 +0200 
-version             : 5 
+date                : 2006-09-28 23:00:51 +0200 
+version             : 6 
 creator             : kocka 
 ---
 __Integrated Developement Environment__
@@ -20,3 +20,5 @@ __Integrated Developement Environment__
 *   [Websphere App Dev](Websphere%20App%20Dev.html) ([IBM](IBM.html))
 *   [Sun Java Studio Enterprise](Sun%20Java%20Studio%20Enterprise.html) ([sun](Sun.html))
 *   [weblogic workshop](weblogic%20workshop.html) ([BEA](bea.html))
+
+
