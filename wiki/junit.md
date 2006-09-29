@@ -5,13 +5,11 @@ title               : junit
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-06-23 11:35:03 +0200 
-version             : 5 
+date                : 2006-09-29 11:00:09 +0200 
+version             : 6 
 creator             : kocka 
 ---
-Jeeezusom! Nincs Junit snip!?!?!?!?
-
-[http://junit.org/](http://junit.org/)
+![image](http://www.junit.org/images/junitlogo.gif)(http://junit.org/)
 
 Szoval a junit alapveto eszkoz egy onmagara valamit is ado programozo kezeben. Bar eleg egyszerucske. A junit teszteket hajt vegre. Valahogy igy:
 
@@ -55,6 +53,8 @@ A junit mindenféle portjai:
 *   satobbiunit
 
 Nekem a kedvencem az amikor egyszerűen csinálsz egy spring context-et és abból szedsz ki bean-eket amiken meghívhatsz a tesztekben metódusokat. Nagyon könnyen ujrafelhasználhatóvá teszi a teszteket.
+
+A 4.1-es verzio ujitasa kozott a leglenyegesebb talan a [Test/Categorization](Test/Categorization.html), szinten [java](java.html) [annotations](annotations.html) segitsegevel.
 
 Cikkek:
 
