@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-09-13 11:19:09 +0200 
-version             : 8 
+date                : 2006-10-02 11:39:31 +0200 
+version             : 9 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -18,6 +18,7 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://jroller.com/page/RickHigh](http://jroller.com/page/RickHigh) Az egyik kedvencem, jo otletei vannak es meg is csinalja
 *   [http://javapeople.blogspot.com/](http://javapeople.blogspot.com/) (kezdoknek, de abban a kategoriaban nagyon szinvonalas)
 *   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
+*   [http://andyhot.di.uoa.gr/blojsom/blog/default/](http://andyhot.di.uoa.gr/blojsom/blog/default/) [tapestry](tapestry.html)s csako
 
 Magyar:
 
