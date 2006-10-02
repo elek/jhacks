@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-02 18:40:25 +0200 
-author              : admin 
+author              : kocka 
 title               : tapestry 
 name                : tapestry 
 layout              : wiki 
 path                : tapestry 
-date                : 2006-03-26 01:51:17 +0100 
-version             : 1 
+date                : 2006-10-02 11:40:16 +0200 
+version             : 6 
 creator             : stoned 
 ---
 [http://jakarta.apache.org/tapestry](http://jakarta.apache.org/tapestry)
@@ -52,3 +52,5 @@ Minta alkalmazások:
 *   [Tapestry+Hibernate](http://nemesisit.rdsnet.ro/opendocs/tapehibe2/tapehibe2.html)
 *   [Better petshop (Spring+Tapestry+Hibernate)](https://betterpetshop.dev.java.net/)
 *   [Workbench](http://www.t-deli.com/workbench/app) Működő demó néhány Tapestry feature demonstrálására. Dates, chart, exception: lotta fun. Pallette: ez kérem egy komponens a contrib library-ből. És ahh. A jobb alsó sarok. Inspector komponens.
+
+
