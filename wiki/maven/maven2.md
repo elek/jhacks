@@ -5,17 +5,17 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-09-15 12:16:12 +0200 
-version             : 20 
+date                : 2006-10-02 12:31:13 +0200 
+version             : 21 
 creator             : kocka 
 ---
-A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi.
+A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi. Ha a [maven/maven1](../maven/maven1.html)gyel problemaid voltak de meg nyitott vagy uj dolgokra, probald ki batran a maven2-t, lenyegesen sokat javit az egyebkent is jo elkepzeles megvalositasan.
 
 *   regi maven peldaul egy pluginen keresztul tamogatta a multiprojecteket, ezt a maven 2 alapbol tudja
 *   Minden plugin lett, azaz mindener a halozathoz nyul, az alap cucc csak 1 mega, minden mast csak akkor tolt le ha kell.
 *   Uj, a regivel termeszetesen inkompatibilis plugin struktura ([maven/maven2/mojo](../maven/maven2/mojo.html))
 *   uj repository struktura (de tamogatja a regit is "legacy" neven)
-*   archetype-ok új projectek villám gyors létrehozására
+*   archetype-ok új projectek villám gyors létrehozására ([lista](http://docs.codehaus.org/display/MAVENUSER/Archetypes+List))
 *   mirrorozhato a repository, nem al meg az elet ha lehal egy szerver: [http://maven.apache.org/guides/mini/guide-mirror-settings.html](http://maven.apache.org/guides/mini/guide-mirror-settings.html)
 *   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/) (vagy a [proximity](../proximity.html))
 *   build lifecycle koncepcio
