@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-10-03 17:28:28 +0200 
-version             : 10 
+date                : 2006-10-03 19:13:47 +0200 
+version             : 11 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -16,7 +16,6 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://www.trajano.net/](http://www.trajano.net/) jopofa, bar van benne offtopic alaposan
 *   [http://www.jroller.com/page/fate](http://www.jroller.com/page/fate) _Bile Blog_, nagyon nepszeru de idonkent tenyleg nem ertem hogy miert (idonkent atom marhasagokat ir)
 *   [http://jroller.com/page/RickHigh](http://jroller.com/page/RickHigh) Az egyik kedvencem, jo otletei vannak es meg is csinalja
-*   [http://javapeople.blogspot.com/](http://javapeople.blogspot.com/) (kezdoknek, de abban a kategoriaban nagyon szinvonalas)
 *   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
 *   [http://andyhot.di.uoa.gr/blojsom/blog/default/](http://andyhot.di.uoa.gr/blojsom/blog/default/) [tapestry](tapestry.html)s csako
 *   [http://freemarker.blogspot.com/](http://freemarker.blogspot.com/) magyarok angolul, a [freemarker](FreeMarker.html)es arcoktol
