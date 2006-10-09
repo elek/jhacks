@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-10-03 19:13:47 +0200 
-version             : 11 
+date                : 2006-10-09 16:47:34 +0200 
+version             : 12 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -24,6 +24,7 @@ Magyar:
 
 *   [http://problemjava.blogspot.com/](http://problemjava.blogspot.com/) ([karenin](karenin.html))
 *   [http://www.joeblog.hu/](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
+*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm)
 *   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) es mas hackelesek, nagyon ql :))
 
 Lasd meg: [linkek](linkek.html) meg amit oldalt latsz ugyebar...
