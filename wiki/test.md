@@ -5,8 +5,8 @@ title               : test
 name                : test 
 layout              : wiki 
 path                : test 
-date                : 2006-09-10 23:47:15 +0200 
-version             : 5 
+date                : 2006-10-10 10:40:41 +0200 
+version             : 6 
 creator             : kocka 
 ---
 A teszt nelkuli kod nem program hanem bughalmaz.
@@ -25,5 +25,10 @@ Snippek ez alatt:
 -   [test](test.html)
 
 
+
+[blog](blog.html)ok a temaban:
+
+*   [http://thediscoblog.com/](http://thediscoblog.com/)
+*   [http://www.testearly.com/](http://www.testearly.com/)
 
 Lasd meg: [xp](XP.html), [continuous integration](Continuous%20Integration.html), [functional testing](functional%20testing.html)
