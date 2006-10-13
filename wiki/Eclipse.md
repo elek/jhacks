@@ -5,8 +5,8 @@ title               : Eclipse
 name                : Eclipse 
 layout              : wiki 
 path                : Eclipse 
-date                : 2006-09-20 15:38:22 +0200 
-version             : 12 
+date                : 2006-10-13 11:10:49 +0200 
+version             : 13 
 creator             : zsoltk 
 ---
 Hat akkor aljon is itt nemi bemutato a prg-rol.
@@ -80,3 +80,5 @@ Nagy meretu projectek (mondjuk 20 mega felett) eseteben az Eclipse bosszantoan l
 
 *   [http://eclipse-wiki.info/](http://eclipse-wiki.info/) Mint a neve is mutatja, egy wiki eclipse temakorben
 *   [http://planeteclipse.org/planet/](http://planeteclipse.org/planet/) eclipse planet 
+
+
