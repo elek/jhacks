@@ -5,8 +5,8 @@ title               : grails
 name                : grails 
 layout              : wiki 
 path                : grails 
-date                : 2006-10-13 11:07:27 +0200 
-version             : 2 
+date                : 2006-10-15 22:50:13 +0200 
+version             : 3 
 creator             : kocka 
 ---
 ![image](http://www.grails.org/images/grails_logo.jpg)(http://www.grails.org/)
@@ -18,3 +18,8 @@ Egy [rad](rad.html) [webapp](webapp.html) alkalmazas fejleszto eszkoz, [hibernat
 Van benne egy kis [jetty](jetty.html) is, szoval minden meg rajta egybol.
 
 Hat, kiprobalva gyorsan: igen tenyleg mukodik egy gyors apro fejlesztesben, de tobbet nem tudok mondani. Ha valaki csinalt vele nagyobb komolyabb dolgot keretik nyilatkozni :)
+
+Nehany funkcio:
+
+*   [test](test.html)ek tamogatasa, [functional test](Missing.html)ek ([canoo](canoo.html))
+*   alapbol az [eclipse](Eclipse.html)hez general project es classpath fileokat
