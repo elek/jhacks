@@ -5,8 +5,8 @@ title               : grails
 name                : grails 
 layout              : wiki 
 path                : grails 
-date                : 2006-10-15 22:50:13 +0200 
-version             : 3 
+date                : 2006-10-15 22:54:27 +0200 
+version             : 4 
 creator             : kocka 
 ---
 ![image](http://www.grails.org/images/grails_logo.jpg)(http://www.grails.org/)
@@ -21,5 +21,5 @@ Hat, kiprobalva gyorsan: igen tenyleg mukodik egy gyors apro fejlesztesben, de t
 
 Nehany funkcio:
 
-*   [test](test.html)ek tamogatasa, [functional test](Missing.html)ek ([canoo](canoo.html))
+*   [test](test.html)ek tamogatasa, [functional testing](functional%20testing.html) ([canoo](canoo.html))
 *   alapbol az [eclipse](Eclipse.html)hez general project es classpath fileokat
