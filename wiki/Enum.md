@@ -5,11 +5,11 @@ title               : Enum
 name                : Enum 
 layout              : wiki 
 path                : Enum 
-date                : 2006-10-15 22:23:36 +0200 
-version             : 1 
+date                : 2006-10-15 22:23:52 +0200 
+version             : 2 
 creator             : karenin 
 ---
-Java 5 újítás, típusos felsorolás konstanst lehet vele ízlésesen csinálni.
+[Java 1.5](java%201.5.html) újítás, típusos felsorolás konstanst lehet vele ízlésesen csinálni.
 
 Definíciója az osztályéhoz hasonló:
 
