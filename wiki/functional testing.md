@@ -5,8 +5,8 @@ title               : functional testing
 name                : functional testing 
 layout              : wiki 
 path                : functional testing 
-date                : 2006-09-08 13:43:46 +0200 
-version             : 3 
+date                : 2006-10-18 17:04:24 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Funkcionalis tesztekre hasznalt cuccok
@@ -17,5 +17,8 @@ Funkcionalis tesztekre hasznalt cuccok
 *   [commons-latka](commons-latka.html)
 *   [selenium](selenium.html)
 *   [watij](watij.html)
+*   [canoo](canoo.html)
+
+A boseg zavara :)
 
 Keretik ezeket nagyon szeretni :) mert regen piszokul draga meg sokat hegesztos dolgok voltak helyettuk.
