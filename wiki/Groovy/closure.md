@@ -5,11 +5,11 @@ title               : Groovy/closure
 name                : Groovy/closure 
 layout              : wiki 
 path                : Groovy/closure 
-date                : 2006-10-18 12:33:38 +0200 
-version             : 1 
+date                : 2006-10-18 12:33:58 +0200 
+version             : 2 
 creator             : kocka 
 ---
-A closure kb olyan mint egy callback osztaly [java](../java.html)ban, csak annal kicsit rovidebben meg lehet fogalmazni :)
+A closure a [groovy](../Groovy.html)ban kb olyan mint egy callback osztaly [java](../java.html)ban, csak annal kicsit rovidebben meg lehet fogalmazni :)
 
 peldaul van egy listank aminek minden elemere kiiratnank +1-et a kimenetre.
 ```
