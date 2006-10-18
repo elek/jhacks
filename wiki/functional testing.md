@@ -5,8 +5,8 @@ title               : functional testing
 name                : functional testing 
 layout              : wiki 
 path                : functional testing 
-date                : 2006-10-18 17:04:24 +0200 
-version             : 4 
+date                : 2006-10-18 17:05:57 +0200 
+version             : 5 
 creator             : kocka 
 ---
 Funkcionalis tesztekre hasznalt cuccok
@@ -22,3 +22,5 @@ Funkcionalis tesztekre hasznalt cuccok
 A boseg zavara :)
 
 Keretik ezeket nagyon szeretni :) mert regen piszokul draga meg sokat hegesztos dolgok voltak helyettuk.
+
+
