@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-02-15 23:40:05 +0100 
-author              : admin 
+author              : kocka 
 title               : java 1.7/native xml support 
 name                : java 1.7/native xml support 
 layout              : wiki 
 path                : java 1.7/native xml support 
-date                : 2006-03-26 01:48:12 +0100 
-version             : 1 
+date                : 2006-10-18 13:11:57 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Egy uj feature a [java 1.7](../java%201.7.html)ben, ami a [java 1.5](../java%201.5.html) [annotations](../annotations.html) ujitasat hasznalja arra hogy egy mappinget nyujtson [XML](../XML.html) es beanek kozott. Vajon minek ilyet egy nyelv magjaba epiteni?
@@ -25,4 +25,4 @@ Cikkek:
 
 *   [Native XML support in Dolphin ](http://weblogs.java.net/blog/kirillcool/archive/2005/07/native_xml_supp.html)
 
-Lasd meg: [castor](../castor.html), [xstream](../xstream.html), [jdom](../jdom.html), [don4j](../Missing.html), satobbi
+Lasd meg: [castor](../castor.html), [xstream](../xstream.html), [jdom](../jdom.html), [dom4j](../dom4j.html), satobbi
