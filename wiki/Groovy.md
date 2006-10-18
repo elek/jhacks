@@ -5,19 +5,18 @@ title               : Groovy
 name                : Groovy 
 layout              : wiki 
 path                : Groovy 
-date                : 2006-10-18 12:37:48 +0200 
-version             : 4 
+date                : 2006-10-18 12:38:13 +0200 
+version             : 5 
 creator             : kocka 
 ---
 ![image](http://docs.codehaus.org/download/userResources/GROOVY/logo)(http://groovy.codehaus.org/)
 
 Egy nagyon kotetlen szintaxisu scriptnyelv a JRE-re (azaz class formatumba fordithato).
 
-Erdekessegei:
+amit erdemes tudni:
 
 *   [Groovy/closure](Groovy/closure.html)
 *   [Groovy/iteration](Groovy/iteration.html)
-
 *   [rad](rad.html) rendszer a [grails](grails.html).
 *   [ide](IDE.html) support: [eclipse](Eclipse.html), [netbeans](Netbeans.html), [idea](IDEA.html) es egyebek elerhetoek a weboldalrol.
 
