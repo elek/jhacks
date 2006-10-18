@@ -5,8 +5,8 @@ title               : java
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2006-09-20 15:49:59 +0200 
-version             : 12 
+date                : 2006-10-18 13:10:59 +0200 
+version             : 13 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -27,7 +27,7 @@ A javat tobbfele branchban lehet megszerezni:
 *   [j2se](j2se.html) desktop fejlesztesekhez (foleg)
 *   [j2ee](j2ee.html) szerveroldali fejlesztesekhez
 
-Lasd: [java 1.3](Missing.html), [java 1.4](java%201.4.html), [java 1.5](java%201.5.html), [java 1.6](java%201.6.html)
+Lasd: [java 1.3](Missing.html), [java 1.4](java%201.4.html), [java 1.5](java%201.5.html), [java 1.6](java%201.6.html), [java 1.7](java%201.7.html)
 
 Anti-java kirohanasok :)
 
