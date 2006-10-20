@@ -1,21 +1,21 @@
 ---
 creationDate        : 2004-07-27 21:25:23 +0200 
-author              : admin 
+author              : kocka 
 title               : Aspect Oriented Programming 
 name                : AOP 
 layout              : wiki 
 path                : AOP 
-date                : 2006-03-26 01:42:34 +0100 
-version             : 1 
+date                : 2006-10-20 13:30:03 +0200 
+version             : 9 
 creator             : zsoltk 
 ---
-Anno a Sztupi nevezetu emberke hivta fel ra a figyelmemet. Gyakorlatilag legendakat zengett rola, uh. meg is neztem. Elsore nem teljesen lattam at, ertettem meg mire is valo, meg hogyan is erdemes csinalni, de vegul megertettem. (Egy reszet)
+Anno a [Sztupi](sztupi.html) nevezetu emberke hivta fel ra a figyelmemet. Gyakorlatilag legendakat zengett rola, uh. meg is neztem. Elsore nem teljesen lattam at, ertettem meg mire is valo, meg hogyan is erdemes csinalni, de vegul megertettem. (Egy reszet)
 
 A dolog nagyjabol es egeszebn arrol szol, hogy az ember programja egyre atlathatatlanabb lesz, ahogy fejlodik. Szepen megcsinalja a designt, aztan az idok folyaman egyre ujabb es ujabb dolgok tunnek fel, amiket szepen bele kell gyurni a rendszerbe. A vegeredmeny az, hogy a kulonbozo funkcionalitasokhoz tartozo kodreszletek szanaszet szorva lesznek benne a kodban. Ami belethato, hogy eleg nagy akoszhoz fog vezetni egy ido utan.
 
 Ennek a dolognak a kivedesere talaltak ki az AOP-ot.
 
-Tehat az AOP egyik alap koncepcioja az, hogy az ember megirja az OOP modellt, de ebben csak azokra a dolgokra koncentral, ami a funkcionalitashoz szukseges. Minden egyeb dolog (pld.: [logging](Logging.html)) az aspektusokban tortenik.
+Tehat az AOP egyik alap koncepcioja az, hogy az ember megirja az [OOP](oop.html) modellt, de ebben csak azokra a dolgokra koncentral, ami a funkcionalitashoz szukseges. Minden egyeb dolog (pld.: [logging](Logging.html)) az aspektusokban tortenik.
 
 Termeszetesen, hogy hol a hatar az OOP modell es az AOP funkcionalitas kozott, meg nem kerult egyertelmuen meghatarozasra es szerintem itt is a jozan esz fog diktalni.
 
@@ -34,8 +34,8 @@ A masik lenyeges dolog, amiert az AOP hasznalhato, az az elore nem latott funkci
 Ha ez a rovid kis ismerteto felkeltette az erdeklodesed, akkor a kovetkezoket ajanlom:
 
 *   A legnagyobb kapcsoloszajt: [http://aosd.net/](http://aosd.net/)
-*   Eclipse AJDT plugin: [http://www.eclipse.org/ajdt/](http://www.eclipse.org/ajdt/)
-*   Az AspectJ nevezetu project: [http://eclipse.org/aspectj/](http://eclipse.org/aspectj/)
+*   [Eclipse](Eclipse.html) AJDT plugin: [http://www.eclipse.org/ajdt/](http://www.eclipse.org/ajdt/)
+*   Az [AspectJ](Missing.html) nevezetu project: [http://eclipse.org/aspectj/](http://eclipse.org/aspectj/)
 *   Es a hozza tartozo dokumentacio, ami a fenti peldakat eleg jol targyalja: [http://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/doc/progguide/index.html](http://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/doc/progguide/index.html)
 
 Es igerem, hogy az AOP listat vegig fogom nezni es kiszedegetem azokat a best practice-okat, amiket emberek kitermeltek. Kisdobos szavamra!
@@ -51,13 +51,13 @@ Kétféle megoldás létezik, az egyik a [bytecode](bytecode.html)-ot módosítj
 
 [Bytecode](bytecode.html) módosítók:
 
-[http://eclipse.org/ajdt/](http://eclipse.org/ajdt/) : AspectJ. Az első Javas aspect megvalósítás AFAIK. A java szintakszis kibővítése, saját fordítóval, ami fordításkor "weaveli" össze az aspecteket (Az új verzióban mintha lenne valami runtime lehetőség is, de nem vagyok benne biztos). Az eclipse integrációnak köszönhetően remek tool support. Ő a "nagyágyú". (spring integráció folyamatban van).
+[http://eclipse.org/ajdt/](http://eclipse.org/ajdt/) : [AspectJ](Missing.html). Az első Javas aspect megvalósítás AFAIK. A java szintakszis kibővítése, saját fordítóval, ami fordításkor "weaveli" össze az aspecteket (Az új verzióban mintha lenne valami runtime lehetőség is, de nem vagyok benne biztos). Az eclipse integrációnak köszönhetően remek tool support. Ő a "nagyágyú". (spring integráció folyamatban van).
 
 [http://aspectwerkz.codehaus.org](http://aspectwerkz.codehaus.org) : Fordításkori és runtime bytecode módosítással éri el a célját. Elég flexibilis megoldás, marad a java szintakszisnál, xml-ben vagy java kóddal lehet konfigurálni. Ha jól emlékszem classloaderekkel oldja meg amit kell.
 
 Proxy alapú frameworkök:
 
-[http://jboss.org/products/aop](http://jboss.org/products/aop) : Erről keveset tudok, a JBoss 4.0 része lesz, bár úgy tudom, általános megoldásnak is szánják. AFAIK a Javassistot használja, szóval lehet hogy nem is proxy alapú? :-)
+[http://jboss.org/products/aop](http://jboss.org/products/aop) : Erről keveset tudok, a [JBoss](jboss.html) 4.0 része lesz, bár úgy tudom, általános megoldásnak is szánják. AFAIK a Javassistot használja, szóval lehet hogy nem is proxy alapú? :-)
 
 [http://dynaop.dev.java.net/](http://dynaop.dev.java.net/) : dynaop. Lightweight aop implementáció, dynamic proxy-t vagy [cglib](Missing.html)et használ. [BeanShell](BeanShell.html) konfiguráció. Igen gyors. Nekem nagyon tetszik :-) Támogatja az [http://aopalliance.sourceforge.net/](http://aopalliance.sourceforge.net/) APIt.
 
