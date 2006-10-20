@@ -5,8 +5,8 @@ title               : IDE
 name                : IDE 
 layout              : wiki 
 path                : IDE 
-date                : 2006-09-28 23:00:51 +0200 
-version             : 6 
+date                : 2006-10-20 12:46:13 +0200 
+version             : 7 
 creator             : kocka 
 ---
 __Integrated Developement Environment__
@@ -20,5 +20,12 @@ __Integrated Developement Environment__
 *   [Websphere App Dev](Websphere%20App%20Dev.html) ([IBM](IBM.html))
 *   [Sun Java Studio Enterprise](Sun%20Java%20Studio%20Enterprise.html) ([sun](Sun.html))
 *   [weblogic workshop](weblogic%20workshop.html) ([BEA](bea.html))
+
+Amit egy ide ad:
+
+*   [build](build.html) support (tobbnyire [ant](ant.html) az elvaras, de legyen pluginelheto)
+*   [ide/syntax highlight](Missing.html)
+*   [ide/code completion](ide/code%20completion.html)
+*   [refactoring](Refactoring.html) support
 
 
