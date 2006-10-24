@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-02 12:24:30 +0200 
-author              : admin 
+author              : kocka 
 title               : ioc 
 name                : ioc 
 layout              : wiki 
 path                : ioc 
-date                : 2006-03-26 01:48:03 +0100 
-version             : 1 
+date                : 2006-10-24 11:49:37 +0200 
+version             : 14 
 creator             : kocka 
 ---
 __inversion of control__
@@ -39,3 +39,5 @@ Linkek:
 *   [http://today.java.net/pub/a/today/2004/02/10/ioc.html](http://today.java.net/pub/a/today/2004/02/10/ioc.html)
 *   [http://www.theserverside.com/articles/article.tss?l=IOCBeginners](http://www.theserverside.com/articles/article.tss?l=IOCBeginners)
 *   [http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html](http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html)
+
+
