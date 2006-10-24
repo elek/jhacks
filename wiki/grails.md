@@ -5,8 +5,8 @@ title               : grails
 name                : grails 
 layout              : wiki 
 path                : grails 
-date                : 2006-10-20 12:27:09 +0200 
-version             : 6 
+date                : 2006-10-24 11:38:25 +0200 
+version             : 7 
 creator             : kocka 
 ---
 ![image](http://www.grails.org/images/grails_logo.jpg)(http://www.grails.org/)
@@ -27,5 +27,6 @@ Nehany funkcio:
 Faraszto dolgai:
 
 *   valami furcsa modon hasznalja a [spring](spring.html)-et, persze sima [dbcp](DBCP.html) datasource-ot startol fel amit a franko kis [groovy](Groovy.html)s config objektumaival inicializal, CSAKHOGY ezt a datasource-ot nem fogod tudni elerni az applicationContext.xml-be pakolt objektumokbol mert egy al-contextben van. Ezt nem tudom miert kell igy csinalni de letezo service osztalyok integralasa ([dao](DAO.html) foleg) innentol kezdve eleg cikis.
+*   nincs belenyomva a tranzakcio kezeles, azzal is harcolni kell
 
 
