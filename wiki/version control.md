@@ -5,8 +5,8 @@ title               : version control
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2006-09-21 14:42:29 +0200 
-version             : 2 
+date                : 2006-10-25 18:07:11 +0200 
+version             : 3 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -15,6 +15,7 @@ Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
 *   [SVN](svn.html), az izmos macso
 *   [Microsoft](Microsoft.html) sourcesafe, a rossz es a csuf
 *   [IBM](IBM.html) [Rational](Rational.html) [Clearcase](ClearCase.html), jehova ovjon tole
+*   [borland](borland.html) [starteam](starteam.html), csak hogy a clearcasenel is emlitsunk rosszabbat :-D
 *   meg sok egyeb erdeksseg, mint a [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper, meg az ujabban fejlesztett nemtudommi :)
 
 
