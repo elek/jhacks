@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-15 15:12:28 +0200 
-author              : admin 
+author              : kocka 
 title               : java 1.4 
 name                : java 1.4 
 layout              : wiki 
 path                : java 1.4 
-date                : 2006-03-26 01:48:10 +0100 
-version             : 1 
+date                : 2006-10-26 17:34:26 +0200 
+version             : 3 
 creator             : kocka 
 ---
 A [java](java.html) 1.4 fobb ujdonsagai ezek voltak (tortenelem orakra hogy elgyen mibol keszulni):
@@ -15,3 +15,4 @@ A [java](java.html) 1.4 fobb ujdonsagai ezek voltak (tortenelem orakra hogy elgy
 *   [logging](Logging.html)
 *   [assertion](assertion.html) ha jol emlekszem
 *   [regexp](regexp.html)
+*   disztroba kerul a [jaas](JAAS.html) (egyebkent kulon volt)
