@@ -5,13 +5,13 @@ title               : Java Authentication and Authorization Service
 name                : JAAS 
 layout              : wiki 
 path                : JAAS 
-date                : 2006-10-27 13:44:46 +0200 
-version             : 7 
+date                : 2006-10-27 17:16:51 +0200 
+version             : 8 
 creator             : kocka 
 ---
 [http://java.sun.com/products/jaas/](http://java.sun.com/products/jaas/)
 
-A [java 1.4](java%201.4.html) ota resze a disztronak, hasonloan mas security frameworkokhoz, az a celja hogy a kodot vegrehajtasa elott ellenorizhato legyen a vegrehajto entitas azonossaga es jogosultsagai. Ja es persze ezt ne kelljen beleganyolni a kodba.
+A [java 1.4](java%201.4.html) ota resze a disztronak, hasonloan mas security frameworkokhoz, az a celja hogy a kodot vegrehajtasa elott ellenorizhato legyen a vegrehajto entitas azonossaga es jogosultsagai. Ja es persze ezt ne kelljen beleganyolni a kodba. De azert megiscsak csak kell :-D
 
 Cikkek:
 
