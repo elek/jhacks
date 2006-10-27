@@ -5,8 +5,8 @@ title               : Refactoring
 name                : Refactoring 
 layout              : wiki 
 path                : Refactoring 
-date                : 2006-05-16 10:25:24 +0200 
-version             : 5 
+date                : 2006-10-27 13:09:59 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Egy ismerosom szerint nem az szamit hogy hogy designolsz es hogy kodolsz, hanem az hogy hogy tudsz refaktoralni. Van benne valami igazsag :)
@@ -31,3 +31,5 @@ Na es ez nem mindig sikerul, de ennek nem feltetlenul te vagy az oka. Mindenki d
 Hasznos cuccok:
 
 *   [http://www.refactoring.com/](http://www.refactoring.com/)
+
+
