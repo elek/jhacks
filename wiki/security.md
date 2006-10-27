@@ -5,11 +5,12 @@ title               : security
 name                : security 
 layout              : wiki 
 path                : security 
-date                : 2006-10-27 13:08:06 +0200 
-version             : 2 
+date                : 2006-10-27 13:47:13 +0200 
+version             : 3 
 creator             : kocka 
 ---
 *   [acegi](acegi.html)
 *   [JAAS](JAAS.html)
+*   [gabriel](gabriel.html)
 
 
