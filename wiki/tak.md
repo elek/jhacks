@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-03 16:09:05 +0100 
-author              : admin 
+author              : kocka 
 title               : tak 
 name                : tak 
 layout              : wiki 
 path                : tak 
-date                : 2006-03-26 01:51:16 +0100 
-version             : 1 
+date                : 2006-10-27 13:42:59 +0200 
+version             : 7 
 creator             : zsoltk 
 ---
 Ertsd: ták
