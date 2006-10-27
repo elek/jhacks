@@ -5,8 +5,8 @@ title               : Java Authentication and Authorization Service
 name                : JAAS 
 layout              : wiki 
 path                : JAAS 
-date                : 2006-10-27 13:32:51 +0200 
-version             : 6 
+date                : 2006-10-27 13:44:46 +0200 
+version             : 7 
 creator             : kocka 
 ---
 [http://java.sun.com/products/jaas/](http://java.sun.com/products/jaas/)
@@ -18,6 +18,7 @@ Cikkek:
 *   [All that JAAS](http://www.javaworld.com/cgi-bin/mailto/x_java.cgi)
 *   [Using JAAS for Authorization and Authentication](http://www.mooreds.com/jaas.html)
 *   [Java authorization internals](http://www-128.ibm.com/developerworks/java/library/j-javaauth/)
+*   [How JAAS enables use of custom security repositories with J2EE applications](http://www.theserverside.com/tt/articles/article.tss?l=Pramati-JAAS)
 
 Lasd: [security](security.html)
 
