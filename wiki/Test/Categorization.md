@@ -5,8 +5,8 @@ title               : Test/Categorization
 name                : Test/Categorization 
 layout              : wiki 
 path                : Test/Categorization 
-date                : 2006-09-28 22:59:49 +0200 
-version             : 5 
+date                : 2006-10-31 15:19:23 +0100 
+version             : 6 
 creator             : kocka 
 ---
 A tortenet kicsit kavar, mert aki csak [pojo](../pojo.html)kat kodol, az neha meg van gyozodve rola hogy a tesztek cefet gyorsan lefutnak, minden platformon, ugyhogy kar is kategorizalni egy project tesztjeit, le lehet barmelyik buildben futtatni siman.
@@ -21,5 +21,6 @@ Linkek:
 
 *   [Implementing Test Categorization](http://thediscoblog.com/?p=19) ([ant](../ant.html)tal)
 *   [Introduction to build profiles](http://maven.apache.org/guides/introduction/introduction-to-profiles.html) ([maven/maven2](../maven/maven2.html)) egy elegans mod a test categorization kivitelezesere [surefire pluginnal](http://maven.apache.org/plugins/maven-surefire-plugin/examples/testng.html) (persze csak [testng](../testng.html) eseteben :( )
+*   [Use test categorization for agile builds](http://www.ibm.com/developerworks/java/library/j-cq10316/index.html?ca=drs-)
 
 
