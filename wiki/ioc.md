@@ -5,13 +5,14 @@ title               : ioc
 name                : ioc 
 layout              : wiki 
 path                : ioc 
-date                : 2006-10-24 11:49:37 +0200 
-version             : 14 
+date                : 2006-10-31 12:55:56 +0100 
+version             : 15 
 creator             : kocka 
 ---
 __inversion of control__
 
-Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg [COP](COP.html))
+Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg [COP](COP.html)).
+Ugy 4-5 evvel ezelott par ember agymenese volt, utanna ugy 1-2 evvel ezelottig hype lett, es azota szerintem mainstream technologia, szoval aki kicsit is ad magara az ismeri.
 Az IoC az amit Martin Fowler atnevezett __Dependency injection__-ra. Mind1, ugy hovja ahogy akarja :)
 
 Alapfilozofia: "Dont call me. I will call you!"
