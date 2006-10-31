@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-21 18:22:30 +0200 
-author              : kocka 
+author              : karenin 
 title               : Enterprise Service Bus 
 name                : ESB 
 layout              : wiki 
 path                : ESB 
-date                : 2006-09-25 14:17:23 +0200 
-version             : 8 
+date                : 2006-10-31 21:17:35 +0100 
+version             : 9 
 creator             : kocka 
 ---
 Vallalati integraciora kitalalt szoftverkategoria. Van szabvanyunk is: [jsr 208](http://www.jcp.org/en/jsr/detail?id=208) ([jbi](JBI.html))
@@ -15,6 +15,7 @@ A szabvannyal kapcsolatban erdemes elolvasni a [BEA](bea.html) es az [IBM](IBM.h
 
 Ismert cuccosok:
 
+*   OpenESB [https://open-esb.dev.java.net/](https://open-esb.dev.java.net/)
 *   [mule](mule.html)
 *   [celtix](celtix.html) keszuloben
 *   [servicemix](servicemix.html)
