@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-19 21:40:12 +0100 
-author              : admin 
+author              : kocka 
 title               : workflow 
 name                : workflow 
 layout              : wiki 
 path                : workflow 
-date                : 2006-03-26 01:51:28 +0100 
-version             : 1 
+date                : 2006-11-03 14:03:29 +0100 
+version             : 3 
 creator             : kocka 
 ---
 Az a rendszer aminek te deklarativan meghatarozhatod hogy egy adott objektum milyen allapotokon kell hogy vegigmenjen, es o meg majd tuggya hogy mit kell tenni, aszt csinalja is megfele ezerrel.
@@ -14,3 +14,7 @@ Az a rendszer aminek te deklarativan meghatarozhatod hogy egy adott objektum mil
 *   [OsWorkflow](Missing.html)
 *   [Werkflow](Missing.html)
 *   [enhydra shark](Missing.html)
+
+Linkek:
+
+*   [Workflow Patterns](http://is.tm.tue.nl/research/patterns/)
