@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-08 23:59:43 +0100 
-author              : kocka 
+author              : karenin 
 title               : PHP 
 name                : PHP 
 layout              : wiki 
 path                : PHP 
-date                : 2006-05-17 10:39:49 +0200 
-version             : 3 
+date                : 2006-11-03 15:28:27 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Hitteritek egy kicsit mert jol esik.
@@ -32,3 +32,5 @@ Mindez nem fuggetlen velemeny. A legnagyobb [tak](tak.html)okat amiket eddig lat
 
 *   [resin](resin.html)
 *   [weblogic](weblogic.html)
+
++Szinte bármelyik alkalmazás szerverben futtatható php a [PHP/Java Bridge](http://php-java-bridge.sourceforge.net/) segítségével.
