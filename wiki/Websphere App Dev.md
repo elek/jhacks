@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-27 11:19:20 +0200 
-author              : admin 
+author              : kocka 
 title               : Websphere App Dev 
 name                : Websphere App Dev 
 layout              : wiki 
 path                : Websphere App Dev 
-date                : 2006-03-26 01:43:03 +0100 
-version             : 1 
+date                : 2006-11-08 14:20:09 +0100 
+version             : 2 
 creator             : kocka 
 ---
 __Websphere Application Developer__
@@ -25,4 +25,10 @@ __Websphere Application Developer__
 
 es meg sok mas.
 
-Na es az ara: hat hanyagoljuk, ugy 4000 dolcsi korul volt legutobb amikor neztem :( Akkor inkab a magyar fejlesztok fogjak az eclipse-t teletuzdelik mindenfele pluginnal, [xdoclet](XDoclet.html), aztan had szoljon...
+Na es az ara: hat hanyagoljuk, ugy 4000 dolcsi korul volt legutobb amikor neztem :( Akkor inkab a magyar fejlesztok fogjak az eclipse-t teletuzdelik mindenfele pluginnal, [xdoclet](XDoclet.html), aztan had szoljon, egyebkent a [MyEclipse](myeclipse.html) arban is, kezelhetosegben is verte a tesztjeinken. Csak hat az nem [IBM](IBM.html) :-D
+
+Tovabbi szopas-lehetoseg a telepites, mert a telepito csomag tartalmazza a [java](java.html) futaskornyezetet is (vajon minek), ami kicsit specialis allatfaj, Fedora ala a compat csomagokat elso lepeskent fel kell pakolni, meg a libXp-t is, es aztan mar nem fog annyit jajgatni.
+
+Valamint ha sikerult feltelepiteni, az [open source](Open%20Source.html)on es [eclipse](Eclipse.html)n szocializalodott fejleszto dobbenten veszi eszre hogy az eclipse regi verziojara epul az egesz, ilyenkor kicsit boldogtalan az ember.
+
+De ha ilyesmiket felre tud az ember tenni, akkor eleg produktivan lehet benne hegeszteni, ha az ember kihasznalja minden lehetoseget.
