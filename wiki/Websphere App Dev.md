@@ -5,8 +5,8 @@ title               : Websphere App Dev
 name                : Websphere App Dev 
 layout              : wiki 
 path                : Websphere App Dev 
-date                : 2006-11-08 14:20:09 +0100 
-version             : 2 
+date                : 2006-11-08 14:20:49 +0100 
+version             : 3 
 creator             : kocka 
 ---
 __Websphere Application Developer__
@@ -21,7 +21,7 @@ __Websphere Application Developer__
 *   [Struts](struts.html) support, gyonyoru web flow diagram designer es WYSWYG UI designer
 *   [JSP](JSP.html): szinten WYSWYG UI designer
 *   [RDBMS](RDBMS.html) plugin
-*   [Web services](Missing.html) support
+*   [Webservices](WebServices.html) support
 
 es meg sok mas.
 
@@ -32,3 +32,5 @@ Tovabbi szopas-lehetoseg a telepites, mert a telepito csomag tartalmazza a [java
 Valamint ha sikerult feltelepiteni, az [open source](Open%20Source.html)on es [eclipse](Eclipse.html)n szocializalodott fejleszto dobbenten veszi eszre hogy az eclipse regi verziojara epul az egesz, ilyenkor kicsit boldogtalan az ember.
 
 De ha ilyesmiket felre tud az ember tenni, akkor eleg produktivan lehet benne hegeszteni, ha az ember kihasznalja minden lehetoseget.
+
+
