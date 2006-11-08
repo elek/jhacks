@@ -5,8 +5,8 @@ title               : Eclipse
 name                : Eclipse 
 layout              : wiki 
 path                : Eclipse 
-date                : 2006-10-13 11:10:49 +0200 
-version             : 13 
+date                : 2006-11-08 15:24:59 +0100 
+version             : 14 
 creator             : zsoltk 
 ---
 Hat akkor aljon is itt nemi bemutato a prg-rol.
@@ -75,6 +75,7 @@ Nagy meretu projectek (mondjuk 20 mega felett) eseteben az Eclipse bosszantoan l
 
 *   [websphere app dev](Websphere%20App%20Dev.html) ([IBM](IBM.html))
 *   [myeclipse](myeclipse.html)
+*   [weblogic workshop](weblogic%20workshop.html) ([BEA](bea.html)) a 9-estol kezdve, a 8.x-es szeria sajat volt
 
 # Linkek
 
