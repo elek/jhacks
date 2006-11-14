@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2006-03-29 12:32:04 +0200 
-version             : 9 
+date                : 2006-11-14 17:07:14 +0100 
+version             : 10 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -37,6 +37,10 @@ Mit is tud egy ilyen eszkoz:
 *   A [build](build.html) outputot es a teszteredmenyeket kikuldi a megfelelo cssatornakra (mail, [irc](irc.html), [IM](Missing.html), miegymas)
 *   Es persze mindehhez gyonyoru szep feluletet is biztosit.
 *   Mos, foz, takarit, megmenti a vilagot, neked mar telleg csak a kodot kell irnod
+
+Cikkek:
+
+*   [Automation for the people: Continuous feedback](http://www.ibm.com/developerworks/java/library/j-ap11146/index.html?ca=drs-)
 
 Lasd meg: [XP](XP.html)
 
