@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-08 16:28:55 +0100 
-author              : admin 
+author              : kocka 
 title               : javascript 
 name                : javascript 
 layout              : wiki 
 path                : javascript 
-date                : 2006-03-26 01:48:13 +0100 
-version             : 1 
+date                : 2006-11-15 18:56:39 +0100 
+version             : 3 
 creator             : kocka 
 ---
 Javascript != java
@@ -20,5 +20,7 @@ Objektum alapu. Vannak beepitett objektumok, de sajat osztalyt nem irhatsz.
 Interpretalt. A hiba akkor derul ki amikor az interpretacio odaer, ekkor jelenik meg az a csunya ikon a browsered aljaban.
 
 Aprobb UI logikara es kliens oldali validaciokra kivallo megoldas, azonban nyilvan nem potolja a szerver oldali validaciot, es a UI logika alatt sem az eger utan repkedo csillagokat es a felbukkano ablakokat kell erteni.
+
+A javascript az alapja az [ajax](ajax.html) technologianak, ami ugy mindannyiunk szive csucske :)
 
 Lasd meg: [BSF](BSF.html)
