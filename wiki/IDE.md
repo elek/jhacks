@@ -5,8 +5,8 @@ title               : IDE
 name                : IDE 
 layout              : wiki 
 path                : IDE 
-date                : 2006-11-08 14:27:24 +0100 
-version             : 8 
+date                : 2006-11-16 12:22:29 +0100 
+version             : 9 
 creator             : kocka 
 ---
 __Integrated Developement Environment__
@@ -29,5 +29,6 @@ Amit egy ide ad:
 *   [refactoring](Refactoring.html) support
 *   [debugger](Missing.html)
 *   [profiler](profiler.html) (jobb esetben)
+*   grafikus editorok
 
 
