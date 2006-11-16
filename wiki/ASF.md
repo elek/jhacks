@@ -5,8 +5,8 @@ title               : ASF
 name                : ASF 
 layout              : wiki 
 path                : ASF 
-date                : 2006-11-16 11:47:50 +0100 
-version             : 4 
+date                : 2006-11-16 11:48:48 +0100 
+version             : 5 
 creator             : kocka 
 ---
 __Apache Software Foundation__<br/>
@@ -15,7 +15,7 @@ __Apache Software Foundation__<br/>
 
 Szoftver alapitvany, amely szabad szoftverek fejleszteset tamogatja es koordinalja. Sajat liszenszuk az ASF liszensz, ami nagyon sok szabadsagot enged a felhasznaloknak es a tovabbfejlesztoknek, gyakorlatilag csak annyi a megkotes, hogy ha kiadod a sajat leszarmaztatott fejlesztesed, nevet kell cserelned a termeken.
 
-Regen a httpd project volt nagy zaszloshalyojuk, azota fantasztikus mennyisegu java es egyeb nyelevn megirt szoftver gordult le itt a futoszallagrol, olyanok mint a [tomcat](tomcat.html), a [cocoon](cocoon.html), a [struts](struts.html), a [lenya](lenya.html), az [avalon](avalon.html) es sorolhatnam.
+Regen a httpd project volt nagy zaszloshalyojuk, azota fantasztikus mennyisegu java es egyeb nyelevn megirt szoftver gordult le itt a futoszallagrol, olyanok mint a [tomcat](tomcat.html), a [cocoon](cocoon.html), a [struts](struts.html), a [lenya](lenya.html), az [avalon](avalon.html), [tapestry](tapestry.html), [hivemind](hivemind.html), [lucene](Lucene.html) es sorolhatnam.
 
 Mindent osszevetve az Apache annak ellenere hogy uzleti tevekenysege nincs, a java vilag egyik technikai nagyhatalma.
 
