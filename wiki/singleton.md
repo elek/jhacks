@@ -5,11 +5,11 @@ title               : singleton
 name                : singleton 
 layout              : wiki 
 path                : singleton 
-date                : 2006-11-16 11:33:34 +0100 
-version             : 1 
+date                : 2006-11-16 11:34:07 +0100 
+version             : 2 
 creator             : kocka 
 ---
-A Singleton [Design Pattern](Missing.html)
+A Singleton Design Pattern
 
 Lenyege: az alkalmazasban csak egyetlen egy peldanya lehessen az adott objektumnak:
 
@@ -34,3 +34,5 @@ public static synchronized MySingleton getInstance() {
 Hat ennyi. Valojaban persze csak az adott [classloader](classloader.html)en belul lesz singleton, de ez tobbnyire eleg.
 
 Mivel kicsit nehezen kezelheto eset, furi refaktoralni is, ezert [antipattern](antipattern.html) dijra lett eloterjesztve tobb esetben is.
+
+Lasd: [Design Patterns](Design%20Patterns.html)
