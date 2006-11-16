@@ -5,8 +5,8 @@ title               : maven/maven2/IDE support
 name                : maven/maven2/IDE support 
 layout              : wiki 
 path                : maven/maven2/IDE support 
-date                : 2006-11-16 11:23:05 +0100 
-version             : 2 
+date                : 2006-11-16 11:39:46 +0100 
+version             : 3 
 creator             : kocka 
 ---
 A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphhere app dev](../../Missing.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
@@ -24,9 +24,7 @@ Peldaul egy [webapp](../../webapp.html) eseten az [eclipse](../../Eclipse.html) 
 				<version>2.2</version>
 				<configuration>
 					<workspace>${basedir}</workspace>
-					<downloadSources>true</downloadSources>
 					<wtpversion>1.0</wtpversion>
-					<downloadsources>true</downloadsources>
 				</configuration>
 			</plugin>
 ```
