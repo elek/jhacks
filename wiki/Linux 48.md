@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-13 11:29:33 +0100 
-version             : 1 
+date                : 2006-11-16 11:57:25 +0100 
+version             : 2 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
@@ -42,6 +42,7 @@ Technologia:
 *   [lucene](Lucene.html)
 *   ja es [derby](Derby.html) a [db2](DB2.html) helyett
 *   [ajax](ajax.html) mindenhova
+*   dokumentacio: [openoffice.org](OpenOffice.org.html) es [argo uml](Argo%20UML.html)
 
 Az ajax-tol ugy nezett ki az UI mint egy csoda, Viktor nagyon vagja az egeszet :)
 
