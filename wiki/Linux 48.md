@@ -5,19 +5,19 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-16 11:57:25 +0100 
-version             : 2 
+date                : 2006-11-16 17:46:31 +0100 
+version             : 3 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
 
-[Elte](elte.html) csapat:
+Yikulju Ribus ([Elte](elte.html)) csapat:
 
 *   Kelmen Viktor
 *   Nemet Zsolt Balazs
 *   rosszmagam ([kocka](kocka.html))
 
-15 csapat nevezett iden.
+15 csapat nevezett iden, 2 nem tudott eljonni, 2 feladta
 
 [IBM](IBM.html) [Linux](Linux.html) 48 - [java](java.html) programozoi bajnoksag felsooktatasi hallgatoknak
 
