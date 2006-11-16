@@ -5,8 +5,8 @@ title               : maven/maven2/IDE support
 name                : maven/maven2/IDE support 
 layout              : wiki 
 path                : maven/maven2/IDE support 
-date                : 2006-11-16 11:39:46 +0100 
-version             : 3 
+date                : 2006-11-16 11:41:51 +0100 
+version             : 4 
 creator             : kocka 
 ---
 A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphhere app dev](../../Missing.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
@@ -164,5 +164,7 @@ mvn -DIDE=wsad eclipse:eclipse
 ```
 
 Ilyen modon fuggetlenne tettuk a projectunket a fejlesztokornyezettol. Azt meg erdemes megjegyezni hogy a leszarmaztatott idek hasznalnak helyenkent nem szabvanyos allomanyokat amiket maguk generalnak, ezeket az eclipse plugin nem tamogatja per pillanat, de lehet oket kezzel editalni.
+
+Szukseg eseten persze a fenti cucchoz hozzaadhatunk [spring](../../spring.html), [struts](../../struts.html) stb project nature-t es buildert.
 
 S lon beke es szeretet a vilagon.
