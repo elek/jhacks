@@ -5,12 +5,23 @@ title               : maven
 name                : maven 
 layout              : wiki 
 path                : maven 
-date                : 2006-09-08 13:50:59 +0200 
-version             : 24 
+date                : 2006-11-16 11:23:43 +0100 
+version             : 25 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/images/maven-small.gif)(http://maven.apache.org)<br/>
 [irc://irc.codehaus.org/maven](irc://irc.codehaus.org/maven)
+
+
+-   [maven](maven.html)
+-   [mavenium](mavenium.html)
+-   [maven/maven2/Archetype](maven/maven2/Archetype.html)
+-   [maven/maven2/mojo](maven/maven2/mojo.html)
+-   [maven/maven2/IDE support](maven/maven2/IDE support.html)
+-   [maven/maven2](maven/maven2.html)
+-   [maven/maven1](maven/maven1.html)
+
+
 
 Egy java [build](build.html) tool, erosen epit az [ant](ant.html)ra, uj reteget kepez felette. Ket, egymastol eleg erosen kulonbozo verzioja van: [maven/maven1](maven/maven1.html) es [maven/maven2](maven/maven2.html) Gyorsan osszehasonlitva az plain [ant](ant.html)-tal:
 
