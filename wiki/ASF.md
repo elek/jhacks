@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 10:37:35 +0200 
-author              : admin 
+author              : kocka 
 title               : ASF 
 name                : ASF 
 layout              : wiki 
 path                : ASF 
-date                : 2006-03-26 01:42:34 +0100 
-version             : 1 
+date                : 2006-11-16 11:47:50 +0100 
+version             : 4 
 creator             : kocka 
 ---
 __Apache Software Foundation__<br/>
@@ -20,3 +20,5 @@ Regen a httpd project volt nagy zaszloshalyojuk, azota fantasztikus mennyisegu j
 Mindent osszevetve az Apache annak ellenere hogy uzleti tevekenysege nincs, a java vilag egyik technikai nagyhatalma.
 
 Az ASF osszes [java](java.html) szoftverenek listaja: [http://jakarta.apache.org/site/java_at_apache.html](http://jakarta.apache.org/site/java_at_apache.html)
+
+
