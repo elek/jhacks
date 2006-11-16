@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-27 09:58:41 +0200 
-author              : kocka 
+author              : karenin 
 title               : Continuous Integration 
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2006-11-14 17:07:14 +0100 
-version             : 10 
+date                : 2006-11-16 09:41:04 +0100 
+version             : 11 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -41,6 +41,7 @@ Mit is tud egy ilyen eszkoz:
 Cikkek:
 
 *   [Automation for the people: Continuous feedback](http://www.ibm.com/developerworks/java/library/j-ap11146/index.html?ca=drs-)
+*   [Which open source CI tool is best suited for your application's environment?](http://www.javaworld.com/javaworld/jw-11-2006/jw-1101-ci.html) (review: Cruise Control, Continuum, Luntbuild, Hudson)
 
 Lasd meg: [XP](XP.html)
 
