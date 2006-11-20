@@ -5,8 +5,8 @@ title               : Laszlo
 name                : Laszlo 
 layout              : wiki 
 path                : Laszlo 
-date                : 2006-09-17 16:23:20 +0200 
-version             : 9 
+date                : 2006-11-20 18:47:50 +0100 
+version             : 10 
 creator             : zsoltk 
 ---
 Rich Internet Application development framework.
@@ -31,3 +31,7 @@ Sajat [test](test.html) rendszere is van lzunit neven.
 
 *   [http://www.openlaszlo.org/](http://www.openlaszlo.org/)
 *   [http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/](http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/) (nagyon impressziv demok)
+*   [Gliffy, egy izmosabb demo arrol hogy miket lehet belole kihozni](http://www.gliffy.com/gliffy/)
+
+
+
