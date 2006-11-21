@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-21 18:22:30 +0200 
-author              : karenin 
+author              : kocka 
 title               : Enterprise Service Bus 
 name                : ESB 
 layout              : wiki 
 path                : ESB 
-date                : 2006-10-31 21:17:35 +0100 
-version             : 9 
+date                : 2006-11-21 14:22:32 +0100 
+version             : 10 
 creator             : kocka 
 ---
 Vallalati integraciora kitalalt szoftverkategoria. Van szabvanyunk is: [jsr 208](http://www.jcp.org/en/jsr/detail?id=208) ([jbi](JBI.html))
@@ -26,3 +26,5 @@ Linkek:
 
 *   [Mule es ServiceMix osszehasonlits a ServiceMix oldalarol nezve](http://docs.codehaus.org/display/SM/How+does+ServiceMix+compare+to+Mule)
 *   [Implement two-way communication among ESB components](http://www.javaworld.com/javaworld/jw-09-2006/jw-0904-jbi_p.html)
+
+
