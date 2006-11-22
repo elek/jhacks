@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-22 07:40:51 +0100 
-version             : 4 
+date                : 2006-11-22 13:07:53 +0100 
+version             : 5 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
