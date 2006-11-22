@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-02 11:31:55 +0100 
-author              : admin 
+author              : kocka 
 title               : IBM 
 name                : IBM 
 layout              : wiki 
 path                : IBM 
-date                : 2006-03-26 01:42:40 +0100 
-version             : 1 
+date                : 2006-11-22 13:01:20 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://www.ibm.com/](http://www.ibm.com/)
@@ -29,3 +29,5 @@ Lasd meg:
 IBM linkek:
 
 *   [developerWorks](http://www.ibm.com/developerWorks/): foleg de nem kizarolag IBM technologiak, cikkek, tutorials, miegymas
+
+
