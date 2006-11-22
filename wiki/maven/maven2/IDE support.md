@@ -5,11 +5,11 @@ title               : maven/maven2/IDE support
 name                : maven/maven2/IDE support 
 layout              : wiki 
 path                : maven/maven2/IDE support 
-date                : 2006-11-16 11:41:51 +0100 
-version             : 4 
+date                : 2006-11-22 15:36:06 +0100 
+version             : 5 
 creator             : kocka 
 ---
-A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphhere app dev](../../Missing.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
+A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphere app dev](../../Websphere%20App%20Dev.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
 
 Nagyon egyszeru, imadni fogjatok :D
 
