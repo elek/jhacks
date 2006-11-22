@@ -5,8 +5,8 @@ title               : maven
 name                : maven 
 layout              : wiki 
 path                : maven 
-date                : 2006-11-16 11:23:43 +0100 
-version             : 25 
+date                : 2006-11-22 15:35:19 +0100 
+version             : 26 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/images/maven-small.gif)(http://maven.apache.org)<br/>
@@ -50,3 +50,5 @@ linkek:
 *   [j2ee](j2ee.html) with maven: [Building J2EE Projects with Maven](http://www.onjava.com/pub/a/onjava/2005/09/07/maven.html)
 
 Lasd meg: [build](build.html), [continuum](continuum.html)
+
+
