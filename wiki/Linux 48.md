@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-16 17:46:31 +0100 
-version             : 3 
+date                : 2006-11-22 07:40:51 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
@@ -47,3 +47,7 @@ Technologia:
 Az ajax-tol ugy nezett ki az UI mint egy csoda, Viktor nagyon vagja az egeszet :)
 
 A csapat igen kemenyen lenyomta az egesz fejlesztest. 48 ora alatt ugy kb 6-8 ora alvassal fejenkent, igencsak kemenyen megtoltuk. (Mondjuk en beteg voltam es idonkent szetestem, de hat van ilyen). Ugy sacc/kb par oranyi fejlesztes maradt hatra a teljes befejezesbol.
+
+Linkek:
+
+*   [Élménybeszámoló az IBM 48 órás programozói versenyéről](http://www.javaforum.hu/?newsId=170)
