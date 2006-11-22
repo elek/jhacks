@@ -5,8 +5,8 @@ title               : Websphere
 name                : Websphere 
 layout              : wiki 
 path                : Websphere 
-date                : 2006-11-22 13:03:38 +0100 
-version             : 2 
+date                : 2006-11-22 13:03:48 +0100 
+version             : 3 
 creator             : kocka 
 ---
 [http://www.ibm.com/software/websphere/](http://www.ibm.com/software/websphere/)
