@@ -5,8 +5,8 @@ title               : Certificate
 name                : Certificate 
 layout              : wiki 
 path                : Certificate 
-date                : 2006-11-26 17:26:59 +0100 
-version             : 1 
+date                : 2006-11-26 17:27:58 +0100 
+version             : 2 
 creator             : karenin 
 ---
 Java környékén elsősorban Sun-os Certificate-eket lehet gyűjtögetni, és utána az önéletrajzba illeszteni. Mint minden Certificate-nek, ennek is az értéke elsősorban a munkaadó hozzáállásán és a retorikai felkészültségen múlik.
@@ -19,13 +19,15 @@ Röviden (az SC mindenhol a Sun Certificated-et jelenti):
 
 *   SCJA (Java Associate) nagyon alap, nem is érdemes foglalkozni vele, cégvezetőknek van, akik szeretnének egy pecsétet arról, hogy var mire asszociálniuk, ha a Java szót használják. Nem épül rá semmi.
 *   SCJP (Java Programmer)  Erre épül az összes többi, tehát meg kell csinálni. Alap Java SE-t kérdez viszonylag részletesen, és értelmes (bár sokszor elég szemét) kérdésekkel.
-
-
-*   SCJD (Java Developper) Ez az egyik feladatos viszga, azaz nem csak teszt van, hanem beadandó feladat, amit majd egy zárthelyi esszével kell megvédeni. Szerintem érdemes inkább a következő 3-ra gyúrni.
+*   SCJD (Java Developper) Ez az egyik feladatos viszga, azaz nem csak teszt van, hanem beadandó feladat, amit majd egy zárthelyi esszével kell megvédeni. Szerintem érdemes inkább a következő 3-ra gyúrni. (SCJP kell hozzá)
  
+SCJP-re épül:
+
 *   SCWCD (Web Component Developer) Servlet és JSP. Állítólag elég húzós is tud lenni, mert elég sok API tudást kérdeznek. (Konkrétan tudod-e a jó neveket)
 *   SCDJWS (Web Services Developer) Egyelőre még a [JAX-RPC](JAX-RPC.html)-t kéri.
 *   SCBCD (Business Component Developer) [EJB](EJB.html). A 3-as 2007 elején fog kijönni, most még a 2.1-es az érvényes. Érdemes megvárni.
+
+Architekt:
 
 *   SCEA (Enterprise Architect) Architect vizsga, egy csomó elméleti kérdéssel (teszt) plusz egy beadandó feladat plusz egy esszé. Nem kell hozzá az SCJP, de érdemes ismerni az EJB-ket is a webet is, a j2ee és a sima patterneket stb.
 
