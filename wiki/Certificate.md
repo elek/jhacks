@@ -5,8 +5,8 @@ title               : Certificate
 name                : Certificate 
 layout              : wiki 
 path                : Certificate 
-date                : 2006-11-26 17:27:58 +0100 
-version             : 2 
+date                : 2006-11-26 17:28:42 +0100 
+version             : 3 
 creator             : karenin 
 ---
 Java környékén elsősorban Sun-os Certificate-eket lehet gyűjtögetni, és utána az önéletrajzba illeszteni. Mint minden Certificate-nek, ennek is az értéke elsősorban a munkaadó hozzáállásán és a retorikai felkészültségen múlik.
@@ -31,7 +31,7 @@ Architekt:
 
 *   SCEA (Enterprise Architect) Architect vizsga, egy csomó elméleti kérdéssel (teszt) plusz egy beadandó feladat plusz egy esszé. Nem kell hozzá az SCJP, de érdemes ismerni az EJB-ket is a webet is, a j2ee és a sima patterneket stb.
 
-Vizsgázni úgy lehet, hogy a magyarországi [Sun](Sun.html)-hoz be kell csengetni a vizsgadíjat (jelenleg 45+áfa, a tesztes vizsgákra, a 3 részesekre a 2-3 rész plusz dudva) arra kapsz egy voucher-t és azzal fel kell keresni valamelyik Prometric vizsgaközpontot. Elmenni és megcsinálni. A végén kapunk egy nyomtatványt a részeredményekről, és néhány hét múlva jön egy postai pakk is a hivatalos oklevéllel, kitűzővel stb.
+Vizsgázni úgy lehet, hogy a magyarországi [Sun](Sun.html)-hoz be kell csengetni a vizsgadíjat (jelenleg 45+áfa, a tesztes vizsgákra, a 3 részesekre a 2-3 rész plusz dudva) arra kapsz egy voucher-t és azzal fel kell keresni valamelyik Prometric vizsgaközpontot. Elmenni és megcsinálni. A végén kapsz egy nyomtatványt a részeredményekről, és néhány hét múlva jön egy postai pakk is a hivatalos oklevéllel, kitűzővel stb.
 
 A felkészülésről:
 Mindeki másra esküszik. Egyesek azt mondják, hogy be kell szerezni egy tankönyvet, mert az felhívja a figyelmedet az összes buktató szemét kérdésre, és néhány minta tesztet.
