@@ -5,15 +5,15 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-22 13:09:08 +0100 
-version             : 6 
+date                : 2006-11-27 18:01:16 +0100 
+version             : 7 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
 
 Yikulju Ribus ([Elte](elte.html)) csapat:
 
-*   Kelmen Viktor
+*   Kelemen Viktor
 *   Nemet Zsolt Balazs
 *   rosszmagam ([kocka](kocka.html))
 
