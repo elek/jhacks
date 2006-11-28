@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-11-22 15:37:56 +0100 
-version             : 22 
+date                : 2006-11-28 10:22:00 +0100 
+version             : 23 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi. Ha a [maven/maven1](../maven/maven1.html)gyel problemaid voltak de meg nyitott vagy uj dolgokra, probald ki batran a maven2-t, lenyegesen sokat javit az egyebkent is jo elkepzeles megvalositasan.
@@ -54,6 +54,12 @@ __Maven 2 felhasznalok:__
 *   [acegi](../acegi.html)
 *   [cocoon](../cocoon.html)
 *   es sok mas top project
+
+__Erdekesebb kulso pluginek:__
+
+    *   [qalab](../qalab.html)
+    *   [cargo](../cargo.html)
+
 
 Lasd: [maven](../maven.html), [maven/maven1](../maven/maven1.html), [build](../build.html), [proximity](../proximity.html)
 
