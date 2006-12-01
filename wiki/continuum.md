@@ -5,8 +5,8 @@ title               : continuum
 name                : continuum 
 layout              : wiki 
 path                : continuum 
-date                : 2006-09-20 16:02:59 +0200 
-version             : 19 
+date                : 2006-12-01 14:00:59 +0100 
+version             : 20 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
@@ -29,6 +29,7 @@ Szivasok:
 Cikkek:
 
 *   [Continuous Integration with Continuum](http://today.java.net/pub/a/today/2006/05/30/continuous-integration-with-continuum.html)
+*   [Configuring Continuum for CI](http://www.testearly.com/2006/08/05/configuring-continuum-for-ci/)
 
 Neten elerheto continuum szerverek:
 
