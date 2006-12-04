@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-03 15:12:05 +0100 
-author              : admin 
+author              : kocka 
 title               : webapp 
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2006-03-26 01:51:25 +0100 
-version             : 1 
+date                : 2006-12-04 17:40:17 +0100 
+version             : 5 
 creator             : kocka 
 ---
 Java web alkalmazasok
@@ -30,3 +30,5 @@ Nehany publikus webalkalmazas, az ihlet kedveert:
 *   admin feluletek, mint az [mx4j](mx4j.html)
 
 Hogy kicsit tajekozodj az ezer framework kozott, nezd at a [petshop collection](petshop%20collection.html)t, ahol a fobb architekturak demoira van egy-egy link.
+
+
