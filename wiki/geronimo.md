@@ -5,8 +5,8 @@ title               : geronimo
 name                : geronimo 
 layout              : wiki 
 path                : geronimo 
-date                : 2006-09-20 16:25:28 +0200 
-version             : 12 
+date                : 2006-12-04 17:42:24 +0100 
+version             : 13 
 creator             : kocka 
 ---
 ![image](http://www.epiqtech.com/corp/products/technology/opensource/images/design7_450x50.gif)(http://geronimo.apache.org/)
@@ -28,3 +28,5 @@ Linkek:
 *   Az [IBM](IBM.html) developerWorks [geronimo szekcioja](http://www-128.ibm.com/developerworks/opensource/top-projects/geronimo.html) egesz jo mellesleg...
 *   [Onjava: What is geronimo?](http://www.onjava.com/lpt/a/6664)
 *   [Geronimo wiki](http://cwiki.apache.org/geronimo/)
+
+
