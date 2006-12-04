@@ -5,8 +5,8 @@ title               : spring
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2006-09-21 17:12:30 +0200 
-version             : 9 
+date                : 2006-12-04 17:43:50 +0100 
+version             : 10 
 creator             : kocka 
 ---
 __Spring Framework__
@@ -16,7 +16,7 @@ Az alabbi abra jol szemlelteti a felepiteset:
 
 [Spring felepitese](http://www.springframework.org/docs/reference/images/spring-overview.gif)
 
-A Spring alapvetoen JavaBeanekkel dolgozik, igy nincs szukseg a "koltseges" [J2EE](j2ee.html) kontenerekre (melyek eroforras igenye igen csak nagy). Webes megjeleneshez eleg egy egyszeru java alapu webszerver (pl.: Jetty/Tomcat). Funkcionalitasaban joval megelozi az [EJB](EJB.html)-t.
+A Spring alapvetoen JavaBeanekkel (ertsd: [POJO](pojo.html)) dolgozik, igy nincs szukseg a "koltseges" [J2EE](j2ee.html) kontenerekre (melyek eroforras igenye igen csak nagy). Webes megjeleneshez eleg egy egyszeru java alapu webszerver (pl.: Jetty/Tomcat). Funkcionalitasaban joval megelozi az [EJB](EJB.html)-t.
 
 Nehany fontosabb tulajdonsaga:
 
@@ -41,3 +41,5 @@ Linkek:
 *   [Spring weboldal](http://www.springframework.org/)
 *   [Spring HUB](http://springhub.com/)
 *   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
+
+
