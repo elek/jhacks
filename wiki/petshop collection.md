@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-09 12:38:14 +0200 
-author              : admin 
+author              : kocka 
 title               : petshop collection 
 name                : petshop collection 
 layout              : wiki 
 path                : petshop collection 
-date                : 2006-03-26 01:48:36 +0100 
-version             : 1 
+date                : 2006-12-04 17:40:57 +0100 
+version             : 12 
 creator             : kocka 
 ---
 __Petshop collection__
@@ -27,3 +27,5 @@ Vegre valahara tullepett az emberiseg azon a vitan, hogy hogyan kell kiirni vala
 *   [beehive](beehive.html) [http://beehive.apache.org/docs/1.0.1/samples/petstore.html](http://beehive.apache.org/docs/1.0.1/samples/petstore.html)
 
 Es egy nem egeszen "petshop collection" de azert ez is erdekes: [http://raibledesigns.com/page/rd](http://raibledesigns.com/page/rd) ([stoned](stoned.html)) talalta.
+
+
