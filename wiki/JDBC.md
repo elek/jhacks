@@ -5,8 +5,8 @@ title               : JDBC
 name                : JDBC 
 layout              : wiki 
 path                : JDBC 
-date                : 2006-12-06 11:00:29 +0100 
-version             : 23 
+date                : 2006-12-06 11:00:48 +0100 
+version             : 24 
 creator             : kocka 
 ---
 
@@ -27,7 +27,7 @@ Alternativ megoldasok: [OR Mapping](OR%20Mapping.html), [EJB](EJB.html)
 __JDBC frontendek:__
 
 *   [squirrel-sql](Squirrel-SQL.html)
-*   [Oracle SQL Developer](http://www.oracle.com/technology/software/products/sql/index.html) ([JDBC](JDBC.html), de csak oracle-hez)
+*   [Oracle SQL Developer](http://www.oracle.com/technology/software/products/sql/index.html) ([JDBC](JDBC.html), de csak [oracle](Oracle.html)-hez)
 
 Lasd meg: [JTA](JTA.html)
 
