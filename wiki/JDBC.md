@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-16 17:14:57 +0200 
-author              : admin 
+author              : kocka 
 title               : JDBC 
 name                : JDBC 
 layout              : wiki 
 path                : JDBC 
-date                : 2006-03-26 01:42:41 +0100 
-version             : 1 
+date                : 2006-12-06 11:00:29 +0100 
+version             : 23 
 creator             : kocka 
 ---
 
@@ -24,4 +24,11 @@ A legalapabb megoldas [RDBMS](RDBMS.html)ek eleresere. Sajnos mivel az [SQL](SQL
 
 Alternativ megoldasok: [OR Mapping](OR%20Mapping.html), [EJB](EJB.html)
 
+__JDBC frontendek:__
+
+*   [squirrel-sql](Squirrel-SQL.html)
+*   [Oracle SQL Developer](http://www.oracle.com/technology/software/products/sql/index.html) ([JDBC](JDBC.html), de csak oracle-hez)
+
 Lasd meg: [JTA](JTA.html)
+
+
