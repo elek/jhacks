@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 19:08:10 +0200 
-author              : admin 
+author              : kocka 
 title               : struts 
 name                : struts 
 layout              : wiki 
 path                : struts 
-date                : 2006-03-26 01:51:12 +0100 
-version             : 1 
+date                : 2006-12-06 11:03:47 +0100 
+version             : 14 
 creator             : kocka 
 ---
 ![image](http://struts.apache.org/images/struts.gif)(http://jakarta.apache.org/struts/)
@@ -18,11 +18,11 @@ A struts egy [MVC](MVC.html) framework [webapp](webapp.html)okhoz. Ami nekem nag
 A hatranya az irdatlan nagyra novo xml fileok, meg az hogy ha nincs tool-od akkor kezzel kell :( Muszaj valami tool-t hasznalni:
 
 *   [Websphere App Dev](Websphere%20App%20Dev.html) (kivallo struts support, sajnos eleg dragan)
-*   [myeclipse](myeclipse.html) szinten pezert
+*   [Oracle](Oracle.html) [JDeveloper](JDeveloper.html)-ben is tudsz struccos alkalmazast csinalni, hasonlo modon mint AppDev-ben.
+*   [myeclipse](myeclipse.html) szinten pezert ([linux 48](Linux%2048.html)on stabilnak bizonyult)
 *   [StrutsBox](StrutsBox.html) ingyen de kicsit furi dolog
 *   [vim](VIM.html) yeah!!! :-D
 
-Az [Oracle](Oracle.html) [JDeveloper](JDeveloper.html)-ben is tudsz struccos alkalmazast csinalni, hasonlo modon mint AppDev-ben.
 
 hasznos, OSS eszkoz lehet a [xdoclet](XDoclet.html), mint a legtob esetben :)
 
