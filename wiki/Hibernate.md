@@ -5,8 +5,8 @@ title               : Hibernate
 name                : Hibernate 
 layout              : wiki 
 path                : Hibernate 
-date                : 2006-10-18 14:40:36 +0200 
-version             : 5 
+date                : 2006-12-06 13:25:10 +0100 
+version             : 6 
 creator             : zsoltk 
 ---
 [http://hibernate.org/](http://hibernate.org/)
@@ -20,3 +20,5 @@ Valojaban egy reteg a [JDBC](JDBC.html) api felett, nyilvan igy nem tudja a lehe
 Az [EJB3](EJB3.html) specifikacio nagyon kedvez a hibernate-nek.
 
 Lasd meg: [or mapping](OR%20Mapping.html), [persistence](persistence.html)
+
+
