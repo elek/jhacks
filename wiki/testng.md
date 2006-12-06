@@ -5,8 +5,8 @@ title               : testng
 name                : testng 
 layout              : wiki 
 path                : testng 
-date                : 2006-09-08 13:55:03 +0200 
-version             : 6 
+date                : 2006-12-06 15:16:14 +0100 
+version             : 7 
 creator             : kocka 
 ---
 [http://testng.org/](http://testng.org/)
@@ -20,3 +20,6 @@ __[ide](IDE.html) support:__
 __Cikkek:__
 
 *   [In pursuit of code quality: JUnit 4 vs. TestNG](http://www-128.ibm.com/developerworks/java/library/j-cq08296/index.html) (A disco[blog](blog.html)os csakotol)
+*   [Test Categorization Techniques with TestNG](http://dev2dev.bea.com/pub/a/2006/09/testng-categorization.html)
+
+
