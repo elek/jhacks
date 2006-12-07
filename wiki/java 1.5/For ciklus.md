@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-20 14:20:53 +0200 
-author              : admin 
+author              : kocka 
 title               : java 1.5/For ciklus 
 name                : java 1.5/For ciklus 
 layout              : wiki 
 path                : java 1.5/For ciklus 
-date                : 2006-03-26 01:48:11 +0100 
-version             : 1 
+date                : 2006-12-07 10:02:04 +0100 
+version             : 2 
 creator             : kocka 
 ---
 A [java 1.5](../java%201.5.html) uj ciklusszervezese.
@@ -34,4 +34,6 @@ for(String s:col){
 
 ```
 
-Hat roviden ennyi, azert nagyon ql. Az [eclipse](../Eclipse.html) es a [netbeans](../Netbeans.html) is tamogassa.
+Hat igen, sajna az iterator vagy az index ertek ilyenkor nem elerheto, ilyesmit akkor erdemes csinalni ha megvagyunk nelkule. Kb az esetek 60-70 szazalekaban.
+
+Roviden ennyi, azert nagyon ql. Az [eclipse](../Eclipse.html) es a [netbeans](../Netbeans.html) is tamogassa.
