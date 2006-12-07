@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-11-27 18:01:16 +0100 
-version             : 7 
+date                : 2006-12-07 21:57:48 +0100 
+version             : 8 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
@@ -51,3 +51,4 @@ A csapat igen kemenyen lenyomta az egesz fejlesztest. 48 ora alatt ugy kb 6-8 or
 Linkek:
 
 *   [Élménybeszámoló az IBM 48 órás programozói versenyéről](http://www.javaforum.hu/?newsId=170)
+*   Balazs is irt egy cikket az [ELTE](elte.html)-IK BIT cimu lapjaba. Az infokar ujsaga vajon miert csak offline letezik...
