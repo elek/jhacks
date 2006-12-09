@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-12-09 18:01:53 +0100 
-version             : 9 
+date                : 2006-12-09 18:05:45 +0100 
+version             : 10 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
@@ -55,6 +55,6 @@ Linkek:
 
 # Post-log
 
-Eredmenyhirdetes utan. Sajnos eleg durvan lepontoztak a csapatunkat. Az elso helyezet [ejb](EJB.html)t (session beaneket) vetett be es [jsf](JSF.html)et, ennyit tudok rola, funkcionalitasban kb ugyanaddig juthattak mint mi, persze nem lattam mindent. Szamomra kicsit Csinibaba-utanerzese van a dolognak, de azt el kell ismerni hogy a gyoztes csapat is jo volt. Csak nem latom hogy tenyleg mivel volt jobb.
+Eredmenyhirdetes utan. Sajnos eleg durvan lepontoztak a csapatunkat. Az elso helyezet [ejb](EJB.html)t (session beaneket) vetett be es [jsf](JSF.html)et (nomeg [ajax](ajax.html)ot, de szerintem Viktor [ajax](ajax.html)os UI-designja akkor is mindent uberelt), ennyit tudok rola, funkcionalitasban kb ugyanaddig juthattak mint mi (szinten [lucene](Lucene.html)), persze nem lattam mindent. Szamomra kicsit Csinibaba-utanerzese van a dolognak, meg hat alazo is volt, de azt el kell ismerni hogy a gyoztes csapat is tok jo volt es vagtak a temat. Csak nem latom hogy tenyleg mivel volt jobb.
 
 A gaz az egeszben az, hogy a nevemet marketingben felhasznalhatja az [IBM](IBM.html), ami nem tesz jot a szakmai hiremnek, de majd csak kiheverem :)
