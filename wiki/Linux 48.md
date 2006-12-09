@@ -5,8 +5,8 @@ title               : Linux 48
 name                : Linux 48 
 layout              : wiki 
 path                : Linux 48 
-date                : 2006-12-07 21:57:48 +0100 
-version             : 8 
+date                : 2006-12-09 18:01:53 +0100 
+version             : 9 
 creator             : kocka 
 ---
 Na ide kaptok egy beszamolot az esemenyrol. :)
@@ -52,3 +52,9 @@ Linkek:
 
 *   [Élménybeszámoló az IBM 48 órás programozói versenyéről](http://www.javaforum.hu/?newsId=170)
 *   Balazs is irt egy cikket az [ELTE](elte.html)-IK BIT cimu lapjaba. Az infokar ujsaga vajon miert csak offline letezik...
+
+# Post-log
+
+Eredmenyhirdetes utan. Sajnos eleg durvan lepontoztak a csapatunkat. Az elso helyezet [ejb](EJB.html)t (session beaneket) vetett be es [jsf](JSF.html)et, ennyit tudok rola, funkcionalitasban kb ugyanaddig juthattak mint mi, persze nem lattam mindent. Szamomra kicsit Csinibaba-utanerzese van a dolognak, de azt el kell ismerni hogy a gyoztes csapat is jo volt. Csak nem latom hogy tenyleg mivel volt jobb.
+
+A gaz az egeszben az, hogy a nevemet marketingben felhasznalhatja az [IBM](IBM.html), ami nem tesz jot a szakmai hiremnek, de majd csak kiheverem :)
