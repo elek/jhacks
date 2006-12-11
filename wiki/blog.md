@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2006-12-11 11:54:13 +0100 
-version             : 14 
+date                : 2006-12-11 11:54:37 +0100 
+version             : 15 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -19,7 +19,7 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
 *   [http://andyhot.di.uoa.gr/blojsom/blog/default/](http://andyhot.di.uoa.gr/blojsom/blog/default/) [tapestry](tapestry.html)s csako
 *   [http://freemarker.blogspot.com/](http://freemarker.blogspot.com/) magyarok angolul, a [freemarker](FreeMarker.html)es arcoktol
-*   [http://jroller.com/page/carlossg](http://jroller.com/page/carlossg) [maven2](Missing.html)
+*   [http://jroller.com/page/carlossg](http://jroller.com/page/carlossg) ([maven](maven.html) foleg)
 
 Magyar:
 
