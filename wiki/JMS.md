@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 15:04:58 +0200 
-author              : admin 
+author              : kocka 
 title               : JMS 
 name                : JMS 
 layout              : wiki 
 path                : JMS 
-date                : 2006-03-26 01:42:43 +0100 
-version             : 1 
+date                : 2006-12-11 10:53:42 +0100 
+version             : 8 
 creator             : kocka 
 ---
 Java Messaging Service
@@ -25,3 +25,5 @@ A Message Queue-k vilaganak alapotlete az, hogy nem fontos hogy azonnal megkapja
 Egy eszrevetel: Bar a legtobb konyv rendszerinegracio szo alatt a [JMS](JMS.html)-t erti, a JMS valojaban eleg konkret esete a rendszerintegracionak, mondhatni hogy csak [java](java.html) [mom](MOM.html). Es tok jo is ebbol a szempontbol, csak az [esb](ESB.html)/[jbi](JBI.html) egy absztraktabb esete ennek.
 
 Lasd meg: [EJB/MDB](EJB/MDB.html)
+
+
