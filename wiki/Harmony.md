@@ -5,13 +5,13 @@ title               : Harmony
 name                : Harmony 
 layout              : wiki 
 path                : Harmony 
-date                : 2006-12-12 17:05:14 +0100 
-version             : 5 
+date                : 2006-12-12 17:06:13 +0100 
+version             : 6 
 creator             : kocka 
 ---
+![image](http://harmony.apache.org/images/harmony-logo-new.png)(http://harmony.apache.org/)
+
 Az [ASF](ASF.html) [java](java.html) VM projecje, ami [java 1.5](java%201.5.html) kompatibilis lesz. Mar letoltheto csomagok csomagok is vannak benne, szoval dolgoznak a sracok kemenyen, meg ha csendben is :)
-
-
 
 Egyelore csak a linkek vannak:
 
