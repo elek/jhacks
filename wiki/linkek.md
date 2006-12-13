@@ -5,8 +5,8 @@ title               : Oracle
 name                : linkek 
 layout              : wiki 
 path                : linkek 
-date                : 2006-10-09 16:47:21 +0200 
-version             : 9 
+date                : 2006-12-13 10:08:17 +0100 
+version             : 10 
 creator             : kocka 
 ---
 *   [Oracle technology network](http://otn.oracle.com/)
@@ -14,6 +14,10 @@ creator             : kocka
 # [bea](bea.html)
 
 *   [bea dev2dev](http://dev2dev.bea.com/)
+
+# [IBM](IBM.html)
+
+*   [IBM GyökérWorks](http://www.ibm.com/developerworks/)<br/>
 
 # RSS
 
