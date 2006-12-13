@@ -5,8 +5,8 @@ title               : haboru
 name                : haboru 
 layout              : wiki 
 path                : haboru 
-date                : 2006-12-13 09:37:50 +0100 
-version             : 10 
+date                : 2006-12-13 13:54:05 +0100 
+version             : 11 
 creator             : kocka 
 ---
 Szoval a java vilag haborui:
@@ -19,10 +19,9 @@ Szoval a java vilag haborui:
 *   [sun](Sun.html) [jre](JRE.html) vs [jrocket](jrocket.html) vs [IBM](IBM.html) vm
 *   ja es [PL-J](PL-J.html) vs [PLJava](pljava.html) :)
 *   [workflow](workflow.html) enginek haburuja
-*   _space-vel tabulalos idiota formazas_ __vs__ _szep tab-os,minden editorban széteső formazas, ahogy néhány [python](python.html) s [whitespace](Missing.html) fanatikus elképzeli _ :)
+*   [ide/code formating](ide/code%20formating.html): _space-vel tabulalos idiota formazas_ __vs__ _szep tab-os,minden editorban széteső formazas, ahogy néhány [python](python.html) s [whitespace](Missing.html) fanatikus elképzeli _ :)
 *   [maven](maven.html) vs [ant](ant.html) vs [shell script](Missing.html) vs [make](Missing.html) (vs semmi, igenytelen [tak](tak.html)erek eseteben ilyen is megfigyelheto)
 *   [dom4j](dom4j.html) vs [jdom](jdom.html) :-D
-*   [ide/code formating](ide/code%20formating.html): tab vs space ([sun](Sun.html) vs [ibm](IBM.html) :-D)
 
 Egyeb erdekes flame-k:
 
