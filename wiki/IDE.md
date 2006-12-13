@@ -5,8 +5,8 @@ title               : IDE
 name                : IDE 
 layout              : wiki 
 path                : IDE 
-date                : 2006-11-16 16:31:27 +0100 
-version             : 10 
+date                : 2006-12-13 09:41:31 +0100 
+version             : 11 
 creator             : kocka 
 ---
 __Integrated Developement Environment__
@@ -26,6 +26,7 @@ Amit egy ide ad:
 *   [build](build.html) support (tobbnyire [ant](ant.html) az elvaras, de legyen pluginelheto)
 *   [ide/syntax highlight](Missing.html)
 *   [ide/code completion](ide/code%20completion.html)
+*   [ide/code formating](ide/code%20formating.html)
 *   [refactoring](Refactoring.html) support
 *   [debugger](Missing.html)
 *   [profiler](profiler.html) (jobb esetben)
