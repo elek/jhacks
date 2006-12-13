@@ -5,12 +5,12 @@ title               : ruby
 name                : ruby 
 layout              : wiki 
 path                : ruby 
-date                : 2006-12-13 13:14:57 +0100 
-version             : 2 
+date                : 2006-12-13 13:17:05 +0100 
+version             : 3 
 creator             : kocka 
 ---
 [http://www.ruby-lang.org/](http://www.ruby-lang.org/)
 
-Egy [oop](oop.html) nyelv, a javahoz hasonlo lehetosegekkel.
+Egy [oop](oop.html) nyelv, a [java](java.html)hoz hasonlo lehetosegekkel, sot annal joval tobbel, mitobb idonkent zavaroan sokkal tobbel. Peldaul futas-idoben lehet objektumhoz extra metodusokat hozzacsapni. Hmm, extremul hangzik, nem tudom miert akarnek ilyesmit csinalni :)
 
 {sni-xref:ruby|100}
