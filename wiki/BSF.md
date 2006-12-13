@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-28 11:24:06 +0200 
-author              : admin 
+author              : kocka 
 title               : BSF 
 name                : BSF 
 layout              : wiki 
 path                : BSF 
-date                : 2006-03-26 01:42:35 +0100 
-version             : 1 
+date                : 2006-12-13 13:13:46 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://jakarta.apache.org/bsf/](http://jakarta.apache.org/bsf/)<br/>
@@ -29,3 +29,5 @@ A [harvest](harvest.html)-ben kezdetem el irogatni olyan blokkokat, amik konfigu
 
 Egy nagyon jo cikksorozat a developerworks-on a BSF-be integralhato scriptnyelvekrol:<br/>
 [alt.lang.jre](http://www-106.ibm.com/developerworks/views/java/articles.jsp?sort_order=desc&expand=&sort_by=Date&show_abstract=true&view_by=Search&search_by=alt.lang.jre)
+
+
