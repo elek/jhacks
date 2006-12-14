@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-30 14:19:13 +0200 
-author              : admin 
+author              : kocka 
 title               : DB2 
 name                : DB2 
 layout              : wiki 
 path                : DB2 
-date                : 2006-03-26 01:42:36 +0100 
-version             : 1 
+date                : 2006-12-14 10:06:47 +0100 
+version             : 4 
 creator             : kocka 
 ---
 [http://www.ibm.com/data/db2](http://www.ibm.com/data/db2)
@@ -19,3 +19,5 @@ Fut [linux](Linux.html)on, [windows](Windows.html)on, es majd minden szerverre g
 
 Egy kis demo a DB2 infromation integrator csomag erdekessegeibol:
 [http://db2ii.dfw.ibm.com/demo/demos/sqlxml/sqlxml1.jsp](http://db2ii.dfw.ibm.com/demo/demos/sqlxml/sqlxml1.jsp)
+
+
