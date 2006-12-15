@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-19 10:46:56 +0200 
-author              : admin 
+author              : kocka 
 title               : Java 1.6 aka "Mustang" 
 name                : java 1.6 
 layout              : wiki 
 path                : java 1.6 
-date                : 2006-03-26 01:48:11 +0100 
-version             : 1 
+date                : 2006-12-15 16:05:06 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://mustang.dev.java.net/](http://mustang.dev.java.net/)
@@ -18,6 +18,7 @@ Lasd meg: [java 1.5](java%201.5.html)
 Cikkek:
 
 *   [Javalobby: Fixing the JDK](http://www.javalobby.org/articles/fixing-the-jdk/)
+*   [Egy kis teljesitmeny osszehasonlitas](http://jroller.com/page/dgilbert?entry=is_java_se_1_6)
 
 Uj feature-k:
 
