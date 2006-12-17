@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 11:16:10 +0200 
-author              : admin 
+author              : kocka 
 title               : Alkalmazas Szerver 
 name                : Alkalmazas Szerver 
 layout              : wiki 
 path                : Alkalmazas Szerver 
-date                : 2006-03-26 01:42:34 +0100 
-version             : 1 
+date                : 2006-12-17 23:00:06 +0100 
+version             : 9 
 creator             : zsoltk 
 ---
 A [J2EE](j2ee.html) arhitektura egyik alapeleme.
@@ -45,3 +45,6 @@ gyarto|nev|free
 [sun](Sun.html)|[java system application server](Missing.html)|free verzio
 [macromedia](Missing.html)|[jrun](jrun.html)|free download?
 [sun](Sun.html)|[glassfish](glassfish.html)|freeware (JRL)
+
+
+
