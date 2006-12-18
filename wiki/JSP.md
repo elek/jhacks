@@ -5,8 +5,8 @@ title               : JSP
 name                : JSP 
 layout              : wiki 
 path                : JSP 
-date                : 2006-12-18 18:31:37 +0100 
-version             : 3 
+date                : 2006-12-18 18:32:17 +0100 
+version             : 4 
 creator             : boci 
 ---
 __JavaServer Pages__
@@ -28,3 +28,5 @@ Azok a [webapp](webapp.html) rendszerek amik JSP-re epitenek:
 *   [Struts](struts.html)
 *   [Beehive](beehive.html)
 *   [servlet_jsp](servlet_jsp.html)
+
+
