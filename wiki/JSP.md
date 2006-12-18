@@ -1,19 +1,19 @@
 ---
 creationDate        : 2004-11-17 22:23:01 +0100 
-author              : admin 
+author              : kocka 
 title               : JSP 
 name                : JSP 
 layout              : wiki 
 path                : JSP 
-date                : 2006-03-26 01:42:43 +0100 
-version             : 1 
+date                : 2006-12-18 18:31:37 +0100 
+version             : 3 
 creator             : boci 
 ---
 __JavaServer Pages__
 
 A JSP a [PHP](http://www.php.net) es az ASP konkurenciajakent jott letre, illetve hogy a szervlet keszites automatizalhato es vizualis eszkozok szamara is lekepezheto legyen. A JSP lapokbol a web kontener szervleteket general majd ezeket futtatja a web kontener, igy elso futaskor a sebesseg lassu de a tobbi futasnal a sebesseg jelentossen no.
 
-A legtobb vizualis java editor kepes JSP lapok szerkesztesere. A Vezerleshez (amennyiben nem [MVC](MVC.html) modellben hasznaljuk), kiterjedt tag library-k leteznek (adatbaziskezeles ([JDBC](JDBC.html)), [JNDI](JNDI.html), Regexp, Session stb..), illetve sajat rutinkonyvtarak is keszithetok.
+A legtobb vizualis java editor kepes JSP lapok szerkesztesere. A Vezerleshez (amennyiben nem [MVC](MVC.html) modellben hasznaljuk), kiterjedt tag library-k leteznek (adatbaziskezeles ([JDBC](JDBC.html)), [JNDI](JNDI.html), Regexp, Session stb..), illetve sajat rutinkonyvtarak is keszithetok. (Azt azert hozzatennem hogy talan jobb ha a [tag](Missing.html)ek is csak a megjelenitest szolgaljak, actionkent hasznalva piszkosul nagy szivasokra van kilatas ([kocka](kocka.html)))
 
 Nehany tag library lelohely:
 
