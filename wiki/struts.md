@@ -5,8 +5,8 @@ title               : struts
 name                : struts 
 layout              : wiki 
 path                : struts 
-date                : 2006-12-06 11:03:47 +0100 
-version             : 14 
+date                : 2006-12-18 18:33:16 +0100 
+version             : 15 
 creator             : kocka 
 ---
 ![image](http://struts.apache.org/images/struts.gif)(http://jakarta.apache.org/struts/)
@@ -45,3 +45,5 @@ Rokonsagok mas rendszerekkel:
 *   Integracio a [Spring](spring.html)gel, ez ugy nez ki hogy a springes applicationcontext-et elkerheted a megfelelo osztalybol leszarmaztatott actionokbol. Szoval nem tul barati. A masik lehetoseg az hogy a spring maga jegyzi be az actionokat, es settereken keresztul be tudod pakolgatni a dependencyket. Szoval ez mar szeretnivalobb, viszont az meg nem tiszta hogy a [tiles](tiles.html) controllereket hogyan lehet vele kezelni, ha lehet egyaltalan... mert annelkul loszart nem er az egesz. Erre amugy csinaltam egy osztalyt ami lehetove teszi hogy a Controller benajeidet a [spring](spring.html) alkalmazas kontextusba pakold, de meg en se szeretem :)
 *   [webwork](WebWork.html)
 *   [jsf](JSF.html)
+
+
