@@ -5,23 +5,23 @@ title               : Websphere App Dev
 name                : Websphere App Dev 
 layout              : wiki 
 path                : Websphere App Dev 
-date                : 2006-11-08 14:20:49 +0100 
-version             : 3 
+date                : 2006-12-19 15:18:15 +0100 
+version             : 4 
 creator             : kocka 
 ---
 __Websphere Application Developer__
 
 [Eclipse](Eclipse.html) alapu [IDE](IDE.html) [J2EE](j2ee.html) alkalmazasok fejlesztesere. Mivel tobb mint az eclipse:
 
-*   [Profiler](profiler.html)
-*   [Alkalmazas szerver](Alkalmazas%20Szerver.html) integracio ([Websphere](Websphere.html)), [Tomcat](tomcat.html) integracio
-*   [CVS](CVS.html) vagy [ClearCase](ClearCase.html) version management
+*   [Profiler](profiler.html) (ezzel mar nem, de regebben)
+*   [Alkalmazas szerver](Alkalmazas%20Szerver.html) integracio ([Websphere](Websphere.html)), [Tomcat](tomcat.html) integracio (szinten atkerult [eclipse](Eclipse.html)/[eclipse/plug-in/wtp](Eclipse/Plug-in/WTP.html)be, ennel nemileg szelesebb valasztekal)
+*   [CVS](CVS.html) vagy [ClearCase](ClearCase.html) version management ([cvs](CVS.html) eclipse-ben is van, a [clearcase](ClearCase.html) meg jobb is hogy nincs)
 *   [UML](UML.html) designer
 *   [EJB](EJB.html) support, akar UML-lel is rajzolhatod az EJB beanjeidet
 *   [Struts](struts.html) support, gyonyoru web flow diagram designer es WYSWYG UI designer
 *   [JSP](JSP.html): szinten WYSWYG UI designer
 *   [RDBMS](RDBMS.html) plugin
-*   [Webservices](WebServices.html) support
+*   [Webservices](WebServices.html) support (hat mondjuk ez vajon minek, ha [xfire](xfire.html)ra gondolok, nem kell hozza semmi support egy editoron kivul)
 
 es meg sok mas.
 
