@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-14 11:54:36 +0100 
-author              : karenin 
+author              : kocka 
 title               : subversion 
 name                : subversion 
 layout              : wiki 
 path                : subversion 
-date                : 2006-09-26 16:21:19 +0200 
-version             : 8 
+date                : 2006-12-19 19:44:07 +0100 
+version             : 9 
 creator             : kocka 
 ---
 [http://subversion.tigris.org/](http://subversion.tigris.org/)
@@ -23,3 +23,4 @@ Pár hasznos cucc :
 *   Webes kliens, ha a böngésződböl akarnál commitolni : [http://polarion.org/p_webclient.php](http://polarion.org/p_webclient.php) 
 *   Javas kliens : [http://smartcvs.com/smartsvn/index.html](http://smartcvs.com/smartsvn/index.html)
 *   pure Javas API, ha CMS-t irnál Subversion alapokra: [http://tmate.org/svn/](http://tmate.org/svn/) 
+*   [Version Control with Subversion](http://svnbook.red-bean.com/) (Konyv)
