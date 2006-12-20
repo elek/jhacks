@@ -5,8 +5,8 @@ title               : Software Metrics
 name                : Software Metrics 
 layout              : wiki 
 path                : Software Metrics 
-date                : 2006-12-20 12:35:33 +0100 
-version             : 5 
+date                : 2006-12-20 12:36:25 +0100 
+version             : 6 
 creator             : zsoltk 
 ---
 Igen szep es erdekes dolog. Nagyjabol arrol van szo, hogy a kod milyenseget valamilyen egzakt szamok alapjan tudjuk meghatarozni. Ha figyelembe vesszuk, hogy a programozas egy alapvetoen mernoki tudomany, akkor bizony be kell latnunk, hogy erre nagy szukseg van.
@@ -21,6 +21,6 @@ A temaban egy cikk: [http://www-106.ibm.com/developerworks/java/library/j-perf07
 
 Tekintve a temaban fellelheto doksik mennyiseget, inkabb adok egy egyszeru modszert. Google: "software metrics"
 
-Lasd meg: [pmd](PMD.html), [checkstyle](checkstyle.html), [qalab](qalab.html), [findbug](Missing.html)
+Lasd meg: [pmd](PMD.html), [checkstyle](checkstyle.html), [qalab](qalab.html), [findbugs](findbugs.html)
 
 
