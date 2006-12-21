@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-12-18 11:32:32 +0100 
-version             : 24 
+date                : 2006-12-21 09:14:49 +0100 
+version             : 25 
 creator             : kocka 
 ---
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi. Ha a [maven/maven1](../maven/maven1.html)gyel problemaid voltak de meg nyitott vagy uj dolgokra, probald ki batran a maven2-t, lenyegesen sokat javit az egyebkent is jo elkepzeles megvalositasan.
@@ -31,6 +31,7 @@ Cikkek:
 linkek:
 
 *   [http://mvnrepository.com/](http://mvnrepository.com/) (ha valamilyen artifactot keresel, hasznos)
+*   [ Maven 2.1 Design Documents](http://docs.codehaus.org/display/MAVEN/Maven+2.1+Design+Documents)
 
 __konyv__:
 
