@@ -5,8 +5,8 @@ title               : maven/maven2/mojo
 name                : maven/maven2/mojo 
 layout              : wiki 
 path                : maven/maven2/mojo 
-date                : 2006-12-21 10:26:22 +0100 
-version             : 4 
+date                : 2006-12-21 10:26:49 +0100 
+version             : 5 
 creator             : kocka 
 ---
 A mojo a [maven/maven2](../../maven/maven2.html) [plugin](../../plugin.html) apija, kicsit [IOC](../../ioc.html) jellegu es [pojo](../../pojo.html) alapu, innen a nev, a beallitasokat siman besetteli neked a bean-edbe, de azert nyilvan van benne valami.
@@ -23,3 +23,5 @@ Linkek:
 *   [Mojo Developer Cookbook](http://docs.codehaus.org/display/MAVENUSER/Mojo+Developer+Cookbook)
 
 Maganvelemeny ([kocka](../../kocka.html)): Imadnivalo kis cucc az egesz, frankon ki van talalva, de dokumentacio irassal nem szoszoltek a sracok :(
+
+
