@@ -5,8 +5,8 @@ title               : maven/maven2/mojo
 name                : maven/maven2/mojo 
 layout              : wiki 
 path                : maven/maven2/mojo 
-date                : 2006-12-11 13:51:59 +0100 
-version             : 2 
+date                : 2006-12-21 10:24:56 +0100 
+version             : 3 
 creator             : kocka 
 ---
 A mojo a [maven/maven2](../../maven/maven2.html) [plugin](../../plugin.html) apija, kicsit [IOC](../../ioc.html) jellegu, a beallitasokat siman besetteli neked a bean-edbe, de azert nyilvan van benne valami.
@@ -21,3 +21,5 @@ Esetleg megy egy 'mvn eclipse:eclipse' es [eclipse](../../Eclipse.html)-be is im
 Linkek:
 
 *   [Mojo Developer Cookbook](http://docs.codehaus.org/display/MAVENUSER/Mojo+Developer+Cookbook)
+
+Maganvelemeny ([kocka](../../kocka.html)): Imadnivalo kis cucc az egesz, frankon ki van talalva, de dokumentacio irassal nem szoszoltek a sracok :(
