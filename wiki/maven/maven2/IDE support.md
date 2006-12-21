@@ -5,8 +5,8 @@ title               : maven/maven2/IDE support
 name                : maven/maven2/IDE support 
 layout              : wiki 
 path                : maven/maven2/IDE support 
-date                : 2006-11-22 15:36:06 +0100 
-version             : 5 
+date                : 2006-12-21 09:18:35 +0100 
+version             : 6 
 creator             : kocka 
 ---
 A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphere app dev](../../Websphere%20App%20Dev.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
@@ -167,4 +167,4 @@ Ilyen modon fuggetlenne tettuk a projectunket a fejlesztokornyezettol. Azt meg e
 
 Szukseg eseten persze a fenti cucchoz hozzaadhatunk [spring](../../spring.html), [struts](../../struts.html) stb project nature-t es buildert.
 
-S lon beke es szeretet a vilagon.
+S lon beke es szeretet a vilagon. Ja ezt az egeszet a [linux 48](../../Linux%2048.html)-ra otlottuk ki, ahol sajna nem tudtuk bevetni a [mavent](../../Missing.html), de azert frankon mukodik.
