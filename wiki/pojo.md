@@ -5,8 +5,8 @@ title               : pojo
 name                : pojo 
 layout              : wiki 
 path                : pojo 
-date                : 2006-12-21 10:27:14 +0100 
-version             : 4 
+date                : 2006-12-21 10:27:26 +0100 
+version             : 5 
 creator             : kocka 
 ---
 __Plain Old Java Object__
