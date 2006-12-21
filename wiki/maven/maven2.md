@@ -5,10 +5,18 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-12-21 09:14:49 +0100 
-version             : 25 
+date                : 2006-12-21 09:16:24 +0100 
+version             : 26 
 creator             : kocka 
 ---
+
+-   [maven/maven2/Archetype](../maven/maven2/Archetype.html)
+-   [maven/maven2/mojo](../maven/maven2/mojo.html)
+-   [maven/maven2/IDE support](../maven/maven2/IDE support.html)
+-   [maven/maven2](../maven/maven2.html)
+
+
+
 A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban valtozasok, ilyesmi. Ha a [maven/maven1](../maven/maven1.html)gyel problemaid voltak de meg nyitott vagy uj dolgokra, probald ki batran a maven2-t, lenyegesen sokat javit az egyebkent is jo elkepzeles megvalositasan.
 
 *   regi maven peldaul egy pluginen keresztul tamogatta a multiprojecteket, ezt a maven 2 alapbol tudja
