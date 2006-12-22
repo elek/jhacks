@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-12-21 09:16:24 +0100 
-version             : 26 
+date                : 2006-12-22 13:27:19 +0100 
+version             : 27 
 creator             : kocka 
 ---
 
@@ -62,6 +62,7 @@ __Maven 2 felhasznalok:__
 *   [jetty](../jetty.html)
 *   [acegi](../acegi.html)
 *   [cocoon](../cocoon.html)
+*   [spring](../spring.html)? (http://www.bearaway.org/wp/?p=518)
 *   es sok mas top project
 
 __Erdekesebb kulso pluginek:__
