@@ -5,8 +5,8 @@ title               : junit
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-12-22 13:19:16 +0100 
-version             : 7 
+date                : 2006-12-22 13:20:40 +0100 
+version             : 8 
 creator             : kocka 
 ---
 ![image](http://www.junit.org/images/junitlogo.gif)(http://junit.org/)
@@ -28,7 +28,7 @@ class TestWhatever extends TestCase {
 
 ```
 
-A kicsit ujabb es modernebb junit 4 a [java 1.5](java%201.5.html) [annotations](annotations.html) feature-re epit, ezzel kb igy nez ki egy teszt:
+A kicsit ujabb es modernebb __junit 4__ a [java 1.5](java%201.5.html) [annotations](annotations.html) feature-re epit, ezzel kb igy nez ki egy teszt:
 
 ```
 class TestWhatever { //nem am extends, pojo baszkikaim!!!
