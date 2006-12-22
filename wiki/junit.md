@@ -5,8 +5,8 @@ title               : junit
 name                : junit 
 layout              : wiki 
 path                : junit 
-date                : 2006-09-29 11:00:09 +0200 
-version             : 6 
+date                : 2006-12-22 13:19:16 +0100 
+version             : 7 
 creator             : kocka 
 ---
 ![image](http://www.junit.org/images/junitlogo.gif)(http://junit.org/)
@@ -54,10 +54,13 @@ A junit mindenféle portjai:
 
 Nekem a kedvencem az amikor egyszerűen csinálsz egy spring context-et és abból szedsz ki bean-eket amiken meghívhatsz a tesztekben metódusokat. Nagyon könnyen ujrafelhasználhatóvá teszi a teszteket.
 
-A 4.1-es verzio ujitasa kozott a leglenyegesebb talan a [Test/Categorization](Test/Categorization.html), szinten [java](java.html) [annotations](annotations.html) segitsegevel.
+A 4.1-es verzio ujitasa kozott a leglenyegesebb talan a [Test/Categorization](Test/Categorization.html), szinten [java](java.html) [annotations](annotations.html) segitsegevel. Sok uj es modern dolog van a [4.1](Missing.html)ben csak sajnos semmi sem tamogatja per pillanat. Se [eclipse](Eclipse.html), se [maven](maven.html). Tul nagy szakitas volt a regi apival talan, de remelem ez lassan tovabb fejlodik.
 
 Cikkek:
 
 *   [Testing Java in an Object-Oriented Way](http://today.java.net/pub/a/today/2006/03/28/testing-java-object-oriented.html) (advanced)
+*   [JUnit Reloaded](http://today.java.net/lpt/a/341)
 
 Lasd meg: [XP](XP.html) [test](test.html)
+
+
