@@ -5,11 +5,11 @@ title               : yikulju
 name                : yikulju 
 layout              : wiki 
 path                : yikulju 
-date                : 2007-01-05 12:45:16 +0100 
-version             : 2 
+date                : 2007-01-05 12:45:47 +0100 
+version             : 3 
 creator             : kocka 
 ---
-[http://yikulju.sourceforge.net/](http://yikulju.sourceforge.net/)
+![image](http://www.jhacks.hu/space/yikulju/ribus_logo.jpg)(http://yikulju.sourceforge.net/)
 
 Egyelore csak a [maven](maven.html) generalt site, meg a kod valtoztatasok nelkul az [svn](svn.html)ben. 
 
