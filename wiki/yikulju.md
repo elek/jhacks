@@ -5,8 +5,8 @@ title               : yikulju
 name                : yikulju 
 layout              : wiki 
 path                : yikulju 
-date                : 2007-01-05 12:44:31 +0100 
-version             : 1 
+date                : 2007-01-05 12:45:16 +0100 
+version             : 2 
 creator             : kocka 
 ---
 [http://yikulju.sourceforge.net/](http://yikulju.sourceforge.net/)
