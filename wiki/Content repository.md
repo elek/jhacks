@@ -5,8 +5,8 @@ title               : Content repository
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2006-04-06 16:12:23 +0200 
-version             : 20 
+date                : 2007-01-10 19:05:34 +0100 
+version             : 21 
 creator             : kocka 
 ---
 Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de talan azert nem annyira rossz :) Az adatokat egyszeru [XML](XML.html) szeru faban tarthatod, lekerdezhetsz [xpath](XPath.html) vagy [sql](SQL.html)-szeru nyelven.
@@ -20,6 +20,8 @@ Implementaciok:
 *   [Jackrabbit](http://incubator.apache.org/jackrabbit/) 
 *   [eXo Platform](http://www.exoplatform.org) - Portlet Container, JCR, CMS, minden egyben.
 *   [alfresco](http://www.alfresco.org/)
+
+Erdekes utility [spring](spring.html) felhasznaloknak a [springmodules](https://springmodules.dev.java.net/docs/reference/0.6/html_single/#jcr) jcr csomagja, ami [hibernate](Hibernate.html)-hoz hasonlo felhasznalast tesz lehetove.
 
 penzes cuccos:
 
@@ -38,3 +40,5 @@ Cikkek:
 Erdekes lehet meg: peldaul a [cocoon](cocoon.html) is tamogatja a CR-t mint tartalom forrast, sajat kis adapteren keresztul. Egy megfelelo konfig, egy kis [xslt](XSLT.html) es egesz jo kis prezentacios rendszert kaphatsz...
 
 Lasd meg: [XML](XML.html), [CMS](CMS.html), esetleg [portlet](portlet.html)
+
+
