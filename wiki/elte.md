@@ -5,8 +5,8 @@ title               : elte
 name                : elte 
 layout              : wiki 
 path                : elte 
-date                : 2006-09-14 17:09:15 +0200 
-version             : 4 
+date                : 2007-01-14 20:52:41 +0100 
+version             : 5 
 creator             : kocka 
 ---
 [http://www.ik.elte.hu/](http://www.ik.elte.hu/)
@@ -19,6 +19,7 @@ Hasznos linkek foleg progmatosoknak:
 *   [Absztrakt tortenet](http://www.caesar.elte.hu/progmat/kultura/humor/absztrakt.html) Vidam es tanulsagos tortenet a Fothizmus elonyeinek szemletetesekent.
 *   [GDF](http://www.gdf.hu/). [BME](http://www.BME.hu/) Ide menekulnek a tanok tagadoi.
 *   [progmatsite](http://progmatsite.syrius-software.hu/) ha esetleg megis ugydontessz hogy megprobalod tulelni :)
+*   [EPER](http://eper.elte.hu/), egy nagyon jo egyetemi radioado, sajnos matematika es informatika nincs rajta, de nagyon kiraly :)
 
 Az elten bar tanitanak [java](java.html)t (specin, evi 200 tanulo kapacitassal es mindig tele van, de csak nappalisoknak) es a nagy [Zold konyv](http://java.inf.elte.hu/) szerzoi is ott dolgoznak, valahogy az egesz iskolanak nem sok koze van az informatikahoz.
 
