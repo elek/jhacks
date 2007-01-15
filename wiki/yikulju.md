@@ -5,8 +5,8 @@ title               : yikulju
 name                : yikulju 
 layout              : wiki 
 path                : yikulju 
-date                : 2007-01-11 16:28:31 +0100 
-version             : 6 
+date                : 2007-01-15 17:35:31 +0100 
+version             : 7 
 creator             : kocka 
 ---
 ![image](http://www.jhacks.hu/space/yikulju/ribus_logo.jpg)(http://yikulju.sourceforge.net/)
@@ -15,6 +15,6 @@ Egyelore csak a [maven](maven.html) generalt site, meg a kod valtoztatasok nelku
 
 *   a [findbugs](findbugs.html) bizony jopar elvarratlan szalat jelez
 *   egy testcase fail-el (kiszedtem belole a try-catch-et)
-*   [acegi](acegi.html) had legyen ma` :)
+*   [irc](irc.html)en keresztul meg nem mukodik igazan frankon
 
 
