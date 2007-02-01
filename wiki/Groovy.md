@@ -5,8 +5,8 @@ title               : Groovy
 name                : Groovy 
 layout              : wiki 
 path                : Groovy 
-date                : 2006-10-25 17:19:27 +0200 
-version             : 8 
+date                : 2007-02-01 12:16:35 +0100 
+version             : 9 
 creator             : kocka 
 ---
 ![image](http://docs.codehaus.org/download/userResources/GROOVY/logo)(http://groovy.codehaus.org/)
@@ -27,5 +27,9 @@ Groovy JSR:
 Konyvek:
 
 *   Groovy in action
+
+Miegymas:
+
+*   [groovy conference videoblog](http://blip.tv/file/141271)
 
 
