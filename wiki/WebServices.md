@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-11-17 13:13:56 +0100 
-author              : karenin 
+author              : kocka 
 title               : WebServices 
 name                : WebServices 
 layout              : wiki 
 path                : WebServices 
-date                : 2006-10-20 00:04:37 +0200 
-version             : 3 
+date                : 2007-02-04 14:55:12 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Technologiak:
@@ -34,3 +34,5 @@ Apik:
 link:
 
 *   [Szoftver/feature/technológia mátrix](http://wiki.apache.org/ws/StackComparison)
+
+
