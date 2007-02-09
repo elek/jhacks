@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 12:28:29 +0200 
-author              : admin 
+author              : kocka 
 title               : Eclipse/Plug-in 
 name                : Eclipse/Plug-in 
 layout              : wiki 
 path                : Eclipse/Plug-in 
-date                : 2006-03-26 01:42:37 +0100 
-version             : 1 
+date                : 2007-02-09 14:16:44 +0100 
+version             : 14 
 creator             : zsoltk 
 ---
 A pluginek egy reszet maguk az Eclipse fejlesztoi csinaljak, mig masokat fuggetlen csoportok. Elsosorban erdemes az Eclipse fejlesztok altal keszitett plugineket hasznalni, de azert igazi gyongyszemeket is lehet talalni a fuggetlenek kozott.
@@ -33,6 +33,7 @@ Es akkor alljon itt egy par, amiket szeretunk hasznalni:
 Egyeb, erdekessegek:
 
 *   [pollinate](../pollinate.html) ([struts](../struts.html) && [beehive](../beehive.html))
+*   [birt](../birt.html)
 
 
 
