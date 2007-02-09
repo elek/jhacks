@@ -5,8 +5,8 @@ title               : Derby
 name                : Derby 
 layout              : wiki 
 path                : Derby 
-date                : 2007-02-09 10:03:24 +0100 
-version             : 6 
+date                : 2007-02-09 10:03:49 +0100 
+version             : 7 
 creator             : kocka 
 ---
 __Apache Derby project__
@@ -22,3 +22,5 @@ Cikkek:
 
 *   [Try on Derby for size](http://www.javaworld.com/javaworld/jw-09-2006/jw-0929-derby_p.html)
 *   [Tuning Derby](http://www.onjava.com/lpt/a/6911)
+
+
