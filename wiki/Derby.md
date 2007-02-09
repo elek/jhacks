@@ -5,8 +5,8 @@ title               : Derby
 name                : Derby 
 layout              : wiki 
 path                : Derby 
-date                : 2007-02-09 10:03:49 +0100 
-version             : 7 
+date                : 2007-02-09 10:04:03 +0100 
+version             : 8 
 creator             : kocka 
 ---
 __Apache Derby project__
