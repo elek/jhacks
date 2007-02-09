@@ -5,8 +5,8 @@ title               : spring
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2006-12-04 17:43:50 +0100 
-version             : 10 
+date                : 2007-02-10 00:04:08 +0100 
+version             : 11 
 creator             : kocka 
 ---
 __Spring Framework__
@@ -41,5 +41,6 @@ Linkek:
 *   [Spring weboldal](http://www.springframework.org/)
 *   [Spring HUB](http://springhub.com/)
 *   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
+*   [IDE](IDE.html) support: [eclipse](Eclipse.html)hez: [http://springide.org/](http://springide.org/)
 
 
