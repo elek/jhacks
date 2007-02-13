@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-19 21:35:37 +0100 
-author              : admin 
+author              : kocka 
 title               : OpenOffice.org 
 name                : OpenOffice.org 
 layout              : wiki 
 path                : OpenOffice.org 
-date                : 2006-03-26 01:42:48 +0100 
-version             : 1 
+date                : 2007-02-13 11:06:07 +0100 
+version             : 4 
 creator             : kocka 
 ---
 ![image](http://www.openoffice.org/branding/images/logonew.gif)(http://OpenOffice.org/)
@@ -22,3 +22,5 @@ Mitol olyan ql:
 
 Ha mar ennyire offtopic dolgot felpakoltam, akkor megemlitenem az [FSF.hu](http://fsf.hu) csapatot is, akik vezenyeltek a magyarra forditasat egy hatalmas partizanakcio kereteben valamikor 2002-ben, ha jol emlekszem. (nagyon jo volt a pizza)<br/>
 Alld meg uram az FSF.hu-t! :)
+
+
