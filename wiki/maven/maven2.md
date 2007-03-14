@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2006-12-22 13:27:19 +0100 
-version             : 27 
+date                : 2007-03-14 14:07:35 +0100 
+version             : 28 
 creator             : kocka 
 ---
 
@@ -40,6 +40,7 @@ linkek:
 
 *   [http://mvnrepository.com/](http://mvnrepository.com/) (ha valamilyen artifactot keresel, hasznos)
 *   [ Maven 2.1 Design Documents](http://docs.codehaus.org/display/MAVEN/Maven+2.1+Design+Documents)
+*   [http://blogs.maven.org/](http://blogs.maven.org/) [blog](../blog.html)ok
 
 __konyv__:
 
