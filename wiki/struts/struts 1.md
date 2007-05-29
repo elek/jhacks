@@ -6,7 +6,7 @@ name                : struts/struts 1
 layout              : wiki 
 path                : struts/struts 1 
 date                : 2007-05-29 16:10:01 +0200 
-version             : 2 
+version             : 1 
 creator             : kocka 
 ---
 ![image](http://struts.apache.org/images/struts.gif)(http://jakarta.apache.org/struts/)
