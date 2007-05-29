@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 08:58:49 +0100 
-author              : admin 
+author              : kocka 
 title               : annotations 
 name                : annotations 
 layout              : wiki 
 path                : annotations 
-date                : 2006-03-26 01:43:05 +0100 
-version             : 1 
+date                : 2007-05-29 16:23:39 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Az annotations uj feature a [java 1.5](java%201.5.html)ben, amivel metainformaciot adhatsz hozza az osztalyokhoz, metodusokhoz, tagvaltozoidhoz, es ezeket egyszeru [reflection](reflection.html) segitsegevel ki is olvashatod.
@@ -27,6 +27,11 @@ public class Demo {
 Ez kicsit odaut az olyan regi de jol bevallt cuccosoknak mint az [xdoclet](XDoclet.html) peldaul, de azert ne temessuk meg :)
 
 Specifikacio: [JSR 175](http://www.jcp.org/en/jsr/detail?id=175)
+
+A dolog egy érdekessége hogy mekkora hatással lett a frameworkökre a technológia, kifejezetten annotations alapú rendszerek láttak napvilágot az 2006 első felétől egyre inkáb:
+
+*   [Tapestry](tapestry.html) 4.x-től, de az 5.x már nagyon
+*   [struts/struts 2](struts/struts%202.html)
 
 cikkek:
 
