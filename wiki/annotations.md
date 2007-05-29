@@ -5,8 +5,8 @@ title               : annotations
 name                : annotations 
 layout              : wiki 
 path                : annotations 
-date                : 2007-05-29 16:24:48 +0200 
-version             : 7 
+date                : 2007-05-29 16:25:32 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Az annotations uj feature a [java 1.5](java%201.5.html)ben, amivel metainformaciot adhatsz hozza az osztalyokhoz, metodusokhoz, tagvaltozoidhoz, es ezeket egyszeru [reflection](reflection.html) segitsegevel ki is olvashatod.
@@ -32,6 +32,8 @@ A dolog egy érdekessége hogy mekkora hatással lett a frameworkökre a technol
 
 *   [Tapestry](tapestry.html) 4.x-től, de az 5.x már nagyon
 *   [struts/struts 2](struts/struts%202.html)
+*   [junit](junit.html) 4.x-es széria
+*   [testNG](testng.html) kezdetektől fogva
 
 cikkek:
 
