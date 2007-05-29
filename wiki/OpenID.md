@@ -5,8 +5,8 @@ title               : OpenID
 name                : OpenID 
 layout              : wiki 
 path                : OpenID 
-date                : 2007-04-18 19:14:46 +0200 
-version             : 2 
+date                : 2007-05-29 17:58:43 +0200 
+version             : 3 
 creator             : karenin 
 ---
 [http://openid.net/](http://openid.net/)
@@ -18,3 +18,4 @@ Az OpenID Attribute Exchange kiterjesztéssel közben el lehet kunyerálni a pro
 Linkek:
 
 *   [acegi integracioval kapcsolatban](http://www.nabble.com/Re%3A-OpenID-support-tf3369505.html#a9375341) [acegi](acegi.html), sajnos csak kezdemeny es semmi hir, de valami kezdopont
+*   [Neltz Tamás előadása a Newtech Meetup-on](http://video.google.com/videoplay?docid=7684630973021077375)
