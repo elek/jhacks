@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-10-19 10:08:03 +0200 
-author              : karenin 
+author              : kocka 
 title               : BPEL 
 name                : BPEL 
 layout              : wiki 
 path                : BPEL 
-date                : 2007-05-30 14:29:53 +0200 
-version             : 2 
+date                : 2007-05-30 16:12:39 +0200 
+version             : 3 
 creator             : zsoltk 
 ---
 Bussiness Process Execution Language
@@ -25,3 +25,4 @@ Linkek:
 Editorok:
 
 *   [NetBeans](Netbeans.html) Enterprise Pack (erősen összeforrasztva az OpenESB-vel)
+*   [eclipse](Eclipse.html): [http://www.eclipse.org/bpel/index.php](http://www.eclipse.org/bpel/index.php)
