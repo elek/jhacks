@@ -5,8 +5,8 @@ title               : java 1.5/For ciklus
 name                : java 1.5/For ciklus 
 layout              : wiki 
 path                : java 1.5/For ciklus 
-date                : 2006-12-07 21:47:07 +0100 
-version             : 3 
+date                : 2007-05-30 19:48:11 +0200 
+version             : 4 
 creator             : kocka 
 ---
 A [java 1.5](../java%201.5.html) uj ciklusszervezese.
@@ -34,7 +34,9 @@ for(String s:col){
 
 ```
 
-Hat igen, sajna az iterator vagy az index ertek ilyenkor nem elerheto, ilyesmit akkor erdemes csinalni ha megvagyunk nelkule. Kb az esetek 60-70 szazalekaban.
+A l?nyeg annyi, hogy amit iter?l az ember, az Iterable kell hogy legyen.
+
+Hat igen, sajna az iterator vagy az index ertek ilyenkor nem elerheto, ilyesmit akkor erdemes csinalni ha megvagyunk nelkule. Kb az esetek 60-70 szazalekaban. A dolog m?gink?b ?rdekes lesz a [java 1.7](../java%201.7.html) [closure](../Missing.html) szintaxis?val, err?l egyel?re csak ?tletek vannak.
 
 Roviden ennyi, azert nagyon ql. Az [eclipse](../Eclipse.html) es a [netbeans](../Netbeans.html) is tamogassa.
 
