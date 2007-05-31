@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-05-30 12:09:09 +0200 
-version             : 17 
+date                : 2007-05-31 23:54:25 +0200 
+version             : 18 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
@@ -29,6 +29,7 @@ Magyar:
 *   [http://www.joeblog.hu/](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
 *   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) inaktiv, de jofajta
 *   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) es mas hackelesek, nagyon ql :))
+*   [pcjuzer](http://pcjuzer.blogspot.com/) (nem tudom kie, de jofajta)
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
 
 Lasd meg: [linkek](linkek.html) meg amit oldalt latsz ugyebar...
