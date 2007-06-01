@@ -5,11 +5,13 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-05-31 23:54:25 +0200 
-version             : 18 
+date                : 2007-06-01 19:48:35 +0200 
+version             : 19 
 creator             : kocka 
 ---
 Jo minosegu blogok [java](java.html) temaban:
+
+__Kulfoldi__:
 
 *   [http://thediscoblog.com/](http://thediscoblog.com/) [XP](XP.html) es korszeru technologiak, idonkent [.net](.net.html) is, bar nem kicsit faraszto a 80-as evek buzidiszko stilusa :-D
 *   [http://weblogs.java.net/](http://weblogs.java.net/) a java.net blogjai, foleg [sun](Sun.html) dolgozok
@@ -18,11 +20,14 @@ Jo minosegu blogok [java](java.html) temaban:
 *   [http://jroller.com/page/RickHigh](http://jroller.com/page/RickHigh) Az egyik kedvencem, jo otletei vannak es meg is csinalja
 *   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
 *   [http://andyhot.di.uoa.gr/blojsom/blog/default/](http://andyhot.di.uoa.gr/blojsom/blog/default/) [tapestry](tapestry.html)s csako
-*   [http://freemarker.blogspot.com/](http://freemarker.blogspot.com/) magyarok angolul, a [freemarker](FreeMarker.html)es arcoktol
 *   [http://jroller.com/page/carlossg](http://jroller.com/page/carlossg) ([maven](maven.html) foleg)
-*   [http://jcrpg.blogspot.com/](http://jcrpg.blogspot.com/) ([kanni_baa](kanni_baa.html) auf english)
 
-Magyar:
+__Magyar fejlesztok angolul__:
+
+*   [http://jcrpg.blogspot.com/](http://jcrpg.blogspot.com/) ([kanni_baa](kanni_baa.html) auf english)
+*   [http://freemarker.blogspot.com/](http://freemarker.blogspot.com/) magyarok angolul, a [freemarker](FreeMarker.html)es arcoktol
+
+__Magyar__:
 
 *   [http://problemjava.blogspot.com/](http://problemjava.blogspot.com/) ([karenin](karenin.html))
 *   [midori](http://www.midori.hu/en/blog_hu.html) jofajta
