@@ -5,8 +5,8 @@ title               : WebServices
 name                : WebServices 
 layout              : wiki 
 path                : WebServices 
-date                : 2007-02-04 14:55:12 +0100 
-version             : 4 
+date                : 2007-06-01 14:22:53 +0200 
+version             : 5 
 creator             : kocka 
 ---
 Technologiak:
@@ -28,7 +28,7 @@ Apik:
 *   [JAX-WS](JAX-WS.html) 
 *   [SAAJ](SAAJ.html)
 *   [JAXR](JAXR.html)
-
+*   [jsr-181](jsr-181.html) [annotations](annotations.html)
 
 
 link:
