@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-10 14:02:53 +0100 
-author              : admin 
+author              : kocka 
 title               : SEDA 
 name                : SEDA 
 layout              : wiki 
 path                : SEDA 
-date                : 2006-03-26 01:42:53 +0100 
-version             : 1 
+date                : 2007-06-01 14:10:46 +0200 
+version             : 4 
 creator             : kocka 
 ---
 __Staged Event Driven Architecture__
@@ -17,3 +17,6 @@ Nehany project:
 
 *   [apache directory](apache%20directory.html)
 *   [activemq](ActiveMQ.html)
+*   [mina](mina.html)
+
+
