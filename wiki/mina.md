@@ -5,10 +5,12 @@ title               : mina
 name                : mina 
 layout              : wiki 
 path                : mina 
-date                : 2007-05-31 21:56:30 +0200 
-version             : 1 
+date                : 2007-06-01 14:12:44 +0200 
+version             : 2 
 creator             : kocka 
 ---
 [http://mina.apache.org/](http://mina.apache.org/)
 
-Az apache mina egy �ltal�nos c�l� h�l�zat framework. T�mogatja az UDPt �s a TCPt, ssl k�dol�st seg�t, t�m�r�t�st, APIt ad a protokol implement�ci�j�hoz �s er?s terhel�sb�r�st tesz lehet?v� a [SEDA](SEDA.html) architekt�r�val �s a [NIO](NIO.html) hasznlat�val.
+Az apache mina egy általános célú hálózat framework. Támogatja az UDPt és a TCPt, ssl kódolást segít, tömörítést, APIt ad a protokol implementációjához és erős terhelésbírást tesz lehetővé a [SEDA](SEDA.html) architektúrával és a [NIO](NIO.html) hasznlatával.
+
+
