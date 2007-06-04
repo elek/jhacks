@@ -5,8 +5,8 @@ title               : Netbeans
 name                : Netbeans 
 layout              : wiki 
 path                : Netbeans 
-date                : 2006-09-26 16:23:59 +0200 
-version             : 7 
+date                : 2007-06-04 13:07:21 +0200 
+version             : 8 
 creator             : kocka 
 ---
 __Netbeans__
@@ -31,11 +31,32 @@ A netbeans mogott a [SUN](Sun.html) all, ugyanugy mint az [eclipse](Eclipse.html
 <tapasztalatok>
  Viccet félretéve, a netbeans előnyére lehet mondani, hogy jó pár ügyes wizardal, templatetel rendelkezik, s ha a drag & drop éppen müködik, akkor gyorsan lehet benne haladni, viszont... S itt sajnos egy legalább olyan hosszú lista következik: 
 
-*   refactoringot nagyon elhanyagolható mértékben támogat.
-*   nagyon hiányzik belőle az eclipseből jól ismert 3-4 billentyü leütéssel generált setter/getter, az intelligens kód javitó, ami szintén 3-4 billentyü lenyomással beilleszti a ki nem irt cast-okat, és a többi...
-*   a UI buildere sajnos egy irányú, tehát nem lehet módositani a kódot tetszés szerint, a netbeans generálja, aztán ha véletlenül mégis belenyúlsz, akkor már ő mossa kezeit. Ez különösen akkor fájó, amikor nem teljesen [triviális](Missing.html) statikus formokat csinál az ember.
+*   refactoringot nagyon elhanyagolható mértékben támogat. (karenin: Ez az 5-ös szériával nagyon sokat javult, gyakorlatilag minden alap már benne van)
+*   nagyon hiányzik belőle az eclipseből jól ismert 3-4 billentyü leütéssel generált setter/getter, az intelligens kód javitó, ami szintén 3-4 billentyü lenyomással beilleszti a ki nem irt cast-okat, és a többi... (karenin: castokat Alt-Enter kiiírja, getter+settert is generál már (sajonos a template-ben nem lehet megadni neki javadocot, de ezt leszámítva korrektül))
+*   a UI buildere sajnos egy irányú, tehát nem lehet módositani a kódot tetszés szerint, a netbeans generálja, aztán ha véletlenül mégis belenyúlsz, akkor már ő mossa kezeit. Ez különösen akkor fájó, amikor nem teljesen [triviális](Missing.html) statikus formokat csinál az ember. (karenin: szerintem aki ráérez az ízére, az mindent meg tud benne csinálni, mindenhová be lehet szúrni kódot. Az inkább fájó, hogy nem NetBeans általal generált Swinges formot (amihez nincs .form), csak trükközéssel eszi meg).
 *   A Mobility Pack esetén még a kód generáló kiforratlanságával is számolni kell, szeret hibás kódot generálni, módositani csak mértékkel lehet benne, s ami a legfájóbb volt, hogy az esemény kezelő kód beirását egy olyan modális dialogusban kell elvégezni, amiben nincs _semmilyen_ code completion. Most megnézem azt a fejlesztőt, aki mind fejben tartja, hogy éppen a pár tucat változóját, és fieldjét és formját hogyan hivják.
+
+Ami szerintem jó:
+
+*   jó csomagok(pack) vannak, SOA, Mobile, Gui Builder témakörben
+*   überkirály, hogy ANT-ra épülnek a projektjei, ezzel olyan dolgokat is meg lehet csinálni egyszerűen, amihez különben plugin kéne (pl. IvY támogatás)
+*   Alapból vannak hozzá csomagok(pluginek), amik (szerintem) sokkal jobbak, mint amit innen-onndan Eclipse-hez szerezhetek (pl. appszerver támogatás). Viszont, ha valami nincs benne alapból, ahhoz egyelőre sokkal kevesebb plugint találni. 
+
+Ami gyenge:
+
+*   code convetion támogatása elenyésző
+*   Bár sok web/app konténert támogat, ha valamit nem, akkor ahhoz nagyon nehéz összelőcsölni (pl. 5.5-ben Tomcat 6 nem volt)
+*   Az Eclipse view rendszere szerintem kicsit okosabb, itt nem lehet megjegyeztetni összerakott ablak állásokat.
 
 </tapasztalatok>
 
- 
+Jelenlegi változat az 5.5/5.5.1 (5.5.1-hez nem adták ki az Enterprise Packet)
+
+Jelenlegi fejlesztési változat: 6.0 újdonságok (várható 2007 őszén)
+
+*   Erősen rágyúrtak az editor képességeire (színesebb, okosabb, ügyesebben találja ki mit akarunk)
+*   Schliemann: egy egyszerű(?) szintaxis segítségével könnyel lehet más nyelvekhez editálás (kódszínezés, kódgiegészítés) képességeket passzintani. El is készült egy rakás template.
+*   Jackrabbit: újfajta refactor api. Viszonylag egyszerűen lehet majd refactor dolgokat definiálni magunknak (értsd: modul fejlesztés nélkül).
+*   Enterprise Pack SOA ([OpenESB](OpenESB.html)) támogatása erősen jó lesz (sok bindinget alapból eszik)
+*   Swing Application Framework támogatás
+*   JRuby támogatás
