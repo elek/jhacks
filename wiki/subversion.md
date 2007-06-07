@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-14 11:54:36 +0100 
-author              : kocka 
+author              : karenin 
 title               : subversion 
 name                : subversion 
 layout              : wiki 
 path                : subversion 
-date                : 2006-12-19 19:44:07 +0100 
-version             : 9 
+date                : 2007-06-07 10:31:15 +0200 
+version             : 10 
 creator             : kocka 
 ---
 [http://subversion.tigris.org/](http://subversion.tigris.org/)
@@ -24,3 +24,4 @@ Pár hasznos cucc :
 *   Javas kliens : [http://smartcvs.com/smartsvn/index.html](http://smartcvs.com/smartsvn/index.html)
 *   pure Javas API, ha CMS-t irnál Subversion alapokra: [http://tmate.org/svn/](http://tmate.org/svn/) 
 *   [Version Control with Subversion](http://svnbook.red-bean.com/) (Konyv)
+*   Windows Shellbe integrálható, nagyon handy cucc: [http://tortoisesvn.tigris.org/](http://tortoisesvn.tigris.org/) (Ha kényszerítenek windowsra, ott IMHO ez a legjobb kliens. Kis ügyességgel még Total Commanderbe is integrálódik.)
