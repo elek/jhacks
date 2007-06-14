@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-31 12:51:42 +0100 
-author              : kocka 
+author              : karenin 
 title               : haboru 
 name                : haboru 
 layout              : wiki 
 path                : haboru 
-date                : 2006-12-13 13:54:05 +0100 
-version             : 11 
+date                : 2007-06-14 13:36:48 +0200 
+version             : 12 
 creator             : kocka 
 ---
 Szoval a java vilag haborui:
@@ -22,6 +22,7 @@ Szoval a java vilag haborui:
 *   [ide/code formating](ide/code%20formating.html): _space-vel tabulalos idiota formazas_ __vs__ _szep tab-os,minden editorban széteső formazas, ahogy néhány [python](python.html) s [whitespace](Missing.html) fanatikus elképzeli _ :)
 *   [maven](maven.html) vs [ant](ant.html) vs [shell script](Missing.html) vs [make](Missing.html) (vs semmi, igenytelen [tak](tak.html)erek eseteben ilyen is megfigyelheto)
 *   [dom4j](dom4j.html) vs [jdom](jdom.html) :-D
+*   szabványos API/JCR vs. vendor függő, de dinamikusabban fejlődő megoldás
 
 Egyeb erdekes flame-k:
 
