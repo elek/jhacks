@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-27 09:58:41 +0200 
-author              : karenin 
+author              : kocka 
 title               : Continuous Integration 
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2006-11-16 09:41:04 +0100 
-version             : 11 
+date                : 2007-06-22 22:36:21 +0200 
+version             : 12 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -23,6 +23,11 @@ Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja raj
 *   [gump](gump.html)?
 *   [cruisecontrol](cruisecontrol.html)
 *   [hudson](https://hudson.dev.java.net/)
+
+Burzsujoknak:
+
+*   [bamboo](http://www.atlassian.com/software/bamboo/) (atlassian)
+*   [teamcity](http://www.jetbrains.com/teamcity/) (jetbrains)
 
 Ezekhez erdemes megnezni ezt a [feature matrix](http://damagecontrol.codehaus.org/Continuous+Integration+Server+Feature+Matrix)ot.
 
