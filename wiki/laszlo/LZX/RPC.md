@@ -5,13 +5,15 @@ title               : laszlo/LZX/RPC
 name                : laszlo/LZX/RPC 
 layout              : wiki 
 path                : laszlo/LZX/RPC 
-date                : 2007-06-25 11:05:39 +0200 
-version             : 4 
+date                : 2007-06-25 11:06:16 +0200 
+version             : 5 
 creator             : kocka 
 ---
 A [laszlo/LZX](../../laszlo/LZX.html) nyelv a következő beépített remote procedure call lehetőségekkel rendelkezik:
 
 *   [soap](../../SOAP.html) / [webservices](../../WebServices.html) ez csak proxizva, azaz a hivás bemegy a prezentációs szerverre és onnan megy ki a tényleges [soap](../../SOAP.html) hivás.
 *   [java](../../java.html) rpc, ezzel meg csak 'public static' dolgokat lehet hívni
-*   [xmlrpc](../../Missing.html), na ezt is ismerjük, szintén proxizva megy
+*   [xml-rpc](../../xml-rpc.html), na ezt is ismerjük, szintén proxizva megy
 *   [Ajax](../../ajax.html) Legalábbis van XMLHttpRequest objektum, és ezzel lehet ugyanazt csinálni mint javascriptben általában
+
+
