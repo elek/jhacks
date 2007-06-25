@@ -5,8 +5,8 @@ title               : laszlo/LZX
 name                : laszlo/LZX 
 layout              : wiki 
 path                : laszlo/LZX 
-date                : 2007-06-25 10:59:23 +0200 
-version             : 2 
+date                : 2007-06-25 11:18:28 +0200 
+version             : 3 
 creator             : kocka 
 ---
 A [laszlo](../Laszlo.html) sajat, [XML](../XML.html) alapu programnyelve, ami a proceduralis reszeket [javascript](../javascript.html) szintaktikaval definialja.
@@ -17,5 +17,7 @@ Na ide jon egy kis magyar nyelvu tapasztalatgyujtemeny ahogy lesz idom, a strukt
 -   [laszlo/LZX/skinek](../laszlo/LZX/skinek.html)
 -   [laszlo/LZX/data binding](../laszlo/LZX/data binding.html)
 -   [laszlo/LZX/RPC](../laszlo/LZX/RPC.html)
+
+
 
 
