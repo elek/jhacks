@@ -1,21 +1,21 @@
 ---
 creationDate        : 2004-08-30 14:52:27 +0200 
-author              : admin 
+author              : kocka 
 title               : site howto 
 name                : site howto 
 layout              : wiki 
 path                : site howto 
-date                : 2006-03-26 01:48:47 +0100 
-version             : 1 
+date                : 2007-06-25 16:47:12 +0200 
+version             : 10 
 creator             : kocka 
 ---
 ```
 public class Hackers {
 ```
 
-Ez egy hir es wiki oldal [java](java.html) fejlesztoknek.
+Ez egy hir es [wiki](wiki.html) oldal [java](java.html) fejlesztoknek. Inkab csak [wiki](wiki.html) :)
 
-A regisztracio nyilt barki szamara: angolul es magyarul egyarant hozza lehet szolni, nem fog zavarni senkit a helyesiras se (legfeljebb nem lesz belole lexikon :), az ekezeteket is lehet hanyagolni, persze nem kotelezo. Blogolni es editalni csak akkor tudsz, ha van ra jogod. Jogot az adminok oszthatnak ki ([zsoltk](zsoltk.html) vagy [kocka](kocka.html))
+A regisztracio nyilt barki szamara: angolul es magyarul egyarant hozza lehet szolni, nem fog zavarni senkit a helyesiras se (legfeljebb nem lesz belole lexikon :), az ekezeteket is lehet hanyagolni, persze nem kotelezo. Blogolni es editalni csak akkor tudsz, ha van ra jogod. Jogot az adminok oszthatnak ki ([kocka](kocka.html), lasd elerhetosegek)
 
 Ha valamivel nem ertessz egyet, akkor meg commentben helyesbithetsz es vagy adunk edit jogot vagy kijavitjuk a hibat. Ha kell editor jog, akkor szoljal valahogy (-> [kocka](kocka.html) elerhetosegek, post comment, stb).
 
