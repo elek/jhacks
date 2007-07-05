@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2007-06-22 22:36:21 +0200 
-version             : 12 
+date                : 2007-07-05 12:08:27 +0200 
+version             : 13 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -47,6 +47,7 @@ Cikkek:
 
 *   [Automation for the people: Continuous feedback](http://www.ibm.com/developerworks/java/library/j-ap11146/index.html?ca=drs-)
 *   [Which open source CI tool is best suited for your application's environment?](http://www.javaworld.com/javaworld/jw-11-2006/jw-1101-ci.html) (review: Cruise Control, Continuum, Luntbuild, Hudson)
+*   [Introducing continuous integration  ](http://www.javaworld.com/javaworld/jw-06-2007/jw-06-awci.html)
 
 Lasd meg: [XP](XP.html)
 
