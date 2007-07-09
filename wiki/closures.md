@@ -5,14 +5,15 @@ title               : closures
 name                : closures 
 layout              : wiki 
 path                : closures 
-date                : 2007-07-09 22:05:27 +0200 
-version             : 2 
+date                : 2007-07-09 22:08:50 +0200 
+version             : 3 
 creator             : kocka 
 ---
-_[TODO](TODO.html): a [GROOVY](Groovy.html)/[Groovy/closure](Groovy/closure.html) alol kipakolni ide azt ami nem a [groovyra](Groovy.html) tartozik..._
+_[TODO](TODO.html): Kicsit meg chunk jellegu_
 
 [http://javac.info/](http://javac.info/)
 
+Mozgo celpont, a [java 1.7](java%201.7.html) tervezett nyelvi ujdonsaga, de se formai, se funkcionalis szinten nincs meg nagy megallapodas, sot egyesek fel szeretnenek miatta szantani osi [java](java.html) teruleteket, mint a checked exception-ok.
 
 Linkek: 
 
