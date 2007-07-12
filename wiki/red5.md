@@ -5,8 +5,8 @@ title               : red5
 name                : red5 
 layout              : wiki 
 path                : red5 
-date                : 2007-07-12 12:17:03 +0200 
-version             : 5 
+date                : 2007-07-12 18:24:49 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [http://osflash.org/red5/](http://osflash.org/red5/)
@@ -20,5 +20,6 @@ Egyebkent [mina](mina.html)t (2.0-SNAPSHOT) hasznal es [spring](spring.html)et a
 linkek:
 
 *   [http://red5.hu/](http://red5.hu/)
+*   [Getting started with RED5 server](http://www.actionscript.org/resources/articles/615/1/Getting-started-with-red5-server/Page1.html)
 
 
