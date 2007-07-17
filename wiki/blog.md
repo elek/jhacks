@@ -5,11 +5,13 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-07-11 17:34:20 +0200 
-version             : 22 
+date                : 2007-07-17 16:09:16 +0200 
+version             : 23 
 creator             : kocka 
 ---
-Jo minosegu blogok [java](java.html) temaban:
+Blogok [java](java.html) témában:
+
+Ez egy válogatás persze azok közül amiket érdemes figyelni mert az írók érdekes dolgokkal foglalkoznak, és a legkevésbé sem copy-paste egy mainstream híroldalról.
 
 __Külföldi__:
 
@@ -21,6 +23,7 @@ __Külföldi__:
 *   [http://erik.jteam.nl/](http://erik.jteam.nl/) [spring](spring.html) es [j2ee](j2ee.html) hegesztesek
 *   [http://andyhot.di.uoa.gr/blojsom/blog/default/](http://andyhot.di.uoa.gr/blojsom/blog/default/) [tapestry](tapestry.html)s csako
 *   [http://jroller.com/page/carlossg](http://jroller.com/page/carlossg) ([maven](maven.html) foleg)
+*   [http://techpolesen.blogspot.com/](http://techpolesen.blogspot.com/) ([maven](maven.html), [flash](flash.html), és sok más, nagyon kreatív)
 
 __Magyar fejlesztők angolul__:
 
@@ -34,7 +37,7 @@ __Magyar__:
 *   [joeblog](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
 *   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) inaktív, de jófajta
 *   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) és más hackelések, nagyon ql :))
-*   [pcjuzer](http://pcjuzer.blogspot.com/) (nem tudom kie, de jófajta)
-*   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
+*   [pcjuzer](http://pcjuzer.blogspot.com/) (nem tudom kié, de jófajta)
+*   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html) legyen egy ilyen is, /me a technológiai útvesztőben)
 
 Lasd meg: [linkek](linkek.html) meg állítólag ez is egy blog, bár inkáb [wiki](wiki.html).
