@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2007-07-03 13:01:19 +0200 
-version             : 29 
+date                : 2007-07-18 12:24:23 +0200 
+version             : 30 
 creator             : kocka 
 ---
 
@@ -27,6 +27,7 @@ A maven 1 utan egy nagy refactor kovetkezett, nagytakaritas a pom formatumaban v
 *   mirrorozhato a repository, nem al meg az elet ha lehal egy szerver: [http://maven.apache.org/guides/mini/guide-mirror-settings.html](http://maven.apache.org/guides/mini/guide-mirror-settings.html)
 *   van hozza proxy szoftver is [http://maven-proxy.codehaus.org/](http://maven-proxy.codehaus.org/) (vagy a [proximity](../proximity.html))
 *   build lifecycle koncepcio
+*   Egyeb nyelvek: [groovy](../Groovy.html), [flex](../flex.html), satobbi...
 
 [Test](../test.html) frameworkbol tamogatja a [junit](../junit.html) 3.8-at es a [testNG](../testng.html)-t, [junit](../junit.html) 4-el is meg lehet hajtani eppen, ha pont ugyanugy nevezed az metodusokat ahogy 3.8 alatt. [Test/Categorization](../Test/Categorization.html) [junit](../junit.html) 4-hez nincsen sajnos, pedig de jo is lenne, [testng](../testng.html)vel megy siman.
 
