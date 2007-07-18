@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-07-17 16:09:16 +0200 
-version             : 23 
+date                : 2007-07-18 18:59:59 +0200 
+version             : 24 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -38,6 +38,7 @@ __Magyar__:
 *   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) inaktív, de jófajta
 *   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) és más hackelések, nagyon ql :))
 *   [pcjuzer](http://pcjuzer.blogspot.com/) (nem tudom kié, de jófajta)
+*   [coffeshrub](http://coffeshrub.blogspot.com/) (még új, de igéretes)
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html) legyen egy ilyen is, /me a technológiai útvesztőben)
 
 Lasd meg: [linkek](linkek.html) meg állítólag ez is egy blog, bár inkáb [wiki](wiki.html).
