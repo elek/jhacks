@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-07-18 18:59:59 +0200 
-version             : 24 
+date                : 2007-07-18 19:02:26 +0200 
+version             : 25 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -42,3 +42,5 @@ __Magyar__:
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html) legyen egy ilyen is, /me a technológiai útvesztőben)
 
 Lasd meg: [linkek](linkek.html) meg állítólag ez is egy blog, bár inkáb [wiki](wiki.html).
+
+[TODO](TODO.html): ezeket rendszerezni kellene kicsit jobban mert már nem elég jól áttekinthető
