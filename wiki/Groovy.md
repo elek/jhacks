@@ -5,13 +5,13 @@ title               : Groovy
 name                : Groovy 
 layout              : wiki 
 path                : Groovy 
-date                : 2007-02-01 12:16:35 +0100 
-version             : 9 
+date                : 2007-07-18 12:25:02 +0200 
+version             : 10 
 creator             : kocka 
 ---
 ![image](http://docs.codehaus.org/download/userResources/GROOVY/logo)(http://groovy.codehaus.org/)
 
-Egy nagyon kotetlen szintaxisu scriptnyelv a JRE-re (azaz class formatumba fordithato). Van [ant](ant.html) es [maven](maven.html) tamogatas is.
+Egy nagyon kotetlen szintaxisu scriptnyelv a [JRE](JRE.html)-re (azaz class formatumba fordithato). Van [ant](ant.html) es [maven](maven.html) tamogatas is.
 
 amit erdemes tudni:
 
