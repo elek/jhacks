@@ -5,8 +5,8 @@ title               : WebWork
 name                : WebWork 
 layout              : wiki 
 path                : WebWork 
-date                : 2007-08-07 11:26:46 +0200 
-version             : 4 
+date                : 2007-08-07 11:27:22 +0200 
+version             : 5 
 creator             : zsoltk 
 ---
 [TODO](TODO.html), ezt alaposan fel kellene aktualizalni!
@@ -19,7 +19,7 @@ Semmi kulonoset nem tud, egyszer [MVC](MVC.html) 1, vagy 2 FW. Egy [XWork](Missi
 *   Objektum konverziok (?)
 *   OGNL Expression Language (nem igazan latom meg, hogy ez miert jo)
 *   [IoC](ioc.html)
-*   Velocity templatek kezelese
+*   [Velocity](Velocity.html) templatek kezelese
 *   Interceptors, amik egy action futasa elott es utan kepesek hajtodnak vegre.
 *   [I18n](i18n.html) tamogatas
 *   Egyszeru integracio
