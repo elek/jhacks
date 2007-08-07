@@ -5,13 +5,24 @@ title               : struts/struts 2
 name                : struts/struts 2 
 layout              : wiki 
 path                : struts/struts 2 
-date                : 2007-05-30 10:11:08 +0200 
-version             : 3 
+date                : 2007-08-07 10:56:15 +0200 
+version             : 4 
 creator             : kocka 
 ---
-A Struts 2 egy hatalmas nagy átírás eerdménye. Újdonságok nagy vonalakban:
+
+-   [struts/struts 2](../struts/struts 2.html)
+
+
+
+A Struts 2 egy hatalmas nagy átírás erdménye. Újdonságok nagy vonalakban:
 
 *   [java 1.5](../java%201.5.html) [annotations](../annotations.html) validációra, actionokhoz, majdnem mindenhez, a nagy [XML](../XML.html) fileok beköltöznek a kis java fileokba :)
 *   [Testablity](../Missing.html), az actionok majdnem [pojo](../pojo.html)-k, lehet őket tesztelni a szokásos frameworkokkel
 *   A view layer maradt a jo oreg [jsp](../JSP.html)
 *   Tovabbra is egyszeruen integralhato [IoC](../ioc.html) rendszerekkel, mint pl [spring](../spring.html)
+
+__Könyv__
+
+*   [Starting Struts 2](http://www.infoq.com/resource/minibooks/starting-struts2/en/pdf/startingstruts2online.pdf)
+
+
