@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 17:28:47 +0200 
-author              : admin 
+author              : kocka 
 title               : EJB 
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2006-03-26 01:42:37 +0100 
-version             : 1 
+date                : 2007-08-21 17:38:52 +0200 
+version             : 9 
 creator             : zsoltk 
 ---
 
@@ -60,3 +60,5 @@ Site-ok:
 *   [http://www.ejbsig.de/](http://www.ejbsig.de/)
 
 Lasd meg: [JNDI](JNDI.html), [persistence](persistence.html), [JDBC](JDBC.html), [J2EE](j2ee.html), [RDBMS](RDBMS.html), [IDE](IDE.html)
+
+
