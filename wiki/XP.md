@@ -5,8 +5,8 @@ title               : Extreme Programming
 name                : XP 
 layout              : wiki 
 path                : XP 
-date                : 2006-10-26 11:09:17 +0200 
-version             : 8 
+date                : 2007-08-22 17:15:38 +0200 
+version             : 9 
 creator             : kocka 
 ---
 Egy csomo otlet amivel a szoftver minoseget lehet javitani:
@@ -24,6 +24,6 @@ Linkek:
 
 *   [http://www.xprogramming.com/](http://www.xprogramming.com/)
 
-Lasd meg: [RUP](rup.html)
+Lasd meg: [RUP](rup.html), [scrum](scrum.html)
 
 
