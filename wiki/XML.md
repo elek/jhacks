@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-11-17 22:36:54 +0100 
-author              : karenin 
+author              : kocka 
 title               : eXtended Markup Language 
 name                : XML 
 layout              : wiki 
 path                : XML 
-date                : 2007-06-14 13:33:44 +0200 
-version             : 9 
+date                : 2007-08-22 17:56:34 +0200 
+version             : 10 
 creator             : boci 
 ---
 A [Word Wide Web Consurtium](http://www.w3.org) altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. [XSLT](XSLT.html) segitsegevel az adatstruktura konnyen megjelenitheto.
@@ -31,6 +31,7 @@ Egyéb apik:
 *   [JAXP](Missing.html) az alap parzoló api
 *   [JAXR](JAXR.html) registryket (pl. [UDDI](UDDI.html)) elérő api
 *   [JAXM](Missing.html) ezt még sose használtam, de ha vizsgán kérdezik, hogy mi ez, és benne van a message-ing szó, akkor ezt kell kiválasztani :)
+*   [xpp3](Missing.html) nem callbackol, nem épít felhőkarcolókat, szedd ki magad és csinálj vele amit akarsz. Imádnivalóan gyors, csak azért persze kicsit fáj a kódot összevacakolni hozzá, kicsit procedurális lesz
 
 [webservices](WebServices.html) szagú XML közeli API-k
 
