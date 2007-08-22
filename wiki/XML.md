@@ -5,8 +5,8 @@ title               : eXtended Markup Language
 name                : XML 
 layout              : wiki 
 path                : XML 
-date                : 2007-08-22 17:56:34 +0200 
-version             : 10 
+date                : 2007-08-22 17:57:28 +0200 
+version             : 11 
 creator             : boci 
 ---
 A [Word Wide Web Consurtium](http://www.w3.org) altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. [XSLT](XSLT.html) segitsegevel az adatstruktura konnyen megjelenitheto.
@@ -53,3 +53,5 @@ Az XML egy ideje bevete magat az adatbazis technologiak koze is, aminek itathata
 A rabbi is altalaban azt mondja ezekről, hogy nagyon frankók, csak sajnos a relációs adatbázis kezelő gyártóknak már sokkal nagyon tapasztalataik vannak, úgy hogy általában a megbízhatóság kedvéért inkább parzolunk és meppelünk.
 
 Lasd: [XQL](xql.html), [XPath](XPath.html), [xindice](xindice.html), [tamino](tamino.html), valamint XML alapu [RPC](RPC.html)-k (mert az a tuti-frnko) [XML object mapping](XML%20object%20mapping.html)
+
+
