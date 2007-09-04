@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-11 15:53:24 +0100 
-author              : admin 
+author              : kocka 
 title               : C-JDBC 
 name                : C-JDBC 
 layout              : wiki 
 path                : C-JDBC 
-date                : 2006-03-26 01:42:35 +0100 
-version             : 1 
+date                : 2007-09-04 10:47:08 +0200 
+version             : 2 
 creator             : kocka 
 ---
 __Cluster-JDBC__
@@ -16,3 +16,5 @@ __Cluster-JDBC__
 Egy virtualis adatbazis JDBC meghajto, amivel egyszerre tobb uniform adatbazist erhetsz el. Egyreszt terheles elosztas szempontbol, masreszt pedig failover mechanizmuskent eleg jo.
 
 Egyebkent ezt [RDBMS](RDBMS.html) szinten is meg lehet oldani pl egy replikacios szoftverrel, vagy elosztott adatbazissal es HA-val...
+
+
