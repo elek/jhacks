@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-11 16:01:17 +0100 
-author              : admin 
+author              : kocka 
 title               : JRE 
 name                : JRE 
 layout              : wiki 
 path                : JRE 
-date                : 2006-03-26 01:42:43 +0100 
-version             : 1 
+date                : 2007-09-04 16:02:13 +0200 
+version             : 7 
 creator             : kocka 
 ---
 __Java Runtime Environment__
@@ -17,6 +17,7 @@ Lasd meg:
 
 *   [groovy](Groovy.html)
 *   [nice](nice.html)
+*   [scala](scala.html) ?
 
 JRE implementaciok:
 
