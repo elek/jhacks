@@ -5,8 +5,8 @@ title               : JRE
 name                : JRE 
 layout              : wiki 
 path                : JRE 
-date                : 2007-09-04 16:02:13 +0200 
-version             : 7 
+date                : 2007-09-04 16:03:29 +0200 
+version             : 8 
 creator             : kocka 
 ---
 __Java Runtime Environment__
@@ -21,7 +21,7 @@ Lasd meg:
 
 JRE implementaciok:
 
-*   [Sun](Sun.html) JRE (amit kb mindenki hasznal, ingyenes)
+*   [Sun](Sun.html) JRE (amit kb mindenki hasznal, ingyenes volt, most mar jobbara [GPL](GPL.html))
 *   [IBM](IBM.html) JRE (ingyenes)
 *   [JRocket](jrocket.html) ([BEA](bea.html)) (ingyenes)
 *   [Kaffe](Kaffe.html) (szabad)
@@ -30,4 +30,4 @@ JRE implementaciok:
 *   [harmony](Harmony.html) [ASF](ASF.html)
 *   [JRE/JCVM](JRE/JCVM.html) [LGPL](LGPL.html)
 
-Altalanossagban a szabad JRE-k (sajnos) a nyomaba nem ernek a kereskedelmi VM-eknek, de tulajdonkeppen mindet ingyen lehet hasznalni ugyhogy semmi ok a pityergesre :)
+
