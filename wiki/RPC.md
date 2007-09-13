@@ -5,14 +5,13 @@ title               : Remote Procedure Call
 name                : RPC 
 layout              : wiki 
 path                : RPC 
-date                : 2007-08-22 17:59:26 +0200 
-version             : 5 
+date                : 2007-09-13 17:06:32 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [XML](XML.html) alapuak:
 
-*   [webservices](WebServices.html)
-*   [soap](SOAP.html)
+*   [webservices](WebServices.html): [soap](SOAP.html) meg persze a [REST](REST.html)-féleségek is
 *   [xml-rpc](xml-rpc.html)
 
 Egyeb:
