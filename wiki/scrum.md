@@ -5,8 +5,8 @@ title               : scrum
 name                : scrum 
 layout              : wiki 
 path                : scrum 
-date                : 2007-08-22 17:34:02 +0200 
-version             : 1 
+date                : 2007-09-13 16:48:35 +0200 
+version             : 2 
 creator             : kocka 
 ---
 Egy [iteratív szoftverfejlesztési processz](iterativ%20processz.html).
@@ -19,7 +19,7 @@ Szerepkörök:
 
 Procedúrák:
 
-*   Standup meeting
+*   [Standup meeting](Standup%20meeting.html)
 *   Sprint planing meeting
 *   2-4 hetes sprintek (iterációk)
 *   backlog-ok
