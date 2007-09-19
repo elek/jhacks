@@ -1,19 +1,19 @@
 ---
 creationDate        : 2004-08-12 11:27:56 +0200 
-author              : admin 
+author              : kocka 
 title               : UML 
 name                : UML 
 layout              : wiki 
 path                : UML 
-date                : 2006-03-26 01:42:59 +0100 
-version             : 1 
+date                : 2007-09-19 22:41:36 +0200 
+version             : 5 
 creator             : kocka 
 ---
 __Unified Modelling Language__
 
 Egy eleg egyszeru, kotetlen es vizualis tervezesi modszer. rendkivul izletes, igy onmagaban is, es egyeb tervezesi modszerekkel keverve is fogyaszthato.
 
-Bizonyos IDE-k nagyfoku tamogatast nyujtanak UML tervezeshez, pl [Rational XDE](Missing.html), ezek az IDE-k a kodolas egy reszet megcsinaljak helyettunk tervezesi idoben.
+Bizonyos [IDE](IDE.html)-k nagyfoku tamogatast nyujtanak UML tervezeshez, pl [Rational XDE](Missing.html), ezek az [IDE](IDE.html)-k a kodolas egy reszet megcsinaljak helyettunk tervezesi idoben.
 
 UML diagrammok tamogatasa
 
