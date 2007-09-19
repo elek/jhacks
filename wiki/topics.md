@@ -5,8 +5,8 @@ title               : topics
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 14:53:27 +0200 
-version             : 10 
+date                : 2007-09-19 14:59:58 +0200 
+version             : 11 
 creator             : kocka 
 ---
 
@@ -77,5 +77,12 @@ Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igye
 *   [MVC](MVC.html)
 *   [IoC](ioc.html)
 *   [persistence](persistence.html)
+
+## Közösség
+
+*   [javalist](javalist.html)
+*   [blogok](blog.html)
+*   [weboldalak](linkek.html)
+*   [Java User Meetings](http://www.jum.hu/)
 
 [TODO](TODO.html)
