@@ -5,15 +5,15 @@ title               : C-JDBC
 name                : C-JDBC 
 layout              : wiki 
 path                : C-JDBC 
-date                : 2007-09-04 10:47:08 +0200 
-version             : 2 
+date                : 2007-09-19 14:22:52 +0200 
+version             : 3 
 creator             : kocka 
 ---
 __Cluster-JDBC__
 
 [http://c-jdbc.objectweb.org/](http://c-jdbc.objectweb.org/)
 
-Egy virtualis adatbazis JDBC meghajto, amivel egyszerre tobb uniform adatbazist erhetsz el. Egyreszt terheles elosztas szempontbol, masreszt pedig failover mechanizmuskent eleg jo.
+Egy virtualis adatbazis [JDBC](JDBC.html) meghajto, amivel egyszerre tobb uniform adatbazist erhetsz el. Egyreszt terheles elosztas szempontbol, masreszt pedig failover mechanizmuskent eleg jo.
 
 Egyebkent ezt [RDBMS](RDBMS.html) szinten is meg lehet oldani pl egy replikacios szoftverrel, vagy elosztott adatbazissal es HA-val...
 
