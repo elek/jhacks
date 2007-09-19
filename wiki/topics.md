@@ -5,11 +5,11 @@ title               : Próblkozás a jhacks anyagainak rendszerezésére
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 13:03:27 +0200 
-version             : 5 
+date                : 2007-09-19 13:04:10 +0200 
+version             : 6 
 creator             : kocka 
 ---
-Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igyekszem bővíteni, 
+Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igyekszem bővíteni. (Lásd [site howto](site%20howto.html))
 
 ## [Alkalmazás szerverek](Alkalmazas%20Szerver.html)
 
