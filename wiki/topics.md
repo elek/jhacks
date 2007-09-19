@@ -1,14 +1,16 @@
 ---
 creationDate        : 2007-09-19 12:43:47 +0200 
 author              : kocka 
-title               : Próblkozás a jhacks anyagainak rendszerezésére.... 
+title               : Próblkozás a jhacks anyagainak rendszerezésére 
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 12:54:30 +0200 
-version             : 4 
+date                : 2007-09-19 13:03:27 +0200 
+version             : 5 
 creator             : kocka 
 ---
+Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igyekszem bővíteni, 
+
 ## [Alkalmazás szerverek](Alkalmazas%20Szerver.html)
 
 
@@ -59,6 +61,12 @@ creator             : kocka
 
 *   [ajax](ajax.html)
 *   [flash](flash.html)
+
+## [RAD](rad.html)
+
+*   [appfuse](appfuse.html)
+*   [trails](Trails.html)
+*   [grails](grails.html)
 
 ## Egyéb
 
