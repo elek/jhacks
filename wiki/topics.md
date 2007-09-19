@@ -5,8 +5,8 @@ title               : Próblkozás a jhacks anyagainak rendszerezésére....
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 12:52:17 +0200 
-version             : 3 
+date                : 2007-09-19 12:54:30 +0200 
+version             : 4 
 creator             : kocka 
 ---
 ## [Alkalmazás szerverek](Alkalmazas%20Szerver.html)
@@ -39,6 +39,7 @@ creator             : kocka
 *   [rup](rup.html)
 *   [scrum](scrum.html)
 *   [testing](test.html)
+*   [UML](UML.html)
 
 ## Programnyelvek:
 
