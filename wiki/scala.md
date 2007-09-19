@@ -5,8 +5,8 @@ title               : scala
 name                : scala 
 layout              : wiki 
 path                : scala 
-date                : 2007-09-19 14:37:13 +0200 
-version             : 2 
+date                : 2007-09-19 18:09:08 +0200 
+version             : 3 
 creator             : kocka 
 ---
 ![image](http://www.scala-lang.org/images/scala_logo.png)(http://www.scala-lang.org/)
@@ -15,3 +15,5 @@ creator             : kocka
 
 *   [IDE](IDE.html)-támogatás: [eclipse](Eclipse.html)-hez van plugin.
 *   [maven](maven/maven2.html) plugin: [http://millstone.iodp.tamu.edu/~blambi/maven-scala-plugin/](http://millstone.iodp.tamu.edu/~blambi/maven-scala-plugin/)
+
+
