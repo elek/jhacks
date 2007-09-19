@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-03 15:12:05 +0100 
-author              : kocka 
+author              : karenin 
 title               : webapp 
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2006-12-04 17:40:17 +0100 
-version             : 5 
+date                : 2007-09-19 15:46:32 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Java web alkalmazasok
@@ -18,7 +18,7 @@ Java web alkalmazasok
 
 
 
-Manapsag -sajnos- mindenki web alkalmazasokat ir, mert a vevok el se tudjak kepzelni hogy nem az IE-ben nezik a ceges adatokat. Erre van jonehany framework, a leges legegyszerubb a regi jo [servlet](servlet.html)+[jsp](JSP.html) Valamivel szofisztikaltabb megoldasok: a [struts](struts.html), [millstone](millstone.html) es a hasonlo kacatok, [tapestry](tapestry.html), [JSF](JSF.html).
+Manapsag -sajnos- mindenki web alkalmazasokat ir, mert a vevok el se tudjak kepzelni hogy nem az IE-ben nezik a ceges adatokat. Erre van jonehany framework, a leges legegyszerubb a regi jo [servlet](servlet.html)+[jsp](JSP.html) Valamivel utána jöttek a kissé szofisztikaltabb [MVC](MVC.html) megoldasok a [struts](struts.html), [millstone](millstone.html), majd elterjedtek a [komponens alapú](Component%20Based%20Web%20Frameworks.html)  megoldások ([tapestry](tapestry.html), [JSF](JSF.html), [Wicket](Wicket.html))
 
 Nehany publikus webalkalmazas, az ihlet kedveert:
 
