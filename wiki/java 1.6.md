@@ -5,8 +5,8 @@ title               : Java 1.6 aka "Mustang"
 name                : java 1.6 
 layout              : wiki 
 path                : java 1.6 
-date                : 2007-09-19 11:54:23 +0200 
-version             : 9 
+date                : 2007-09-19 11:55:28 +0200 
+version             : 10 
 creator             : kocka 
 ---
 [http://mustang.dev.java.net/](http://mustang.dev.java.net/)
@@ -26,7 +26,7 @@ Uj feature-k:
 *   [JDBC](JDBC.html) 4
 *   [jmx](JMX.html) überelés
 *   jobb desktop integráció
-*   scriptnyelv api
+*   scriptnyelv api (Lasd: [scripting](scripting.html))
 *   javac api
 *   webservice kliens/server javase-ben
  
