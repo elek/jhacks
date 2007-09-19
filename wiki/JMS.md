@@ -5,8 +5,8 @@ title               : JMS
 name                : JMS 
 layout              : wiki 
 path                : JMS 
-date                : 2007-01-31 21:01:56 +0100 
-version             : 9 
+date                : 2007-09-19 12:55:50 +0200 
+version             : 10 
 creator             : kocka 
 ---
 Java Messaging Service
@@ -14,7 +14,7 @@ Java Messaging Service
 Asszinkron rendszerintegracio megoldas J2EE modra. A JMS a J2EE resze es [alkalmazas szerver](Alkalmazas%20Szerver.html)ekben talalkozhatunk vele.
 A Message Queue-k vilaganak alapotlete az, hogy nem fontos hogy azonnal megkapja a masik rendszer az uzenetet, de biztosan kapja meg.
 
-*   [ActiveMQ](ActiveMQ.html) ([codehaus](codehaus.html))
+*   [ActiveMQ](ActiveMQ.html) (2.0-ig [codehaus](codehaus.html) volt, 2.0-tól [asf](ASF.html))
 *   [Manta](Manta.html)
 *   [Oracle AQ](Oracle%20AQ.html) ([Oracle](Oracle.html))
 *   [JORAM](Missing.html) ([objectweb](objectweb.html))
