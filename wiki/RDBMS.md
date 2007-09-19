@@ -5,8 +5,8 @@ title               : RDBMS
 name                : RDBMS 
 layout              : wiki 
 path                : RDBMS 
-date                : 2007-09-19 14:20:24 +0200 
-version             : 10 
+date                : 2007-09-19 14:20:55 +0200 
+version             : 11 
 creator             : kocka 
 ---
 Relational DataBase Management System
@@ -31,5 +31,7 @@ Beagyazott:
 *   [HSQL](HSQL.html)
 *   [CloudScape](CloudScape.html) ([IBM](IBM.html))
 *   [Derby](Derby.html) ([ASF](ASF.html)) (a [CloudScape](CloudScape.html) szabad forkja)
+
+
 
 Szinten olvasd el az [Adatbazis](Adatbazis.html) snippet.
