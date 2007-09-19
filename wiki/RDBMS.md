@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-30 13:13:06 +0200 
-author              : admin 
+author              : kocka 
 title               : RDBMS 
 name                : RDBMS 
 layout              : wiki 
 path                : RDBMS 
-date                : 2006-03-26 01:42:52 +0100 
-version             : 1 
+date                : 2007-09-19 14:19:37 +0200 
+version             : 9 
 creator             : kocka 
 ---
 Relational DataBase Management System
@@ -17,6 +17,7 @@ Eloszotott szerverek (a teljesseg igenye nelkul):
 
 *   [PostgreSQL](PostgreSQL.html)
 *   [DB2](DB2.html) ([IBM](IBM.html))
+*   [Derby](Derby.html) (avagy JavaDB) ([ASF](ASF.html))
 *   [Oracle](Oracle.html) (hasonlo nevu fejlesztocegtol)
 *   [MySQL](MySQL.html)
 *   [Sybase](Sybase.html)
