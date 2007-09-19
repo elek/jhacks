@@ -1,15 +1,15 @@
 ---
 creationDate        : 2004-12-09 12:03:00 +0100 
-author              : admin 
+author              : kocka 
 title               : javalist 
 name                : javalist 
 layout              : wiki 
 path                : javalist 
-date                : 2006-03-26 01:48:13 +0100 
-version             : 1 
+date                : 2007-09-19 21:20:19 +0200 
+version             : 3 
 creator             : kocka 
 ---
-[http://java.sch.bme.hu/](http://java.sch.bme.hu/)
+[http://www.javagrund.hu/javasite/](http://www.javagrund.hu/javasite/)
 
 A legjelentosebb magyar nyelvu java levelezo lista. Mellesleg az egyetlen.
 
