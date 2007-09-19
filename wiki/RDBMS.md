@@ -5,8 +5,8 @@ title               : RDBMS
 name                : RDBMS 
 layout              : wiki 
 path                : RDBMS 
-date                : 2007-09-19 14:19:37 +0200 
-version             : 9 
+date                : 2007-09-19 14:20:24 +0200 
+version             : 10 
 creator             : kocka 
 ---
 Relational DataBase Management System
@@ -17,7 +17,6 @@ Eloszotott szerverek (a teljesseg igenye nelkul):
 
 *   [PostgreSQL](PostgreSQL.html)
 *   [DB2](DB2.html) ([IBM](IBM.html))
-*   [Derby](Derby.html) (avagy JavaDB) ([ASF](ASF.html))
 *   [Oracle](Oracle.html) (hasonlo nevu fejlesztocegtol)
 *   [MySQL](MySQL.html)
 *   [Sybase](Sybase.html)
@@ -30,6 +29,7 @@ Eloszotott szerverek (a teljesseg igenye nelkul):
 Beagyazott:
 
 *   [HSQL](HSQL.html)
-*   [CloudScape](CloudScape.html) ([IBM](IBM.html)) es [Derby](Derby.html) ([ASF](ASF.html))
+*   [CloudScape](CloudScape.html) ([IBM](IBM.html))
+*   [Derby](Derby.html) ([ASF](ASF.html)) (a [CloudScape](CloudScape.html) szabad forkja)
 
 Szinten olvasd el az [Adatbazis](Adatbazis.html) snippet.
