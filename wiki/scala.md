@@ -5,8 +5,8 @@ title               : scala
 name                : scala 
 layout              : wiki 
 path                : scala 
-date                : 2007-09-19 18:09:08 +0200 
-version             : 3 
+date                : 2007-09-19 18:09:22 +0200 
+version             : 4 
 creator             : kocka 
 ---
 ![image](http://www.scala-lang.org/images/scala_logo.png)(http://www.scala-lang.org/)
