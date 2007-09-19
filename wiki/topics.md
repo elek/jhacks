@@ -5,8 +5,8 @@ title               : Próblkozás a jhacks anyagainak rendszerezésére
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 14:16:40 +0200 
-version             : 7 
+date                : 2007-09-19 14:24:03 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igyekszem bővíteni. (Lásd [site howto](site%20howto.html))
@@ -72,7 +72,7 @@ Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igye
 
 *   [MVC](MVC.html)
 *   [IoC](ioc.html)
-
+*   [persistence](persistence.html)
 
 
 [TODO](TODO.html)
