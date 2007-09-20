@@ -5,11 +5,13 @@ title               : spring
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-02-10 00:04:08 +0100 
-version             : 11 
+date                : 2007-09-20 12:30:23 +0200 
+version             : 12 
 creator             : kocka 
 ---
 __Spring Framework__
+
+__[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
 
 A Spring framework egy "komplex" joszag.Legyen itt lathato egy kisebb elemzes
 Az alabbi abra jol szemlelteti a felepiteset:
