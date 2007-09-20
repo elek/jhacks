@@ -1,24 +1,41 @@
 ---
 creationDate        : 2004-08-30 14:31:47 +0200 
 author              : kocka 
-title               : spring 
+title               : Spring Framework 
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-09-20 12:30:23 +0200 
-version             : 12 
+date                : 2007-09-20 12:39:21 +0200 
+version             : 13 
 creator             : kocka 
 ---
-__Spring Framework__
-
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
+
+![image](http://www.springframework.org/docs/reference/images/spring-overview.gif)
+
+## Spring IOC
+
+A Spring framework lelke az [IoC](ioc.html) container. Nem intrusiv, azaz kb bármi lehet spring bean, például egy [dbcp](DBCP.html) datasource, aminek semmi kötődése nincs a springhez.
+A lifecycle-hez vagy használ az ember Spring-specifikus interfaceket, vagy meghatározhat metódusokat amiket a container meghív a kellő fázisban.
+
+## Spring Web MVC
+
+
+## Spring JMS
+
+
+## Spring ORM support
+
+*   [hibernate](Hibernate.html), [jdo](JDO.html), [jdbc](JDBC.html) support a híres templates megoldással vagy nélküle.
+
+== régi tartalom ==
 
 A Spring framework egy "komplex" joszag.Legyen itt lathato egy kisebb elemzes
 Az alabbi abra jol szemlelteti a felepiteset:
 
 [Spring felepitese](http://www.springframework.org/docs/reference/images/spring-overview.gif)
 
-A Spring alapvetoen JavaBeanekkel (ertsd: [POJO](pojo.html)) dolgozik, igy nincs szukseg a "koltseges" [J2EE](j2ee.html) kontenerekre (melyek eroforras igenye igen csak nagy). Webes megjeleneshez eleg egy egyszeru java alapu webszerver (pl.: Jetty/Tomcat). Funkcionalitasaban joval megelozi az [EJB](EJB.html)-t.
+A Spring alapvetoen JavaBeanekkel (ertsd: [POJO](pojo.html)) dolgozik, igy nincs szukseg a "koltseges" [J2EE](j2ee.html) kontenerekre (melyek eroforras igenye igen csak nagy). Webes megjeleneshez eleg egy egyszeru java alapu webszerver (pl.: Jetty/Tomcat).
 
 Nehany fontosabb tulajdonsaga:
 
