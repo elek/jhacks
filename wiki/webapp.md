@@ -5,8 +5,8 @@ title               : webapp
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2007-09-20 12:54:21 +0200 
-version             : 7 
+date                : 2007-09-21 09:13:54 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Java web alkalmazasok
@@ -18,7 +18,7 @@ Java web alkalmazasok
 
 
 
-Manapsag -sajnos- mindenki web alkalmazasokat ir, mert a vevok el se tudjak kepzelni hogy nem az IE-ben nezik a ceges adatokat. Erre van jonehany framework, a leges legegyszerubb a regi jo [servlet](servlet.html)+[jsp](JSP.html) Valamivel utána jöttek a kissé szofisztikaltabb [MVC](MVC.html) megoldasok a [struts](struts.html), [millstone](millstone.html), majd elterjedtek a [komponens alapú](Component%20Based%20Web%20Frameworks.html)  megoldások ([tapestry](tapestry.html), [JSF](JSF.html), [Wicket](Wicket.html)).
+Manapsag -sajnos- mindenki web alkalmazasokat ir, mert a vevok el se tudjak kepzelni hogy nem az IE-ben nezik a ceges adatokat. Erre van jonehany framework, a leges legegyszerubb a regi jo [servlet](servlet.html)+[jsp](JSP.html) Valamivel utána jöttek a kissé szofisztikaltabb [MVC](MVC.html) megoldasok a [struts](struts.html), [spring-mvc](spring.html), [millstone](millstone.html), majd elterjedtek a [komponens alapú](Component%20Based%20Web%20Frameworks.html)  megoldások ([tapestry](tapestry.html), [JSF](JSF.html), [Wicket](Wicket.html)).
 
 Érdemes megemlíteni a [RAD](rad.html) rendszereket is, ezek is többnyire webalkalmazásokat generálnak.
 
