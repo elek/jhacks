@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-09-20 12:39:21 +0200 
-version             : 13 
+date                : 2007-09-21 12:20:09 +0200 
+version             : 14 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
@@ -17,16 +17,26 @@ __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
 
 A Spring framework lelke az [IoC](ioc.html) container. Nem intrusiv, azaz kb bármi lehet spring bean, például egy [dbcp](DBCP.html) datasource, aminek semmi kötődése nincs a springhez.
 A lifecycle-hez vagy használ az ember Spring-specifikus interfaceket, vagy meghatározhat metódusokat amiket a container meghív a kellő fázisban.
+Mind getter-setter, mind pedig konstruktor alapú [IoC](ioc.html) támogatja, valamint factory-nak is fel lehet használni szinte bármit annélkül hogy speciális interfacet implementálni kellene.
 
-## Spring Web MVC
-
-
-## Spring JMS
+## Spring Web [MVC](MVC.html)
 
 
-## Spring ORM support
+## Spring [JMS](JMS.html)
+
+
+## Spring ORM
 
 *   [hibernate](Hibernate.html), [jdo](JDO.html), [jdbc](JDBC.html) support a híres templates megoldással vagy nélküle.
+
+## [IDE](IDE.html) támogatás
+
+Az [eclipse](Eclipse.html) plugin 2.0ás verziójáról egy cikk: [Introducing Spring IDE 2.0](http://www.javabeat.net/articles/2007/09/introduction-to-spring-ide-2-0/5)
+
+
+
+
+
 
 == régi tartalom ==
 
