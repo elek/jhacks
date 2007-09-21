@@ -1,12 +1,12 @@
 ---
 creationDate        : 2007-09-19 12:43:47 +0200 
-author              : karenin 
+author              : kocka 
 title               : topics 
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-19 19:21:56 +0200 
-version             : 12 
+date                : 2007-09-21 15:10:53 +0200 
+version             : 13 
 creator             : kocka 
 ---
 
@@ -83,6 +83,8 @@ Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igye
 *   [MVC](MVC.html)
 *   [IoC](ioc.html)
 *   [persistence](persistence.html)
+*   [COP](COP.html)
+*   [Design Patterns](Design%20Patterns.html)
 
 ## Közösség
 
