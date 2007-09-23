@@ -5,21 +5,23 @@ title               : ActiveMQ
 name                : ActiveMQ 
 layout              : wiki 
 path                : ActiveMQ 
-date                : 2007-09-23 23:12:05 +0200 
-version             : 5 
+date                : 2007-09-23 23:14:42 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [http://activemq.apache.org/](http://activemq.apache.org/)
 
-[Codehaus](codehaus.html) project, a [geronimo](geronimo.html) [alkalmazas szerver](Alkalmazas%20Szerver.html) resze mint [JMS](JMS.html) szolgaltato.
+EX-[Codehaus](codehaus.html) project, a codehaus-nál kezdődött, a [geronimo](geronimo.html) [alkalmazás szerver](Alkalmazas%20Szerver.html) része mint [JMS](JMS.html) szolgáltató.
 
-Mitol erdekes:
+Mitől érdekes:
 
-*   Persistence modularis: [JDBC](JDBC.html), [JDBM](Missing.html) satobbi. Irj sajatot ha valami hianyzik.
-*   [Geronimo](geronimo.html) es [Spring](spring.html) support.
-*   [ActiveCluster](ActiveCluster.html) implementacio
-*   [drools](drools.html) integracio
+*   Persistence moduláris: [JDBC](JDBC.html), [JDBM](Missing.html) satöbbi. Írj sajátot ha valami hiányzik.
+*   [Geronimo](geronimo.html) és [Spring](spring.html) support.
+*   [ActiveCluster](ActiveCluster.html) implementáció
+*   [drools](drools.html) integráció
 
 Linkek:
 
 *   Fejlesztői [blog](blog.html)ok: [http://rajdavies.blogspot.com/](http://rajdavies.blogspot.com/) [http://macstrac.blogspot.com/](http://macstrac.blogspot.com/)
+
+
