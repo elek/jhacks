@@ -5,8 +5,8 @@ title               : ActiveMQ
 name                : ActiveMQ 
 layout              : wiki 
 path                : ActiveMQ 
-date                : 2007-09-23 23:15:31 +0200 
-version             : 7 
+date                : 2007-09-23 23:21:09 +0200 
+version             : 8 
 creator             : kocka 
 ---
 [http://activemq.apache.org/](http://activemq.apache.org/)
@@ -19,9 +19,12 @@ Mitől érdekes:
 *   [Geronimo](geronimo.html) és [Spring](spring.html) support.
 *   [ActiveCluster](ActiveCluster.html) implementáció
 *   [drools](drools.html) integráció
+*   ezerféle protokolon és interface-n át elérhető: in-vm, tcp, multicast, akármi
 
 Linkek:
 
 *   Fejlesztői [blog](blog.html)ok: [http://rajdavies.blogspot.com/](http://rajdavies.blogspot.com/) [http://macstrac.blogspot.com/](http://macstrac.blogspot.com/)
+
+Lásd még: [Camel](Missing.html)
 
 
