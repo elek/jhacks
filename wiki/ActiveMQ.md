@@ -5,13 +5,13 @@ title               : ActiveMQ
 name                : ActiveMQ 
 layout              : wiki 
 path                : ActiveMQ 
-date                : 2007-09-23 23:14:42 +0200 
-version             : 6 
+date                : 2007-09-23 23:15:31 +0200 
+version             : 7 
 creator             : kocka 
 ---
 [http://activemq.apache.org/](http://activemq.apache.org/)
 
-EX-[Codehaus](codehaus.html) project, a codehaus-nál kezdődött, a [geronimo](geronimo.html) [alkalmazás szerver](Alkalmazas%20Szerver.html) része mint [JMS](JMS.html) szolgáltató.
+Ex-[codehaus](codehaus.html) project, átvándorolt az [apache](ASF.html)-hoz, a [geronimo](geronimo.html) [alkalmazás szerver](Alkalmazas%20Szerver.html) része mint [JMS](JMS.html) szolgáltató.
 
 Mitől érdekes:
 
