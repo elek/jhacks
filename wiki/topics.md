@@ -5,11 +5,13 @@ title               : topics
 name                : topics 
 layout              : wiki 
 path                : topics 
-date                : 2007-09-21 15:10:53 +0200 
-version             : 13 
+date                : 2007-09-24 11:29:15 +0200 
+version             : 14 
 creator             : kocka 
 ---
 
+
+[régebbi hírek](oldposts.html)
 
 # Próblkozás a jhacks anyagainak rendszerezésére
 
