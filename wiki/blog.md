@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2007-07-18 19:02:26 +0200 
-version             : 25 
+date                : 2007-09-26 18:00:01 +0200 
+version             : 26 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -33,13 +33,13 @@ __Magyar fejlesztők angolul__:
 __Magyar__:
 
 *   [java technics](http://jtechnics.anzix.net/) ([karenin](karenin.html))
-*   [midori](http://www.midori.hu/en/blog_hu.html) jófajta
+*   [midori](http://www.midori.hu/en/blog_hu.html)
 *   [joeblog](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
-*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) inaktív, de jófajta
-*   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) és más hackelések, nagyon ql :))
-*   [pcjuzer](http://pcjuzer.blogspot.com/) (nem tudom kié, de jófajta)
-*   [coffeshrub](http://coffeshrub.blogspot.com/) (még új, de igéretes)
-*   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html) legyen egy ilyen is, /me a technológiai útvesztőben)
+*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) sajnos inaktív, pedig jó
+*   [log4z](http://zeroflag.blogspot.com/) [zeroflag](zeroflag.html) ([python](python.html), [java](java.html) és más hackelések)
+*   [pcjuzer](http://pcjuzer.blogspot.com/) ([tvik](tvik.html))
+*   [coffeshrub](http://coffeshrub.blogspot.com/)
+*   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
 
 Lasd meg: [linkek](linkek.html) meg állítólag ez is egy blog, bár inkáb [wiki](wiki.html).
 
