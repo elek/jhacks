@@ -5,8 +5,8 @@ title               : Design Patterns/Creational Patterns
 name                : Design Patterns/Creational Patterns 
 layout              : wiki 
 path                : Design Patterns/Creational Patterns 
-date                : 2007-09-27 14:00:11 +0200 
-version             : 3 
+date                : 2007-09-27 15:10:04 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Objektumok letrehozasara vonatkozo [Design Patterns](../Design%20Patterns.html)
@@ -15,3 +15,4 @@ Objektumok letrehozasara vonatkozo [Design Patterns](../Design%20Patterns.html)
 *   [Singleton](../singleton.html)
 *   [Design Patterns/Creational Patterns/Factory Method](../Design%20Patterns/Creational%20Patterns/Factory%20Method.html)
 *   [Design Patterns/Creational Patterns/Builder](../Design%20Patterns/Creational%20Patterns/Builder.html)
+*   [Design Patterns/Creational Patterns/Prototype](../Design%20Patterns/Creational%20Patterns/Prototype.html)
