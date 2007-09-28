@@ -5,8 +5,8 @@ title               : Design Patterns
 name                : Design Patterns 
 layout              : wiki 
 path                : Design Patterns 
-date                : 2006-12-05 11:26:22 +0100 
-version             : 6 
+date                : 2007-09-28 12:36:07 +0200 
+version             : 7 
 creator             : karenin 
 ---
 Ismétlődő megoldások általános problémákra. Olyan problémák megfolgalmazása, ami többszőr többféle alakban is, de azért hasonlóan felmerül. Ezekre próbál megoldásokat ismerteteni, mindegyiknek az előnyeit és hátrányait számbavenni.
@@ -19,5 +19,15 @@ A leirt mintak persze tetszoleges ([OOP](oop.html)) nyelvre ertendoek, nem csak 
 
 *   [Design Patterns/Creational Patterns](Design%20Patterns/Creational%20Patterns.html)
 *   [Design Patterns/Structural Patterns](Missing.html)
+
+
+
+
+-   [Design Patterns](Design Patterns.html)
+-   [Design Patterns/Creational Patterns/Factory Method](Design Patterns/Creational Patterns/Factory Method.html)
+-   [Design Patterns/Creational Patterns/Prototype](Design Patterns/Creational Patterns/Prototype.html)
+-   [Design Patterns/Creational Patterns](Design Patterns/Creational Patterns.html)
+-   [Design Patterns/Creational Patterns/Builder](Design Patterns/Creational Patterns/Builder.html)
+-   [Design Patterns/Creational Patterns/Abstract Factory](Design Patterns/Creational Patterns/Abstract Factory.html)
 
 
