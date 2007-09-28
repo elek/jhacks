@@ -5,8 +5,8 @@ title               : singleton
 name                : singleton 
 layout              : wiki 
 path                : singleton 
-date                : 2006-11-16 11:34:07 +0100 
-version             : 2 
+date                : 2007-09-28 12:41:28 +0200 
+version             : 3 
 creator             : kocka 
 ---
 A Singleton Design Pattern
@@ -33,6 +33,8 @@ public static synchronized MySingleton getInstance() {
 
 Hat ennyi. Valojaban persze csak az adott [classloader](classloader.html)en belul lesz singleton, de ez tobbnyire eleg.
 
-Mivel kicsit nehezen kezelheto eset, furi refaktoralni is, ezert [antipattern](antipattern.html) dijra lett eloterjesztve tobb esetben is.
+Mivel kicsit nehezen kezelheto eset, furi refaktoralni is, ezert [antipattern](antipattern.html) dijra lett eloterjesztve tobb esetben is. A [GSD](http://code.google.com/p/google-singleton-detector/) tobb fajtajat kulonbozteti meg, erdemes elolvasni.
 
 Lasd: [Design Patterns](Design%20Patterns.html)
+
+
