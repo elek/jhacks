@@ -5,8 +5,8 @@ title               : version control
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2007-09-27 09:01:57 +0200 
-version             : 6 
+date                : 2007-09-30 21:35:54 +0200 
+version             : 7 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -18,5 +18,7 @@ Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
 *   [borland](borland.html) [starteam](starteam.html), csak hogy a clearcasenel is emlitsunk rosszabbat :-D
 *   [perforce](perforce.html) a legcustomabb custom custom, nem tudom mivel tud tobbet a [subversion](subversion.html)nal, de mindent mashogy nevez
 *   meg sok egyeb erdeksseg, mint a [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper (commercial), meg az ujabban általa kifejlesztett git
+
+És [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
 
 
