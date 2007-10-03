@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-19 10:46:56 +0200 
-author              : kocka 
+author              : karenin 
 title               : Java 1.6 aka "Mustang" 
 name                : java 1.6 
 layout              : wiki 
 path                : java 1.6 
-date                : 2007-09-19 11:56:17 +0200 
-version             : 11 
+date                : 2007-10-03 16:31:08 +0200 
+version             : 12 
 creator             : kocka 
 ---
 [http://mustang.dev.java.net/](http://mustang.dev.java.net/)
@@ -26,7 +26,7 @@ Uj feature-k:
 *   [JDBC](JDBC.html) 4
 *   [jmx](JMX.html) überelés
 *   jobb desktop integráció
-*   scriptnyelv api (Lasd: [scripting](scripting.html))
+*   [scriptnyelv api](Scripting%20API.html)
 *   javac api
 *   [webservice](WebServices.html) kliens/server javase-ben
  
