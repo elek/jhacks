@@ -1,12 +1,12 @@
 ---
 creationDate        : 2007-10-02 23:03:15 +0200 
 author              : kocka 
-title               : javaval kapcsolatos kapcsolatos konferenciák 
+title               : javaval kapcsolatos konferenciák 
 name                : konferencia 
 layout              : wiki 
 path                : konferencia 
-date                : 2007-10-02 23:03:15 +0200 
-version             : 1 
+date                : 2007-10-03 14:38:31 +0200 
+version             : 2 
 creator             : kocka 
 ---
 ## Hazai
