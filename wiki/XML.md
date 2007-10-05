@@ -5,8 +5,8 @@ title               : eXtended Markup Language
 name                : XML 
 layout              : wiki 
 path                : XML 
-date                : 2007-08-22 17:57:28 +0200 
-version             : 11 
+date                : 2007-10-05 23:46:30 +0200 
+version             : 12 
 creator             : boci 
 ---
 A [Word Wide Web Consurtium](http://www.w3.org) altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. [XSLT](XSLT.html) segitsegevel az adatstruktura konnyen megjelenitheto.
@@ -22,6 +22,7 @@ Szivasok az XML-ben:
 Parsolók:
 
 *   [DOM](dom.html) szabványos dom fát épít
+*   alternativ [DOM](dom.html) implementaciok: [jdom](jdom.html), [dom4j](dom4j.html)
 *   [SAX](sax.html) push parser, hatékonyabb, de kényelmetlenebb
 *   [StAX](StAX.html) pull parser leghatékonyabb, és azért a SAX-nál kicsit kényelmesebb
 
@@ -42,7 +43,6 @@ Egyéb apik:
 Linkek:
 
 *   [http://www.w3.org/XML/](http://www.w3.org/XML/)
-*   alternativ DOM implementaciok: [jdom](jdom.html), [dom4j](dom4j.html)
 
 Lasd: [w3c](w3c.html), [xslt](XSLT.html)
 
