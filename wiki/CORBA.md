@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 09:14:14 +0100 
-author              : admin 
+author              : kocka 
 title               : CORBA 
 name                : CORBA 
 layout              : wiki 
 path                : CORBA 
-date                : 2006-03-26 01:42:36 +0100 
-version             : 1 
+date                : 2007-10-05 17:20:25 +0200 
+version             : 4 
 creator             : kocka 
 ---
 __Component Request Broker Architecture__
@@ -20,3 +20,5 @@ Peldaul a hires Gnome is corba-ra epult, bar csak lokalisan mukodo ORB, biztonsa
 Mostanaban visszaszoruloban van az uzleti teren, helyette a nepek inkab [rmi](RMI.html)t vagy [soap](SOAP.html)ot hasznalnak tavoli metodushivasra.
 
 Lasd meg: [RPC](RPC.html)
+
+
