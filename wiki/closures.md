@@ -5,15 +5,17 @@ title               : closures
 name                : closures 
 layout              : wiki 
 path                : closures 
-date                : 2007-07-09 22:08:50 +0200 
-version             : 3 
+date                : 2007-10-17 16:24:53 +0200 
+version             : 4 
 creator             : kocka 
 ---
 _[TODO](TODO.html): Kicsit meg chunk jellegu_
 
 [http://javac.info/](http://javac.info/)
 
-Mozgo celpont, a [java 1.7](java%201.7.html) tervezett nyelvi ujdonsaga, de se formai, se funkcionalis szinten nincs meg nagy megallapodas, sot egyesek fel szeretnenek miatta szantani osi [java](java.html) teruleteket, mint a checked exception-ok.
+A closure valahol a function object-nél kezdődik, de sokkal kompaktabb szintaxist ad.
+
+[Java](java.html) téren még mozgó célpont, a [java 1.7](java%201.7.html) tervezett nyelvi újdonsága, de se formai, se funkcionalis szinten nincs még nagy megállapodás, söt egyesek fel szeretnének miatta szántani ősi [java](java.html) területeket, mint a [checked exception](Missing.html)-ok.
 
 Linkek: 
 
