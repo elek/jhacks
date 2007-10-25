@@ -1,17 +1,20 @@
 ---
 creationDate        : 2005-05-25 11:06:54 +0200 
-author              : admin 
-title               : wiki 
+author              : kocka 
+title               : java wikik 
 name                : wiki 
 layout              : wiki 
 path                : wiki 
-date                : 2006-03-26 01:51:27 +0100 
-version             : 1 
+date                : 2007-10-25 15:41:47 +0200 
+version             : 3 
 creator             : kocka 
 ---
-[java](java.html) wikik:
+*   [snipsnap](SnipSnap.html) a kicsi primitv
+*   [confluence](confluence.html) a mainstream pénzes (vagy hackereknek ingyért)
+*   [xwiki](xwiki.html) a feltörekvő
 
-*   [snipsnap](SnipSnap.html)
-*   [confluence](confluence.html)
-*   [xwiki](xwiki.html)
-*   [jboss wiki](Missing.html)
+Egyéb:
+
+*   [Wikipédia lista](http://en.wikipedia.org/wiki/List_of_wiki_software)
+
+
