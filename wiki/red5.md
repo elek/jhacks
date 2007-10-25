@@ -5,13 +5,13 @@ title               : red5
 name                : red5 
 layout              : wiki 
 path                : red5 
-date                : 2007-07-12 18:24:49 +0200 
-version             : 6 
+date                : 2007-10-25 16:11:02 +0200 
+version             : 7 
 creator             : kocka 
 ---
 [http://osflash.org/red5/](http://osflash.org/red5/)
 
-Egy flash ([RTMP](rtmp.html)) szerver [java](java.html)ban implementalva. MP3 es [flash](flash.html) filmek streamelesere alkalmazhato, integralhato [openlaszlo](openlaszlo.html) szerverrel.
+Egy flash ([RTMP](rtmp.html)) szerver [java](java.html)ban implementalva. MP3 es [flash](flash.html) filmek streamelesere alkalmazhato, integralhato [openlaszlo](openlaszlo.html) szerverrel (is peldaul :) ).
 
 Legkevesbe sem [maven](maven.html)-friendly, a dokumentacioja pedig nagyon gany es hianyos. Szoval inkabb underground hacker dolog mint profi termek ebbol a szempontbol.
 
