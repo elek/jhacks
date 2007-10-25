@@ -5,8 +5,8 @@ title               : Simple Object Access Protocol
 name                : SOAP 
 layout              : wiki 
 path                : SOAP 
-date                : 2007-10-25 15:23:56 +0200 
-version             : 5 
+date                : 2007-10-25 15:24:09 +0200 
+version             : 6 
 creator             : kocka 
 ---
 [http://www.w3.org/TR/soap/](http://www.w3.org/TR/soap/)
