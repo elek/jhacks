@@ -5,8 +5,8 @@ title               : paypal
 name                : paypal 
 layout              : wiki 
 path                : paypal 
-date                : 2007-10-25 15:23:34 +0200 
-version             : 2 
+date                : 2007-10-25 15:25:10 +0200 
+version             : 3 
 creator             : kocka 
 ---
 [http://www.paypal.com/](http://www.paypal.com/)
@@ -17,7 +17,7 @@ A világ egyik vezető webes payment szolgáltatója. Egy-két tapasztalat velü
 
 __Kontra__:
 
-*   A [java](java.html) api kicsit gebasz. Jelenleg két verzió van: NVP (ez ilyen sima http requestek) és [SOAP](SOAP.html). Az NVP az kétségtelenül működőképesebb, viszont kb mintha Properties objektumokat manipulálnál, na olyan. A SOAP apin viszont sajnos nincsenek meg ugyanazok a hívások és attribútumok.
+*   A [java](java.html) api kicsit gebasz. Jelenleg két verzió van: NVP (ez ilyen sima http requestek) és [SOAP](SOAP.html) ([axis](axis.html)-szal). Az NVP az kétségtelenül működőképesebb, viszont kb mintha Properties objektumokat manipulálnál, na olyan. A [SOAP](SOAP.html) apin viszont sajnos nincsenek meg ugyanazok a hívások és attribútumok.
 *   Dokumentáció: elég rendesen szétszórva, sajnos ami van az elég híg, inkáb fórumokbn érdemes bogarászni
 *   A sandbox sajnos naponta 3-4 órát pihen, de van úgy hogy több napig sem elérhető, ilyenkor a [SOAP](SOAP.html) kliensed [XML](XML.html) parsolási hibákat vág hozzád például, addig találj magadnak valami más tennivalót (nem, nem másik állást :-D )
 *   A support pszichológusok nagyon rendes srácok, de sajnos nincs túl sok idejük az ügyfélre
