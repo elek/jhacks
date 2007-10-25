@@ -5,8 +5,8 @@ title               : jung
 name                : jung 
 layout              : wiki 
 path                : jung 
-date                : 2007-10-25 17:32:39 +0200 
-version             : 2 
+date                : 2007-10-25 17:32:58 +0200 
+version             : 3 
 creator             : kocka 
 ---
 [http://jung.sourceforge.net/](http://jung.sourceforge.net/)
