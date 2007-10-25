@@ -5,8 +5,8 @@ title               : xwiki
 name                : xwiki 
 layout              : wiki 
 path                : xwiki 
-date                : 2007-07-09 21:11:06 +0200 
-version             : 2 
+date                : 2007-10-25 15:36:00 +0200 
+version             : 3 
 creator             : kocka 
 ---
 [http://www.xwiki.org/](http://www.xwiki.org/)
@@ -14,3 +14,5 @@ creator             : kocka
 Tervek amit eltett telre...
 
 Hat vegre tervezes alatt van egy bot, ami majd segit atmigralgatni ezt a [snipsnap](SnipSnap.html) mocskot valami modernebbre. Az xwiki-vel is lesznek persze bajok, de legalabb mozog :)
+
+
