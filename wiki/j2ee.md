@@ -1,17 +1,17 @@
 ---
 creationDate        : 2004-07-28 14:32:48 +0200 
-author              : admin 
-title               : J2EE 
+author              : kocka 
+title               : J2EE / JEE 
 name                : j2ee 
 layout              : wiki 
 path                : j2ee 
-date                : 2006-03-26 01:48:04 +0100 
-version             : 1 
+date                : 2007-10-25 17:20:39 +0200 
+version             : 9 
 creator             : zsoltk 
 ---
 ![image](http://hackers.forgeahead.hu/space/SnipSnap/config/j2ee_jdk_button_classic_red.gif)(http://java.sun.com/j2ee/download.html)
 
-Java 2 Enterprise Edition.
+Java (2) Enterprise Edition.
 
 # Bevezeto
 
@@ -55,3 +55,5 @@ Lasd meg:
 *   [alkalmazas szerver](Alkalmazas%20Szerver.html)ek
 
 Folyt. Kov
+
+
