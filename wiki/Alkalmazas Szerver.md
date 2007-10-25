@@ -5,13 +5,11 @@ title               : Alkalmazas Szerver
 name                : Alkalmazas Szerver 
 layout              : wiki 
 path                : Alkalmazas Szerver 
-date                : 2006-12-17 23:00:06 +0100 
-version             : 9 
+date                : 2007-10-25 17:17:20 +0200 
+version             : 10 
 creator             : zsoltk 
 ---
-A [J2EE](j2ee.html) arhitektura egyik alapeleme.
-
-Ha megnezzuk a J2EE leirast, akkor tisztan latszik, hogy minden dolog amit hasznalhatunk, egy alkamazas szerver kore epul. Gyakorlatilag a J2EE API es specifikaciot tobbe-kevesbe megvalosito Java program.
+A [J2EE](j2ee.html) arhitektúra egyik alapeleme, azaz az a dolog, ami megfelelő (és a szabványok által definiált, nagyjából uniform) futáskörnyezetet biztosítja a szerver oldali [java](java.html) alkalmazásokhoz.
 
 Azok a szolgaltatasok amiket egy alkamazas szerver nyujt:
 
@@ -25,7 +23,7 @@ Azok a szolgaltatasok amiket egy alkamazas szerver nyujt:
 *   Resource management, deployment
 *   stb
 
-Tipikusan web alkalmazaskohoz hasznaljak, altalaban arra si van kihegyezve, bar ma mar eljutottunk oda, hogy a Kliens - Szerver arhitektura szerver oldali dolgait is meg lehet vele valositani, hiszen rengeteg fele API, Lib es egyeb dolog all rendelkezesunkre.
+Tipikusan [web alkalmazaskohoz](webapp.html) hasznaljak, neha zavaroan a puszta [servlet](servlet.html) containereket is hivnak alkamazas szervernek (ami nem hiperkorrekt, de ertjuk mire gondol aki mondja).
 
 Az alkalmazas szerver fontos resze a Container, ami egy adott funkciot valosit meg. pld.: [Servlet_jsp](servlet_jsp.html), vagy [EJB](EJB.html).
 
