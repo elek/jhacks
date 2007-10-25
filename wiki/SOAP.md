@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-21 11:10:44 +0100 
-author              : karenin 
+author              : kocka 
 title               : Simple Object Access Protocol 
 name                : SOAP 
 layout              : wiki 
 path                : SOAP 
-date                : 2006-10-15 22:05:12 +0200 
-version             : 4 
+date                : 2007-10-25 15:23:56 +0200 
+version             : 5 
 creator             : kocka 
 ---
 [http://www.w3.org/TR/soap/](http://www.w3.org/TR/soap/)
@@ -31,3 +31,5 @@ java apik:
 Meg mindenfele kommersz cegnek van nyilvan sajatja, neha a fenti kettore alapozva, neha nem...
 
 Lasd: [WebServices](WebServices.html)
+
+
