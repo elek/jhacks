@@ -5,8 +5,8 @@ title               : Groovy/closure
 name                : Groovy/closure 
 layout              : wiki 
 path                : Groovy/closure 
-date                : 2007-10-25 17:36:46 +0200 
-version             : 9 
+date                : 2007-10-25 17:37:06 +0200 
+version             : 10 
 creator             : kocka 
 ---
 A closure a [groovy](../Groovy.html)ban kb olyan mint egy callback osztaly [java](../java.html)ban (bár már nagyban forr a vita a [java 1.7](../java%201.7.html) [closures](../closures.html) körül), csak annal kicsit rovidebben meg lehet fogalmazni :)
@@ -23,3 +23,5 @@ def plusoneclos = { println it + 1}
 nagyon kompakt, meg elsore nagyon erthetetlen, de azta jo moka.
 
 Lasd meg: [closures](../closures.html)
+
+
