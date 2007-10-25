@@ -5,8 +5,8 @@ title               : servlet
 name                : servlet 
 layout              : wiki 
 path                : servlet 
-date                : 2007-09-19 18:06:49 +0200 
-version             : 3 
+date                : 2007-10-25 17:17:40 +0200 
+version             : 4 
 creator             : kocka 
 ---
 A Servlet api
@@ -17,7 +17,6 @@ Servlet containerek:
 
 *   [tomcat](tomcat.html)
 *   [jetty](jetty.html)
-*   [glassfish](glassfish.html)
 *   [resin](resin.html)
 
 
