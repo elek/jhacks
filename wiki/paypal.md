@@ -5,8 +5,8 @@ title               : paypal
 name                : paypal 
 layout              : wiki 
 path                : paypal 
-date                : 2007-10-25 15:23:01 +0200 
-version             : 1 
+date                : 2007-10-25 15:23:34 +0200 
+version             : 2 
 creator             : kocka 
 ---
 [http://www.paypal.com/](http://www.paypal.com/)
@@ -27,3 +27,5 @@ __Pro__:
 
 *   Úgy is muszáj.
 *   Ha a valaki írna hozzá egy pár workaroundot meg egy tisztességes klienst, akkor nagyon egyszerű lenne, de tényleg.
+
+
