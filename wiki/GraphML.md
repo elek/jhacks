@@ -5,11 +5,11 @@ title               : GraphML
 name                : GraphML 
 layout              : wiki 
 path                : GraphML 
-date                : 2007-10-26 14:34:12 +0200 
-version             : 1 
+date                : 2007-10-26 14:34:25 +0200 
+version             : 2 
 creator             : kocka 
 ---
-Egy [XML](XML.html)-alapú formátum, ami [graph](Missing.html) leírására szolgál.
+Egy [XML](XML.html)-alapú formátum, ami [gráfok](graph.html) leírására szolgál.
 
 [Java](java.html) szoftverek GraphML megjelenítéséhez:
 
