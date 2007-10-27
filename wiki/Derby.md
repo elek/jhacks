@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-10-22 12:32:13 +0200 
-author              : kocka 
+author              : zmb 
 title               : Derby 
 name                : Derby 
 layout              : wiki 
 path                : Derby 
-date                : 2007-02-09 10:04:03 +0100 
-version             : 8 
+date                : 2007-10-27 14:59:01 +0200 
+version             : 9 
 creator             : kocka 
 ---
 __Apache Derby project__
@@ -14,7 +14,7 @@ __Apache Derby project__
 Az [IBM](IBM.html) megosztotta a [CloudScape](CloudScape.html) forraskodjat, szabadda teszi ([ASF](ASF.html)) es ebbol lett a [Derby](Derby.html). (Tehat egy kereskedelmi cucc [Open Source](Open%20Source.html) forkja)
 [XA](Missing.html) kompatibilis, mukodik [hibernate](Hibernate.html)tel, peldaul [test](test.html)hez kivallo megoldas, vagy kicsi [webapp](webapp.html)okba agyazva is akar.
 
-Ay adminisztracios igenyei szinte yeroval egyenloek, adatbazist peldaul ugy hoz letre hogy a [JDBC](JDBC.html) URL string vegere passzolsz egy parametert.
+Az adminisztracios igenyei szinte zeroval egyenloek, adatbazist peldaul ugy hoz letre hogy a [JDBC](JDBC.html) URL string vegere passzolsz egy parametert.
 
 A Java 1.6 SDK-val szallitott Java DB alaja is ez a db.
 
