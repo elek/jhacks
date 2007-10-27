@@ -5,8 +5,8 @@ title               : kocka/mini bio progik
 name                : kocka/mini bio progik 
 layout              : wiki 
 path                : kocka/mini bio progik 
-date                : 2007-10-23 15:00:34 +0200 
-version             : 5 
+date                : 2007-10-27 21:59:40 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Par [python](../python.html) progi biologusoknak, biologusoktol :)
