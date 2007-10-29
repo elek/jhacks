@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-11 14:31:01 +0200 
-author              : admin 
+author              : kocka 
 title               : python 
 name                : python 
 layout              : wiki 
 path                : python 
-date                : 2006-03-26 01:48:39 +0100 
-version             : 1 
+date                : 2007-10-29 11:40:43 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://www.python.org/](http://www.python.org/)
@@ -21,5 +21,7 @@ Maganvelemeny, de nagy rendszerek epitesenel csak rugalmas alkalmazaslogikat irn
 
 Python fejlesztokornyezet [Eclipse](Eclipse.html) [Ide](IDE.html)hez:<br/>
 [http://pydev.sourceforge.net/](http://pydev.sourceforge.net/)
+
+
 
 lasd meg: [jython](jython.html), [jepp](JEPP.html), [BSF](BSF.html)
