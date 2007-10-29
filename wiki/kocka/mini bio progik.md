@@ -5,10 +5,10 @@ title               : kocka/mini bio progik
 name                : kocka/mini bio progik 
 layout              : wiki 
 path                : kocka/mini bio progik 
-date                : 2007-10-27 22:06:43 +0200 
-version             : 7 
+date                : 2007-10-29 11:39:51 +0100 
+version             : 8 
 creator             : kocka 
 ---
-Par [python](../python.html) progi biologusoknak, biologusoktol :)
+Par [python](../python.html) progi biologusoknak, biologusoktol :) Bocsi az offtopic dologert.
 
 *   [find first cleavage site](http://jhacks.anzix.net/space/kocka/mini+bio+progik/first_cleavage_site.py)
