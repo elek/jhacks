@@ -5,8 +5,8 @@ title               : Java web alkalmazások
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2007-10-30 11:10:03 +0100 
-version             : 10 
+date                : 2007-10-30 11:11:00 +0100 
+version             : 11 
 creator             : kocka 
 ---
 
@@ -20,6 +20,8 @@ Manapsag -sajnos- mindenki web alkalmazasokat ir, mert a vevok el se tudjak kepz
 
 Érdemes megemlíteni a [RAD](rad.html) rendszereket is, ezek is többnyire webalkalmazásokat generálnak.
 
+## Példák
+
 Nehany publikus webalkalmazas, az ihlet kedveert:
 
 *   [cocoon](cocoon.html) es [lenya](lenya.html)
@@ -31,7 +33,7 @@ Nehany publikus webalkalmazas, az ihlet kedveert:
 
 Hogy kicsit tajekozodj az ezer framework kozott, nezd at a [petshop collection](petshop%20collection.html)t, ahol a fobb architekturak demoira van egy-egy link.
 
-Linkek:
+## Linkek
 
 *   [Fred Daoud:Trolling with Java Web Frameworks](http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks) Tréfás kis összefoglaló a jelenlegi web frameworkökről.
 
