@@ -5,11 +5,11 @@ title               : Prevayler
 name                : Prevayler 
 layout              : wiki 
 path                : Prevayler 
-date                : 2007-10-30 11:13:47 +0100 
-version             : 9 
+date                : 2007-10-30 11:16:15 +0100 
+version             : 10 
 creator             : kocka 
 ---
-A [Prevayler](http://www.prevayler.org/) meglehetosen elter a 'szokasos' perzisztencia retegektol. O ugyanis nem hasznal semmilyen RBDMS-t. Igazabol semmit nem hasznal.
+A [Prevayler](http://www.prevayler.org/) meglehetosen elter a 'szokasos' perzisztencia retegektol. O ugyanis nem hasznal semmilyen [RBDMS](Missing.html)-t. Igazabol semmit nem hasznal.
 Az egesz kutyu mindossze egy par szaz(!) soros kod. A felfogasa az, hogy a memoria az szinte ingyen van, ugyhogy taroljunk mindent benne. Meghozza hagyomanyos [Java](java.html) objektumok formajaban (lasd: [pojo](pojo.html)). A rendszerunkkel kapcsolatos megkotesek a kovetkezoek: 
 
 *   minden objektumunk szerializalhato kell hogy legyen. (lasd: [serialization](serialization.html))
@@ -28,3 +28,5 @@ A more up to date implementation (http://prevayler.codehaus.org/) By: Darwin
 
 
 Most akkow prevayler, vagy [prewayler](Missing.html)?
+
+
