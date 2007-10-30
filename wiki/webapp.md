@@ -5,8 +5,8 @@ title               : webapp
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2007-09-21 09:13:54 +0200 
-version             : 8 
+date                : 2007-10-30 11:09:09 +0100 
+version             : 9 
 creator             : kocka 
 ---
 Java web alkalmazasok
@@ -32,5 +32,9 @@ Nehany publikus webalkalmazas, az ihlet kedveert:
 *   admin feluletek, mint az [mx4j](mx4j.html)
 
 Hogy kicsit tajekozodj az ezer framework kozott, nezd at a [petshop collection](petshop%20collection.html)t, ahol a fobb architekturak demoira van egy-egy link.
+
+Linkek:
+
+*   [Fred Daoud:Trolling with Java Web Frameworks](http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks) Tréfás kis összefoglaló a jelenlegi web frameworkökről.
 
 
