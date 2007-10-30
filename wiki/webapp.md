@@ -1,16 +1,14 @@
 ---
 creationDate        : 2005-03-03 15:12:05 +0100 
 author              : kocka 
-title               : webapp 
+title               : Java web alkalmazások 
 name                : webapp 
 layout              : wiki 
 path                : webapp 
-date                : 2007-10-30 11:09:09 +0100 
-version             : 9 
+date                : 2007-10-30 11:10:03 +0100 
+version             : 10 
 creator             : kocka 
 ---
-Java web alkalmazasok
-
 
 -   [webapp/Tipikus hibak](webapp/Tipikus hibak.html)
 -   [webapp/db connection pool](webapp/db connection pool.html)
