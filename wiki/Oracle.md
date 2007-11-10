@@ -5,8 +5,8 @@ title               : Oracle
 name                : Oracle 
 layout              : wiki 
 path                : Oracle 
-date                : 2007-08-07 11:17:52 +0200 
-version             : 4 
+date                : 2007-11-10 10:27:40 +0100 
+version             : 5 
 creator             : kocka 
 ---
 [http://otn.oracle.com/](http://otn.oracle.com/)
@@ -14,7 +14,7 @@ creator             : kocka
 "Az adatbazis motorok luxuslimuzinja"
 
 Az Oracle Corp hosszu multra visszatekinto [RDBMS](RDBMS.html)e, amely vezeti az RDBMS piacot feature-k teruleten.
-Szinte minden komoly feature megvan benne, raw device support, stored views, java es PL/SQL proclang, klassz indexelesi lehetosegek, [XML](XML.html), Spatial, Text es egyeb extenderek, satobbi.
+Szinte minden komoly feature megvan benne, raw device support, stored views, java es PL/SQL proclang, klassz indexelesi lehetosegek, [XML](XML.html), [Spatial](GIS.html), Text es egyeb extenderek, satobbi.
 
 Hatranya:
 
