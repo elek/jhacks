@@ -1,16 +1,14 @@
 ---
 creationDate        : 2004-07-30 13:13:06 +0200 
 author              : kocka 
-title               : RDBMS 
+title               : Relational DataBase Management System 
 name                : RDBMS 
 layout              : wiki 
 path                : RDBMS 
-date                : 2007-09-21 11:44:27 +0200 
-version             : 12 
+date                : 2007-11-10 10:28:34 +0100 
+version             : 13 
 creator             : kocka 
 ---
-Relational DataBase Management System
-
 Relacios adatbazis kezelo rendszer.
 
 Eloszotott szerverek (a teljesseg igenye nelkul):
