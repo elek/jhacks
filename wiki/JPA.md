@@ -1,15 +1,15 @@
 ---
 creationDate        : 2006-10-01 10:53:57 +0200 
-author              : karenin 
+author              : kocka 
 title               : JPA 
 name                : JPA 
 layout              : wiki 
 path                : JPA 
-date                : 2007-11-11 20:39:03 +0100 
-version             : 5 
+date                : 2007-11-11 23:16:31 +0100 
+version             : 6 
 creator             : karenin 
 ---
-Az [ejb 3](Missing.html)-al bevezetett új szabványos api. Legegyszerűbb taláb a [JDBC](JDBC.html)-hez hasonlítani: Van egy független interface rendszer és az alá implementálhatnak megoldásokat a szállítók. A [Hibernate](Hibernate.html) pl. gőzerővel dolgozik a Hibernate Entity Manager-en, amit lehet használni EJB3-ak alatti perzisztencia megvalósítására. De a Sunos cuccokat általában az Oracle Toplink Essential-al szállítják. A szép az, hogy ezeket bármikor lehet cserélgetni az alkalmazás alatt.
+Az [ejb 3](Missing.html)-al bevezetett új szabványos [persistence](persistence.html) api. Legegyszerűbb taláb a [JDBC](JDBC.html)-hez hasonlítani: Van egy független interface rendszer és az alá implementálhatnak megoldásokat a szállítók. A [Hibernate](Hibernate.html) pl. gőzerővel dolgozik a Hibernate Entity Manager-en, amit lehet használni EJB3-ak alatti perzisztencia megvalósítására. De a Sunos cuccokat általában az Oracle Toplink Essential-al szállítják. A szép az, hogy ezeket bármikor lehet cserélgetni az alkalmazás alatt.
 
 (Ja és az egész JPA-t lehet használni standalon alkalmazáskbans is)
 
@@ -33,4 +33,3 @@ em.close();
 *   [OpenJPA](OpenJPA.html)
 *   [cayenne](Missing.html) (folyamatban)
 *   Kodo
-*   OpenJPA
