@@ -5,8 +5,8 @@ title               : Oracle
 name                : Oracle 
 layout              : wiki 
 path                : Oracle 
-date                : 2007-11-10 10:27:40 +0100 
-version             : 5 
+date                : 2007-11-11 19:02:03 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://otn.oracle.com/](http://otn.oracle.com/)
@@ -18,7 +18,6 @@ Szinte minden komoly feature megvan benne, raw device support, stored views, jav
 
 Hatranya:
 
-*   Az Oracle Universal installer osi ellensege minden joerzesu programozonak, az install process rettentetes.
 *   Tul sok sajatossag es elteres a szokasoktol/szabvanytol. Nagyon konnyen keveredhetsz [vendor lock-in](vendor%20lock-in.html)-be.
 *   Az uj feature-ok hasznalhatatlanok. De legalabbis erosen bugosak. Az Oracle politikaja az, hogy kiadnak valamit felkeszen, aztan ha van ra igeny, akkor majd kidolgozzak. Ergo: eles kornyezetben uj feature hasznalata tilos.
 
