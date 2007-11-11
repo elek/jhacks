@@ -1,17 +1,23 @@
 ---
 creationDate        : 2004-07-27 16:47:01 +0200 
-author              : admin 
+author              : kocka 
 title               : Java Database Objects 
 name                : JDO 
 layout              : wiki 
 path                : JDO 
-date                : 2006-03-26 01:42:42 +0100 
-version             : 1 
+date                : 2007-11-11 23:26:07 +0100 
+version             : 5 
 creator             : kocka 
 ---
-Adateleresi reteg [Java](java.html) es [Sun](Sun.html) modra. Ez lett volna az [ORM](ORM.html) eszkoz java-hoz, de a [hibernate](Hibernate.html) elobb erkezett es jobban is fejlodott, igy az [open source](Open%20Source.html)
- vilagban nem igazan tudott elterjedni. Ceges fejlesztesek kozott sem nagyon. Elonye a [hibernate](Hibernate.html)-tel szemben hogy szabvany alapu.
+[http://java.sun.com/products/jdo/](http://java.sun.com/products/jdo/)
 
-Link: [http://java.sun.com/products/jdo/](http://java.sun.com/products/jdo/)
+Adatelérési réteg [Java](java.html) és [Sun](Sun.html) módra. Ez lett volna az [ORM](ORM.html) eszköz java-hoz, de a [hibernate](Hibernate.html) lenyomta. A szabvány még szabvány, mindenesetre egy hibernate-ihletésű JPA szabvány is született, amit a jelek szerint jobban elfogad a közösség.
 
-free implementaciok: [OJB](OJB.html), [Speedo](Missing.html)
+
+
+Implementaciok: 
+
+*   [OJB](OJB.html)
+*   [Speedo](Missing.html)
+
+
