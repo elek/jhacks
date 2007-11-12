@@ -1,16 +1,14 @@
 ---
 creationDate        : 2004-08-02 12:24:30 +0200 
 author              : kocka 
-title               : ioc 
+title               : Inversion of Control 
 name                : ioc 
 layout              : wiki 
 path                : ioc 
-date                : 2006-10-31 12:55:56 +0100 
-version             : 15 
+date                : 2007-11-12 09:13:11 +0100 
+version             : 16 
 creator             : kocka 
 ---
-__inversion of control__
-
 Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg [COP](COP.html)).
 Ugy 4-5 evvel ezelott par ember agymenese volt, utanna ugy 1-2 evvel ezelottig hype lett, es azota szerintem mainstream technologia, szoval aki kicsit is ad magara az ismeri.
 Az IoC az amit Martin Fowler atnevezett __Dependency injection__-ra. Mind1, ugy hovja ahogy akarja :)
@@ -33,6 +31,7 @@ nehany szoftver/framework:
 *   [picocontainer](picocontainer.html)
 *   [bigyo](bigyo.html)
 *   [OSGi](OSGi.html)
+*   [hivemind](hivemind.html) ([tapestry](tapestry.html))
 *   a [geronimo](geronimo.html) szerver kernelje ([gbean](Missing.html))
 
 Linkek:
