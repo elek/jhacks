@@ -1,17 +1,24 @@
 ---
 creationDate        : 2005-12-15 13:32:01 +0100 
-author              : admin 
-title               : tiles 
+author              : kocka 
+title               : Tiles 
 name                : tiles 
 layout              : wiki 
 path                : tiles 
-date                : 2006-03-26 01:51:18 +0100 
-version             : 1 
+date                : 2007-11-13 14:16:03 +0100 
+version             : 5 
 creator             : kocka 
 ---
+[http://tiles.apache.org/](http://tiles.apache.org/)
 
-figyelmeztetes
- a tiles [GYANUS](gyanus.html) 
+Egy szerver oldali UI komponens rendszer.
+Na, szóval amit a [tapestry](tapestry.html) komponensnek nevez, az itt tile.
+
+## Történet
+
+A tiles a [struts 1-el](struts/struts%201.html) indult, majd a [struts/struts 2](struts/struts%202.html) már nélküle jött ki, és külön topp level [apache](ASF.html) projectet kapott a cucc.
+
+1.1.1 Struts tiles
 
 
 A tiles egy [struts](struts.html)ba integralt megoldas a wiew komponensek ujrafelhasznalhatosagara. Baratsagos otlet, sajnos helyenkent kicsit gebasz :(
@@ -74,5 +81,9 @@ public class SpringDefinitionsFactory
 
 }
 
-
 ```
+
+
+1.1.1 Apache Tiles
+
+Top level project, elvileg független a [strutstól](struts.html)
