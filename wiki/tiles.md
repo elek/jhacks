@@ -5,8 +5,8 @@ title               : Tiles
 name                : tiles 
 layout              : wiki 
 path                : tiles 
-date                : 2007-11-13 14:16:03 +0100 
-version             : 5 
+date                : 2007-11-13 14:16:39 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://tiles.apache.org/](http://tiles.apache.org/)
@@ -19,9 +19,6 @@ Na, szóval amit a [tapestry](tapestry.html) komponensnek nevez, az itt tile.
 A tiles a [struts 1-el](struts/struts%201.html) indult, majd a [struts/struts 2](struts/struts%202.html) már nélküle jött ki, és külön topp level [apache](ASF.html) projectet kapott a cucc.
 
 1.1.1 Struts tiles
-
-
-A tiles egy [struts](struts.html)ba integralt megoldas a wiew komponensek ujrafelhasznalhatosagara. Baratsagos otlet, sajnos helyenkent kicsit gebasz :(
 
 Valahogy ennyi az egesz: egy [xml](XML.html)ben definialod hogy milyen darabokbol all a view, es ezekhez rendelsz [jsp](JSP.html)-ket. Ez hierarchikusan is megy, azaz pl definialsz egy alap komponenst ami a headert meg a footert deklaralja, es a tobbi leszarmaztatott meg tudja hogy mi a content.
 
