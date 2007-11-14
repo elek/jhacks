@@ -5,12 +5,12 @@ title               : Rich Internet Applications
 name                : RIA 
 layout              : wiki 
 path                : RIA 
-date                : 2007-09-24 17:23:11 +0200 
-version             : 3 
+date                : 2007-11-14 11:55:48 +0100 
+version             : 4 
 creator             : kocka 
 ---
-*   [flash](flash.html)
-*   [ajax](ajax.html)
+*   [flash](flash.html) (-> [flex](flex.html), [openlaszlo](openlaszlo.html))
+*   [ajax](ajax.html) (-> [gwt](GWT.html), [jmaki](Missing.html), stb)
 *   [silverlight](Missing.html) ?
 *   stb?
 
