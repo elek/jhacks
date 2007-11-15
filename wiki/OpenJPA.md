@@ -5,8 +5,8 @@ title               : OpenJPA
 name                : OpenJPA 
 layout              : wiki 
 path                : OpenJPA 
-date                : 2007-11-14 10:44:37 +0100 
-version             : 3 
+date                : 2007-11-15 11:24:04 +0100 
+version             : 4 
 creator             : kocka 
 ---
 [http://openjpa.apache.org/](http://openjpa.apache.org/)
@@ -21,5 +21,8 @@ Ez azért izgalmas lehet, mert a [Kodo](Missing.html) is már egy régebbi motor
 
 Az [IBM](IBM.html) is [adoptálta](http://www.infoq.com/news/2007/06/openjpa) a [BEA](bea.html) után, a [geronimo 2](geronimo.html) [EJB3](EJB3.html) supportját is openjpa szolgáltatja.
 
+Linkek:
+
+*   [Patrick Linskey discusses OpenJPA and the JPA specification](http://www.infoq.com/interviews/openjpa-patrick-linskey) (beszélgetős műsor)
 
 
