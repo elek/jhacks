@@ -5,8 +5,8 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2007-11-18 19:49:58 +0100 
-version             : 5 
+date                : 2007-11-18 20:17:22 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -28,3 +28,5 @@ Implmentációk:
 Linkek:
 
 *   OpenSource implementációk [összehasonlítás](http://www.pierocampanelli.info/articles/2007/01/22/status-of-opensource-osgi-containers)
+
+
