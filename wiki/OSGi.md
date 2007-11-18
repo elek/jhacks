@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-30 12:04:29 +0100 
-author              : karenin 
+author              : kocka 
 title               : OSGi 
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2007-06-01 22:13:32 +0200 
-version             : 4 
+date                : 2007-11-18 19:49:58 +0100 
+version             : 5 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -22,6 +22,8 @@ Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-27
 Implmentációk:
 
 *   Knopperfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
+*   Equinox ([eclipse](Eclipse.html))
+*   [Felix](Felix.html) ([apache](ASF.html))
 
 Linkek:
 
