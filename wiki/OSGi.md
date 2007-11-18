@@ -5,8 +5,8 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2007-11-18 20:17:22 +0100 
-version             : 6 
+date                : 2007-11-18 20:21:05 +0100 
+version             : 7 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -22,11 +22,13 @@ Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-27
 Implmentációk:
 
 *   Knopperfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
-*   Equinox ([eclipse](Eclipse.html))
+*   [Equinox](Missing.html) ([eclipse](Eclipse.html))
 *   [Felix](Felix.html) ([apache](ASF.html))
 
 Linkek:
 
 *   OpenSource implementációk [összehasonlítás](http://www.pierocampanelli.info/articles/2007/01/22/status-of-opensource-osgi-containers)
+*   [OSGi, the good the bad the ugly](http://www.parleys.com/display/PARLEYS/OSGi%2C+the+good+the+bad+the+ugly) (prezentacio)
+*   [Spring OSGi](http://www.parleys.com/display/PARLEYS/Spring+OSGi) (prezentacio)
 
 
