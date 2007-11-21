@@ -5,8 +5,8 @@ title               : Sun
 name                : Sun 
 layout              : wiki 
 path                : Sun 
-date                : 2007-11-21 22:29:44 +0100 
-version             : 9 
+date                : 2007-11-21 22:30:32 +0100 
+version             : 10 
 creator             : kocka 
 ---
 __Sun Microsystems__
@@ -22,4 +22,5 @@ Hozzajarulnak a [open source](Open%20Source.html) szoftverek fejlesztesehez:
 *   [Open Solaris](Open%20Solaris.html)
 *   [OpenOffice.org](OpenOffice.org.html)
 *   [glassfish](glassfish.html)
+*   [netbeans](Netbeans.html)
 *   satöbbisatöbbi
