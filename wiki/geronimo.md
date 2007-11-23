@@ -5,8 +5,8 @@ title               : geronimo
 name                : geronimo 
 layout              : wiki 
 path                : geronimo 
-date                : 2006-12-04 17:42:24 +0100 
-version             : 13 
+date                : 2007-11-23 13:41:08 +0100 
+version             : 14 
 creator             : kocka 
 ---
 ![image](http://www.epiqtech.com/corp/products/technology/opensource/images/design7_450x50.gif)(http://geronimo.apache.org/)
@@ -20,7 +20,9 @@ Lasd meg:
 *   [servlet](servlet.html): [jetty](jetty.html), [tomcat](tomcat.html)
 *   egyeb cuccok: [spring](spring.html)
 
-Jeronimo ala konnyen lehet fejleszteni az [eclipse](Eclipse.html) [eclipse/plug-in/wtp](Eclipse/Plug-in/WTP.html) [eclipse/plug-in](Eclipse/Plug-in.html)-javal [webapp](webapp.html)okat, satobbit. Adminisztralni is egesz konnyen lehet az ujjabb 1.1-es verziot a konzol alkalmazasaval (szerintem kicsit [weblogic](weblogic.html) ihletesu, bar egyszerubb, de nagyon hasznos). Alapbol a [java 1.4](java%201.4.html)et szereti, de elmegy [java 1.5](java%201.5.html) alatt is (itt meg allitolag akadnak gebaszok).
+Geronimo ala konnyen lehet fejleszteni az [eclipse](Eclipse.html) [eclipse/plug-in/wtp](Eclipse/Plug-in/WTP.html) [eclipse/plug-in](Eclipse/Plug-in.html)-javal [webapp](webapp.html)okat, satobbit. Adminisztralni is egesz konnyen lehet az ujjabb 1.1-es verziot a konzol alkalmazasaval (szerintem kicsit [weblogic](weblogic.html) ihletesu, bar egyszerubb, de nagyon hasznos). A 2.X-es szeria mar jol boldogul a [java 1.5-tel](java%201.5.html).
+
+Mókás kis dolog benne például az, hogy az összes megnyitott portot az alap konfig file egy kis properties fileban tartja, így nagyon könnyű több példányt feltelepíteni egy gépre, ráadásul kis offsetet is be lehet állítani. Ellenben más alkalmazás szerverekkel, ahol bogarászhatjuk végig a teljes konfigot. Szóval szép kis ötlet :)
 
 Linkek:
 
