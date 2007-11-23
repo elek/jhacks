@@ -5,8 +5,8 @@ title               : geronimo
 name                : geronimo 
 layout              : wiki 
 path                : geronimo 
-date                : 2007-11-23 13:41:08 +0100 
-version             : 14 
+date                : 2007-11-23 13:42:32 +0100 
+version             : 15 
 creator             : kocka 
 ---
 ![image](http://www.epiqtech.com/corp/products/technology/opensource/images/design7_450x50.gif)(http://geronimo.apache.org/)
@@ -16,7 +16,7 @@ A geronimo az apache [j2ee](j2ee.html) [alkalmazas szerver](Alkalmazas%20Szerver
 Lasd meg:
 
 *   [JMS](JMS.html): [ActiveMQ](ActiveMQ.html)
-*   [EJB](EJB.html): [OpenEJB](OpenEJB.html)
+*   [EJB](EJB.html): [OpenEJB](OpenEJB.html), [openJPA](OpenJPA.html)
 *   [servlet](servlet.html): [jetty](jetty.html), [tomcat](tomcat.html)
 *   egyeb cuccok: [spring](spring.html)
 
