@@ -5,8 +5,8 @@ title               : Gráf reprezentációk és algoritmusok
 name                : graph 
 layout              : wiki 
 path                : graph 
-date                : 2007-11-27 10:45:30 +0100 
-version             : 4 
+date                : 2007-11-27 11:26:35 +0100 
+version             : 5 
 creator             : kocka 
 ---
 *   [jung](jung.html)
@@ -17,5 +17,9 @@ creator             : kocka
 
 *   [GraphML](GraphML.html)
 *   [RDF](RDF.html) (ez legalábbis még ide vág)
+
+# Satöbbik
+
+*   [mindmap-ek](mindmap.html)
 
 
