@@ -5,10 +5,12 @@ title               : Mindmap dolgok java-ban
 name                : mindmap 
 layout              : wiki 
 path                : mindmap 
-date                : 2007-11-27 12:20:23 +0100 
-version             : 2 
+date                : 2007-11-27 12:20:53 +0100 
+version             : 3 
 creator             : kocka 
 ---
 *   [Mindraider](Missing.html)
 *   [freemind](freemind.html)
 *   stb?
+
+
