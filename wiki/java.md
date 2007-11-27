@@ -5,8 +5,8 @@ title               : java
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2006-10-18 13:10:59 +0200 
-version             : 13 
+date                : 2007-11-27 17:41:06 +0100 
+version             : 14 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
