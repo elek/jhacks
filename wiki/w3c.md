@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-14 12:51:30 +0100 
-author              : admin 
+author              : kocka 
 title               : World Wide Web Consortium 
 name                : w3c 
 layout              : wiki 
 path                : w3c 
-date                : 2006-03-26 01:51:25 +0100 
-version             : 1 
+date                : 2007-11-27 11:21:26 +0100 
+version             : 4 
 creator             : kocka 
 ---
 ![image](http://www.w3.org/Icons/w3c_main)(http://www.w3c.org/)
@@ -22,6 +22,7 @@ Lasd:
 *   [webservices](WebServices.html) ([wsdl](WSDL.html), [uddi](UDDI.html))
 *   [mathml](mathml.html)
 *   [svg](SVG.html)
+*   [rdf](RDF.html)
 *   [css](Missing.html)
 
 (csak a lenyeget nezve, egeszitsd ki ha koll meg valami)
