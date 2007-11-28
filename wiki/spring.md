@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-09-21 12:20:09 +0200 
-version             : 14 
+date                : 2007-11-28 13:15:31 +0100 
+version             : 15 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
@@ -71,5 +71,8 @@ Linkek:
 *   [Spring HUB](http://springhub.com/)
 *   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
 *   [IDE](IDE.html) support: [eclipse](Eclipse.html)hez: [http://springide.org/](http://springide.org/)
+
+*   Cikkek:
+*   [What's New in Spring 2.5: Part 1](http://www.infoq.com/articles/spring-2.5-part-1)
 
 
