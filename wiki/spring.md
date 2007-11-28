@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-11-28 13:15:31 +0100 
-version             : 15 
+date                : 2007-11-28 13:16:18 +0100 
+version             : 16 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
@@ -33,7 +33,10 @@ Mind getter-setter, mind pedig konstruktor alapú [IoC](ioc.html) támogatja, va
 
 Az [eclipse](Eclipse.html) plugin 2.0ás verziójáról egy cikk: [Introducing Spring IDE 2.0](http://www.javabeat.net/articles/2007/09/introduction-to-spring-ide-2-0/5)
 
+## Cikkek
 
+
+*   [What's New in Spring 2.5: Part 1](http://www.infoq.com/articles/spring-2.5-part-1)
 
 
 
@@ -72,7 +75,5 @@ Linkek:
 *   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
 *   [IDE](IDE.html) support: [eclipse](Eclipse.html)hez: [http://springide.org/](http://springide.org/)
 
-*   Cikkek:
-*   [What's New in Spring 2.5: Part 1](http://www.infoq.com/articles/spring-2.5-part-1)
 
 
