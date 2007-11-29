@@ -1,17 +1,24 @@
 ---
 creationDate        : 2005-07-13 11:12:24 +0200 
-author              : admin 
+author              : kocka 
 title               : Logging 
 name                : Logging 
 layout              : wiki 
 path                : Logging 
-date                : 2006-03-26 01:42:46 +0100 
-version             : 1 
+date                : 2007-11-29 10:38:49 +0100 
+version             : 3 
 creator             : kocka 
 ---
 Java-hoz van tucat logging api, bar erdemes nem ezt hasznalni [debug](Missing.html)olas helyett :) de egy futo rendszer viselkedeset erdemes egy ilyen eszkozzel nyomonkovetni.
 
 A regi szep idokben a [log4j](log4j.html) volt az egyeduralkodo, kozben mindenki irt valami custom baromsagot, nem mintha lenne benne nagy kihivas, es olyan elofordul hogy maga logging api okoz hibat. Feljott hat a [sun](Sun.html) is egy standard [java](java.html) logging apival ami resze a [j2sdk](Missing.html)nak. Igazabol meg senkit nem lattam hasznalni, de egyszer megneztem es olyan volt mint a [log4j](log4j.html) csak nem olyan fullos. Ugyhogy megsem...
+
+Szóval:
+
+*   [log4j](log4j.html)
+*   [slf4j](slf4j.html)
+*   Java loging api
+*   [commons-logging](commons-logging.html)
 
 Tenyesznek egyeb logging apik a neten:
 
