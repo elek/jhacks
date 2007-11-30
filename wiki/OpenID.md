@@ -5,8 +5,8 @@ title               : OpenID
 name                : OpenID 
 layout              : wiki 
 path                : OpenID 
-date                : 2007-05-30 09:53:35 +0200 
-version             : 5 
+date                : 2007-11-30 14:27:57 +0100 
+version             : 6 
 creator             : karenin 
 ---
 [http://openid.net/](http://openid.net/)
@@ -23,3 +23,4 @@ Linkek:
 
 *   [Neltz Tamás előadása a Newtech Meetup-on](http://video.google.com/videoplay?docid=7684630973021077375)
 *   [TSS - Using OpenID](http://www.theserverside.com/tt/articles/article.tss?l=OpenID)
+*   [OpenId-Server](http://code.google.com/p/openid-server/) [java](java.html) [webapp](webapp.html) implementáció
