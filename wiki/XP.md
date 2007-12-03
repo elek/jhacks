@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-28 14:17:03 +0200 
-author              : kocka 
+author              : karenin 
 title               : Extreme Programming 
 name                : XP 
 layout              : wiki 
 path                : XP 
-date                : 2007-08-22 17:15:38 +0200 
-version             : 9 
+date                : 2007-12-03 11:38:49 +0100 
+version             : 10 
 creator             : kocka 
 ---
 Egy csomo otlet amivel a szoftver minoseget lehet javitani:
@@ -15,6 +15,7 @@ Egy csomo otlet amivel a szoftver minoseget lehet javitani:
 *   pair programming
 *   [XP/write tests first](XP/write%20tests%20first.html) (mint a [WTF](WTF.html) :) )
 *   [on-site customer](on-site%20customer.html)
+*   [Standup meeting](Standup%20meeting.html)
 *   satobbi
 
 
