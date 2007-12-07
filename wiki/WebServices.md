@@ -5,8 +5,8 @@ title               : WebServices
 name                : WebServices 
 layout              : wiki 
 path                : WebServices 
-date                : 2007-06-01 14:22:53 +0200 
-version             : 5 
+date                : 2007-12-07 13:52:47 +0100 
+version             : 6 
 creator             : kocka 
 ---
 Technologiak:
@@ -20,6 +20,7 @@ Szoftverek:
 *   [AXIS](axis.html)
 *   [XFire](xfire.html)
 *   [jUDDI](Missing.html)
+*   [Metro](metro.html)
 
 Apik:
 
