@@ -5,16 +5,12 @@ title               : metro
 name                : metro 
 layout              : wiki 
 path                : metro 
-date                : 2007-12-07 13:57:54 +0100 
-version             : 2 
+date                : 2007-12-07 13:59:30 +0100 
+version             : 3 
 creator             : kocka 
 ---
-[http://dpml.net/](http://dpml.net/)
+[http://metro.dev.java.net/](http://metro.dev.java.net/)
 
-(Nem a [SUN](Sun.html) [Metro](metro.html)ja)
-
-Az [avalon](avalon.html) project egyik orokose, a merlin container forkja.
-
-(remes ez a site)
+A [SUN](Sun.html) egy [web services](Missing.html) stackja.
 
 
