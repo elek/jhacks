@@ -6,7 +6,7 @@ name                : avalon/metro
 layout              : wiki 
 path                : avalon/metro 
 date                : 2007-12-07 13:58:18 +0100 
-version             : 2 
+version             : 1 
 creator             : kocka 
 ---
 [http://dpml.net/](http://dpml.net/)
