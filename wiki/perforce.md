@@ -5,8 +5,8 @@ title               : perforce
 name                : perforce 
 layout              : wiki 
 path                : perforce 
-date                : 2007-12-18 14:40:00 +0100 
-version             : 3 
+date                : 2007-12-18 14:50:47 +0100 
+version             : 4 
 creator             : kocka 
 ---
 [http://www.perforce.com/](http://www.perforce.com/)
@@ -15,6 +15,6 @@ Egy [version control](version%20control.html) rendszer, multiplatform. Nem szaba
 
 Akik megis a kijart utat akarjak jarni azok talan jobban jarnak a [subversion](subversion.html)nal :)
 
-Na még egy izgalmas részletet mesélnék erről a zseniális szoftverről: Amikor licenszeled, akkor a szervered IP-címére kell a licenszt kérni, így amikor valamilyen technikai okból a szerver IP-címe változik, akkor bizony interakcióba kell lépni a sales team-mel és új licenszt kérni hozzá. Közben az ember azon gondolkodik, hogy ennyi idő alatt hányszor migrált volna át [subversionra](subversion.html) :-)
+Na még egy izgalmas részletet mesélnék erről a zseniális szoftverről: Amikor licenszeled (annyiba kerül hogy ennyiért már felvehetnél egy programozót úgy fél évre), akkor a szervered IP-címére kell a licenszt kérni, így amikor valamilyen technikai okból a szerver IP-címe változik, akkor bizony interakcióba kell lépni a sales team-mel és új licenszt kérni hozzá. Közben az ember azon gondolkodik, hogy ennyi idő alatt hányszor migrált volna át [subversionra](subversion.html) :-)
 
 
