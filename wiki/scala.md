@@ -5,8 +5,8 @@ title               : scala
 name                : scala 
 layout              : wiki 
 path                : scala 
-date                : 2007-09-19 18:09:22 +0200 
-version             : 4 
+date                : 2007-12-20 16:33:21 +0100 
+version             : 5 
 creator             : kocka 
 ---
 ![image](http://www.scala-lang.org/images/scala_logo.png)(http://www.scala-lang.org/)
@@ -15,5 +15,9 @@ creator             : kocka
 
 *   [IDE](IDE.html)-támogatás: [eclipse](Eclipse.html)-hez van plugin.
 *   [maven](maven/maven2.html) plugin: [http://millstone.iodp.tamu.edu/~blambi/maven-scala-plugin/](http://millstone.iodp.tamu.edu/~blambi/maven-scala-plugin/)
+
+Linkek:
+
+*   [Javapolis 2007 interview](http://www.parleys.com/display/PARLEYS/Interview+with+Martin+Odersky+at+JavaPolis%2707?showComments=true)
 
 
