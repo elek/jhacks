@@ -5,8 +5,8 @@ title               : closures
 name                : closures 
 layout              : wiki 
 path                : closures 
-date                : 2007-10-17 16:24:53 +0200 
-version             : 4 
+date                : 2007-12-26 22:09:05 +0100 
+version             : 5 
 creator             : kocka 
 ---
 _[TODO](TODO.html): Kicsit meg chunk jellegu_
@@ -20,6 +20,7 @@ A closure valahol a function object-nél kezdődik, de sokkal kompaktabb szintax
 Linkek: 
 
 *   [Closures for java - javapolis 2006](http://www.bejug.org/confluenceBeJUG/display/PARLEYS/Closures+for+Java)
+*   [Joshua Bloch: The closures controvcersy - javapolis 2007](http://www.parleys.com/display/PARLEYS/The+Closures+Controversy)
 *   [Closures for java](http://www.oreillynet.com/onjava/blog/2006/08/will_we_have_closures_in_java.html) ([java 1.7](java%201.7.html), es csak proposal)
 *   [Closures in Java 7.0](http://www.oreillynet.com/onjava/blog/2006/12/closures_in_java_70.html)
 
