@@ -5,8 +5,8 @@ title               : GraphML
 name                : GraphML 
 layout              : wiki 
 path                : GraphML 
-date                : 2007-10-26 14:34:45 +0200 
-version             : 3 
+date                : 2008-01-05 18:10:41 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Egy [XML](XML.html)-alapú formátum, ami [gráfok](graph.html) leírására szolgál.
@@ -15,5 +15,6 @@ Egy [XML](XML.html)-alapú formátum, ami [gráfok](graph.html) leírására szo
 
 *   [jgraph](Missing.html)
 *   [jung](jung.html)
+*   yed (yworks) [http://www.yworks.com/products/yed/demo/yed.jnlp](http://www.yworks.com/products/yed/demo/yed.jnlp) "share ware", de nagyon jó.
 
 
