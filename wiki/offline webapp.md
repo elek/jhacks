@@ -5,16 +5,16 @@ title               : offline webapp
 name                : offline webapp 
 layout              : wiki 
 path                : offline webapp 
-date                : 2007-12-20 11:17:56 +0100 
-version             : 4 
+date                : 2008-01-18 15:01:45 +0100 
+version             : 5 
 creator             : kocka 
 ---
 Az offline webapp téma nem kifejezetten [java](java.html)-specifikus, az viszont érdekes kérdés hogy egy adott ofline webapp rendszer hogyan kommunikál a backenddel, amikor éppen online.
 
-*   Adobe AIR
+*   Adobe [AIR](AIR.html)
     *   [amf](AMF.html)
     *   [webservices](WebServices.html)
-*   Google Gears
+*   Google [Gears](Missing.html)
     *   hétköznapi [ajax](ajax.html) :)
 
 
