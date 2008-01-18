@@ -1,15 +1,15 @@
 ---
 creationDate        : 2008-01-18 15:07:39 +0100 
 author              : kocka 
-title               : AIR 
+title               : Adobe Integrated Runtime 
 name                : AIR 
 layout              : wiki 
 path                : AIR 
-date                : 2008-01-18 15:07:39 +0100 
-version             : 1 
+date                : 2008-01-18 15:09:26 +0100 
+version             : 2 
 creator             : kocka 
 ---
-Adobe Integrated Runtime
+[http://labs.adobe.com/technologies/air](http://labs.adobe.com/technologies/air)
 
 Az [adobe](adobe.html) [offline webapp](offline%20webapp.html) rendszere, ami főleg flash alapú alkalmazásokra van kihegyezve. Használható [flex](flex.html)-szel is.
 
