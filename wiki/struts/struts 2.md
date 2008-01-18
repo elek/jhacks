@@ -1,12 +1,12 @@
 ---
 creationDate        : 2007-05-29 16:17:10 +0200 
-author              : kocka 
+author              : karenin 
 title               : struts/struts 2 
 name                : struts/struts 2 
 layout              : wiki 
 path                : struts/struts 2 
-date                : 2007-11-13 14:02:49 +0100 
-version             : 6 
+date                : 2008-01-18 17:22:58 +0100 
+version             : 7 
 creator             : kocka 
 ---
 
@@ -25,6 +25,6 @@ A Struts 2 egy hatalmas nagy átírás erdménye. Újdonságok nagy vonalakban:
 
 __Könyv__
 
-*   [Starting Struts 2](http://www.infoq.com/resource/minibooks/starting-struts2/en/pdf/startingstruts2online.pdf)
+*   [Starting Struts 2](http://www.infoq.com/minibooks/starting-struts2)
 
 
