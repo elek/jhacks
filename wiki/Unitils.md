@@ -5,11 +5,11 @@ title               : Unitils
 name                : Unitils 
 layout              : wiki 
 path                : Unitils 
-date                : 2008-01-28 17:14:28 +0100 
-version             : 3 
+date                : 2008-01-28 17:15:18 +0100 
+version             : 4 
 creator             : zmb 
 ---
-Roviden: mindenfele hasznos kiegeszites junithoz es testnghez. DBUnit, EasyMock, Spring, Hibernate tamogatas is van benne.
+Roviden: mindenfele hasznos kiegeszites [junithoz](junit.html) es [testnghez](testng.html). [DBUnit](dbunit.html), [EasyMock](Missing.html), [Spring](spring.html), [Hibernate](Hibernate.html) tamogatas is van benne.
 
 Ficsorok:
 
