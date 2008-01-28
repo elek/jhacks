@@ -5,8 +5,8 @@ title               : Unitils
 name                : Unitils 
 layout              : wiki 
 path                : Unitils 
-date                : 2008-01-28 17:14:01 +0100 
-version             : 2 
+date                : 2008-01-28 17:14:28 +0100 
+version             : 3 
 creator             : zmb 
 ---
 Roviden: mindenfele hasznos kiegeszites junithoz es testnghez. DBUnit, EasyMock, Spring, Hibernate tamogatas is van benne.
@@ -22,4 +22,4 @@ Ficsorok:
 *   Megintcsak annotacioval jelezheto, h az ojektum egy mock, raadasul a teszt vegen hivja magatol a verify-t, igy azzal se nem kell torodni.
 *   [Hibernate](Hibernate.html) mappinget is tud csekkolni, de aztat nem probaltam meg
 
-TODO: valami osszefuggobb leirast csiholni ebbol az egeszbol
+[TODO](TODO.html): valami osszefuggobb leirast csiholni ebbol az egeszbol
