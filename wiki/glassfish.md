@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-13 16:14:04 +0200 
-author              : kocka 
+author              : karenin 
 title               : glassfish 
 name                : glassfish 
 layout              : wiki 
 path                : glassfish 
-date                : 2008-01-28 14:03:03 +0100 
-version             : 8 
+date                : 2008-01-28 14:39:15 +0100 
+version             : 9 
 creator             : kocka 
 ---
 ![image](http://glassfish.dev.java.net/public/image/glassfish_logo.gif)(http://glassfish.dev.java.net/)
@@ -26,6 +26,6 @@ Erdekes ujitasok:
 
 Verziók:
 
-*   v1 ez a kurrens stabil
-*   v2 jelenleg béta, főleg clusterezésben újabb, az admin felület JSF-es ilyenek, stabil ősszel jön
+*   v1 a múzeumból
+*   v2 jelenleg ez a stabil, főleg clusterezésben újabb, az admin felület JSF-es ilyenek
 *   v3 teljesen új architektúra ([HK2](HK2.html)). Reményeink szerint sokkal kevesebb erőforrást fog enni.
