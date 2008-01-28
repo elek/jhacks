@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-06-13 16:14:04 +0200 
-author              : karenin 
+author              : kocka 
 title               : glassfish 
 name                : glassfish 
 layout              : wiki 
 path                : glassfish 
-date                : 2007-06-01 22:21:19 +0200 
-version             : 7 
+date                : 2008-01-28 14:03:03 +0100 
+version             : 8 
 creator             : kocka 
 ---
 ![image](http://glassfish.dev.java.net/public/image/glassfish_logo.gif)(http://glassfish.dev.java.net/)
@@ -16,7 +16,9 @@ creator             : kocka
 
 
 
-A [SUN](Sun.html) egy community [j2ee](j2ee.html) 1.5 [alkalmazas szerver](Alkalmazas%20Szerver.html)e. (Kereskedelmi nevén Sun Java System Application Server) Erdekes ujitasok:
+A [SUN](Sun.html) egy community [j2ee](j2ee.html) 1.5 [alkalmazas szerver](Alkalmazas%20Szerver.html)e. (Kereskedelmi nevén Sun Java System Application Server. A SUN érdekes névadási és verziózási konvenciója miatt a Glassfish V2 az a Sun Java System Application Server 9.1.)
+
+Erdekes ujitasok:
 
 *   [NIO](NIO.html) alapu [HTTP](HTTP.html) listener (Grizzly)
 *   lazy initialization, csak azokat a szolgaltatasokat inditja el, amire szukseg van (v3)
