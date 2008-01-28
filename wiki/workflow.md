@@ -5,8 +5,8 @@ title               : workflow
 name                : workflow 
 layout              : wiki 
 path                : workflow 
-date                : 2008-01-25 10:12:47 +0100 
-version             : 4 
+date                : 2008-01-28 11:50:44 +0100 
+version             : 5 
 creator             : kocka 
 ---
 Az a rendszer aminek te deklarativan meghatarozhatod hogy egy adott objektum milyen allapotokon kell hogy vegigmenjen, es o meg majd tuggya hogy mit kell tenni, aszt csinalja is megfele ezerrel.
@@ -15,6 +15,7 @@ Az a rendszer aminek te deklarativan meghatarozhatod hogy egy adott objektum mil
 *   [Werkflow](Missing.html)
 *   [enhydra shark](Missing.html)
 *   [OpenWFE](Missing.html)
+*   [spring webflow](spring%20webflow.html)
 
 Lásd még: [BPM](Missing.html)
 
