@@ -5,8 +5,8 @@ title               : Microsoft
 name                : Microsoft 
 layout              : wiki 
 path                : Microsoft 
-date                : 2008-02-01 13:27:44 +0100 
-version             : 3 
+date                : 2008-02-01 13:29:06 +0100 
+version             : 4 
 creator             : kocka 
 ---
 __Microsoft Corporation__
@@ -19,4 +19,4 @@ __A__ multi. Van nekik sajat java implementaciojuk, ami allitolag olyan mintha m
 
 Meg nem erositett hirek szerint a microsoft [gonosz](gonosz.html).
 
-2008.02.01-én bejelentette, hogy felvásárolta a Yahoo-t.
+2008.02.01-én bejelentette, hogy felvásárolná a Yahoo-t.
