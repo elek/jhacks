@@ -5,8 +5,8 @@ title               : Laszlo
 name                : Laszlo 
 layout              : wiki 
 path                : Laszlo 
-date                : 2007-07-12 12:09:13 +0200 
-version             : 11 
+date                : 2008-02-04 09:59:08 +0100 
+version             : 12 
 creator             : zsoltk 
 ---
 Rich Internet Application development framework.
@@ -26,6 +26,7 @@ Egy [flash](flash.html) oldalakat generalo cucc (persze hivatalosan [dhtml](Miss
 
 Nem volt teljesen evidens hogy hogyan lehet bele fejleszteni [maven](maven.html) alatt, de kikiserleteztem es irtam hozza egy archetype-ot is. Szoval egyszeruen maven-war-plugin hasznalataval, csak oda kell figyelni hogy a 2.0 verzio meg legyen belole mert a regebbiek nem eleg jok hozza. A maven fuggosegek koze tegyel be egyszeruen egy fuggoseget az openlaszlo war file-nak, ezt a war plugin ki fogja csomagolni neked, a sajat web.xml-ed pedig felulvaghatja az openlaszlo cuccot, az lzx filejaidat pedig egyszeruen benyomhatod a src/main/webapp ala. egy egyszeru jetty6:run azonnal uzemelo openlaszlo szervert hoz neked letre. Szoval bevetheto, csak kiserletezni kellett sokat, mert ez sehol nincs leirva.
 
+Eclipse plugin sajnos csak pénzes van hozzá: [http://www.spket.com/laszlo.html](http://www.spket.com/laszlo.html)
 
 Sajat [test](test.html) rendszere is van lzunit neven.
 
