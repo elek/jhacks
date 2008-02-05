@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-02 12:24:30 +0200 
-author              : kocka 
+author              : tvik 
 title               : Inversion of Control 
 name                : ioc 
 layout              : wiki 
 path                : ioc 
-date                : 2007-11-12 09:13:11 +0100 
-version             : 16 
+date                : 2008-02-05 13:15:34 +0100 
+version             : 17 
 creator             : kocka 
 ---
 Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg [COP](COP.html)).
@@ -33,6 +33,7 @@ nehany szoftver/framework:
 *   [OSGi](OSGi.html)
 *   [hivemind](hivemind.html) ([tapestry](tapestry.html))
 *   a [geronimo](geronimo.html) szerver kernelje ([gbean](Missing.html))
+*   [guice](guice.html) a Google-től.
 
 Linkek:
 
