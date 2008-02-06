@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 08:58:49 +0100 
-author              : kocka 
+author              : tvik 
 title               : annotations 
 name                : annotations 
 layout              : wiki 
 path                : annotations 
-date                : 2007-05-29 16:26:19 +0200 
-version             : 9 
+date                : 2008-02-06 12:37:09 +0100 
+version             : 10 
 creator             : kocka 
 ---
 Az annotations uj feature a [java 1.5](java%201.5.html)ben, amivel metainformaciot adhatsz hozza az osztalyokhoz, metodusokhoz, tagvaltozoidhoz, es ezeket egyszeru [reflection](reflection.html) segitsegevel ki is olvashatod.
@@ -35,6 +35,7 @@ A dolog egy érdekessége hogy mekkora hatással lett a frameworkökre a technol
 *   [junit](junit.html) 4.x-es széria
 *   [testNG](testng.html) kezdetektől fogva
 *   [jsr-181](jsr-181.html) [webservices](WebServices.html) annotations
+*   [guice](guice.html) [ioc](ioc.html) framework.
 
 cikkek:
 
