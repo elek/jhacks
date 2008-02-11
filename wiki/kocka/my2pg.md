@@ -5,8 +5,8 @@ title               : My2pg
 name                : kocka/my2pg 
 layout              : wiki 
 path                : kocka/my2pg 
-date                : 2008-02-03 20:56:17 +0100 
-version             : 5 
+date                : 2008-02-11 23:06:19 +0100 
+version             : 6 
 creator             : kocka 
 ---
 Kis [python](../python.html) [script](../scripting.html) [mysql](../MySQL.html) dumpok [PostgreSQL-re](../PostgreSQL.html) konvertálására.
