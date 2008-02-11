@@ -6,7 +6,7 @@ name                : SDO
 layout              : wiki 
 path                : SDO 
 date                : 2008-02-11 22:51:36 +0100 
-version             : 2 
+version             : 1 
 creator             : kocka 
 ---
 Service Data Objects
