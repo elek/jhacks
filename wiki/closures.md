@@ -5,8 +5,8 @@ title               : closures
 name                : closures 
 layout              : wiki 
 path                : closures 
-date                : 2007-12-26 22:09:05 +0100 
-version             : 5 
+date                : 2008-02-12 10:39:45 +0100 
+version             : 6 
 creator             : kocka 
 ---
 _[TODO](TODO.html): Kicsit meg chunk jellegu_
@@ -15,7 +15,10 @@ _[TODO](TODO.html): Kicsit meg chunk jellegu_
 
 A closure valahol a function object-nél kezdődik, de sokkal kompaktabb szintaxist ad.
 
-[Java](java.html) téren még mozgó célpont, a [java 1.7](java%201.7.html) tervezett nyelvi újdonsága, de se formai, se funkcionalis szinten nincs még nagy megállapodás, söt egyesek fel szeretnének miatta szántani ősi [java](java.html) területeket, mint a [checked exception](Missing.html)-ok.
+[Java](java.html) téren még mozgó célpont (immár lassan 2 éve, ami a sehova se haladás apró jele...), a [java 1.7](java%201.7.html) tervezett nyelvi újdonsága, de se formai, se funkcionalis szinten nincs még nagy megállapodás, söt egyesek fel szeretnének miatta szántani ősi [java](java.html) területeket, mint a [checked exception](Missing.html)-ok.
+
+Más - szintén [JRE-re](JRE.html) épülő - nyelvek mint a [scala](scala.html) és a [groovy](Groovy.html) érdekes és könnyen használható closures implementációkkal rendelkeznek. A Javapolis 2007-en jegyezte meg egy groovy-s srác, hogy ha a [java](java.html) nyelvben lesz valaha is closure, akkor is várni kell amig például a java.io.File-nak lesz olyan metódusa aminek át lehet passzolni egy closure-t.
+
 
 Linkek: 
 
