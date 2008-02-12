@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2007-12-16 11:25:19 +0100 
-version             : 14 
+date                : 2008-02-12 15:06:27 +0100 
+version             : 15 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -23,6 +23,7 @@ Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja raj
 *   [gump](gump.html)?
 *   [cruisecontrol](cruisecontrol.html)
 *   [hudson](https://hudson.dev.java.net/)
+*   [sonar](http://sonar.hortis.ch) - olyasmi, nem igazán CI (egyébként talán egy CI szervernek tudnia kellene ilyeneket)
 
 Burzsujoknak:
 
