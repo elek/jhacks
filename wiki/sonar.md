@@ -5,8 +5,8 @@ title               : Sonar
 name                : sonar 
 layout              : wiki 
 path                : sonar 
-date                : 2008-02-12 21:31:10 +0100 
-version             : 2 
+date                : 2008-02-12 21:32:26 +0100 
+version             : 3 
 creator             : kocka 
 ---
 [http://sonar.hortis.ch/](http://sonar.hortis.ch/)
@@ -16,6 +16,7 @@ Egy aggregátor [checkstyle](checkstyle.html), [pmd](PMD.html), cobertura és su
 A dologban szépségei:
 
 *   Nem kell módisítani a pom.xml-t.
+*   A fejlesztő szervezet coding policy-ját fel lehet konfigurálni egy központi helyen, ami mellesleg elég felhasználóbarát is.
 *   Egy biztos helyen([RDBMS](RDBMS.html)) van a QA statisztika, onnan lehet riportolni is
 
 A felgyűlt statisztikát időben és pillanatképként is nézhetjük. Szóval hasznos kis cucc...
