@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2008-02-12 15:06:27 +0100 
-version             : 15 
+date                : 2008-02-13 09:28:09 +0100 
+version             : 16 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -23,7 +23,6 @@ Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja raj
 *   [gump](gump.html)?
 *   [cruisecontrol](cruisecontrol.html)
 *   [hudson](https://hudson.dev.java.net/)
-*   [sonar](http://sonar.hortis.ch) - olyasmi, nem igazán CI (egyébként talán egy CI szervernek tudnia kellene ilyeneket)
 
 Burzsujoknak:
 
@@ -50,7 +49,7 @@ Cikkek:
 *   [Which open source CI tool is best suited for your application's environment?](http://www.javaworld.com/javaworld/jw-11-2006/jw-1101-ci.html) (review: Cruise Control, Continuum, Luntbuild, Hudson)
 *   [Introducing continuous integration  ](http://www.javaworld.com/javaworld/jw-06-2007/jw-06-awci.html)
 
-Lasd meg: [XP](XP.html)
+Lasd meg: [XP](XP.html), [qalab](qalab.html) és [sonar](sonar.html)
 
 
 
