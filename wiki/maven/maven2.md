@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2007-07-18 12:24:23 +0200 
-version             : 30 
+date                : 2008-02-14 16:13:20 +0100 
+version             : 31 
 creator             : kocka 
 ---
 
@@ -36,6 +36,7 @@ Cikkek:
 *   [Get the most out of Maven 2 site generation](http://www.javaworld.com/javaworld/jw-02-2006/jw-0227-maven_p.html)
 *   [Maven 2.0: Compile, Test, Run, Deploy, and More](http://www.onjava.com/lpt/a/6528)
 *   [The Maven 2 POM demystified](http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html)
+*   [Java Parancssor Maven-nel](http://www.verhas.com/public/2008-02-11-maven-assembly.pdf) (Verhás Péter)
 
 linkek:
 
