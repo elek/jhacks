@@ -5,8 +5,8 @@ title               : java 1.7
 name                : java 1.7 
 layout              : wiki 
 path                : java 1.7 
-date                : 2007-11-18 21:07:16 +0100 
-version             : 5 
+date                : 2008-02-15 10:37:18 +0100 
+version             : 6 
 creator             : kocka 
 ---
 A [java](java.html) tervezes alatt allo verzioja. Beceneve: Dolfi.
@@ -16,6 +16,7 @@ uj nyelvi lehetosegek, mint:
 *   [closures](closures.html), mert a [groovy](Groovy.html)ban bevallt
 *   [java 1.7/native xml support](java%201.7/native%20xml%20support.html), a rettenetes
 *   [java module system](Missing.html) (jsr-277)
+*   [Automatic Resource Management Blocks](http://docs.google.com/View?docid=dffxznxr_1nmsqkz&pli=1)
 
 Linkek:
 
