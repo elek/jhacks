@@ -5,8 +5,8 @@ title               : WebServices
 name                : WebServices 
 layout              : wiki 
 path                : WebServices 
-date                : 2007-12-07 13:52:47 +0100 
-version             : 6 
+date                : 2008-02-15 14:44:42 +0100 
+version             : 7 
 creator             : kocka 
 ---
 Technologiak:
@@ -35,5 +35,6 @@ Apik:
 link:
 
 *   [Szoftver/feature/technológia mátrix](http://wiki.apache.org/ws/StackComparison)
+*   [SoapUI](http://www.soapui.org/) Web service-k tesztelésére alkalmazás [eclipse](Eclipse.html) és [netbeans](Netbeans.html) pluginként vagy standalone.
 
 
