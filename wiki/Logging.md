@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-07-13 11:12:24 +0200 
-author              : kocka 
+author              : karenin 
 title               : Logging 
 name                : Logging 
 layout              : wiki 
 path                : Logging 
-date                : 2007-11-29 10:38:49 +0100 
-version             : 3 
+date                : 2008-02-17 22:18:58 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Java-hoz van tucat logging api, bar erdemes nem ezt hasznalni [debug](Missing.html)olas helyett :) de egy futo rendszer viselkedeset erdemes egy ilyen eszkozzel nyomonkovetni.
@@ -19,6 +19,7 @@ Szóval:
 *   [slf4j](slf4j.html)
 *   Java loging api
 *   [commons-logging](commons-logging.html)
+*   [logback](logback.html) aka. log4j NG
 
 Tenyesznek egyeb logging apik a neten:
 
