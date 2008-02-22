@@ -5,8 +5,8 @@ title               : Eclipse
 name                : Eclipse 
 layout              : wiki 
 path                : Eclipse 
-date                : 2008-02-23 00:08:40 +0100 
-version             : 16 
+date                : 2008-02-23 00:09:09 +0100 
+version             : 17 
 creator             : zsoltk 
 ---
 Hat akkor aljon is itt nemi bemutato a prg-rol.
@@ -66,7 +66,9 @@ Ha pluginek kellenek, akkor ezeket megtalalalod a [Eclipse/Plug-in](Eclipse/Plug
 
 Amit persze kihagytam, az a site ahonnan letoltheted az egeszet: [http://www.eclipse.org](http://www.eclipse.org)
 
-Eclipse shortcut dokumentáció [http://sureshkrishna.files.wordpress.com/2008/02/eclipse_shortcuts.pdf](http://sureshkrishna.files.wordpress.com/2008/02/eclipse_shortcuts.pdf)
+# Eclipse shortcut dokumentáció 
+
+[http://sureshkrishna.files.wordpress.com/2008/02/eclipse_shortcuts.pdf](http://sureshkrishna.files.wordpress.com/2008/02/eclipse_shortcuts.pdf)
 
 # Problemak
 
