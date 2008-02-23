@@ -1,19 +1,19 @@
 ---
 creationDate        : 2007-09-29 14:17:21 +0200 
-author              : karenin 
+author              : renszarv 
 title               : GWT 
 name                : GWT 
 layout              : wiki 
 path                : GWT 
-date                : 2007-09-29 14:17:21 +0200 
-version             : 1 
+date                : 2008-02-23 13:51:17 +0100 
+version             : 2 
 creator             : karenin 
 ---
 Google Web Toolkit
 
 Rich Client webtool [Google](Google.html) módra. A játék benne, hogy mind a szerver oldali kódot, mind a kliens oldali kódot Java-ban lehet írni. A kliens oldali csomagokat lefordítja egy förtelmesen obfuscált, de működő javascript-re.
 
-Ez a fordítás a szűk keresztmetszet, gyakorlatilag olyasmi élményt nyújt, mint a PDA-kon futó JVM-ekre írni valamit: csak 1.4-et lehet használni, és csak az alap Java API-k vannak meg rajta. Viszont szerver oldalon már bármit használhatunk, amit vidáman lehet kliens oldalról RCP-vel elérni.
+Ez a fordítás a szűk keresztmetszet, gyakorlatilag olyasmi élményt nyújt, mint a PDA-kon futó JVM-ekre írni valamit: csak 1.4-et lehet használni, és csak az alap Java API-k vannak meg rajta. Viszont szerver oldalon már bármit használhatunk, amit vidáman lehet kliens oldalról RPC-vel elérni általunk definiált interfészeken keresztül ([doksi](http://code.google.com/webtoolkit/documentation/com.google.gwt.doc.DeveloperGuide.RemoteProcedureCalls.html)) 
 
 A Java-ból fordult komponenseket gyakorlatilag bármilyen HTML-be be lehet szúrni egy egy soros javascript hívás beillesztésével, és onnantól működik a dolog.
 
