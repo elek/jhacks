@@ -5,8 +5,8 @@ title               : java
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2007-11-27 17:41:06 +0100 
-version             : 14 
+date                : 2008-02-24 22:00:59 +0100 
+version             : 15 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -36,7 +36,7 @@ Anti-java kirohanasok :)
 
 Java gyarto cegek:
 
-*   [sun](Sun.html)
+*   [sun](Sun.html) ([OpenJdk](OpenJDK.html))
 *   [ibm](IBM.html)
 *   [bea](bea.html) ([jrocket](jrocket.html))
 *   [apache](apache.html) ([harmony](Harmony.html))
