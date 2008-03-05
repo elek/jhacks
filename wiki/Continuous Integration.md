@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2008-02-13 09:28:09 +0100 
-version             : 16 
+date                : 2008-03-05 10:34:57 +0100 
+version             : 17 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -22,12 +22,12 @@ Gyakorlatilag egy eszkoz ami rendszeresen lebuildeli az cuccodat, lefuttatja raj
 *   [luntbuild](Missing.html)
 *   [gump](gump.html)?
 *   [cruisecontrol](cruisecontrol.html)
-*   [hudson](https://hudson.dev.java.net/)
+*   [hudson](Hudson.html)
 
 Burzsujoknak:
 
 *   [bamboo](http://www.atlassian.com/software/bamboo/) (atlassian) [Open Source](Open%20Source.html) projectekhez lehet használni, ha publikus lesz az instance
-*   [teamcity](http://www.jetbrains.com/teamcity/) (jetbrains) 20 fejlesztő 20 project 20 build definition és így tovább ha nem túl kicsi korlát, akkor a professional ingyen kapható és ugyanazt tudja
+*   [teamcity](teamcity.html) (jetbrains) 20 fejlesztő 20 project 20 build definition és így tovább ha nem túl kicsi korlát, akkor a professional ingyen kapható és ugyanazt tudja
 
 Ezekhez erdemes megnezni ezt a [feature matrix](http://damagecontrol.codehaus.org/Continuous+Integration+Server+Feature+Matrix)ot.
 
