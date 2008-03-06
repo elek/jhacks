@@ -5,13 +5,13 @@ title               : perforce
 name                : perforce 
 layout              : wiki 
 path                : perforce 
-date                : 2008-01-17 17:27:39 +0100 
-version             : 6 
+date                : 2008-03-06 14:05:10 +0100 
+version             : 7 
 creator             : kocka 
 ---
 [http://www.perforce.com/](http://www.perforce.com/)
 
-Egy [version control](version%20control.html) rendszer, multiplatform. Nem szabad, de [free](Open%20Source.html) szoftverekhez ingyen lehet használni. Van hozzá [eclipse](Eclipse.html) plugin, command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.
+Egy [version control](version%20control.html) rendszer, multiplatform. Nem szabad, de [free](Open%20Source.html) szoftverekhez ingyen lehet használni. Van hozzá [eclipse](Eclipse.html) [plugin](http://www.perforce.com/perforce/products/p4wsad.html), command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.
 
 *   Érdekes baleset vele például egy directory letörlése, mert ahhoz a workspace-det kell módosítani úgy, hogy az ténzleg törölje. Vicces.
 *   Összehasonlításként az sync (az svn up megfelelője) kb ugyanolyan fürge mint a svn-ben, viszont ezerszer gyorsabb mint a VSS. Ez most így tudománytalanul...
