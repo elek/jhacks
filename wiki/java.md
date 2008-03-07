@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-11 01:45:21 +0200 
-author              : kocka 
+author              : karenin 
 title               : java 
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2008-02-24 22:00:59 +0100 
-version             : 15 
+date                : 2008-03-07 16:08:36 +0100 
+version             : 16 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -28,6 +28,11 @@ A javat tobbfele branchban lehet megszerezni:
 *   [j2ee](j2ee.html) szerveroldali fejlesztesekhez
 
 Lasd: [java 1.3](Missing.html), [java 1.4](java%201.4.html), [java 1.5](java%201.5.html), [java 1.6](java%201.6.html), [java 1.7](java%201.7.html)
+
+A fentiek értelemben valamilyen szinten még köze van a Java-hoz:
+
+*   [Android](android.html) Java nyelven írható, de nem Java bytecode-ra fordított mobilon platform
+*   [BD-J](BD-J.html) Blue-ray lemez interaktív menüinek Java programnyelve
 
 Anti-java kirohanasok :)
 
