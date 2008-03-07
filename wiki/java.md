@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-11 01:45:21 +0200 
-author              : karenin 
+author              : kocka 
 title               : java 
 name                : java 
 layout              : wiki 
 path                : java 
-date                : 2008-03-07 16:08:36 +0100 
-version             : 16 
+date                : 2008-03-07 17:36:25 +0100 
+version             : 17 
 creator             : renszarv 
 ---
 Egy nyelv a mindfelett, egy nyelv kegyetlen, egy sötétbe zár, bilincs az egyetlen....
@@ -18,6 +18,7 @@ Fura, hogy erről nem volt még snip :)
 
 1.   A java egy [oop](oop.html) nyelv.
 1.   A java forraskodot [bytecode](bytecode.html)ra lehet leforditani es java futasi kornyezeten ([JRE](JRE.html)) futtatni.
+1.   A JRE platformra nem a java az egyetlen nyelv, lásd [groovy](Groovy.html), [scala](scala.html), jruby...
 
 Ezt gondolom az is tudta aki irta csak olyan jo egy kicsit ertetlenkedni :-D
 
@@ -39,7 +40,7 @@ Anti-java kirohanasok :)
 *   [A java rossz](http://padre.web.elte.hu/java.html) ([perl](perl.html)-man, imadnivalo hogy egy _public static void main_-ben hasonlitja ossze a ket nyelvet :-D )
 *   [Mese a sotet java korszak Perl vitezeirol](http://www.oreillynet.com/pub/wlg/8317) (mondanom se kell :) )
 
-Java gyarto cegek:
+Java __virtuális gép__ gyarto cegek:
 
 *   [sun](Sun.html) ([OpenJdk](OpenJDK.html))
 *   [ibm](IBM.html)
