@@ -5,8 +5,8 @@ title               : bytecode
 name                : bytecode 
 layout              : wiki 
 path                : bytecode 
-date                : 2007-11-12 08:55:26 +0100 
-version             : 5 
+date                : 2008-03-09 12:19:19 +0100 
+version             : 6 
 creator             : kocka 
 ---
 A bytecode az a kod, ami a virtualis gepen fut. Ez szokott a class fileokban lenni.
@@ -20,6 +20,7 @@ Bytecode manipulalo cuccok:
 *   [cglib](Missing.html)
 *   [bcel](Missing.html)
 *   [serp](Missing.html)
+*   [btrace](https://btrace.dev.java.net/) Meglévő programhoz lehet futási időben kis trace programokat illeszteni bytecode instrumentációval.
 *   satobbi?
 
 Linkek:
