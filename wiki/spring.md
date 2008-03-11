@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2008-03-11 13:13:04 +0100 
-version             : 17 
+date                : 2008-03-11 13:17:22 +0100 
+version             : 18 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
