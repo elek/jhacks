@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2007-11-28 13:16:18 +0100 
-version             : 16 
+date                : 2008-03-11 13:13:04 +0100 
+version             : 17 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
@@ -19,8 +19,14 @@ A Spring framework lelke az [IoC](ioc.html) container. Nem intrusiv, azaz kb bá
 A lifecycle-hez vagy használ az ember Spring-specifikus interfaceket, vagy meghatározhat metódusokat amiket a container meghív a kellő fázisban.
 Mind getter-setter, mind pedig konstruktor alapú [IoC](ioc.html) támogatja, valamint factory-nak is fel lehet használni szinte bármit annélkül hogy speciális interfacet implementálni kellene.
 
-## Spring Web [MVC](MVC.html)
+## Spring [Web alkalmazásokhoz](webapp.html)
 
+A Spring az alábbiakkal támogatja a webalkalmazások fejleszését:
+
+*   Spring Web [MVC](MVC.html), XML-el konfiguralhato [MVC](MVC.html), tamogatas kulombozo View retegek fele ([PDF](PDF.html), [Velocity](Velocity.html), [JSP](JSP.html)...)
+*   Spring Web framework, [XML](XML.html)-el konfiguralhato Web context
+*   Integráció más web frameworkökkel: [Tapestry](tapestry.html), [struts](struts.html), [jsf](JSF.html) ésatöbbi...
+*   Viszonylag új még a Spring WS, a [Web Services](Missing.html) subproject.
 
 ## Spring [JMS](JMS.html)
 
@@ -28,10 +34,16 @@ Mind getter-setter, mind pedig konstruktor alapú [IoC](ioc.html) támogatja, va
 ## Spring ORM
 
 *   [hibernate](Hibernate.html), [jdo](JDO.html), [jdbc](JDBC.html) support a híres templates megoldással vagy nélküle.
+*   [JPA](JPA.html) support is van már
 
 ## [IDE](IDE.html) támogatás
 
+Ez nem szükséges egy springes fejlesztéshez, de tud segíteni olyanokban mint a context xml-el szerkesztése, web flow diagrammok, stb...
 Az [eclipse](Eclipse.html) plugin 2.0ás verziójáról egy cikk: [Introducing Spring IDE 2.0](http://www.javabeat.net/articles/2007/09/introduction-to-spring-ide-2-0/5)
+
+## Spring és [unit-tesztelés](test.html)
+
+Korábban is elterjedt megoldás volt az, hogy a tesztelendő POJO létrehozását és inicializációját a spring-re bízta egy unit teszt. Erre mindenkinek megvolt a saját kis megoldása. Figyelemre méltó viszont a [unitils](Unitils.html) spring támogatása, amiben csak [annotiációkkal](annotations.html) megmondhatjuk hogy melyik XML-ből jöjjön létre az alkalmazás context, és melyik bean-ek hova injektálódjanak be.
 
 ## Cikkek
 
@@ -56,8 +68,6 @@ Nehany fontosabb tulajdonsaga:
 *   [IoC](ioc.html) kontener, Inversion of Control kontenert tartalmaz, ezaltal [XML](XML.html)-en keresztul allithatoak be az egyes Bean-ek kapcsolatai (Mivel JavaBeaneket hasznal igy az [IoC](ioc.html) a setter es getter metodusokon keresztul illetve (csunyabb megoldaskent) a kontruktoron keresztul tudja az adott osztalynak atadni a tobbi Bean-t)
 *   Spring [OR Mapping](OR%20Mapping.html) (ORM), [XML](XML.html) alapu beallitas tobb fele ORM fele ([Hibernate](Hibernate.html),[JDO](JDO.html),iBatis)
 *   Spring [DAO](DAO.html), szinten [XML](XML.html)-en keresztul konfiguralhato tranzakcio kezeles, [JDBC](JDBC.html) es [DAO](DAO.html) tamogatas
-*   Spring Web framework, [XML](XML.html)-el konfiguralhato Web context
-*   Spring Web [MVC](MVC.html), XML-el konfiguralhato [MVC](MVC.html), tamogatas kulombozo View retegek fele ([PDF](PDF.html), [Velocity](Velocity.html), [JSP](JSP.html)...)
 *   Rendelkezik tamogatassal [EJB](EJB.html), [WebServices](WebServices.html), [RMI](RMI.html), [JMS](JMS.html) illetve [JavaMail](Missing.html) fele.
 *   Atlathato (XML konfiguracionak hala)
 *   Gyors (leven hogy nemkell a nagy eroforras igenyu [J2EE](j2ee.html) kontener)
