@@ -5,8 +5,8 @@ title               : Spring Framework
 name                : spring 
 layout              : wiki 
 path                : spring 
-date                : 2008-03-12 13:10:12 +0100 
-version             : 19 
+date                : 2008-03-12 13:12:06 +0100 
+version             : 20 
 creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
@@ -30,7 +30,7 @@ A Spring az alábbiakkal támogatja a webalkalmazások fejleszését:
 *   Spring Web [MVC](MVC.html), XML-el konfiguralhato [MVC](MVC.html), tamogatas kulombozo View retegek fele ([PDF](PDF.html), [Velocity](Velocity.html), [JSP](JSP.html)...)
 *   Spring Web framework, [XML](XML.html)-el konfiguralhato Web context
 *   Integráció más web frameworkökkel: [Tapestry](tapestry.html), [struts](struts.html), [jsf](JSF.html) ésatöbbi...
-*   Viszonylag új még a Spring WS, a [Web Services](Missing.html) subproject.
+*   Viszonylag új még a Spring WS, a [WebServices](WebServices.html) subproject.
 
 ## Spring [JMS](JMS.html)
 
