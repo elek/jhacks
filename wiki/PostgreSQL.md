@@ -5,8 +5,8 @@ title               : PostgreSQL
 name                : PostgreSQL 
 layout              : wiki 
 path                : PostgreSQL 
-date                : 2008-02-18 13:56:50 +0100 
-version             : 16 
+date                : 2008-03-13 10:00:37 +0100 
+version             : 17 
 creator             : kocka 
 ---
 ![image](http://hackers.forgeahead.hu/space/PostgreSQL/elephant-64.png)(http://www.postgresql.org/)
@@ -32,5 +32,9 @@ Linkek
 *   GBorg, a PostgreSQL projectek otthona: [http://gborg.postgresql.org/](http://gborg.postgresql.org/)
 *   PostgreSQL Planet [http://planetpostgresql.org/](http://planetpostgresql.org/)
 *   Magyar FAQ: [http://www.postgresql.org/docs/faqs.FAQ_hungarian.html](http://www.postgresql.org/docs/faqs.FAQ_hungarian.html)
+
+Egyéb:
+
+*   [kocka/my2pg](kocka/my2pg.html) [mysql](MySQL.html) -> Postgresql dump converter (házitechnológia)
 
 
