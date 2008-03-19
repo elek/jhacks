@@ -5,8 +5,8 @@ title               : kocka/blazeds-proto
 name                : kocka/blazeds-proto 
 layout              : wiki 
 path                : kocka/blazeds-proto 
-date                : 2008-03-19 16:04:57 +0100 
-version             : 1 
+date                : 2008-03-19 16:05:21 +0100 
+version             : 2 
 creator             : kocka 
 ---
 Egy 'hello world' bonyolultságú alkalmazás [blazeds](../BlazeDS.html) és [spring](../spring.html) backenddel, [flash](../flash.html) klienssel, a kliens [amf](../AMF.html) protokolon kommunikál a szerverrel. Szükséges hozzá: [maven](../maven/maven2.html) és [flex 2 SDK](../flex.html).
