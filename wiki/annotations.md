@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 08:58:49 +0100 
-author              : tvik 
+author              : kocka 
 title               : annotations 
 name                : annotations 
 layout              : wiki 
 path                : annotations 
-date                : 2008-02-06 12:37:09 +0100 
-version             : 10 
+date                : 2008-03-23 09:47:38 +0100 
+version             : 11 
 creator             : kocka 
 ---
 Az annotations uj feature a [java 1.5](java%201.5.html)ben, amivel metainformaciot adhatsz hozza az osztalyokhoz, metodusokhoz, tagvaltozoidhoz, es ezeket egyszeru [reflection](reflection.html) segitsegevel ki is olvashatod.
@@ -36,6 +36,9 @@ A dolog egy érdekessége hogy mekkora hatással lett a frameworkökre a technol
 *   [testNG](testng.html) kezdetektől fogva
 *   [jsr-181](jsr-181.html) [webservices](WebServices.html) annotations
 *   [guice](guice.html) [ioc](ioc.html) framework.
+*   [JPA](JPA.html), [hibernate](Hibernate.html)
+*   Az új [J2EE](j2ee.html) standardban is például [servleteket](servlet_jsp.html) így (is) lehet majd a [webalkalmazásba](webapp.html) beledobni.
+*   vagy bármi, amihez metaadatokat akarhatsz írni a kódba. _(Azért itt ezt valahogy ésszerű keretek közt érdemes tartani, nem akármiért költözött ki a kódból a konfiguráció :) )_
 
 cikkek:
 
