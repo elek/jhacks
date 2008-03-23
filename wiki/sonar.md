@@ -5,13 +5,13 @@ title               : Sonar
 name                : sonar 
 layout              : wiki 
 path                : sonar 
-date                : 2008-03-23 09:33:28 +0100 
-version             : 6 
+date                : 2008-03-23 09:36:40 +0100 
+version             : 7 
 creator             : kocka 
 ---
 [http://sonar.hortis.ch/](http://sonar.hortis.ch/)
 
-Egy aggregátor [checkstyle](checkstyle.html), [pmd](PMD.html), cobertura és surefire elé, valamint a hozzá passzolo [adatbázis](RDBMS.html) frontent [webapp](webapp.html). Alapból [mavennel](maven/maven2.html) muzsikál együt, de [ant](ant.html) projectekre is rá lehet kényszeríteni.
+Egy aggregátor [checkstyle](checkstyle.html), [pmd](PMD.html), cobertura és surefire elé, valamint a hozzá passzolo [adatbázis](RDBMS.html) frontent [webapp](webapp.html). Alapból [mavennel](maven/maven2.html) muzsikál együt, de [ant](ant.html) projectekre is rá lehet kényszeríteni. _(Ilyenkor persze írni kell hozzá egy pom.xml-t mint általában a maven projectekhez és light módban kell futtatni ha a dependency-ket nem töltöttük ki, azaz a tesztek nem futnának és a forrás nem fordulna, ilyesmi)_
 
 A felgyűlt statisztikát időben és pillanatképként is nézhetjük. Szóval hasznos kis cucc...
 
@@ -19,7 +19,7 @@ A dolog szépségei:
 
 *   Nem kell módisítani a pom.xml-t.
 *   A fejlesztő szervezet coding policy-ját fel lehet konfigurálni egy központi helyen, ami mellesleg elég felhasználóbarát is.
-*   Egy biztos helyen([RDBMS](RDBMS.html)) van a QA statisztika, onnan lehet riportolni is
+*   Egy biztos helyen ([adatbázis](RDBMS.html)) van a QA statisztika, onnan lehet riportolni is
 
 A dolog hátulütői:
 
