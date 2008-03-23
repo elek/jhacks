@@ -5,11 +5,13 @@ title               : Action Message Format
 name                : AMF 
 layout              : wiki 
 path                : AMF 
-date                : 2008-03-23 09:58:30 +0100 
-version             : 2 
+date                : 2008-03-23 10:00:40 +0100 
+version             : 3 
 creator             : kocka 
 ---
 Egy protokol amin a [flash](flash.html) runtime kommunikál egy backenddel, állítólag cefet gyorsan. (gyorsan parsolja fel az üzeneteket és kompaktabbak az üzenetek mint pl az [XML](XML.html)).
+
+Streaming iletve polling megoldással (válaszd a neked megfelelőt), [data push](Missing.html)-t is lehet vele csinálni.
 
 Implementációk: 
 
