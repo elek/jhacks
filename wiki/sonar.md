@@ -5,8 +5,8 @@ title               : Sonar
 name                : sonar 
 layout              : wiki 
 path                : sonar 
-date                : 2008-02-19 21:05:08 +0100 
-version             : 5 
+date                : 2008-03-23 09:33:28 +0100 
+version             : 6 
 creator             : kocka 
 ---
 [http://sonar.hortis.ch/](http://sonar.hortis.ch/)
@@ -23,7 +23,7 @@ A dolog szépségei:
 
 A dolog hátulütői:
 
-*   Sajnos az 1.0-ás széria kicsit bétás. A [derby](Derby.html) [adatbázissal](RDBMS.html) elszáll, a [postgresql](PostgreSQL.html)-lel el sem indul, [mysql](MySQL.html)-lel pedig bár megyeget, de rémes hibaüzeneteket dobál setup közben - ami elbizonytalanítja az embert. Nem tudom mit használ perzisztencia rétegként hogy ilyenek vannak.
+*   Sajnos az 1.0-ás széria kicsit bétás. A [derby](Derby.html) [adatbázissal](RDBMS.html) elszáll, a [postgresql](PostgreSQL.html)-lel el sem indul, [mysql](MySQL.html)-lel pedig bár megyeget, de rémes hibaüzeneteket dobál setup közben - ami elbizonytalanítja az embert. Nem tudom mit használ perzisztencia rétegként hogy ilyenek vannak. __az 1.1-es verzió sokkal jobb minőségűnek tűnik, most már stabil is__
 *   [GPL](GPL.html) és [ruby](ruby.html), túrkálja a forráskódot az akinek nincs jobb dolga :(
 
 
