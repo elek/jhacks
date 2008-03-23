@@ -5,14 +5,14 @@ title               : flash
 name                : flash 
 layout              : wiki 
 path                : flash 
-date                : 2008-02-29 10:06:33 +0100 
-version             : 7 
+date                : 2008-03-23 09:55:40 +0100 
+version             : 8 
 creator             : kocka 
 ---
 [java](java.html)s flash fejleszteshez:
 
-*   [red5](red5.html)
-*   open[laszlo](Laszlo.html)
+*   [red5](red5.html) ([RTMP](rtmp.html) szerver)
+*   [openlaszlo](Laszlo.html)
 *   [flex](flex.html)
 *   [blazeds](BlazeDS.html)
 *   [graniteds](http://www.graniteds.org/) (az adobe lifecycle free megfelelője, [spring](spring.html) integrációval többek közt)
@@ -21,6 +21,8 @@ creator             : kocka
 Satöbbi:
 
 *   [Air](AIR.html)
+*   [RTMP](rtmp.html) streaming format.
+*   [amf](AMF.html)
 
 Egyéb:
 
