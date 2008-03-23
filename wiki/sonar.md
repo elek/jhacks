@@ -5,8 +5,8 @@ title               : Sonar
 name                : sonar 
 layout              : wiki 
 path                : sonar 
-date                : 2008-03-23 09:36:40 +0100 
-version             : 7 
+date                : 2008-03-23 09:39:33 +0100 
+version             : 8 
 creator             : kocka 
 ---
 [http://sonar.hortis.ch/](http://sonar.hortis.ch/)
@@ -25,6 +25,7 @@ A dolog hátulütői:
 
 *   Sajnos az 1.0-ás széria kicsit bétás. A [derby](Derby.html) [adatbázissal](RDBMS.html) elszáll, a [postgresql](PostgreSQL.html)-lel el sem indul, [mysql](MySQL.html)-lel pedig bár megyeget, de rémes hibaüzeneteket dobál setup közben - ami elbizonytalanítja az embert. Nem tudom mit használ perzisztencia rétegként hogy ilyenek vannak. __az 1.1-es verzió sokkal jobb minőségűnek tűnik, most már stabil is__
 *   [GPL](GPL.html) és [ruby](ruby.html), túrkálja a forráskódot az akinek nincs jobb dolga :(
+*   Bajai vannak azzal, hogy ha [annotációkat](annotations.html) teszünk metóduson belülre, ez egy dependency hibáiból jön egyébként. A light módban átmegy ezen, csak ilyenkor elég csökkentett információtartalmat szolgáltat.
 
 
 Lásd még: [Continuous Integration](Continuous%20Integration.html), [QALab](qalab.html)
