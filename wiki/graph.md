@@ -5,8 +5,8 @@ title               : Gráf reprezentációk és algoritmusok
 name                : graph 
 layout              : wiki 
 path                : graph 
-date                : 2007-11-27 11:26:35 +0100 
-version             : 5 
+date                : 2008-03-25 13:57:36 +0100 
+version             : 6 
 creator             : kocka 
 ---
 *   [jung](jung.html)
@@ -22,4 +22,12 @@ creator             : kocka
 
 *   [mindmap-ek](mindmap.html)
 
+
+
+
+(Gráf[:url:[http://foo.com/](http://foo.com/)](Missing.html)
+   (Reprezentációk
+      (jung[:url:[http://foo.com/](http://foo.com/)](Missing.html))
+   )
+)
 
