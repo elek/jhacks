@@ -5,8 +5,8 @@ title               : Apache CXF
 name                : cxf 
 layout              : wiki 
 path                : cxf 
-date                : 2008-03-23 10:04:18 +0100 
-version             : 1 
+date                : 2008-03-25 13:44:38 +0100 
+version             : 2 
 creator             : kocka 
 ---
 [http://incubator.apache.org/cxf/](http://incubator.apache.org/cxf/)
