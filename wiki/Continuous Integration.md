@@ -5,8 +5,8 @@ title               : Continuous Integration
 name                : Continuous Integration 
 layout              : wiki 
 path                : Continuous Integration 
-date                : 2008-03-05 10:34:57 +0100 
-version             : 17 
+date                : 2008-03-28 14:58:50 +0100 
+version             : 18 
 creator             : kocka 
 ---
 [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
@@ -50,6 +50,7 @@ Cikkek:
 *   [Introducing continuous integration  ](http://www.javaworld.com/javaworld/jw-06-2007/jw-06-awci.html)
 
 Lasd meg: [XP](XP.html), [qalab](qalab.html) és [sonar](sonar.html)
+
 
 
 
