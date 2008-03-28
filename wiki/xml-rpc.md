@@ -5,8 +5,8 @@ title               : xml-rpc
 name                : xml-rpc 
 layout              : wiki 
 path                : xml-rpc 
-date                : 2007-06-25 11:10:07 +0200 
-version             : 3 
+date                : 2008-03-28 14:55:00 +0100 
+version             : 4 
 creator             : kocka 
 ---
 [http://xml.apache.org/](http://xml.apache.org/)
