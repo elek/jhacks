@@ -5,8 +5,8 @@ title               : Remote Procedure Call
 name                : RPC 
 layout              : wiki 
 path                : RPC 
-date                : 2008-03-28 14:53:12 +0100 
-version             : 8 
+date                : 2008-03-28 15:00:51 +0100 
+version             : 9 
 creator             : kocka 
 ---
 [XML](XML.html) alapuak:
@@ -18,7 +18,7 @@ Egyeb:
 
 *   [rmi](RMI.html)
 *   [corba](CORBA.html) (muzealis)
-*   [rtmp](rtmp.html) ([flash](flash.html) foleg)
+*   [rtmp](rtmp.html), [amf](AMF.html) ([flash](flash.html) foleg)
 
 A tipikus szopas az, amikor valami olyan kornyezetben programozol ahol ezek nem elerhetoek. pl [progress](Progress.html), node hat vannak perverziok.
 
