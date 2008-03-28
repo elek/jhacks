@@ -5,8 +5,8 @@ title               : Action Message Format
 name                : AMF 
 layout              : wiki 
 path                : AMF 
-date                : 2008-03-23 10:00:40 +0100 
-version             : 3 
+date                : 2008-03-28 10:23:29 +0100 
+version             : 4 
 creator             : kocka 
 ---
 Egy protokol amin a [flash](flash.html) runtime kommunikál egy backenddel, állítólag cefet gyorsan. (gyorsan parsolja fel az üzeneteket és kompaktabbak az üzenetek mint pl az [XML](XML.html)).
@@ -19,3 +19,5 @@ Implementációk:
 *   [graniteds](http://www.graniteds.org/)
 
 Lásd még: [kocka/blazeds-proto](kocka/blazeds-proto.html)
+
+
