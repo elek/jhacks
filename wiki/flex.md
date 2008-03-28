@@ -5,13 +5,13 @@ title               : flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-03-28 10:29:35 +0100 
-version             : 15 
+date                : 2008-03-28 14:13:29 +0100 
+version             : 16 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
 
-UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
+UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik, van még egy [payware cucc](http://www.spket.com/download.html) is. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
 
 
 Remoting: Lehet benne sima [web services](WebServices.html) hívásokkal is dolgozni, vagy [XML](XML.html)+[http](HTTP.html) remoting, esetleg [AMF](AMF.html) protokollal. Open Source backendek mögé a [blazeds](BlazeDS.html) és a [graniteds](Missing.html).
