@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 09:09:03 +0100 
-author              : admin 
+author              : kocka 
 title               : RMI 
 name                : RMI 
 layout              : wiki 
 path                : RMI 
-date                : 2006-03-26 01:42:52 +0100 
-version             : 1 
+date                : 2008-03-28 15:00:07 +0100 
+version             : 4 
 creator             : kocka 
 ---
 __Remote Method Invocation__
