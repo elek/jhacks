@@ -5,8 +5,8 @@ title               : teamcity
 name                : teamcity 
 layout              : wiki 
 path                : teamcity 
-date                : 2008-03-12 13:11:24 +0100 
-version             : 3 
+date                : 2008-03-28 14:57:37 +0100 
+version             : 4 
 creator             : kocka 
 ---
 [http://www.jetbrains.com/teamcity/](http://www.jetbrains.com/teamcity/)
