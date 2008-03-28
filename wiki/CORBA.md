@@ -5,8 +5,8 @@ title               : CORBA
 name                : CORBA 
 layout              : wiki 
 path                : CORBA 
-date                : 2007-10-05 17:20:25 +0200 
-version             : 4 
+date                : 2008-03-28 15:01:33 +0100 
+version             : 5 
 creator             : kocka 
 ---
 __Component Request Broker Architecture__
