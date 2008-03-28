@@ -5,8 +5,8 @@ title               : Remote Procedure Call
 name                : RPC 
 layout              : wiki 
 path                : RPC 
-date                : 2007-10-25 16:08:52 +0200 
-version             : 7 
+date                : 2008-03-28 14:53:12 +0100 
+version             : 8 
 creator             : kocka 
 ---
 [XML](XML.html) alapuak:
@@ -21,5 +21,7 @@ Egyeb:
 *   [rtmp](rtmp.html) ([flash](flash.html) foleg)
 
 A tipikus szopas az, amikor valami olyan kornyezetben programozol ahol ezek nem elerhetoek. pl [progress](Progress.html), node hat vannak perverziok.
+
+
 
 
