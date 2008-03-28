@@ -5,8 +5,8 @@ title               : PostgreSQL
 name                : PostgreSQL 
 layout              : wiki 
 path                : PostgreSQL 
-date                : 2008-03-13 10:00:37 +0100 
-version             : 17 
+date                : 2008-03-28 14:56:37 +0100 
+version             : 18 
 creator             : kocka 
 ---
 ![image](http://hackers.forgeahead.hu/space/PostgreSQL/elephant-64.png)(http://www.postgresql.org/)
