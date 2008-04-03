@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-30 12:04:29 +0100 
-author              : kocka 
+author              : karenin 
 title               : OSGi 
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2007-12-19 13:40:24 +0100 
-version             : 9 
+date                : 2008-04-03 19:58:07 +0200 
+version             : 10 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -17,7 +17,7 @@ Fene se tudja miben mas mint a tobbi (valoszinuleg semmiben :), de van tonna imp
 
 BTW én inkább [Module System](Module%20System.html)nek hívnám, mint IoC Frameworknek (persze modulartitás nincs is nagyon IoC nélkül). 
 
-Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-277.html)-et nyomja (ami nem pont ugyanaz, de van elég nagy átfedés). Ezért gyorsan rá is üttettek egy JSR-277-es pecsétet a kész specifikácóra. (lásd még [JCP](jcp.html))
+Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-277.html)-et nyomja (ami nem pont ugyanaz, de van elég nagy átfedés). Ezért gyorsan rá is üttettek egy JSR-291-es pecsétet a kész specifikácóra. (lásd még [JCP](jcp.html))
 
 # Implmentációk
 
