@@ -5,8 +5,8 @@ title               : Flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-03-28 14:49:38 +0100 
-version             : 18 
+date                : 2008-04-05 22:29:57 +0200 
+version             : 19 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
@@ -21,6 +21,7 @@ Van még egy [payware cucc](http://www.spket.com/download.html) is, ez támogatj
 # Features
 
 Remoting: Lehet benne sima [web services](WebServices.html) hívásokkal is dolgozni, vagy [XML](XML.html)+[http](HTTP.html) remoting, esetleg [AMF](AMF.html) protokollal. Open Source backendek mögé a [blazeds](BlazeDS.html) és a [graniteds](Missing.html).
+[data binding](data%20binding.html): kapcsos zárójelek közé írt propertynevekkel egyszerűen. Ezzel érdemes eljátszogatni, mert mókás :)
 
 # Konkurencia
 
