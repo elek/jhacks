@@ -5,15 +5,15 @@ title               : Adobe Integrated Runtime
 name                : AIR 
 layout              : wiki 
 path                : AIR 
-date                : 2008-03-01 21:08:23 +0100 
-version             : 4 
+date                : 2008-04-06 18:21:31 +0200 
+version             : 5 
 creator             : kocka 
 ---
 [http://labs.adobe.com/technologies/air](http://labs.adobe.com/technologies/air)
 
 Az [adobe](adobe.html) [offline webapp](offline%20webapp.html) rendszere, ami főleg [flash](flash.html) alapú alkalmazásokra van kihegyezve. Használható [flex](flex.html)-szel is.
 
-Sajnos egyelőre csak [windows](Windows.html) platformra érhető el. A [Linuxos](Linux.html) kliens zárt körű béta-tesztelése is [folyamatban](http://www.jamesward.org/wordpress/2008/02/20/adobe-air-on-linux-pre-beta-testers-needed/).
+Sajnos egyelőre csak [windows](Windows.html) platformra érhető el stabil verzió. A [Linuxos](Linux.html) kliens alfa verziója [letölthető](http://labs.adobe.com/downloads/air_linux.html).
 
 Linkek:
 
