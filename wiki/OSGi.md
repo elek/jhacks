@@ -5,8 +5,8 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-03 19:58:07 +0200 
-version             : 10 
+date                : 2008-04-06 12:25:36 +0200 
+version             : 11 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -22,7 +22,7 @@ Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-27
 # Implmentációk
 
 
-*   Knopperfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
+*   Knopflerfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
 *   [Equinox](Missing.html) ([eclipse](Eclipse.html))
 *   [Felix](Felix.html) ([apache](ASF.html))
 
