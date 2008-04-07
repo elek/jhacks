@@ -5,8 +5,8 @@ title               : version control
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-04-07 18:07:35 +0200 
-version             : 10 
+date                : 2008-04-07 18:29:37 +0200 
+version             : 11 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
