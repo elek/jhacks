@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-14 11:54:36 +0100 
-author              : karenin 
+author              : kocka 
 title               : subversion 
 name                : subversion 
 layout              : wiki 
 path                : subversion 
-date                : 2007-06-07 10:31:15 +0200 
-version             : 10 
+date                : 2008-04-07 18:08:28 +0200 
+version             : 11 
 creator             : kocka 
 ---
 [http://subversion.tigris.org/](http://subversion.tigris.org/)
