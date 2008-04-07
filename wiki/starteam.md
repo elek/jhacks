@@ -5,8 +5,8 @@ title               : starteam
 name                : starteam 
 layout              : wiki 
 path                : starteam 
-date                : 2006-12-19 15:27:35 +0100 
-version             : 3 
+date                : 2008-04-07 18:09:58 +0200 
+version             : 4 
 creator             : kocka 
 ---
 A Borland [version control](version%20control.html) termeke (talan csak volt, de nem kar erte ha igy van).
