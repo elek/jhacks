@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-12-14 11:54:36 +0100 
-author              : kocka 
+author              : karenin 
 title               : subversion 
 name                : subversion 
 layout              : wiki 
 path                : subversion 
-date                : 2008-04-07 18:08:28 +0200 
-version             : 11 
+date                : 2008-04-08 00:31:41 +0200 
+version             : 12 
 creator             : kocka 
 ---
 [http://subversion.tigris.org/](http://subversion.tigris.org/)
@@ -16,7 +16,7 @@ Modern [version control](version%20control.html) eszkoz a [CVS](CVS.html) rendsz
 [IDE](IDE.html) support:
 
 *   [eclipse](Eclipse.html) [plugin](plugin.html): [subclipse](subclipse.html) vagy [subversive](Missing.html).
-*   [netbeans](Netbeans.html): 5.5 beta 2-hez alapbol van plugin (Update Managerrel kell feltenni)
+*   [netbeans](Netbeans.html): a mostani verzók alapból támogatják
 
 Pár hasznos cucc :
 
