@@ -5,8 +5,8 @@ title               : Flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-04-05 22:29:57 +0200 
-version             : 19 
+date                : 2008-04-07 10:26:35 +0200 
+version             : 20 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
@@ -27,8 +27,14 @@ Remoting: Lehet benne sima [web services](WebServices.html) hívásokkal is dolg
 
 Hasonló termék az [openlaszlo](Laszlo.html), valamennyire az [XML](XML.html) hierarchia is hasnolít, csak ott valami [javascript](javascript.html)-szerű nyelv van, itt meg actionscript ugye. Valamint a flex-ben nem találom (bár nem is hiányzik egyelőre) a proxyzott webapp felállást.
 
+# Tesztelés
 
-Linkek:
+[Teszt](test.html) megoldások hozzá:
+
+*   [airRunner](http://airrunner.org)
+*   [flexunit](http://code.google.com/p/as3flexunitlib)
+
+# Linkek
 
 *   [Buildelés Mavennel](http://techpolesen.blogspot.com/2007/05/flash-for-java-programmers-lesson-1.html) Mókás kis cucc, sajna a kommentekkel egyet kell értsek: mocsok lassú. Ez van :) [maven/maven2](maven/maven2.html) plugin [itt](http://mvnrepository.com/artifact/net.israfil.mojo/maven-flex2-plugin)
 *   [Flex 2.0 @ Work in combination with Spring and Hibernate](http://www.parleys.com/display/PARLEYS/Flex+2.0+at+Work+in+combination+with+Spring+and+Hibernate?showComments=true)
