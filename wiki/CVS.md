@@ -5,8 +5,8 @@ title               : CVS
 name                : CVS 
 layout              : wiki 
 path                : CVS 
-date                : 2006-12-13 15:34:52 +0100 
-version             : 5 
+date                : 2008-04-07 18:08:02 +0200 
+version             : 6 
 creator             : kocka 
 ---
 __Concurent Versions System.__
