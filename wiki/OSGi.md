@@ -5,8 +5,8 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-07 21:58:50 +0200 
-version             : 12 
+date                : 2008-04-07 21:59:56 +0200 
+version             : 13 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -31,7 +31,7 @@ Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-27
 *   OpenSource implementációk [összehasonlítás](http://www.pierocampanelli.info/articles/2007/01/22/status-of-opensource-osgi-containers)
 *   [OSGi, the good the bad the ugly](http://www.parleys.com/display/PARLEYS/OSGi%2C+the+good+the+bad+the+ugly) (prezentacio)
 *   [Spring OSGi](http://www.parleys.com/display/PARLEYS/Spring+OSGi) (prezentacio)
-*   [Getting Started with OSGi](http://live.eclipse.org/node/407)
+*   [Getting Started with OSGi](http://live.eclipse.org/node/407) (prezentációk - [eclipse](Eclipse.html))
 
 # OSGit használó rendszerek
 
