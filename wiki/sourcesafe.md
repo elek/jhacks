@@ -5,8 +5,8 @@ title               : Microsoft Sourcesafe
 name                : sourcesafe 
 layout              : wiki 
 path                : sourcesafe 
-date                : 2007-12-07 11:15:36 +0100 
-version             : 3 
+date                : 2008-04-07 18:08:51 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Gyorstalpaló [Java](java.html) hegesztőknek, akik valami balszerencse folytán VSS-re kényszerültek. A VSS windows (SMB) share-eken keresztül dolgozik. Megoldható hogy [linuxon](Missing.html) is menjen a commandline kliens kicsi wine-vel és némi shell scriptinggel, de nagyon fáj :(
