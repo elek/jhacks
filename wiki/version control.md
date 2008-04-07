@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-09-26 23:10:44 +0200 
-author              : tvik 
+author              : kocka 
 title               : version control 
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-01-16 13:14:42 +0100 
-version             : 9 
+date                : 2008-04-07 18:07:35 +0200 
+version             : 10 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -21,5 +21,8 @@ Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
 *   meg sok egyeb erdeksseg, mint a [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper (commercial), meg az ujabban általa kifejlesztett [git](git.html)
 
 És [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
+
+
+
 
 
