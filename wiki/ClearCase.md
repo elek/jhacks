@@ -5,8 +5,8 @@ title               : ClearCase
 name                : ClearCase 
 layout              : wiki 
 path                : ClearCase 
-date                : 2006-12-19 15:20:05 +0100 
-version             : 2 
+date                : 2008-04-07 18:09:20 +0200 
+version             : 3 
 creator             : kocka 
 ---
 Egy verzio koveto rendszer, sajatos erdekessegekkel (ami a [CVS](CVS.html) felhasznalokat tobbnyire teljesen padlora vagja). Fizetos. Eros versenytarsa lehet az [SVN](svn.html), a ClearCase elonye elsosorban a tool integracio, bar megintcsak foleg [IBM](IBM.html) termekeket integraltak hozza.
