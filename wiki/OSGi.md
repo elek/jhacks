@@ -1,30 +1,30 @@
 ---
 creationDate        : 2005-01-30 12:04:29 +0100 
-author              : kocka 
+author              : karenin 
 title               : OSGi 
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-07 21:59:56 +0200 
-version             : 13 
+date                : 2008-04-08 00:26:25 +0200 
+version             : 14 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
 
 Yet Another [IOC](ioc.html) Framework
 
-Fene se tudja miben mas mint a tobbi (valoszinuleg semmiben :), de van tonna implementacioja, pl az [eclipse](Eclipse.html) Equinox project, amire épülnek az Eclipse modulok.
+Az egyik legpatinásabb Java alapú [Module System](Module%20System.html). A modulokat Bundle-nek hívja, ami egy Jar file, amiben egy Manifest-ben lehet megmondani, hogy mik azok a szolgáltatások/osztályok, amiket a külső szemlélő használhat belőle, és mik azok, amik csak belső implementációk. A moduluk életciklusa szabályozva van, és futás közben állíthatóak le és indíthatóak újra a modulok. Ezekből már sejteni lehet, hogy egy OSGi framework egyáltalán nem triviális Class Loader-ekből áll, viszont az eredmény nagyon egyszerűen és könnyen használható rendszert adhat. 
 
-BTW én inkább [Module System](Module%20System.html)nek hívnám, mint IoC Frameworknek (persze modulartitás nincs is nagyon IoC nélkül). 
+Elég széleskörben elterjedt, pl. az [Eclipse](Eclipse.html) is erre épül, de újabban a [Spring](spring.html) alapjaiba is egyre jobban beszivárog.
 
-Mostanában elég durcásak a készítői, mert a Sun inkább a [JSR-277](JSR-277.html)-et nyomja (ami nem pont ugyanaz, de van elég nagy átfedés). Ezért gyorsan rá is üttettek egy JSR-291-es pecsétet a kész specifikácóra. (lásd még [JCP](jcp.html))
+Mostanában elég durcásak az OSGi hívők, mert a Sun inkább a [JSR-277](JSR-277.html)-et nyomja (ami nem pont ugyanaz, de van elég nagy átfedés). Ezért gyorsan rá is üttettek egy JSR-291-es pecsétet a kész specifikácóra. (lásd még [JCP](jcp.html))
 
 # Implmentációk
 
 
 *   Knopflerfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
-*   [Equinox](Missing.html) ([eclipse](Eclipse.html))
-*   [Felix](Felix.html) ([apache](ASF.html))
+*   Equinox, amire az [eclipse](Eclipse.html) is épül, de pl. szerver oldali verziója is van.
+*   Felix az [apache](ASF.html) verziója
 
 # Linkek
 
