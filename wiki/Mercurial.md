@@ -5,8 +5,8 @@ title               : Mercurial
 name                : Mercurial 
 layout              : wiki 
 path                : Mercurial 
-date                : 2008-01-16 21:54:38 +0100 
-version             : 2 
+date                : 2008-04-07 18:10:58 +0200 
+version             : 3 
 creator             : tvik 
 ---
 [http://www.selenic.com/mercurial/](http://www.selenic.com/mercurial/)
