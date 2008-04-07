@@ -5,13 +5,11 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-08 00:26:25 +0200 
-version             : 14 
+date                : 2008-04-08 00:42:31 +0200 
+version             : 15 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
-
-Yet Another [IOC](ioc.html) Framework
 
 Az egyik legpatinásabb Java alapú [Module System](Module%20System.html). A modulokat Bundle-nek hívja, ami egy Jar file, amiben egy Manifest-ben lehet megmondani, hogy mik azok a szolgáltatások/osztályok, amiket a külső szemlélő használhat belőle, és mik azok, amik csak belső implementációk. A moduluk életciklusa szabályozva van, és futás közben állíthatóak le és indíthatóak újra a modulok. Ezekből már sejteni lehet, hogy egy OSGi framework egyáltalán nem triviális Class Loader-ekből áll, viszont az eredmény nagyon egyszerűen és könnyen használható rendszert adhat. 
 
