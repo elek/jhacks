@@ -5,8 +5,8 @@ title               : Flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-04-12 23:50:08 +0200 
-version             : 21 
+date                : 2008-04-13 01:21:27 +0200 
+version             : 22 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
@@ -37,6 +37,7 @@ Hasonló termék az [openlaszlo](Laszlo.html), valamennyire az [XML](XML.html) h
 # Linkek
 
 *   [Buildelés Mavennel](http://techpolesen.blogspot.com/2007/05/flash-for-java-programmers-lesson-1.html) Mókás kis cucc, sajna a kommentekkel egyet kell értsek: mocsok lassú. Ez van :) [maven/maven2](maven/maven2.html) plugin [itt](http://mvnrepository.com/artifact/net.israfil.mojo/maven-flex2-plugin)
+*   Flex 3-hoz [maven](maven/maven2.html) plugin: [itt](http://code.google.com/p/flex-mojos/)
 *   [Flex 2.0 @ Work in combination with Spring and Hibernate](http://www.parleys.com/display/PARLEYS/Flex+2.0+at+Work+in+combination+with+Spring+and+Hibernate?showComments=true)
 *   [Video Tutorial: Creating an expressive application using Flex, Hibernate, and XFire](http://www.adobe.com/devnet/flex/articles/flexjava.html)
 *   [flex.org](http://flex.org/) Flexes komponensek, doksik, ilyesmi...
