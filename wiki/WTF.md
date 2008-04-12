@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-04-03 14:09:03 +0200 
-author              : admin 
+author              : kocka 
 title               : WTF 
 name                : WTF 
 layout              : wiki 
 path                : WTF 
-date                : 2006-03-26 01:43:00 +0100 
-version             : 1 
+date                : 2008-04-13 00:41:11 +0200 
+version             : 9 
 creator             : kocka 
 ---
 ![image](WTF/hirig.gif)
@@ -45,3 +45,8 @@ __Szerzoijog problemas dolgokat ne postoljatok!__
 Lasd meg: [Refactoring](Refactoring.html)
 
 A programozasi perverziok nyelv es kornyezetfuggetlen tarhaza a [The Daily WTF](http://thedailywtf.com/)
+
+
+
+
+
