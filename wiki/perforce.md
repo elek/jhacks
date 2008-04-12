@@ -5,15 +5,15 @@ title               : perforce
 name                : perforce 
 layout              : wiki 
 path                : perforce 
-date                : 2008-04-07 18:10:23 +0200 
-version             : 11 
+date                : 2008-04-13 00:38:16 +0200 
+version             : 12 
 creator             : kocka 
 ---
 [http://www.perforce.com/](http://www.perforce.com/)
 
-Egy [version control](version%20control.html) rendszer, multiplatform. Nem szabad, de [free](Open%20Source.html) szoftverekhez ingyen lehet használni. Van hozzá [eclipse](Eclipse.html) [plugin](http://www.perforce.com/perforce/products/p4wsad.html), command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.
+Egy [perverzió kezelő](version%20control.html) rendszer, multiplatform. Nem szabad, de [free](Open%20Source.html) szoftverekhez ingyen lehet használni. Van hozzá [eclipse](Eclipse.html) [plugin](http://www.perforce.com/perforce/products/p4wsad.html), command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.
 
-*   Érdekes baleset vele például egy directory letörlése, mert ahhoz a workspace-det kell módosítani úgy, hogy az ténzleg törölje. Vicces.
+*   Érdekes baleset vele például egy directory letörlése, mert ahhoz a workspace-det kell módosítani úgy, hogy az tényleg törölje. Vicces.
 *   Összehasonlításként az sync (az svn up megfelelője) kb ugyanolyan fürge mint a svn-ben, viszont ezerszer gyorsabb mint a VSS. Ez most így tudománytalanul...
 *   Tréfás dolog a kliens workspace is. A p4 nyilvántartja hogy ki szedte le a forráskódot és melyik gépről, és csak arról a gépről engedi újra azzal a kliens workspace névvel sync-elni. Ha esetleg letörölted a teljes forrásfát, na akkor egy 'p4 client -d -f myworkspace' paranccsal lehet rendet tenni, ami letörli azt amit már kézzel amúgy is :) Az is hasonló eset, amikor DHCP szerver vagy a vicces rendszergazda új IP címet vagy gépnevet oszt ki, na akkor is bukod a kliensedet teljesen.
 *   Kicsit sokmindent nem lehet megcsinálni az egyébként tréfás grafikus kliensekről, például a directory törlést sehogy sem sikerült...
