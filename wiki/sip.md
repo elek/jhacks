@@ -5,8 +5,8 @@ title               : sip
 name                : sip 
 layout              : wiki 
 path                : sip 
-date                : 2008-02-27 17:34:40 +0100 
-version             : 5 
+date                : 2008-04-15 19:09:45 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Session initiation protocol
@@ -19,5 +19,6 @@ Lasd: [BEA](bea.html) [Weblogic](weblogic.html), [IBM](IBM.html) [Websphere](Web
 [Open Source](Open%20Source.html):
 
 *   [http://www.iptel.org/ser/](http://www.iptel.org/ser/) [GPL](GPL.html)
-*   [http://www.asterisk.org/](http://www.asterisk.org/)
+*   [http://www.asterisk.org/](http://www.asterisk.org/) Nem Java-s, viszont aboszolút ural. Jóval többet tud mint egy egyszerű SIP szever. Gyakorlatilag komplett telefonközpont.
 *   [https://sailfin.dev.java.net/](https://sailfin.dev.java.net/) [Glassfish](glassfish.html)be integrált SIP container, amit az Ericsson tol.
+*   [https://sip-servlets.dev.java.net](https://sip-servlets.dev.java.net) szintén Java alapú, elvileg bármilyen servlet konténerbe berakható
