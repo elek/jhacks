@@ -5,8 +5,8 @@ title               : OSGi
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-08 00:42:31 +0200 
-version             : 15 
+date                : 2008-04-15 17:24:30 +0200 
+version             : 16 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -20,7 +20,7 @@ Mostanában elég durcásak az OSGi hívők, mert a Sun inkább a [JSR-277](JSR-
 # Implmentációk
 
 
-*   Knopflerfish [http://www.knopflerfish.org/](http://www.knopflerfish.org/)
+*   [Knopflerfish](Knopflerfish.html) 
 *   Equinox, amire az [eclipse](Eclipse.html) is épül, de pl. szerver oldali verziója is van.
 *   Felix az [apache](ASF.html) verziója
 
