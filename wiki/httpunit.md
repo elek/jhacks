@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-08-29 15:06:19 +0200 
-author              : kocka 
+author              : karenin 
 title               : httpunit 
 name                : httpunit 
 layout              : wiki 
 path                : httpunit 
-date                : 2006-08-30 14:47:27 +0200 
-version             : 2 
+date                : 2008-04-16 21:08:40 +0200 
+version             : 3 
 creator             : kocka 
 ---
 ![image](http://httpunit.sourceforge.net/doc/images/HttpUnit.jpg)(http://httpunit.sourceforge.net/)
@@ -16,3 +16,5 @@ creator             : kocka
 Szoval amit nem lehet tesztelni amugy, azt tobbnyire httpunittal sem :( sajnos.
 
 [Webapp](webapp.html) [functional testing](functional%20testing.html)hez a leggyorsabban osszedobhato, de sajnos foleg a mai [ajax](ajax.html)os idokben egyre nehezebben bevetheto eszkoz. Meg kodolni is annyit kell mint allat.
+
+PS: én még nem láttam működni, de állítólag a mostani verzók már az Ajaxos alkalmazásokat is lazán tesztelik a [Rhino](Rhino.html) [JavaScript](javascript.html) engine segítségével. Pl. [GWT](GWT.html) generálta obfuszkált js-sel is megbírkózik.
