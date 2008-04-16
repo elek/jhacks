@@ -5,8 +5,8 @@ title               : Rhino
 name                : Rhino 
 layout              : wiki 
 path                : Rhino 
-date                : 2008-04-17 00:21:26 +0200 
-version             : 2 
+date                : 2008-04-17 00:21:53 +0200 
+version             : 3 
 creator             : karenin 
 ---
 [http://www.mozilla.org/rhino/](http://www.mozilla.org/rhino/)
@@ -19,4 +19,4 @@ A [java 1.6](java%201.6.html)-óta a [Scripting api](Scripting%20API.html)-hoz t
 
 Linkek:
 
-*   [http://www.infoq.com/interviews/szegedi-rhino](Attila Szegedi Discusses Rhino (InfoQ))
+*   [Attila Szegedi Discusses Rhino (InfoQ)](http://www.infoq.com/interviews/szegedi-rhino)
