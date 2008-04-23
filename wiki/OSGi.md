@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-01-30 12:04:29 +0100 
-author              : karenin 
+author              : kocka 
 title               : OSGi 
 name                : OSGi 
 layout              : wiki 
 path                : OSGi 
-date                : 2008-04-15 17:24:30 +0200 
-version             : 16 
+date                : 2008-04-23 18:30:23 +0200 
+version             : 17 
 creator             : kocka 
 ---
 [http://www.osgi.org/](http://www.osgi.org/)
@@ -30,6 +30,7 @@ Mostanában elég durcásak az OSGi hívők, mert a Sun inkább a [JSR-277](JSR-
 *   [OSGi, the good the bad the ugly](http://www.parleys.com/display/PARLEYS/OSGi%2C+the+good+the+bad+the+ugly) (prezentacio)
 *   [Spring OSGi](http://www.parleys.com/display/PARLEYS/Spring+OSGi) (prezentacio)
 *   [Getting Started with OSGi](http://live.eclipse.org/node/407) (prezentációk - [eclipse](Eclipse.html))
+*   [könyv](http://neilbartlett.name/blog/osgibook/)
 
 # OSGit használó rendszerek
 
