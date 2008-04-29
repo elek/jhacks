@@ -5,18 +5,19 @@ title               : Flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-04-13 01:21:27 +0200 
-version             : 22 
+date                : 2008-04-29 17:39:44 +0200 
+version             : 23 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
 
 # [IDE](IDE.html) support
 
-UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
+Választási lehetőségek:
 
-
-Van még egy [payware cucc](http://www.spket.com/download.html) is, ez támogatja az [openalaszlot](Laszlo.html) is.
+*   UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
+*   Van még egy [payware cucc](http://www.spket.com/download.html) is, ez támogatja az [openalaszlot](Laszlo.html) is.
+*   [kocka/flexclipse](kocka/flexclipse.html) by [kocka](kocka.html) - szóval csak bátraknak :) teljesen minimalista
 
 # Features
 
