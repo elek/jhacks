@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-04-08 11:16:34 +0200 
-version             : 31 
+date                : 2008-04-29 17:45:36 +0200 
+version             : 32 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -34,6 +34,7 @@ __Magyar fejlesztők angolul__:
 
 __Magyar__:
 
+*   [C és Java](http://cesjava.freeblog.hu/) By Tajti Ákos (fejtőrők)
 *   [java technics](http://jtechnics.anzix.net/) ([karenin](karenin.html))
 *   [midori](http://www.midori.hu/en/blog_hu.html)
 *   [joeblog](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
