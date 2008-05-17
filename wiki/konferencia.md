@@ -5,8 +5,8 @@ title               : javaval kapcsolatos konferenciák
 name                : konferencia 
 layout              : wiki 
 path                : konferencia 
-date                : 2008-03-25 15:28:54 +0100 
-version             : 4 
+date                : 2008-05-17 10:36:58 +0200 
+version             : 5 
 creator             : kocka 
 ---
 ## Hazai
@@ -24,7 +24,7 @@ creator             : kocka
 
 ## Ámerika
 
-*   JavaOne
+*   [JavaOne](JavaOne.html)
 *   EclipseCon
 
 [TODO](TODO.html): kicsit kevésbé hiányos lista :)
