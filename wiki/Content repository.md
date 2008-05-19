@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-03-28 23:37:36 +0200 
-author              : kocka 
+author              : tvik 
 title               : Content repository 
 name                : Content repository 
 layout              : wiki 
 path                : Content repository 
-date                : 2007-12-22 15:58:11 +0100 
-version             : 23 
+date                : 2008-05-19 14:30:10 +0200 
+version             : 24 
 creator             : kocka 
 ---
 Tartalom kezelő rendszer - magyarul. Leginkab ugy nez ki mint egy [XML](XML.html) adatbazis, de talan azert nem annyira rossz :) Az adatokat egyszeru [XML](XML.html) szeru faban tarthatod, lekerdezhetsz [xpath](XPath.html) vagy [sql](SQL.html)-szeru nyelven.
@@ -19,7 +19,7 @@ Implementaciok:
 
 *   [Jackrabbit](http://incubator.apache.org/jackrabbit/) 
 *   [eXo Platform](http://www.exoplatform.org) - Portlet Container, JCR, CMS, minden egyben.
-*   [alfresco](http://www.alfresco.org/)
+*   [alfresco](http://www.alfresco.org/) Pontosabban az Alfresco nem egy JCR implementáció, hanem egy komplett vállalati szintű Content Management System a szó általánosabb értelmében, ami többek között biztosít JCR interfészt is a repository-hoz.
 
 Erdekes utility [spring](spring.html) felhasznaloknak a [springmodules](https://springmodules.dev.java.net/docs/reference/0.6/html_single/#jcr) jcr csomagja, ami [hibernate](Hibernate.html)-hoz hasonlo felhasznalast tesz lehetove.
 
