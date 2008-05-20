@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-04-29 17:45:36 +0200 
-version             : 32 
+date                : 2008-05-20 09:24:58 +0200 
+version             : 33 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -30,7 +30,7 @@ __Magyar fejlesztők angolul__:
 *   [http://jcrpg.blogspot.com/](http://jcrpg.blogspot.com/) ([kanni_baa](kanni_baa.html) auf english)
 *   [http://freemarker.blogspot.com/](http://freemarker.blogspot.com/) magyarok angolul, a [freemarker](FreeMarker.html)es arcoktol
 *   [blog::o->lok](http://blog-o-lok.blogspot.com/) (Srágli Attila)
-
+*   [http://constc.blogspot.com/](http://constc.blogspot.com/) (Szegedi Attila ([rhino](Rhino.html)))
 
 __Magyar__:
 
