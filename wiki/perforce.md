@@ -5,8 +5,8 @@ title               : perforce
 name                : perforce 
 layout              : wiki 
 path                : perforce 
-date                : 2008-04-13 00:38:45 +0200 
-version             : 13 
+date                : 2008-05-20 18:52:40 +0200 
+version             : 14 
 creator             : kocka 
 ---
 [http://www.perforce.com/](http://www.perforce.com/)
@@ -24,5 +24,12 @@ Egy [perverzió kezelő](version%20control.html) rendszer, multiplatform. Nem sz
 Szóval mindent összevetve, elég érdekes dolog, és nem túl szórakoztató hosszútávon. Aki mégis a kijárt utat akarja járni, az talán jobban jár a [subversion](subversion.html)nal :)
 
 Talán leginkább a [ClearCase](ClearCase.html) hasonlít rá. - az se volt soha a szivem csücske :-)
+
+
+Hova ne menj dolgonzi, ha el akarod kerülni:
+
+*   [google](http://versioncontrolblog.com/2006/12/03/perforce-as-the-version-control-system-at-google/) :-((( ez van
+*   morgan stanley, ez itthon
+*   többek közt...
 
 
