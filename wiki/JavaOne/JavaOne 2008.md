@@ -5,8 +5,8 @@ title               : JavaOne/JavaOne 2008
 name                : JavaOne/JavaOne 2008 
 layout              : wiki 
 path                : JavaOne/JavaOne 2008 
-date                : 2008-05-17 10:42:42 +0200 
-version             : 1 
+date                : 2008-05-29 14:33:55 +0200 
+version             : 2 
 creator             : kocka 
 ---
 (copy-paste)
@@ -25,3 +25,4 @@ creator             : kocka
 # Linkek
 
 *   [http://blogs.sun.com/j1live/](http://blogs.sun.com/j1live/) - élő közvetítés
+*   [prezentációk](http://developers.sun.com/learning/javaoneonline/j1online.jsp?track=coolstuff&yr=2008)
