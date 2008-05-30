@@ -5,8 +5,8 @@ title               : version control
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-05-30 15:05:13 +0200 
-version             : 13 
+date                : 2008-05-30 15:06:50 +0200 
+version             : 14 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -28,6 +28,7 @@ Linkek:
 
 *   [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
 *   Mercurial, Git, Bazaar összehasonlítás: [http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/](http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/)
+*   Egy másik Mercurial, Git, Bazar összehasonlítás: [http://www.infoq.com/articles/dvcs-guide](http://www.infoq.com/articles/dvcs-guide) 
 
 
 
