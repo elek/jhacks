@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-09-26 23:10:44 +0200 
-author              : kocka 
+author              : karenin 
 title               : version control 
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-04-07 18:29:37 +0200 
-version             : 11 
+date                : 2008-05-30 15:03:35 +0200 
+version             : 12 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -17,10 +17,17 @@ Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
 *   [IBM](IBM.html) [Rational](Rational.html) [Clearcase](ClearCase.html), jehova ovjon tole
 *   [borland](borland.html) [starteam](starteam.html), csak hogy a clearcasenel is emlitsunk rosszabbat :-D
 *   [perforce](perforce.html) a legcustomabb custom custom, nem tudom mivel tud tobbet a [subversion](subversion.html)nal, de mindent mashogy nevez
-*   [Mercurial](Mercurial.html) cross-platform, free, elosztott. Mostanában a Sun tér át rá masszívan CVS-ről.
-*   meg sok egyeb erdeksseg, mint a [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper (commercial), meg az ujabban általa kifejlesztett [git](git.html)
 
-És [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
+új versenyzők elosztott címszó alatt:
+
+*   [Mercurial](Mercurial.html) cross-platform, free, elosztott. Mostanában a Sun tér át rá masszívan CVS-ről. 
+*   [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper (commercial) helyett Linus által kifejlesztett [git](git.html)
+*   Bazzar, amit az Ubuntu (Canonical) használ
+
+Linkek: 
+
+*   [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
+*   Mercurial, Git, Bazaar összehasonlítás: [http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/](http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/)
 
 
 
