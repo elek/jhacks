@@ -5,8 +5,8 @@ title               : version control
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-05-30 15:03:35 +0200 
-version             : 12 
+date                : 2008-05-30 15:05:13 +0200 
+version             : 13 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -22,7 +22,7 @@ Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
 
 *   [Mercurial](Mercurial.html) cross-platform, free, elosztott. Mostanában a Sun tér át rá masszívan CVS-ről. 
 *   [Linux](Linux.html) fejleszteseben regebben hasznalt bitkeeper (commercial) helyett Linus által kifejlesztett [git](git.html)
-*   Bazzar, amit az Ubuntu (Canonical) használ
+*   Bazaar, amit az Ubuntu (Canonical) használ
 
 Linkek: 
 
