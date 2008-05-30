@@ -5,8 +5,8 @@ title               : Flex
 name                : flex 
 layout              : wiki 
 path                : flex 
-date                : 2008-04-29 17:39:44 +0200 
-version             : 23 
+date                : 2008-05-30 14:23:07 +0200 
+version             : 24 
 creator             : kocka 
 ---
 Egy adobe (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
@@ -42,7 +42,8 @@ Hasonló termék az [openlaszlo](Laszlo.html), valamennyire az [XML](XML.html) h
 *   [Flex 2.0 @ Work in combination with Spring and Hibernate](http://www.parleys.com/display/PARLEYS/Flex+2.0+at+Work+in+combination+with+Spring+and+Hibernate?showComments=true)
 *   [Video Tutorial: Creating an expressive application using Flex, Hibernate, and XFire](http://www.adobe.com/devnet/flex/articles/flexjava.html)
 *   [flex.org](http://flex.org/) Flexes komponensek, doksik, ilyesmi...
-*   [Rich Text Editor](http://weblogs.macromedia.com/mc/archives/2006/09/disclosable_con_1.cfm)  olyasmi mint az FCKEditor javascriptben.   
+*   [Rich Text Editor](http://weblogs.macromedia.com/mc/archives/2006/09/disclosable_con_1.cfm)  olyasmi mint az FCKEditor javascriptben.
+*   [Top 5 Ways to Reduce Flex Application Startup Time](http://www.infoq.com/news/2008/05/flex-startup-time)
 *   [maven](maven.html) repo hozza: [flex mojo](http://flex-mojos.googlecode.com/svn/trunk/repository/)
 
 
