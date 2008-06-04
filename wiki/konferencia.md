@@ -1,12 +1,12 @@
 ---
 creationDate        : 2007-10-02 23:03:15 +0200 
-author              : kocka 
+author              : tvik 
 title               : javaval kapcsolatos konferenciák 
 name                : konferencia 
 layout              : wiki 
 path                : konferencia 
-date                : 2008-05-17 10:36:58 +0200 
-version             : 5 
+date                : 2008-06-04 17:28:36 +0200 
+version             : 6 
 creator             : kocka 
 ---
 ## Hazai
@@ -16,7 +16,7 @@ creator             : kocka
 
 ## Europa
 
-*   [Javapolis](http://www.javapolis.com)
+*   [Javapolis](http://www.javapolis.com) -> 2008-tól [Javoxx](http://www.javoxx.com), a helyszín marad Antwerpen.
 *   Jazoon
 *   TSS Java Symposium Europe
 *   Eclipse Summit Europe
