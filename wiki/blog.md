@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-04-27 14:40:41 +0200 
-author              : kocka 
+author              : tvik 
 title               : blog 
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-05-20 09:24:58 +0200 
-version             : 33 
+date                : 2008-06-04 17:19:23 +0200 
+version             : 34 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -37,13 +37,17 @@ __Magyar__:
 *   [C és Java](http://cesjava.freeblog.hu/) By Tajti Ákos (fejtőrők)
 *   [java technics](http://jtechnics.anzix.net/) ([karenin](karenin.html))
 *   [midori](http://www.midori.hu/en/blog_hu.html)
-*   [joeblog](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
-*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) sajnos inaktív, pedig jó
-*   [log4z](http://zeroflag.blogspot.com/) ([zeroflag](zeroflag.html) - [python](python.html), [java](java.html) és más hackelések, sajnos inaktłív)
 *   [pcjuzer](http://pcjuzer.blogspot.com/) ([tvik](tvik.html))
 *   [coffeshrub](http://coffeshrub.blogspot.com/) ([happy](happy.html))
 *   [java guru](http://javaguru.hu)
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
+*   [Java dolgok](http://javalinkek.blogspot.com/)
+
+__Magyar inaktív__
+
+*   [joeblog](http://www.joeblog.hu/) ([tothjozsef](tothjozsef.html))
+*   [JTechBlog](http://delfin.unideb.hu/~vicziani/jtechlog.htm) sajnos inaktív, pedig jó
+*   [log4z](http://zeroflag.blogspot.com/) ([zeroflag](zeroflag.html) - [python](python.html), [java](java.html) és más hackelések, sajnos inaktłív)
 
 Lasd meg: [linkek](linkek.html) meg állítólag ez is egy blog, bár inkáb [wiki](wiki.html).
 
