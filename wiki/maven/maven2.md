@@ -5,8 +5,8 @@ title               : maven/maven2
 name                : maven/maven2 
 layout              : wiki 
 path                : maven/maven2 
-date                : 2008-02-14 16:13:20 +0100 
-version             : 31 
+date                : 2008-06-05 17:15:56 +0200 
+version             : 32 
 creator             : kocka 
 ---
 
@@ -53,6 +53,7 @@ __extra repo-k__:
 *   [https://maven-repository.dev.java.net/nonav/repository/](https://maven-repository.dev.java.net/nonav/repository/) [leiras](https://maven-repository.dev.java.net/nonav/)
 *   central: [http://repo1.maven.org/m2/](http://repo1.maven.org/m2/)
 *   [codehaus](../codehaus.html) [http://dist.codehaus.org/](http://dist.codehaus.org/)
+*   [jboss](../jboss.html) és satöbbi [http://repository.jboss.com/maven2/](http://repository.jboss.com/maven2/)
 
 __[IDE](../IDE.html) support:__
 
