@@ -1,14 +1,20 @@
 ---
 creationDate        : 2004-10-08 11:43:15 +0200 
-author              : admin 
-title               : Xdoclet 1 
+author              : kocka 
+title               : XDoclet 
 name                : XDoclet 
 layout              : wiki 
 path                : XDoclet 
-date                : 2006-03-26 01:43:03 +0100 
-version             : 1 
+date                : 2008-06-06 14:34:10 +0200 
+version             : 4 
 creator             : zsoltk 
 ---
+Az XDoclet arról szólt, hogy [java](java.html) kommentekbe elhelyezett tagek segítségével kigenerálta a metainformációkat tartalmazó fileokat, többnyire valami [XML](XML.html)-t, például a [hibernate](Hibernate.html) hbm filejait, vagy a web.xml-t [webappok](webapp.html) esetén.
+
+Ez a megközelítés a [java 1.5](java%201.5.html) [annotációk](annotations.html) megjelenésével háttérbe szorult. Jelenleg (2008) a [java 1.4](java%201.4.html) EOL fázisban van, a legtöb framework lehetővé teszi [annotációk](annotations.html) használatát.
+
+# Xdoclet 1
+
 [http://xdoclet.sourceforge.net/xdoclet/index.html](http://xdoclet.sourceforge.net/xdoclet/index.html)
 
 Generalizalt [JavaDoc](javadoc.html), ami mindenfele okos dologra kepes. peldanak okaert annotaciok segitsegevel lehet vele [EJB](EJB.html)-ket gyartani. Aki probalt mar [EJB](EJB.html)-t heggeszteni by hand, az tudja milyen jo dolog is ez.
