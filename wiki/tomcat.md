@@ -5,11 +5,13 @@ title               : tomcat
 name                : tomcat 
 layout              : wiki 
 path                : tomcat 
-date                : 2008-06-06 18:35:43 +0200 
-version             : 9 
+date                : 2008-06-06 18:39:25 +0200 
+version             : 10 
 creator             : kocka 
 ---
 ![image](http://tomcat.apache.org/images/tomcat.gif)(http://tomcat.apache.org/)
+
+# Tomi általában
 
 A tomcat az [ASF](ASF.html) [servlet](servlet.html) es [jsp](JSP.html) szervere. Az egyik legnepszerubb szoftver a kategoriaban.
 
@@ -21,11 +23,15 @@ Azok az [alkalmazas szerver](Alkalmazas%20Szerver.html)ek, amibe tomcat van inte
 Nyilvan minek foglalja az eroforrast amit ugyse hasznalsz.
 [Tyrex](tyrex.html)-hez es [OpenEJB](OpenEJB.html)-hez a weboldalon le van irva hogy kell integralni tomcatba.
 
-__szopasok:___
+# Szívások
 
 A Tomcat erzekeny lelki vilagu allatfaj, konnyu megserteni konfiguralgatasok soran. Ha 500-at latsz a konfig kepernyon, akkor tudhatod hogy valami nagyon elszallt es jobb ha ujrainditod. Sokan javasoltak a [jetty](jetty.html)-t helyette.
 
 Meg azt a nagyon baratsagos szoveget szeretem hogy "filterStart failed" ennyit hoz tudtodra akkor ha a filteredet nem tudta elinditani, semmi ok, vagy egy kedves kis stacktrace :) Persze emiatt az alkalmazasod se fog elindulni.
+
+# Belső architektúra
+
+Érdekes cucc belülről, egy pipeline-on megy végig a request, ennek a pipeline-nak a részei a valve-ok, ezek különböző dolgokat csinálhatnak a request továbbadása elött illetve után. Kicsit AOP feeling. Ilyenek vannak mint loging, stb...
 
 Linkek:
 
