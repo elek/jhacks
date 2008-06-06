@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 17:28:47 +0200 
-author              : tvik 
+author              : karenin 
 title               : EJB 
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2008-06-06 14:24:13 +0200 
-version             : 10 
+date                : 2008-06-06 18:56:09 +0200 
+version             : 11 
 creator             : zsoltk 
 ---
 
@@ -21,21 +21,33 @@ creator             : zsoltk
 
 # A varazsszo.
 
-Mielőtt elrettennél a használatától: A következő bekezdések jórészt az EJB2-re vonatkoznak. Azóta megjelent az [EJB 3](Missing.html), ami visszafelé kompatibilis az EJB2-vel és jóval kényelmesebb a használata.
+Mielőtt elrettennél a használatától: A következő bekezdések jórészt az EJB2-re vonatkoznak. Azóta megjelent az [EJB 3](Missing.html), ami visszafelé kompatibilis az EJB2-vel és jóval kényelmesebb a használata. A [J2EE](j2ee.html) (manapság Java EE) specifikáció gyüjtemény egy reprezentás tagja).
 
-Nyugodtan mondhatjuk ra, annak ellenere, hogy nem tul sokan hasznaljak. De mit is erdemes rola tudni? Azt hiszem a [Sun](Sun.html) celja az volt, hogy valami olyat hozzon letre, aminek segitsegevel az ember megcsinal egy alkalmazashoz tartozo reszben funkcionalis, reszben adatbazis backendet. Egyszer. Aztan kenye kedve szerint eladogatja mindenfele embernek. Egyebkent erre tulajdonkeppen alkalmas is. Peldaul egy konyvaruhaz funkcionalitasat tokeletesen meg lehet [EJB](EJB.html)-vel csinalni. Az ember ad hozza egy-ket scriptet. Kesz a DB. Kesz a funkcionalis, adatbazis backend. Mar csak egy layout kell, de erre meg van egy rakat.
+Tulajdonképpen egy alkalmazásfejlesztő keretrendszer, tipikusan az üzleti logika implementására. Ahogy neve is mutatja Bean-ek családjáról szól. Ezek lehetnek:
 
-Szoval valami ilyesmi lebeghetett szemuk elott, amikor lazas agyukban megfogant a dolog. De meg kell mondani, ezt a szerepet nem nagyon toltotte be. Egyszeruen bonyolult. Ahhoz, hogy az ember egyetlen dolgot csinaljon, kell 8 masik, aztan azt a nyolcat meg be is kell passzirozni egy kelloen bonyolult XML leiroba, aztan remenykedik, hogy normalisan mukodik.
+Session beanek: ezekbe kerül az üzleti logika. Lehet Stateless és Statefull. Az utóbbit őgy képzeljük el, mintha a metódusok hívása között nálunk maradna egy Session, és az alapján valamifajta állapotot kapcsolna hozzánk a Bean. Alaphelyzetben a Session beanek kezelik a tranzakviókat (jó sok fajta beállítás van, hogy ha épp nincs tranzakció mit csináljon, és ha van akkor mit), vannak benne mindenféle interceptorok (létrehozás előtt, után meghívandó életciklus függvények), tud időzítést, és persze a beaneknek van állapota is, mivel poolozódnak és ide oda mentegetődnek a rendszerben. (És mindezt szemrebbenés nélkül csinálja clusterezett környezetben is.)
 
+Vannak Entity beanek, vagy entitások. Ez [EJB3](EJB3.html) óta [JPA](JPA.html) néven fut, előtte egy kissé bonyoldalmas megoldás volt rá, ne akard tudni, hogy hogy nézett ki.
+
+És vannak Message Driven Beanek, ami aszinkron üzenetek feldolgozására való (tipikusan JMS).
+
+Az egész szoksásoan becsomagolható valami szabály szeirnt, és deployolható.
+
+2 Történet
+Jelenleg az EJB 3.1 van fejlesztés alatt, és az EJB 3 a stabil verzió. Az EJB 2, 2.1-et már csak nagyon legacy rendszerekbe használják. Ez a régi változat, még elég bonyolult volt, mindenféle interfacekkel kellet trükközni, és API-t leszármaztatni, és ezt az egészet még némi bonyolult XML leíró is fűszerezte. Az EJB 3-ra leegyszerűsödött, ahol is a modern trendeknek megfelelően mindenhol POJO-t lehet használni, amit aztán oda vissza lehet annotálni. Szóval használható lett. 
+
+Az viszont fontos, hogy az EJB 2.1-nél a háttérben ugyanaz megy, mint az EJB3-nál, csak a használat lett egyszerűbb, tehát a régi tudás teljesen használható.
+
+Az egyik alternatíva 
 Mindenestre sokan eskusznek ra (en is), uh. lassan kijon a [EJB3](EJB3.html) specifikacio, ami ugy tunik, vegre olyan szakaszba lep, hogy nem kell hozza pilotavizsga. Azt viszont el lehet mondani hogy kicsit keson kezdett a fejlesztok utan futni a specifikacio, a legtobben vagy inkab 2 retegu rendszert irnak, vagy olyan alternativ megoldasok fele kanyarodtak mint a [spring](spring.html).
 
-Sokat lehetne meg meselni, de az alapokhoz erdemes megnezni a [J2EE](j2ee.html) tutorial \[23..30](Missing.html) fejezeteit. [http://java.sun.com/j2ee/1.4/docs/tutorial/doc/index.html](http://java.sun.com/j2ee/1.4/docs/tutorial/doc/index.html)
 
-Ha megsem sikerul semmilyen modon elrettenteni, akkor egyet erdemes megfogadni. Kezzel neki allni [EJB](EJB.html)-ket csinalni ongyilkossag. Keresss valami tool-t, amivel grafikusan, vagy legalabb annotacio szintjen tudod szerkeszteni a Bean-jeidet.
+3 EJB 2.1
+Ha mégis legacy EJB-kkel van dolgod, akkor egyet erdemes megfogadni. Kezzel neki allni [EJB](EJB.html)-ket csinalni ongyilkossag. Keresss valami tool-t, amivel grafikusan, vagy legalabb annotacio szintjen tudod szerkeszteni a Bean-jeidet. De a legjobb, ha inkább átálsz EJB3-ra.
 
 ilyen tool lehet:
 
-*   [JDeveloper](JDeveloper.html)
+*   Szinte bármelyik modern IDE ([JDeveloper](JDeveloper.html), [NetBeans](Netbeans.html), [Eclipse](Eclipse.html))
 *   [Websphgere App dev](Missing.html)
 *   eszembe jutott:-) [XDoclet](XDoclet.html)
 *   AllFusion Joe: [http://www3.ca.com/Solutions/Product.asp?ID=257](http://www3.ca.com/Solutions/Product.asp?ID=257)
@@ -48,6 +60,8 @@ ilyen tool lehet:
 Egyeb tool:
 
 *   [Oracle](Oracle.html) fele EJB verifier: [http://download-east.oracle.com/otn_hosted_doc/jdeveloper/905/ejb/ejb_averfierrules.html](http://download-east.oracle.com/otn_hosted_doc/jdeveloper/905/ejb/ejb_averfierrules.html)
+
+Viszonylag jók a [J2EE](j2ee.html) tutorial \[23..30](Missing.html) megfelelő fejezeteit. [http://java.sun.com/j2ee/1.4/docs/tutorial/doc/index.html](http://java.sun.com/j2ee/1.4/docs/tutorial/doc/index.html)
 
 A feljovo EJB 3:
 
