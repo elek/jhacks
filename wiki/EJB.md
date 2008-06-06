@@ -5,8 +5,8 @@ title               : EJB
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2008-06-06 18:56:09 +0200 
-version             : 11 
+date                : 2008-06-06 18:57:03 +0200 
+version             : 12 
 creator             : zsoltk 
 ---
 
@@ -18,6 +18,8 @@ creator             : zsoltk
 -   [EJB](EJB.html)
 
 
+
+TODO: elkezdtem átírni EJB3 kompatibilis megállapításokra, sajnos sok mindent kitöröltem emiatt. Közbe viszont rohannom kell, de majd folytatom.
 
 # A varazsszo.
 
