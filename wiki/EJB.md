@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 17:28:47 +0200 
-author              : kocka 
+author              : tvik 
 title               : EJB 
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2007-08-21 17:38:52 +0200 
-version             : 9 
+date                : 2008-06-06 14:24:13 +0200 
+version             : 10 
 creator             : zsoltk 
 ---
 
@@ -20,6 +20,8 @@ creator             : zsoltk
 
 
 # A varazsszo.
+
+Mielőtt elrettennél a használatától: A következő bekezdések jórészt az EJB2-re vonatkoznak. Azóta megjelent az [EJB 3](Missing.html), ami visszafelé kompatibilis az EJB2-vel és jóval kényelmesebb a használata.
 
 Nyugodtan mondhatjuk ra, annak ellenere, hogy nem tul sokan hasznaljak. De mit is erdemes rola tudni? Azt hiszem a [Sun](Sun.html) celja az volt, hogy valami olyat hozzon letre, aminek segitsegevel az ember megcsinal egy alkalmazashoz tartozo reszben funkcionalis, reszben adatbazis backendet. Egyszer. Aztan kenye kedve szerint eladogatja mindenfele embernek. Egyebkent erre tulajdonkeppen alkalmas is. Peldaul egy konyvaruhaz funkcionalitasat tokeletesen meg lehet [EJB](EJB.html)-vel csinalni. Az ember ad hozza egy-ket scriptet. Kesz a DB. Kesz a funkcionalis, adatbazis backend. Mar csak egy layout kell, de erre meg van egy rakat.
 
