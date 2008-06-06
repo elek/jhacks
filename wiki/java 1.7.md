@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-02-15 23:44:28 +0100 
-author              : kocka 
+author              : karenin 
 title               : java 1.7 
 name                : java 1.7 
 layout              : wiki 
 path                : java 1.7 
-date                : 2008-02-15 10:37:18 +0100 
-version             : 6 
+date                : 2008-06-06 18:59:05 +0200 
+version             : 7 
 creator             : kocka 
 ---
 A [java](java.html) tervezes alatt allo verzioja. Beceneve: Dolfi.
@@ -20,7 +20,7 @@ uj nyelvi lehetosegek, mint:
 
 Linkek:
 
-*   [Puredanger java 7 hirek](http://tech.puredanger.com/java7)
+*   [Puredanger java 7 hirek és linkgyüjtemény (A legjobb összefoglaló)](http://tech.puredanger.com/java7)
 
 
 -   [java 1.7/native xml support](java 1.7/native xml support.html)
