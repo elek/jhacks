@@ -5,8 +5,8 @@ title               : red5
 name                : red5 
 layout              : wiki 
 path                : red5 
-date                : 2007-10-25 16:11:02 +0200 
-version             : 7 
+date                : 2008-06-06 16:03:39 +0200 
+version             : 8 
 creator             : kocka 
 ---
 [http://osflash.org/red5/](http://osflash.org/red5/)
@@ -21,5 +21,6 @@ linkek:
 
 *   [http://red5.hu/](http://red5.hu/)
 *   [Getting started with RED5 server](http://www.actionscript.org/resources/articles/615/1/Getting-started-with-red5-server/Page1.html)
+*   [http://gregoire.org/](http://gregoire.org/)
 
 
