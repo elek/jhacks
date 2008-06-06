@@ -5,13 +5,13 @@ title               : XDoclet
 name                : XDoclet 
 layout              : wiki 
 path                : XDoclet 
-date                : 2008-06-06 14:34:10 +0200 
-version             : 4 
+date                : 2008-06-06 14:34:55 +0200 
+version             : 5 
 creator             : zsoltk 
 ---
 Az XDoclet arról szólt, hogy [java](java.html) kommentekbe elhelyezett tagek segítségével kigenerálta a metainformációkat tartalmazó fileokat, többnyire valami [XML](XML.html)-t, például a [hibernate](Hibernate.html) hbm filejait, vagy a web.xml-t [webappok](webapp.html) esetén.
 
-Ez a megközelítés a [java 1.5](java%201.5.html) [annotációk](annotations.html) megjelenésével háttérbe szorult. Jelenleg (2008) a [java 1.4](java%201.4.html) EOL fázisban van, a legtöb framework lehetővé teszi [annotációk](annotations.html) használatát.
+Ez a megközelítés a [java 1.5](java%201.5.html) [annotációk](annotations.html) megjelenésével háttérbe szorult. Jelenleg (2008) a [java 1.4](java%201.4.html) EOL fázisban van, a legtöbb framework lehetővé teszi [annotációk](annotations.html) használatát.
 
 # Xdoclet 1
 
