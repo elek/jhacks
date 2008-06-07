@@ -5,8 +5,8 @@ title               : EJB3
 name                : EJB3 
 layout              : wiki 
 path                : EJB3 
-date                : 2008-06-07 11:52:27 +0200 
-version             : 6 
+date                : 2008-06-07 11:59:54 +0200 
+version             : 7 
 creator             : kocka 
 ---
 [EJB](EJB.html) specifikacio a [j2ee](j2ee.html) 1.5 verziojara (Java EE 5), [java 1.5](java%201.5.html)hoz.
