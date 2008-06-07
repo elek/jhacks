@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 17:28:47 +0200 
-author              : karenin 
+author              : kocka 
 title               : EJB 
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2008-06-07 11:44:22 +0200 
-version             : 13 
+date                : 2008-06-07 12:48:25 +0200 
+version             : 14 
 creator             : zsoltk 
 ---
 
@@ -21,7 +21,7 @@ creator             : zsoltk
 
 # A varazsszo.
 
-Mielőtt elrettennél a használatától: A következő bekezdések jórészt az EJB2-re vonatkoznak. Azóta megjelent az [EJB 3](Missing.html), ami visszafelé kompatibilis az EJB2-vel és jóval kényelmesebb a használata. A [J2EE](j2ee.html) (manapság Java EE) specifikáció gyüjtemény egy reprezentás tagja).
+Mielőtt elrettennél a használatától: A következő bekezdések jórészt az EJB2-re vonatkoznak. Azóta megjelent az [EJB3](EJB3.html), ami visszafelé kompatibilis az EJB2-vel és jóval kényelmesebb a használata. A [J2EE](j2ee.html) (manapság Java EE) specifikáció gyüjtemény egy reprezentás tagja).
 
 Tulajdonképpen egy alkalmazásfejlesztő keretrendszer, tipikusan az üzleti logika implementására. Ahogy neve is mutatja Bean-ek családjáról szól. Ezek lehetnek:
 
