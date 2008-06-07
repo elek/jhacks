@@ -5,15 +5,17 @@ title               : Harmony
 name                : Harmony 
 layout              : wiki 
 path                : Harmony 
-date                : 2007-11-14 11:57:16 +0100 
-version             : 9 
+date                : 2008-06-07 20:57:25 +0200 
+version             : 10 
 creator             : kocka 
 ---
 ![image](http://harmony.apache.org/images/harmony-logo-new.png)(http://harmony.apache.org/)
 
-Az [ASF](ASF.html) [java](java.html) VM projecje, ami [java 1.5](java%201.5.html) kompatibilis lesz. Mar letoltheto milestone csomagok is vannak benne, szoval dolgoznak a sracok kemenyen, meg ha csendben is :)
+Az [ASF](ASF.html) [java](java.html) [VM](JVM.html) projecje, ami [java 1.5](java%201.5.html) kompatibilis lesz. Már letölthető milestone csomagok is vannak benne, szóval dolgoznak a srácok keményen, még ha csendben is :)
 
-Egyelore csak a linkek vannak:
+Legutóbb egy [eclipse](Eclipse.html) felstartolásával próbáltam ki, hogy működik-e, és bár elég látványosan lassabb volt mint az [OpenJDK](OpenJDK.html), hiba nem volt a futása során.
+
+Linkek:
 
 *   [http://harmony.apache.org/](http://harmony.apache.org/)
 *   [wiki](http://wiki.apache.org/harmony/)
