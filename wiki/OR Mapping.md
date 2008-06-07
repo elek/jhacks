@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-08-04 11:27:52 +0200 
-author              : karenin 
+author              : kocka 
 title               : Object Relation Mapping 
 name                : OR Mapping 
 layout              : wiki 
 path                : OR Mapping 
-date                : 2006-10-01 10:49:29 +0200 
-version             : 2 
+date                : 2008-06-07 12:44:30 +0200 
+version             : 3 
 creator             : zsoltk 
 ---
 De mivel ez nem teljesen ertheto, ezert egy kicsit bovebben: Relacios adatbazis tablainak mappelese Objektum orientalt kornyezetbe.
@@ -27,4 +27,4 @@ Valamint a kulonbozo libek és apik:
 *   Masik, amit sokan szeretnek: [Hibernate](Hibernate.html)
 *   Ugyanaz, csak egy kicsit mas felfogasban: [Mr. Persister](Mr.%20Persister.html)
 *   Egy Hibernate-hez hasonlo dolog, csak nem annyira eros: [Torque](Torque.html)
-*   Az [ejb 3](Missing.html)-al bevezetett Java Persistence Api([JPA](JPA.html)), ami alá több megoldást is be lehet rakni. 
+*   Az [ejb3](EJB3.html)-al bevezetett Java Persistence Api([JPA](JPA.html)), ami alá több megoldást is be lehet rakni. 
