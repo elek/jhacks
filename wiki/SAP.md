@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-02-03 08:44:31 +0100 
-author              : admin 
+author              : kocka 
 title               : SAP 
 name                : SAP 
 layout              : wiki 
 path                : SAP 
-date                : 2006-03-26 01:42:53 +0100 
-version             : 1 
+date                : 2008-06-08 16:38:37 +0200 
+version             : 5 
 creator             : kocka 
 ---
 [http://www.sap.com/](http://www.sap.com/)
@@ -15,7 +15,7 @@ Egy europai szarmazasu multi. Egesz pontosan nemet, aki ezt nem tudna biztosan r
 
 Szoval igen, van nekik ez az [abap](Missing.html) programnyelvuk, ami mar regota megy naluk az alkalmazasaik fejlesztesehez egy sajat alkalmazasszerverrel, de mar a javat is tamogatjak egy ideje, sot allitolag egyenrangukent kezelik.
 
-Az SAP-nak egyebkent van egy sajat [j2ee](j2ee.html) [alkalmazas szerver](Alkalmazas%20Szerver.html)e is.
+Az SAP-nak egyebkent van egy sajat [j2ee](j2ee.html) [alkalmazas szerver](Alkalmazas%20Szerver.html)e is ([netweaver](Missing.html)).
 
 Mivel az SAP inkabb az uzletemberek vilaga, azok meg folyamatosan titkoloznak meg magprobaljak egymast becsapni, az SAP termekek tobbsege semmilyen formaban se toltheto le, se kiproblni semmi. Van viszont egy CD amit regen lehetett igenyelni, nem tudom letezik-e meg. Mindenesetre elfogadhato technikai informaciot is eleg nehez rola talalni. Sok marketing :)
 
