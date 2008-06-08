@@ -5,13 +5,13 @@ title               : Drools
 name                : drools 
 layout              : wiki 
 path                : drools 
-date                : 2008-06-08 16:00:17 +0200 
-version             : 14 
+date                : 2008-06-08 16:00:38 +0200 
+version             : 15 
 creator             : kocka 
 ---
 [http://labs.jboss.com/drools/](http://labs.jboss.com/drools/)
 
-JSR-94 ([Java](java.html) [rules engine](rules%20engine.html)) implementacio. A fejlesztoje, Bob McWirther tagja volt a specifikaciot kidolgozo csoportnak. Teljesen szabad szoftver, ex-[codehaus](codehaus.html) project, jelenleg a [jboss](jboss.html)-nál fejlődget. Van hozzá [eclipse](Eclipse.html) plugin is.
+JSR-94 ([Java](java.html) [rules engine](rules%20engine.html)) implementacio. Eredeti fejlesztoje, Bob McWirther tagja volt a specifikaciot kidolgozo csoportnak. Teljesen szabad szoftver, ex-[codehaus](codehaus.html) project, jelenleg a [jboss](jboss.html)-nál fejlődget. Van hozzá [eclipse](Eclipse.html) plugin is.
 
 Hasznalhatod a sajat apijan keresztul is, vagy hasznalhatod a [rules engine](rules%20engine.html) apit is. (ez utobbi kellemesebben hangzik)
 
