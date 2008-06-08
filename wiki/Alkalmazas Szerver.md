@@ -5,8 +5,8 @@ title               : Alkalmazas Szerver
 name                : Alkalmazas Szerver 
 layout              : wiki 
 path                : Alkalmazas Szerver 
-date                : 2007-10-25 17:17:20 +0200 
-version             : 10 
+date                : 2008-06-08 16:38:01 +0200 
+version             : 11 
 creator             : zsoltk 
 ---
 A [J2EE](j2ee.html) arhitektúra egyik alapeleme, azaz az a dolog, ami megfelelő (és a szabványok által definiált, nagyjából uniform) futáskörnyezetet biztosítja a szerver oldali [java](java.html) alkalmazásokhoz.
@@ -35,7 +35,7 @@ Nem teljes, de a lenyeget tartalmazo lista:
 
 gyarto|nev|free
 [bea](bea.html)|[weblogic](weblogic.html)|developer licensz?
-[jboss](jboss.html)|[jboss](jboss.html) as|[LGPL](LGPL.html)
+[jboss](jboss.html)|[jboss/jboss as](jboss/jboss%20AS.html)|[LGPL](LGPL.html)
 [ASF](ASF.html)|[geronimo](geronimo.html)|[ASF](ASF.html)
 [objectweb](objectweb.html)|[jonas](jonas.html)|[LGPL](LGPL.html)
 [IBM](IBM.html)|[Websphere](Websphere.html)|3 honap trial
@@ -43,6 +43,7 @@ gyarto|nev|free
 [sun](Sun.html)|[java system application server](Missing.html)|free verzio
 [macromedia](Missing.html)|[jrun](jrun.html)|free download?
 [sun](Sun.html)|[glassfish](glassfish.html)|freeware (JRL)
+[sap](SAP.html)|[netweaver](Missing.html)|titkos
 
 
 
