@@ -5,8 +5,8 @@ title               : JSF
 name                : JSF 
 layout              : wiki 
 path                : JSF 
-date                : 2007-11-30 11:41:58 +0100 
-version             : 5 
+date                : 2008-06-08 17:16:44 +0200 
+version             : 6 
 creator             : karenin 
 ---
 Java Server Faces (jsr 127). Webes framework. Sokan a [Struts](struts.html) utodjanak mondjak, mert a vezetoje az a bizonzos Craig McClanahan, aki a [Struts](struts.html)-ert is felelos.
@@ -22,6 +22,8 @@ A JSF rajongoinak egy resze azert lelkesedik, hogy milyen jo WYSIWYG szerkesztok
 Masok ezt a lelkesedest eleg ketkedve figyelik.
 
 Amugy eleg izgalmas dolog, elso sorban formok feldolgozasaban jo, meg egy szabvanyos felulet arra, hogy ujrahasznosithato okos komponenseket fejlesszunk (pl. [AJAX](ajax.html)-os beviteli elemek).
+
+Egyéb: [seam](Missing.html)
 
 Linkek:
 
