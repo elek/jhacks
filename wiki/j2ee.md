@@ -5,8 +5,8 @@ title               : J2EE / JEE
 name                : j2ee 
 layout              : wiki 
 path                : j2ee 
-date                : 2007-10-25 17:20:39 +0200 
-version             : 9 
+date                : 2008-06-08 17:19:24 +0200 
+version             : 10 
 creator             : zsoltk 
 ---
 ![image](http://hackers.forgeahead.hu/space/SnipSnap/config/j2ee_jdk_button_classic_red.gif)(http://java.sun.com/j2ee/download.html)
@@ -18,12 +18,6 @@ Java (2) Enterprise Edition.
 A J2EE a [java](java.html) programozasi nyelv szerveroldali felhasznalasat celzo APIk gyujtemenye, azaz olyan dolgok amik foleg ceges felhasznalasra lettek kitalalva. A J2EE tervezoi egy tobbretegu hierarchiat almodtak meg, ami az [EJB](EJB.html), [JCA](JCA.html), [servlet](servlet.html), [jsp](JSP.html) reszekbol allt nagyjabol, amit igazabol azt hiszem eleg kevesen vetettek be. Ugyanis eleg sok uj dolgot kellett volna megtanulni, bar ezt szet lehetett volna bontani a [j2ee development roles](j2ee%20development%20roles.html) szerint, de a gyakorlatban azt lattuk hogy valami miatt megsem tortent igy. Igy aztan szuletett mindenfele, a stack bizonyos reszet helyettesito megoldas ([spring](spring.html), [struts](struts.html), [tapestry](tapestry.html), [hibernate](Hibernate.html), mas [or mapping](OR%20Mapping.html) es prezentacios frameworkok), a J2EE pedig megmaradt mint kozos alapszolgaltatas.
 
 Gyakorlatilag ez az oldalkomplexum a Enterprise Java-val foglalkozik. Behatarolni nem igazan lehet, mivel gyakorlatilag a programozas minden agat magaba foglalja. Talan azt lehetne mondani, hogy olyan programozasi feladatok megoldasara szolgal az architektura, amik adatbazisintenzivek, skalazhatoak es nagy foku megbizhatosaggal rendelkeznek. De ennel tobbet ne kivanjon tolem senki.
-
-# Arhitektura
-
-Ha jol gondolom, bar ezt leirva sohasem lattam, akkor a J2EE ugy epul fel, hogy az embernek van egy alkalmazas szervere, aztan abba az alkalmazas szerverbe berakja a maga kis produktumat es onnantol kezdve mindenfele nyalanksaghoz hozza tud ferni.
-
-A bizonytalansagom abbol ered, hogy a J2EE API egyes reszei kulon is hasznalhatoak, mig masok csak az alkamazas szerverel egyutt. De hogy melyek ezek? passz:-) Az biztos, hogy az EJB, Servlet+JSP, JMS technologiak csak szerver kontaineren belul hasznalhatoak.
 
 # Reszek
 
@@ -53,7 +47,5 @@ Na most ezekrol azt kell tudni, hogy altalaban nem szolgaltatnak konkret impleme
 Lasd meg:
 
 *   [alkalmazas szerver](Alkalmazas%20Szerver.html)ek
-
-Folyt. Kov
 
 
