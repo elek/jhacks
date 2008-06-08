@@ -5,8 +5,8 @@ title               : J2EE / JEE
 name                : j2ee 
 layout              : wiki 
 path                : j2ee 
-date                : 2008-06-08 17:21:29 +0200 
-version             : 11 
+date                : 2008-06-08 17:23:19 +0200 
+version             : 12 
 creator             : zsoltk 
 ---
 ![image](http://hackers.forgeahead.hu/space/SnipSnap/config/j2ee_jdk_button_classic_red.gif)(http://java.sun.com/j2ee/download.html)
@@ -25,16 +25,13 @@ Apik:
 *   [EJB](EJB.html): Egy masik varazsszo, ami elegge megosztja a Java tarsasagot.
 *   Deploy: J2EE Application Deployment. Ez csak az 1.4-es api-tol. A JSR alapjan a kovetkezokkel foglalkozik: Install / Deploy, Config, Undeploy (Eletemben nem lattam)
 *   [JNDI](JNDI.html)
-*   [JMS](JMS.html): Java Messaging Services. Egy megoldas fuggetlen uzenetkuldo rendszer. Csak annyit mond, hogy hogyan kell / lehet uzeneteket kuldeni kulonbozo resztvevok kozott.
+*   [JMS](JMS.html)
 *   [JMX](JMX.html) J2EE Managment
-*   Resource ([JCA](JCA.html))
+*   [JCA](JCA.html)
 *   [Servlet_jsp](servlet_jsp.html)
-*   [XML](XML.html) kezeles
 *   [JAXR](JAXR.html)
 *   [JTA](JTA.html)
 *   [JAX-RPC](JAX-RPC.html)
-*   [SOAP](SOAP.html)
-*   [XML](XML.html) Transform ([xslt](XSLT.html))
 
 # Linkek
 
