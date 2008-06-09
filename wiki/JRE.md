@@ -5,8 +5,8 @@ title               : JRE
 name                : JRE 
 layout              : wiki 
 path                : JRE 
-date                : 2008-06-09 11:43:09 +0200 
-version             : 9 
+date                : 2008-06-09 11:46:33 +0200 
+version             : 10 
 creator             : kocka 
 ---
 __Java Runtime Environment__
@@ -21,7 +21,7 @@ Lasd meg:
 
 JRE implementaciok:
 
-*   [Sun](Sun.html) JRE (amit kb mindenki hasznal, ingyenes volt, most mar jobbara [GPL](GPL.html))
+*   [OpenJDK](OpenJDK.html) ([Sun](Sun.html))(amit kb mindenki hasznal, ingyenes volt, most mar jobbara [GPL](GPL.html))
 *   [IBM](IBM.html) JRE (ingyenes)
 *   [JRocket](jrocket.html) ([BEA](bea.html)) (ingyenes)
 *   [Kaffe](Kaffe.html) (szabad)
