@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-04-27 10:20:54 +0200 
-author              : karenin 
+author              : kocka 
 title               : Asynchronous JavaScript And XML 
 name                : ajax 
 layout              : wiki 
 path                : ajax 
-date                : 2006-10-31 22:19:45 +0100 
-version             : 5 
+date                : 2008-06-09 11:40:43 +0200 
+version             : 6 
 creator             : kocka 
 ---
 Egy nagyon elterjed buzzword a sokfele technologiara ami ide besorolhato. Meg olyanokat is ide sorolnak gyakran amik nem is [javascript](javascript.html)esek, csak rich client interface-t ado [webapp](webapp.html) legyen. A technologia lenyegi resze a [XMLHttpRequest](http://www.w3.org/TR/XMLHttpRequest/) amit a browsernek kell szolgaltatnia a scriptek szamara hogy azok asszinkron hivasokat hajthassanak vegre a szerveren.
@@ -15,6 +15,7 @@ Az a lenyeg hogy lenyegesen fel lehet vele turbozni a klienst, sokkal jobban fog
 
 Cuccok:
 
+*   [gwt](GWT.html)
 *   direct web remoting [dwr](Missing.html) (konkretan ez [javascript](javascript.html)es)
 *   [openlaszlo](openlaszlo.html), (html es flash)
 *   [zk1](zk1.html) (bármilyen servlethez)
