@@ -5,13 +5,13 @@ title               : JRE
 name                : JRE 
 layout              : wiki 
 path                : JRE 
-date                : 2007-09-04 16:03:29 +0200 
-version             : 8 
+date                : 2008-06-09 11:43:09 +0200 
+version             : 9 
 creator             : kocka 
 ---
 __Java Runtime Environment__
 
-A java futasi kornyezet, azaz maga a virtualis gep, ami a bytekodot futtatja. Nevevel ellentetben a java csak egy azok kozul a nyelvek kozul amik a futasi kornyezetet hasznaljak, bar nyilvan a legelterjedtebb.
+A java futasi kornyezet, azaz maga a virtualis gep, ami a bytekodot futtatja. Nevevel ellentetben a [java](java.html) csak egy azok kozul a nyelvek kozul amik a futasi kornyezetet hasznaljak, bar nyilvan a legelterjedtebb.
 
 Lasd meg:
 
