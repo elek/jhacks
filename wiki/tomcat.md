@@ -5,8 +5,8 @@ title               : tomcat
 name                : tomcat 
 layout              : wiki 
 path                : tomcat 
-date                : 2008-06-06 18:39:25 +0200 
-version             : 10 
+date                : 2008-06-09 09:44:36 +0200 
+version             : 11 
 creator             : kocka 
 ---
 ![image](http://tomcat.apache.org/images/tomcat.gif)(http://tomcat.apache.org/)
@@ -25,9 +25,11 @@ Nyilvan minek foglalja az eroforrast amit ugyse hasznalsz.
 
 # Szívások
 
-A Tomcat erzekeny lelki vilagu allatfaj, konnyu megserteni konfiguralgatasok soran. Ha 500-at latsz a konfig kepernyon, akkor tudhatod hogy valami nagyon elszallt es jobb ha ujrainditod. Sokan javasoltak a [jetty](jetty.html)-t helyette.
+*   A Tomcat erzekeny lelki vilagu allatfaj, konnyu megserteni konfiguralgatasok soran. Ha 500-at latsz a konfig kepernyon, akkor tudhatod hogy valami nagyon elszallt es jobb ha ujrainditod. Sokan javasoltak a [jetty](jetty.html)-t helyette.
 
-Meg azt a nagyon baratsagos szoveget szeretem hogy "filterStart failed" ennyit hoz tudtodra akkor ha a filteredet nem tudta elinditani, semmi ok, vagy egy kedves kis stacktrace :) Persze emiatt az alkalmazasod se fog elindulni.
+*   Meg azt a nagyon baratsagos szoveget szeretem hogy "filterStart failed" ennyit hoz tudtodra akkor ha a filteredet nem tudta elinditani, semmi ok, vagy egy kedves kis stacktrace :) Persze emiatt az alkalmazasod se fog elindulni.
+
+*   [Cluster](cluster.html) téma... a 6.x-es szériában például a clusterdeployer törött, még a dokumentációja szerint is. Azért kis verekedés árán megy a dolog, de nem túl barátságos.
 
 # Belső architektúra
 
