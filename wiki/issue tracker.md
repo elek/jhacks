@@ -5,8 +5,8 @@ title               : issue tracker
 name                : issue tracker 
 layout              : wiki 
 path                : issue tracker 
-date                : 2007-11-29 10:58:11 +0100 
-version             : 2 
+date                : 2008-06-10 00:20:05 +0200 
+version             : 3 
 creator             : kocka 
 ---
 Javaban irt issue tracker webalkalmazasok:
@@ -15,3 +15,8 @@ Javaban irt issue tracker webalkalmazasok:
 *   [bugtracker](Missing.html)
 *   [scarab](scarab.html)
 *   [jtrac](Missing.html)
+
+Egyéb:
+
+*   [mylyn](mylyn.html)
+*   [fasttrack](fasttrack.html)
