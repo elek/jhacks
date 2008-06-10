@@ -5,8 +5,8 @@ title               : Laszlo
 name                : Laszlo 
 layout              : wiki 
 path                : Laszlo 
-date                : 2008-06-10 09:57:26 +0200 
-version             : 13 
+date                : 2008-06-10 10:00:57 +0200 
+version             : 14 
 creator             : zsoltk 
 ---
 Rich Internet Application development framework.
@@ -24,22 +24,25 @@ Egy [flash](flash.html) oldalakat generalo cucc (persze hivatalosan [dhtml](Miss
 
 [laszlo/LZX](laszlo/LZX.html) cuccokat a laszlo compilerrel atfordithatod [bytecode](bytecode.html)ba, vagy futtathatod siman a prezentacios szerveren ami szukseg szerint fogja forditani neked. Nehany hatarozottan pozitiv [rpc](RPC.html) feature-t meg kielemnek: [java](java.html) hivasok, persze remote, [xml-rpc](xml-rpc.html), [soap](SOAP.html). Ezzel azert vannak szivasok helyenkent, a [soap](SOAP.html) api kicsit nehezen hasznalhato, a [java](java.html) [rpc](RPC.html) session-onkent egy objektumot csinal. (valahogy jobb otletnek tartanam az [ioc](ioc.html)-s service objektumok hasznalatat, de megoldhato, csak nagyon harcos :) )
 
-Nem volt teljesen evidens hogy hogyan lehet bele fejleszteni [maven](maven.html) alatt, de kikiserleteztem es irtam hozza egy archetype-ot is. Szoval egyszeruen maven-war-plugin hasznalataval, csak oda kell figyelni hogy a 2.0 verzio meg legyen belole mert a regebbiek nem eleg jok hozza. A maven fuggosegek koze tegyel be egyszeruen egy fuggoseget az openlaszlo war file-nak, ezt a war plugin ki fogja csomagolni neked, a sajat web.xml-ed pedig felulvaghatja az openlaszlo cuccot, az lzx filejaidat pedig egyszeruen benyomhatod a src/main/webapp ala. egy egyszeru jetty6:run azonnal uzemelo openlaszlo szervert hoz neked letre. Szoval bevetheto, csak kiserletezni kellett sokat, mert ez sehol nincs leirva.
 
 
 Sajat [test](test.html) rendszere is van lzunit neven.
 
-__[IDE](IDE.html) support:__
+# [IDE](IDE.html) support
 
 *   [alfás eclipse plugin](http://www.syte.ch/en/laszlo.xml)
 *   [pénzéhes eclipse plugin](http://www.spket.com/laszlo.html)
 
-
-__Linkek:__
+# Linkek
 
 *   [http://www.openlaszlo.org/](http://www.openlaszlo.org/)
 *   [http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/](http://www.laszlosystems.com/lps/laszlo-in-ten-minutes/) (nagyon impressziv demok)
 *   [Gliffy, egy izmosabb demo arrol hogy miket lehet belole kihozni](http://www.gliffy.com/gliffy/)
+
+# [Maven](maven.html)
+
+Nem volt teljesen evidens hogy hogyan lehet bele fejleszteni [maven](maven.html) alatt, de kikiserleteztem es irtam hozza egy archetype-ot is. Szoval egyszeruen maven-war-plugin hasznalataval, csak oda kell figyelni hogy a 2.0 verzio meg legyen belole mert a regebbiek nem eleg jok hozza. A maven fuggosegek koze tegyel be egyszeruen egy fuggoseget az openlaszlo war file-nak, ezt a war plugin ki fogja csomagolni neked, a sajat web.xml-ed pedig felulvaghatja az openlaszlo cuccot, az lzx filejaidat pedig egyszeruen benyomhatod a src/main/webapp ala. egy egyszeru jetty6:run azonnal uzemelo openlaszlo szervert hoz neked letre. Szoval bevetheto, csak kiserletezni kellett sokat, mert ez sehol nincs leirva.
+
 
 
 
