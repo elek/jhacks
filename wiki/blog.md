@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-04-27 14:40:41 +0200 
-author              : tvik 
+author              : karenin 
 title               : blog 
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-06-04 17:19:23 +0200 
-version             : 34 
+date                : 2008-06-15 19:12:59 +0200 
+version             : 35 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -42,6 +42,7 @@ __Magyar__:
 *   [java guru](http://javaguru.hu)
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
 *   [Java dolgok](http://javalinkek.blogspot.com/)
+*   [Kack](http://kack.blog.prog.hu/)
 
 __Magyar inaktív__
 
