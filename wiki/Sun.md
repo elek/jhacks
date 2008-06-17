@@ -5,8 +5,8 @@ title               : Sun Microsystems
 name                : Sun 
 layout              : wiki 
 path                : Sun 
-date                : 2008-06-17 18:09:00 +0200 
-version             : 13 
+date                : 2008-06-17 18:10:21 +0200 
+version             : 14 
 creator             : kocka 
 ---
 [http://www.sun.com/](http://www.sun.com/)
@@ -19,6 +19,7 @@ Hozzajarulnak a [open source](Open%20Source.html) szoftverek fejlesztesehez:
 *   [OpenOffice.org](OpenOffice.org.html)
 *   [alkalmazás szerver](Alkalmazas%20Szerver.html): [glassfish](glassfish.html)
 *   [IDE](IDE.html): [netbeans](Netbeans.html)
+*   [adatbázis szerver](RDBMS.html): [mysql](MySQL.html)
 *   [esb](ESB.html): [openesb](OpenESB.html)
 *   [java](java.html) [JRE](JRE.html): [OpenJDK](OpenJDK.html)
 *   satöbbisatöbbi
