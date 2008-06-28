@@ -5,8 +5,8 @@ title               : JPA
 name                : JPA 
 layout              : wiki 
 path                : JPA 
-date                : 2008-06-07 12:44:56 +0200 
-version             : 8 
+date                : 2008-06-28 20:07:11 +0200 
+version             : 9 
 creator             : karenin 
 ---
 Az [ejb3](EJB3.html)-al bevezetett új szabványos [persistence](persistence.html) api. Legegyszerűbb taláb a [JDBC](JDBC.html)-hez hasonlítani: Van egy független interface rendszer és az alá implementálhatnak megoldásokat a szállítók. A [Hibernate](Hibernate.html) pl. gőzerővel dolgozik a Hibernate Entity Manager-en, amit lehet használni EJB3-ak alatti perzisztencia megvalósítására. De a Sunos cuccokat általában az Oracle Toplink Essential-al szállítják. A szép az, hogy ezeket bármikor lehet cserélgetni az alkalmazás alatt.
@@ -24,6 +24,11 @@ em.close();
 ```
 
 (A HibernatePU-t egy persistence.xml-ben kell definiálni, ahol megmondjuk, hogy melyik gyártó megoldását akarjuk használni.)
+
+__[IDE](IDE.html) támogatás__:
+
+*   [Eclipse](Eclipse.html) [Dali](http://www.eclipse.org/webtools/dali/main.php)
+
 
 __JPA implementációk__:
 
