@@ -1,12 +1,12 @@
 ---
 creationDate        : 2005-09-26 23:10:44 +0200 
-author              : karenin 
+author              : tvik 
 title               : version control 
 name                : version control 
 layout              : wiki 
 path                : version control 
-date                : 2008-05-30 15:06:50 +0200 
-version             : 14 
+date                : 2008-07-10 13:02:17 +0200 
+version             : 15 
 creator             : kocka 
 ---
 Na, ezt ugyis mindenki jobban tudja mindt barki mas, csak a linkeket:
@@ -29,6 +29,7 @@ Linkek:
 *   [egy](http://stuffthathappens.com/blog/2007/09/28/4-signs-you-are-fighting-your-version-control-tool/)  bejegyzés arról, hogy milyen hibákba eshetünk, mégha használunk is VCS-t.
 *   Mercurial, Git, Bazaar összehasonlítás: [http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/](http://www.dribin.org/dave/blog/archives/2007/12/28/dvcs/)
 *   Egy másik Mercurial, Git, Bazar összehasonlítás: [http://www.infoq.com/articles/dvcs-guide](http://www.infoq.com/articles/dvcs-guide) 
+*   Subversion or CVS, Bazaar or Mercurial? [Cikk](http://www.javaworld.com/javaworld/jw-09-2007/jw-09-versioncontrol.html) a Javaworld-ön.
 
 
 
