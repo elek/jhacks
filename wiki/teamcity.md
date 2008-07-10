@@ -5,8 +5,8 @@ title               : teamcity
 name                : teamcity 
 layout              : wiki 
 path                : teamcity 
-date                : 2008-03-28 14:57:37 +0100 
-version             : 4 
+date                : 2008-07-10 15:17:56 +0200 
+version             : 5 
 creator             : kocka 
 ---
 [http://www.jetbrains.com/teamcity/](http://www.jetbrains.com/teamcity/)
@@ -19,5 +19,6 @@ Néhány cukor:
 *   Nem csak azt követi, hogy sikeres volt-e a build, hanem statisztikákat is vezet arról hogy a tesztek milyen arányban mentek át
 *   Csapatmunka támogatás - vállalhatod például a felelősséget egy build hibájáért
 *   Belül [spring](spring.html)ből van :)
+*   Ha a teszt elfailel, automatikusan újrapróbálhatja X idővel később. Például integrációs teszteknél nagyon hasznos, amikor külső szolgáltatásokat hívogatunk, és ezek a külső szolgáltatások persze néha lerohadnak.
 
 
