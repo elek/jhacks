@@ -1,12 +1,12 @@
 ---
 creationDate        : 2006-04-27 14:40:41 +0200 
-author              : karenin 
+author              : kocka 
 title               : blog 
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-06-15 19:12:59 +0200 
-version             : 35 
+date                : 2008-07-13 14:18:13 +0200 
+version             : 36 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -43,6 +43,7 @@ __Magyar__:
 *   [I will work for food](http://iwillworkforfood.blogspot.com/) ([kocka](kocka.html))
 *   [Java dolgok](http://javalinkek.blogspot.com/)
 *   [Kack](http://kack.blog.prog.hu/)
+*   [Eclipse felfedező](http://eclipsefelfedezo.blogspot.com/)
 
 __Magyar inaktív__
 
