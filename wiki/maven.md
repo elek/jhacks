@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-26 17:23:25 +0200 
-author              : kocka 
+author              : karenin 
 title               : maven 
 name                : maven 
 layout              : wiki 
 path                : maven 
-date                : 2006-11-22 15:35:19 +0100 
-version             : 26 
+date                : 2008-07-23 07:19:26 +0200 
+version             : 27 
 creator             : kocka 
 ---
 ![image](http://maven.apache.org/images/maven-small.gif)(http://maven.apache.org)<br/>
@@ -44,6 +44,7 @@ A szopas a maven-ben:
 
 linkek:
 
+*   Maven: The Definitive guide: [http://www.sonatype.com/book/](http://www.sonatype.com/book/) Ha részletes leírásra vágysz, az egyik legjobb.
 *   egy kis osszefoglalo es migracio howto: [http://www.onjava.com/lpt/a/5048](http://www.onjava.com/lpt/a/5048)
 *   maven bugok :) [http://jira.codehaus.org/](http://jira.codehaus.org/)
 *   aki szereti a papirt: [http://www.oreilly.com/catalog/mavenadn/index.html](http://www.oreilly.com/catalog/mavenadn/index.html) [http://www.mavenbook.org/](http://www.mavenbook.org/) (csak a forraskodok a konyvhoz)
