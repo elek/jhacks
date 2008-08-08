@@ -5,8 +5,8 @@ title               : blog
 name                : blog 
 layout              : wiki 
 path                : blog 
-date                : 2008-08-08 23:55:54 +0200 
-version             : 37 
+date                : 2008-08-08 23:58:41 +0200 
+version             : 38 
 creator             : kocka 
 ---
 Blogok [java](java.html) témában:
@@ -44,7 +44,7 @@ __Magyar__:
 *   [Java dolgok](http://javalinkek.blogspot.com/)
 *   [Kack](http://kack.blog.prog.hu/)
 *   [Eclipse felfedező](http://eclipsefelfedezo.blogspot.com/)
-*   [phenotypical](http://phenotypical.com/) ([java](java.html), [flex](flex.html), [air](AIR.html), [coldfusion](Missing.html))
+*   [phenotypical](http://phenotypical.com/) ([java](java.html), [flex](flex.html), [air](AIR.html), [coldfusion](Missing.html) - érdemelne egy külön kategóriát, külföldi fejlesztő magyarul)
 
 __Magyar inaktív__
 
