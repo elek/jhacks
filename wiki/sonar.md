@@ -5,8 +5,8 @@ title               : Sonar
 name                : sonar 
 layout              : wiki 
 path                : sonar 
-date                : 2008-07-26 00:18:02 +0200 
-version             : 11 
+date                : 2008-08-29 14:22:36 +0200 
+version             : 12 
 creator             : kocka 
 ---
 [http://sonar.hortis.ch/](http://sonar.hortis.ch/)
@@ -25,6 +25,7 @@ A dolog hátulütői:
 
 *   [GPL](GPL.html) és [ruby](ruby.html), túrkálja a forráskódot az akinek nincs jobb dolga :(
 *   Elég lassú.
+*   A rails framework persze nem akar [DataSource](Missing.html)-t hasznalni, ebbol adodik par prbolema, peldaul hogy nem csatlakozik ujra ha az adatbazis levagta a kapcsolatot.
 
 Egykori problémák:
 
