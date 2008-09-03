@@ -5,8 +5,8 @@ title               : Sessionmeter
 name                : kocka/sessionmeter 
 layout              : wiki 
 path                : kocka/sessionmeter 
-date                : 2008-09-03 08:25:17 +0200 
-version             : 3 
+date                : 2008-09-03 08:26:00 +0200 
+version             : 4 
 creator             : kocka 
 ---
 Egy filter arra, hogy nyomon tudd kovetni a session-od valtozasait.
@@ -23,3 +23,5 @@ Request: /testapp/updateprofile.so
 Request: /testapp/logout.do
 - user         DEL 42
 ```
+
+Es az egeszet ide irtam le: [http://iwillworkforfood.blogspot.com/2008/09/sessionmeter.html](http://iwillworkforfood.blogspot.com/2008/09/sessionmeter.html)
