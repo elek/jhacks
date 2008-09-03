@@ -5,8 +5,8 @@ title               : Sessionmeter
 name                : kocka/sessionmeter 
 layout              : wiki 
 path                : kocka/sessionmeter 
-date                : 2008-09-03 22:36:16 +0200 
-version             : 7 
+date                : 2008-09-03 22:38:59 +0200 
+version             : 8 
 creator             : kocka 
 ---
 Egy filter arra, hogy nyomon tudd kovetni a session-od valtozasait.
