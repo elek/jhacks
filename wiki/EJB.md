@@ -1,12 +1,12 @@
 ---
 creationDate        : 2004-07-27 17:28:47 +0200 
-author              : kocka 
+author              : karenin 
 title               : EJB 
 name                : EJB 
 layout              : wiki 
 path                : EJB 
-date                : 2008-06-07 12:48:25 +0200 
-version             : 14 
+date                : 2008-10-07 09:30:27 +0200 
+version             : 15 
 creator             : zsoltk 
 ---
 
@@ -46,6 +46,8 @@ Jelenleg az EJB 3.1 van fejlesztés alatt, és az EJB 3 a stabil verzió. Az EJB
 Az viszont fontos, hogy az EJB 2.1-nél a háttérben ugyanaz megy, mint az EJB3-nál, csak a használat lett egyszerűbb, tehát a régi tudás teljesen használható.
 
 Ha a régi EJB érdekel, nézd meg az [eredeti](EJB2.html) wiki oldalt, ami akkor készült, amikor még EJB3 nem volt.
+
+A következő verzió az EJB 3.1 lesz, ami várhatóan a 2009-es [JavaOne](JavaOne.html)-ra készül el. (Public Review már van). Jobban fog hasonlítani egy IoC konténerre, futni fog [Java SE](Missing.html)-ben is, lesz Lite profilja is, a Timer részeket is végre megcsinálják, stb.
 
 EJB 3:
 
