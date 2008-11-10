@@ -5,8 +5,8 @@ title               : JRE
 name                : JRE 
 layout              : wiki 
 path                : JRE 
-date                : 2008-06-09 11:46:33 +0200 
-version             : 10 
+date                : 2008-11-10 21:23:29 +0100 
+version             : 11 
 creator             : kocka 
 ---
 __Java Runtime Environment__
@@ -18,6 +18,7 @@ Lasd meg:
 *   [groovy](Groovy.html)
 *   [nice](nice.html)
 *   [scala](scala.html) ?
+*   [clojure](http://clojure.org/)
 
 JRE implementaciok:
 
