@@ -2,7 +2,7 @@
 creationDate: 1126096300857 
 author: Finrod 
 contentAuthor: Finrod 
-title: Tesco gazdasagos [IDE]. 
+title: Tesco gazdasagos IDE. 
 contentUpdateDate: 1149095263694 
 name: myeclipse 
 layout: wiki 

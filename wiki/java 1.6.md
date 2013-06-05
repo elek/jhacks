@@ -2,7 +2,7 @@
 creationDate: 1113900416380 
 author: karenin 
 contentAuthor: karenin 
-title: [Java] 1.6 aka "Mustang" 
+title: Java 1.6 aka "Mustang" 
 contentUpdateDate: 1191421868372 
 name: java 1.6 
 layout: wiki 

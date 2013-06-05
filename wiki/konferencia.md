@@ -2,7 +2,7 @@
 creationDate: 1191358995211 
 author: kocka 
 contentAuthor: kocka 
-title: [javaval|java] kapcsolatos konferenciák 
+title: javaval kapcsolatos konferenciák 
 contentUpdateDate: 1213717766871 
 name: konferencia 
 layout: wiki 

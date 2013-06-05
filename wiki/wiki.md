@@ -2,7 +2,7 @@
 creationDate: 1117012014770 
 author: kocka 
 contentAuthor: kocka 
-title: [java] wikik 
+title: java wikik 
 contentUpdateDate: 1193319707093 
 name: wiki 
 layout: wiki 

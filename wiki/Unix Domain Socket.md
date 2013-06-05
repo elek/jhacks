@@ -2,7 +2,7 @@
 creationDate: 1129720793895 
 author: renszarv 
 contentAuthor: renszarv 
-title: [Unix] alapu rendszereknél egy kedvelt processzek közötti kommunikációs forma. 
+title: Unix alapu rendszereknél egy kedvelt processzek közötti kommunikációs forma. 
 contentUpdateDate: 1129720793895 
 name: Unix Domain Socket 
 layout: wiki 

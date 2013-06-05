@@ -2,7 +2,7 @@
 creationDate: 1196159254756 
 author: kocka 
 contentAuthor: kocka 
-title: Mindmap dolgok [java-ban|java] 
+title: Mindmap dolgok java-ban 
 contentUpdateDate: 1196327523715 
 name: mindmap 
 layout: wiki 

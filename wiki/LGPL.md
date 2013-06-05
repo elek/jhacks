@@ -2,7 +2,7 @@
 creationDate: 1108037250114 
 author: kocka 
 contentAuthor: kocka 
-title: (Lesser|Library) [GPL] 
+title: (Lesser|Library) GPL 
 contentUpdateDate: 1108037250114 
 name: LGPL 
 layout: wiki 

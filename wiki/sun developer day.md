@@ -2,7 +2,7 @@
 creationDate: 1213718745270 
 author: kocka 
 contentAuthor: kocka 
-title: [SUN] fejlesztői nap 
+title: SUN fejlesztői nap 
 contentUpdateDate: 1213718745270 
 name: sun developer day 
 layout: wiki 

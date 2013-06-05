@@ -2,7 +2,7 @@
 creationDate: 1107502240443 
 author: kocka 
 contentAuthor: kocka 
-title: A [j2ee] fejlesztesi szerepkorei 
+title: A j2ee fejlesztesi szerepkorei 
 contentUpdateDate: 1159782539951 
 name: j2ee development roles 
 layout: wiki 

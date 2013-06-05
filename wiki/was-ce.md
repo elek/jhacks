@@ -2,7 +2,7 @@
 creationDate: 1136240163739 
 author: kocka 
 contentAuthor: kocka 
-title: [websphere] application server - community edition 
+title: websphere application server - community edition 
 contentUpdateDate: 1136240163739 
 name: was-ce 
 layout: wiki 

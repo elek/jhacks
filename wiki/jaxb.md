@@ -2,7 +2,7 @@
 creationDate: 1133886903646 
 author: karenin 
 contentAuthor: karenin 
-title: [Java] [XML] Binding 
+title: Java XML Binding 
 contentUpdateDate: 1161295523807 
 name: jaxb 
 layout: wiki 
