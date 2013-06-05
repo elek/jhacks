@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-#baseurl : http://elek.github.io/jhacks/
+baseurl : /jhacks/
 
 paginate : 30
 
