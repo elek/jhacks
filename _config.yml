@@ -1,5 +1,9 @@
-permalink: /:categories/:year/:month/:day/:title 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md","old"]
-pygments: true
+exclude: ['LICENSE.md', 'README.md', 'config.rb', 'sass']
+
+permalink: ':title/'
+
 baseurl: '/jhacks/'
+
+pygments: true
+
 markdown: rdiscount

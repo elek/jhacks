@@ -21,8 +21,8 @@
         <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
 
         <ul>
-          <li class="download"><a class="buttons" href="index.html">Mi ez?</a></li>
-          <li class="download"><a class="buttons" href="List.html">Oldalindex</a></li>
+          <li class="download"><a class="buttons" href="{{ site.baseurl }}index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="{{ site.baseurl }}List.html">Oldalindex</a></li>
         </ul>
 
         <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
@@ -33,7 +33,10 @@
 	{{ content }}
       </section>
       <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        {% if page.date %}
+        <p><small>{{ page.date | date: "%Y-%m-%d" }}</small></p>
+        {% endif %}
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
