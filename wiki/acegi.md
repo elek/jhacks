@@ -1,0 +1,20 @@
+---
+creationDate: 1136458232515 
+author: kocka 
+contentAuthor: kocka 
+title: acegi 
+contentUpdateDate: 1176993619267 
+name: acegi 
+layout: wiki 
+date: 1176993619267 
+creator: kocka 
+---
+![image](http://acegisecurity.org/logo.gif)(http://acegisecurity.org/)
+
+Egy [spring](spring.html)-kozeli project, amolyan [aop](AOP.html)os modon megadhatod vele hogy melyik metodust melyik felhasznalonak van joga hivni.
+
+Eleg flexibilis, [filter](filter.html)ek segitsegevel elfut [spring](spring.html) [webapp](webapp.html)okban is,  vagy akar [spring](spring.html)en kivul is hasznalhatod.
+
+Cikkek:
+
+*   [From Java EE security to Acegi](http://www.javaworld.com/cgi-bin/mailto/x_java.cgi) (JavaWorld)

@@ -1,0 +1,36 @@
+---
+creationDate: 1091823329558 
+author: kocka 
+contentAuthor: kocka 
+title: LOGO 
+contentUpdateDate: 1190358107989 
+name: LOGO 
+layout: wiki 
+date: 1190358107989 
+creator: kocka 
+---
+__A Hackers site logoi__
+
+(mellesleg a regi hackers.forgeahead.hu mar regota nem elerheto, ugyhogy ezeket is tekinthetjuk archivumnak :))
+
+Szoval mint az kozismert a hetkoznapi hackers logo [zsoltk](zsoltk.html) (aka Golyo) birkalyat abrazolja. Ez egy rendkivul hires birka, mar [IBM](IBM.html) konferenciakon is bemutattak. (pedig nem klonozott)
+
+Az alternativ logok:
+
+![image](http://jhacks.anzix.net/space/LOGO/hackers-logo-alultaplalt.png)<br/>
+_Ez megintcsak Golyo birkaja egy kiados ehezes utan._
+
+![image](http://jhacks.anzix.net/space/start/2004-07-26/3/hackers-logo-heggeszto.png)<br/>
+_Golyo es Sztupi altal megalmodott heggesztobirka. Mellesleg a tigranal nagy hagyomanyai vannak a heggesztesnek :)_
+
+![image](http://jhacks.anzix.net/space/start/2004-07-26/3/hackers-logo-doglottbirka.png)<br/>
+_A kiados fogyokura masik lehetseges kimenete: doglott birka_
+
+![image](http://jhacks.anzix.net/space/start/2004-07-26/3/hackers-logo-patkany.png)<br/>
+_No es a patkany birka helyett. Azert lett patkany mert ganalyturo bogarrol nem talaltam jo kepet, se moslekos pofaju kismalacrol :(_
+
+![image](http://jhacks.anzix.net/space/LOGO/hackers-logo.png)<br/>
+_Default._
+
+
+Hat ennyi, kivansagok nyugodtan johetnek, majd nem csinalom meg oket.

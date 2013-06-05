@@ -1,0 +1,12 @@
+---
+layout: default
+title: Oldalindex
+---
+<h1>Oldalak</h1>
+<ul>
+{% for page in site.pages %}
+   <li><a href="wiki/{{ page.title }}.html">{{ page.name }}</a></li>
+{% endfor %}   
+</ul>
+
+
