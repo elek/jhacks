@@ -9,7 +9,7 @@ A jhacks.hu a 2000-es évek környékén szerkesztett Java témájú wiki volt. 
 
 A wiki oldal bár elavult, de sok érdekes információt tartalmaz a Java ökoszisztéma 2000-es évek beli állapotáról. Ezért a dumpból statikus oldalt genráltam, és feltettem ide a github pages alá. 
 
-Kezdéshez kattints az [Oldalindex](../List.html)re!
+Kezdéshez kattints az [Oldalindex](List.html)re!
 
 - Az oldalt a github pages hostolja, az oldalak markdownban vannak
 - A migráció folyamatos fejlesztés alatt van, ezért a repo tartalma változhat (nem érdemes kézzel szerkeszteni egyelőre az oldalakat)
