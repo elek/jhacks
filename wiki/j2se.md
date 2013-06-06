@@ -1,13 +1,13 @@
 ---
-creationDate: 1127218122854 
-author: kocka 
-contentAuthor: kocka 
-title: Java 2 Standard edition 
-contentUpdateDate: 1127218122854 
-name: j2se 
-layout: wiki 
-date: 1127218122854 
-creator: kocka 
+creationDate        : 2005-09-20 14:08:42 +0200 
+author              : admin 
+title               : Java 2 Standard edition 
+name                : j2se 
+layout              : wiki 
+path                : j2se 
+date                : 2006-03-26 01:48:05 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [java](java.html) programnyelv desktopokra szant verzioja.
 

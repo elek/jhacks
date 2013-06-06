@@ -1,13 +1,13 @@
 ---
-creationDate: 1158831682367 
-author: kocka 
-contentAuthor: kocka 
-title: Laszlo/laszlo webapp build 
-contentUpdateDate: 1182763156436 
-name: Laszlolaszlo webapp build 
-layout: wiki 
-date: 1182763156436 
-creator: kocka 
+creationDate        : 2006-09-21 11:41:22 +0200 
+author              : kocka 
+title               : Laszlo/laszlo webapp build 
+name                : Laszlo/laszlo webapp build 
+layout              : wiki 
+path                : Laszlo/laszlo webapp build 
+date                : 2007-06-25 11:19:16 +0200 
+version             : 2 
+creator             : kocka 
 ---
 Nehany esetben kicsit azert izgis ez a [laszlo](../Laszlo.html), mert nem egeszen ugy kell ala fejleszteni mint egy sima [webapp](../webapp.html), meg ha egy teljesen sima [webapp](../webapp.html) is lesz belole. Na jo, flash-es. Kit erdekel :) Szoval kicsit okositani kell a [build](../build.html) processt.
 

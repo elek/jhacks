@@ -1,13 +1,13 @@
 ---
-creationDate: 1114713682380 
-author: kocka 
-contentAuthor: kocka 
-title: java pathfinder 
-contentUpdateDate: 1114713682380 
-name: java pathfinder 
-layout: wiki 
-date: 1114713682380 
-creator: kocka 
+creationDate        : 2005-04-28 20:41:22 +0200 
+author              : admin 
+title               : java pathfinder 
+name                : java pathfinder 
+layout              : wiki 
+path                : java pathfinder 
+date                : 2006-03-26 01:48:12 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://javapathfinder.sourceforge.net/JPF_files/spiral-of-death.png)(http://javapathfinder.sourceforge.net/)
 

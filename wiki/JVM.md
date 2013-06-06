@@ -1,13 +1,13 @@
 ---
-creationDate: 1206968745479 
-author: kocka 
-contentAuthor: kocka 
-title: JVM 
-contentUpdateDate: 1212864756112 
-name: JVM 
-layout: wiki 
-date: 1212864756112 
-creator: tvik 
+creationDate        : 2008-03-31 15:05:45 +0200 
+author              : kocka 
+title               : JVM 
+name                : JVM 
+layout              : wiki 
+path                : JVM 
+date                : 2008-06-07 20:52:36 +0200 
+version             : 2 
+creator             : tvik 
 ---
 Java Virtual Machine == Java Virtuális Gép
 

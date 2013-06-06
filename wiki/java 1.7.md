@@ -1,13 +1,13 @@
 ---
-creationDate: 1140043468340 
-author: karenin 
-contentAuthor: karenin 
-title: java 1.7 
-contentUpdateDate: 1212771615318 
-name: java 1.7 
-layout: wiki 
-date: 1212771615318 
-creator: kocka 
+creationDate        : 2006-02-15 23:44:28 +0100 
+author              : karenin 
+title               : java 1.7 
+name                : java 1.7 
+layout              : wiki 
+path                : java 1.7 
+date                : 2008-06-06 19:00:15 +0200 
+version             : 8 
+creator             : kocka 
 ---
 A [java](java.html) tervezes alatt allo verzioja. Beceneve: Dolfi.
 
@@ -19,11 +19,12 @@ uj nyelvi lehetosegek, mint:
 *   [Automatic Resource Management Blocks](http://docs.google.com/View?docid=dffxznxr_1nmsqkz&pli=1)
 
 Linkek:
+
 *   [Puredanger java 7 hirek és linkgyüjtemény (A legjobb összefoglaló)](http://tech.puredanger.com/java7)
 
 
-
-
+-   [java 1.7/native xml support](java 1.7/native xml support.html)
+-   [java 1.7](java 1.7.html)
 
 
 

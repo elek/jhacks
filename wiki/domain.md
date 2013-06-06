@@ -1,13 +1,13 @@
 ---
-creationDate: 1106427093395 
-author: zsoltk 
-contentAuthor: zsoltk 
-title: domain 
-contentUpdateDate: 1106427171536 
-name: domain 
-layout: wiki 
-date: 1106427171536 
-creator: zsoltk 
+creationDate        : 2005-01-22 21:51:33 +0100 
+author              : admin 
+title               : domain 
+name                : domain 
+layout              : wiki 
+path                : domain 
+date                : 2006-03-26 01:47:52 +0100 
+version             : 1 
+creator             : zsoltk 
 ---
 Sok ertelmezes van, de amit a leginkabb nehez volt megertenem azt a jo kis arhitekturalis konyvekben olvastam. Igyhat alljon itt egy kis magyarazat.<br/>
 

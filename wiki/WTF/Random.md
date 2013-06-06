@@ -1,13 +1,13 @@
 ---
-creationDate: 1164635705443 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/Random 
-contentUpdateDate: 1164635705443 
-name: WTFRandom 
-layout: wiki 
-date: 1164635705443 
-creator: kocka 
+creationDate        : 2006-11-27 14:55:05 +0100 
+author              : kocka 
+title               : WTF/Random 
+name                : WTF/Random 
+layout              : wiki 
+path                : WTF/Random 
+date                : 2006-11-27 14:55:05 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Koszi a linkert [renszarv](../renszarv.html)nak!
 

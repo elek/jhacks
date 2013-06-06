@@ -1,13 +1,13 @@
 ---
-creationDate: 1190198627852 
-author: kocka 
-contentAuthor: kocka 
-title: topics 
-contentUpdateDate: 1202819542776 
-name: topics 
-layout: wiki 
-date: 1202819542776 
-creator: kocka 
+creationDate        : 2007-09-19 12:43:47 +0200 
+author              : kocka 
+title               : topics 
+name                : topics 
+layout              : wiki 
+path                : topics 
+date                : 2008-02-12 13:32:22 +0100 
+version             : 16 
+creator             : kocka 
 ---
 
 
@@ -94,7 +94,5 @@ Közel sem teljes lista arról hogy mit találhatsz a jhacks-on. Az anyagot igye
 *   [blogok](blog.html)
 *   [weboldalak](linkek.html)
 *   [Java User Meetings](http://www.jum.hu/) és más [konferenciák](konferencia.html)
-
-
 
 [TODO](TODO.html)

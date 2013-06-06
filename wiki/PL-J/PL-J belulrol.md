@@ -1,13 +1,13 @@
 ---
-creationDate: 1104705194722 
-author: kocka 
-contentAuthor: kocka 
-title: PL-J/PL-J belulrol 
-contentUpdateDate: 1104706843904 
-name: PL-JPL-J belulrol 
-layout: wiki 
-date: 1104706843904 
-creator: kocka 
+creationDate        : 2005-01-02 23:33:14 +0100 
+author              : admin 
+title               : PL-J/PL-J belulrol 
+name                : PL-J/PL-J belulrol 
+layout              : wiki 
+path                : PL-J/PL-J belulrol 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
+creator             : kocka 
 ---
 _Most meglatjatok milyen rettenetes abraka lehet rajzolni gimppel egy kis hozzaertes es igenyesseg nelkul :)_
 
@@ -25,27 +25,17 @@ Egy komponens egy adott feladatkort tolt, tobbnyire eleg aprokat, pl a log4j ren
 *   __typemapper__, ami RDBMS tipusokat tud mappelni Java osztalyokka es vissza
 *   __executor__, a UDF/trigger hivasok futtatasa.
 
-
-
 ![image](http://hackers.forgeahead.hu/space/PL-J/PL-J+belulrol/plj-components-overview.gif)
 
-
-
 Persze mindegyik konkret megvalositasa egyeb komponsnsek hasznalatat teszi szuksegesse vagy celszeruve, igy szulettek olyan kulon szerviz komponensek, mint:
+
 *   __JDBC konfiguracio szolgaltatas__, igy az alkalmazasodban tudod konfiguralni a JDBC driver viselkedeset. (Kicsit sokfele opcio van...)
 *   [Log4j](../log4j.html) inicializalo szolgaltatas.
 *   stb
 
-
-
 A [Loom](../loom.html) alkalmazasszerver sok finom szolgaltatast nyujt: [JMX](../JMX.html), hot deploy, az alkalmazas tobb alkalmazassal egy VM-ben tud futni, stb.
 
-
-
 ![image](http://hackers.forgeahead.hu/space/PL-J/PL-J+belulrol/plj-in-loom.gif)
-
-
-
 
 
 (folytkov, rettegj retek!)

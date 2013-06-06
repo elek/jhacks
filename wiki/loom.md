@@ -1,19 +1,19 @@
 ---
-creationDate: 1091783189394 
-author: kocka 
-contentAuthor: kocka 
-title: loom 
-contentUpdateDate: 1110185867344 
-name: loom 
-layout: wiki 
-date: 1110185867344 
-creator: kocka 
+creationDate        : 2004-08-06 11:06:29 +0200 
+author              : admin 
+title               : loom 
+name                : loom 
+layout              : wiki 
+path                : loom 
+date                : 2006-03-26 01:48:25 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://loom.codehaus.org/images/loom-logo.png)
 
 __Loom__
 
-http://loom.codehaus.org/
+[http://loom.codehaus.org/](http://loom.codehaus.org/)
 
 # Roviden
 
@@ -30,7 +30,7 @@ A [metaclass](MetaClass.html) library-t hasznalja a komponens metainformaciok ta
 
 Elinditottak egy loom applications repository-t is, ahova kerni lehet linkek felvetelet, esetleg ha jo fiu vagy es erdekes a cucc amit irni akarsz, kapsz egy [CVS](CVS.html) hozzaferest is egy repository aghoz.<br/>
 
-*   http://loom.codehaus.org/loom+applications (ezt olvasd el)
+*   [http://loom.codehaus.org/loom+applications](http://loom.codehaus.org/loom+applications) (ezt olvasd el)
 *   irc://irc.codehaus.org/#jcontainer (itt vannak az arcok akikkel beszelni kell)
 
 Jelenleg meg kicsit ures, de lesz ez meg maskent, nekem is van 3 loom alapu fejlesztesem.

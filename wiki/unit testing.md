@@ -1,13 +1,13 @@
 ---
-creationDate: 1164881362053 
-author: kocka 
-contentAuthor: kocka 
-title: unit testing 
-contentUpdateDate: 1164881951744 
-name: unit testing 
-layout: wiki 
-date: 1164881951744 
-creator: kocka 
+creationDate        : 2006-11-30 11:09:22 +0100 
+author              : kocka 
+title               : unit testing 
+name                : unit testing 
+layout              : wiki 
+path                : unit testing 
+date                : 2006-11-30 11:19:11 +0100 
+version             : 3 
+creator             : kocka 
 ---
 Olyan [test](test.html) ami egy bizonyos komponenst tesztel. Nyilvan a komponenssel szemben kell hogy legyen valami elvarasunk. ([COP](COP.html))
 

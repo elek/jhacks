@@ -1,15 +1,15 @@
 ---
-creationDate: 1181139143661 
-author: kocka 
-contentAuthor: kocka 
-title: perforce 
-contentUpdateDate: 1214694307615 
-name: perforce 
-layout: wiki 
-date: 1214694307615 
-creator: kocka 
+creationDate        : 2007-06-06 16:12:23 +0200 
+author              : kocka 
+title               : perforce 
+name                : perforce 
+layout              : wiki 
+path                : perforce 
+date                : 2008-06-29 01:05:07 +0200 
+version             : 16 
+creator             : kocka 
 ---
-http://www.perforce.com/
+[http://www.perforce.com/](http://www.perforce.com/)
 
 Egy [perverzió kezelő](version%20control.html) rendszer, [multiplatform](Missing.html). Nem szabad, de [free](Open%20Source.html) szoftverekhez ingyen lehet használni. Van hozzá [eclipse](Eclipse.html) [plugin](http://www.perforce.com/perforce/products/p4wsad.html), command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.
 
@@ -22,23 +22,15 @@ Egy [perverzió kezelő](version%20control.html) rendszer, [multiplatform](Missi
 *   Egyszer egy fórumban olvastam egy mérges hozzászólást, miszerint az SVN fejlesztői egyszerűen lenyúlták a branchelés alapötletét a perforce-tól (azaz hogy másolsz tulajdonképpen). Mondjuk ez valószinűleg senkit sem érdekel addig amíg jobban csinálja.
 *   Na még egy izgalmas részletet mesélnék erről a zseniális szoftverről: Amikor licenszeled (annyiba kerül hogy ennyiért már felvehetnél egy programozót úgy fél évre), akkor a szervered IP-címére kell a licenszt kérni, így amikor valamilyen technikai okból a szerver IP-címe változik, akkor bizony interakcióba kell lépni a sales team-mel és új licenszt kérni hozzá. Közben az ember azon gondolkodik, hogy ennyi idő alatt hányszor [migrált volna át](http://p42svn.tigris.org/) [subversionra](subversion.html) :-)
 
-
-
 Szóval mindent összevetve, elég érdekes dolog, és nem túl szórakoztató hosszútávon. Aki mégis a kijárt utat akarja járni, az talán jobban jár a [subversion](subversion.html)nal :)
-
-
 
 Talán leginkább a [ClearCase](ClearCase.html) hasonlít rá. - az se volt soha a szivem csücske :-)
 
 
-
-
-
 Hova ne menj dolgonzi, ha el akarod kerülni:
+
 *   [google](http://versioncontrolblog.com/2006/12/03/perforce-as-the-version-control-system-at-google/) :-((( ez van
 *   morgan stanley, ez itthon
 *   többek közt...
-
-
 
 

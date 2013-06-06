@@ -1,13 +1,13 @@
 ---
-creationDate: 1150927303039 
-author: kocka 
-contentAuthor: kocka 
-title: dbunit 
-contentUpdateDate: 1150927303039 
-name: dbunit 
-layout: wiki 
-date: 1150927303039 
-creator: kocka 
+creationDate        : 2006-06-22 00:01:43 +0200 
+author              : kocka 
+title               : dbunit 
+name                : dbunit 
+layout              : wiki 
+path                : dbunit 
+date                : 2006-06-22 00:01:43 +0200 
+version             : 1 
+creator             : kocka 
 ---
 Egy kis [junit](junit.html)-kozeli library, ami olyanokra jo mint kis tesztadatbazisok inicializacioja integracios vagy [dao](DAO.html) tesztekhez.
 

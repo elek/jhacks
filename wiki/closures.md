@@ -1,17 +1,17 @@
 ---
-creationDate: 1183018464210 
-author: kocka 
-contentAuthor: kocka 
-title: closures 
-contentUpdateDate: 1202809257317 
-name: closures 
-layout: wiki 
-date: 1202809257317 
-creator: kocka 
+creationDate        : 2007-06-28 10:14:24 +0200 
+author              : kocka 
+title               : closures 
+name                : closures 
+layout              : wiki 
+path                : closures 
+date                : 2008-02-12 10:40:57 +0100 
+version             : 7 
+creator             : kocka 
 ---
 _[TODO](TODO.html): Kicsit meg chunk jellegu_
 
-http://javac.info/
+[http://javac.info/](http://javac.info/)
 
 A closure valahol a function object-nél kezdődik, de sokkal kompaktabb szintaxist ad.
 
@@ -26,7 +26,5 @@ Linkek:
 *   [Joshua Bloch: The closures controvcersy - javapolis 2007](http://www.parleys.com/display/PARLEYS/The+Closures+Controversy)
 *   [Closures for java](http://www.oreillynet.com/onjava/blog/2006/08/will_we_have_closures_in_java.html) ([java 1.7](java%201.7.html), es csak proposal)
 *   [Closures in Java 7.0](http://www.oreillynet.com/onjava/blog/2006/12/closures_in_java_70.html)
-
-
 
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1111264537361 
-author: kocka 
-contentAuthor: kocka 
-title: OpenOffice.org 
-contentUpdateDate: 1171361167738 
-name: OpenOffice.org 
-layout: wiki 
-date: 1171361167738 
-creator: kocka 
+creationDate        : 2005-03-19 21:35:37 +0100 
+author              : kocka 
+title               : OpenOffice.org 
+name                : OpenOffice.org 
+layout              : wiki 
+path                : OpenOffice.org 
+date                : 2007-02-13 11:06:07 +0100 
+version             : 4 
+creator             : kocka 
 ---
 ![image](http://www.openoffice.org/branding/images/logonew.gif)(http://OpenOffice.org/)
 
@@ -20,13 +20,7 @@ Mitol olyan ql:
 *   Az egesz [XML](XML.html) alapu, ugyhogy nem fogunk sirni az idiota fileformatum miatt. Vagy pl hogy meg sajat magat se ertene idonkent mint az MS-WORD :)
 
 
-
-
-
 Ha mar ennyire offtopic dolgot felpakoltam, akkor megemlitenem az [FSF.hu](http://fsf.hu) csapatot is, akik vezenyeltek a magyarra forditasat egy hatalmas partizanakcio kereteben valamikor 2002-ben, ha jol emlekszem. (nagyon jo volt a pizza)<br/>
-
 Alld meg uram az FSF.hu-t! :)
-
-
 
 

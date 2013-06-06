@@ -1,13 +1,13 @@
 ---
-creationDate: 1103112542252 
-author: kocka 
-contentAuthor: kocka 
-title: CloudScape 
-contentUpdateDate: 1103113053835 
-name: CloudScape 
-layout: wiki 
-date: 1103113053835 
-creator: kocka 
+creationDate        : 2004-12-15 13:09:02 +0100 
+author              : admin 
+title               : CloudScape 
+name                : CloudScape 
+layout              : wiki 
+path                : CloudScape 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A Cloudscape az [IBM](IBM.html) beagyazott [RDBMS](RDBMS.html) megoldasa. Open Source forkja az [ASF](ASF.html) [Derby](Derby.html) projectje. A Cloudscape tovabb el a [Derby](Derby.html) utan is, kereskedelmi support, garancia meg ilyesmi jar a penzert nyilvan.
 

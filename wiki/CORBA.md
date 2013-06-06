@@ -1,13 +1,13 @@
 ---
-creationDate: 1107418454185 
-author: kocka 
-contentAuthor: kocka 
-title: CORBA 
-contentUpdateDate: 1206712893239 
-name: CORBA 
-layout: wiki 
-date: 1206712893239 
-creator: kocka 
+creationDate        : 2005-02-03 09:14:14 +0100 
+author              : kocka 
+title               : CORBA 
+name                : CORBA 
+layout              : wiki 
+path                : CORBA 
+date                : 2008-03-28 15:01:33 +0100 
+version             : 5 
+creator             : kocka 
 ---
 __Component Request Broker Architecture__
 

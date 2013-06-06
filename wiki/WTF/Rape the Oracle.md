@@ -1,13 +1,13 @@
 ---
-creationDate: 1128378195006 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/Rape the Oracle 
-contentUpdateDate: 1128378195006 
-name: WTFRape the Oracle 
-layout: wiki 
-date: 1128378195006 
-creator: kocka 
+creationDate        : 2005-10-04 00:23:15 +0200 
+author              : admin 
+title               : WTF/Rape the Oracle 
+name                : WTF/Rape the Oracle 
+layout              : wiki 
+path                : WTF/Rape the Oracle 
+date                : 2006-03-26 01:43:02 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Nyilvan nem a matrixban az oregmammert, hanem az [oracle](../Oracle.html) [rdbms](../RDBMS.html)t. Van ennek egy [oracle advanced queue](../oracle%20advanced%20queue.html) nevu feature mar a 8.x-es szeriatol kezdve, szoval evek ota, ez arra jo hogy PL/SQL-bol be tudj nyomni queue-nak latszo tablaba mindenfele adatot. [Xml](../XML.html)t, felhasznaloi adattipusokat, szoveget, stb.
 

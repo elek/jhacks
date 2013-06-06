@@ -1,13 +1,13 @@
 ---
-creationDate: 1204280126513 
-author: kocka 
-contentAuthor: kocka 
-title: adobe 
-contentUpdateDate: 1204280145569 
-name: adobe 
-layout: wiki 
-date: 1204280145569 
-creator: kocka 
+creationDate        : 2008-02-29 11:15:26 +0100 
+author              : kocka 
+title               : adobe 
+name                : adobe 
+layout              : wiki 
+path                : adobe 
+date                : 2008-02-29 11:15:45 +0100 
+version             : 2 
+creator             : kocka 
 ---
 Mi jön az adobe-tól ami érdekelődésre tarthat számot:
 
@@ -16,7 +16,5 @@ Mi jön az adobe-tól ami érdekelődésre tarthat számot:
 *   [blazeds](BlazeDS.html)
 *   [flex](flex.html)
 *   és més sok más, de unalmas dolog
-
-
 
 

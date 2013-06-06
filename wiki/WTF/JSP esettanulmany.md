@@ -1,13 +1,13 @@
 ---
-creationDate: 1120123144831 
-author: suhaig 
-contentAuthor: suhaig 
-title: WTF/JSP esettanulmany 
-contentUpdateDate: 1120123144831 
-name: WTFJSP esettanulmany 
-layout: wiki 
-date: 1120123144831 
-creator: suhaig 
+creationDate        : 2005-06-30 11:19:04 +0200 
+author              : admin 
+title               : WTF/JSP esettanulmany 
+name                : WTF/JSP esettanulmany 
+layout              : wiki 
+path                : WTF/JSP esettanulmany 
+date                : 2006-03-26 01:43:02 +0100 
+version             : 1 
+creator             : suhaig 
 ---
 Sajnaljatok egy kicsit legyetek szivesek. Koszi :)
 

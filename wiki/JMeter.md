@@ -1,13 +1,13 @@
 ---
-creationDate: 1153239346235 
-author: kocka 
-contentAuthor: kocka 
-title: JMeter 
-contentUpdateDate: 1153239403768 
-name: JMeter 
-layout: wiki 
-date: 1153239403768 
-creator: kocka 
+creationDate        : 2006-07-18 18:15:46 +0200 
+author              : kocka 
+title               : JMeter 
+name                : JMeter 
+layout              : wiki 
+path                : JMeter 
+date                : 2006-07-18 18:16:43 +0200 
+version             : 3 
+creator             : kocka 
 ---
 ([GER](Ger.html) billentyuzetebol, en csak atmasoltam...)<br/>
 Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.
@@ -26,9 +26,8 @@ __Komponens típusok:__
 *   Pre processors: még a samplerek végrehajtása elött , samplereket modifikáló komponensek: HTML Link Parser, URL rewriting, User parameters, Counter, stb…
 *   Post processors: a samplerek eredményét feldolgozó komponensek: reguláris kifejezések, Result status action handler,  stb…
 
-
-
 __Előnyök:__
+
 *   Ingyenes
 *   Komponens alapú szemlélet
 *   Univerzális, komponensek széles választéka, de akár ki is egészíthető
@@ -39,16 +38,14 @@ __Előnyök:__
 *   Reguláris kifejezések
 *   Automatikus URL felvétel egy HTTP Proxy segítségével
 
-
-
 __Hátrány:__
+
 *   HTTPS alatt nincsen automatikus URL felvétel
 *   Nagyobb teszt közben szinte lehetetlen leállítani, helyette ki kell lőni az egész progit
 *   Teszt közben nincsen progress bar, csak indirekt módon lehet következtetni hol jár
 
-
-
 __További információ:__
-*   http://jakarta.apache.org/jmeter/index.html
-*   http://jakarta.apache.org/jmeter/usermanual/index.html
-*   http://jakarta.apache.org/jmeter/usermanual/component_reference.html
+
+*   [http://jakarta.apache.org/jmeter/index.html](http://jakarta.apache.org/jmeter/index.html)
+*   [http://jakarta.apache.org/jmeter/usermanual/index.html](http://jakarta.apache.org/jmeter/usermanual/index.html)
+*   [http://jakarta.apache.org/jmeter/usermanual/component_reference.html](http://jakarta.apache.org/jmeter/usermanual/component_reference.html)

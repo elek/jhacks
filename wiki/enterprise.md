@@ -1,13 +1,13 @@
 ---
-creationDate: 1187359422874 
-author: kocka 
-contentAuthor: kocka 
-title: enterprise 
-contentUpdateDate: 1187359444578 
-name: enterprise 
-layout: wiki 
-date: 1187359444578 
-creator: kocka 
+creationDate        : 2007-08-17 16:03:42 +0200 
+author              : kocka 
+title               : enterprise 
+name                : enterprise 
+layout              : wiki 
+path                : enterprise 
+date                : 2007-08-17 16:04:04 +0200 
+version             : 2 
+creator             : kocka 
 ---
 Az IT szövegkörnyezetben az __enterprise__ jelző a következő tulajdonságokat jelenti:
 
@@ -18,16 +18,11 @@ Az IT szövegkörnyezetben az __enterprise__ jelző a következő tulajdonságok
 *   Bugos
 *   Túlkomplkált
 
-
-
 Egyetlen egy szóval: böszme.
 
-
-
 Lásd például:
+
 *   [Enterprise Java Beans](EJB.html)
 *   [Enterprise Resource PLaning](Missing.html)
-
-
 
 

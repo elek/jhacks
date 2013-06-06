@@ -1,13 +1,13 @@
 ---
-creationDate: 1103362680023 
-author: kocka 
-contentAuthor: kocka 
-title: MetaClass 
-contentUpdateDate: 1113998893027 
-name: MetaClass 
-layout: wiki 
-date: 1113998893027 
-creator: kocka 
+creationDate        : 2004-12-18 10:38:00 +0100 
+author              : admin 
+title               : MetaClass 
+name                : MetaClass 
+layout              : wiki 
+path                : MetaClass 
+date                : 2006-03-26 01:42:46 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://metaclass.codehaus.org/images/logo.gif)(http://metaclass.codehaus.org/)
 

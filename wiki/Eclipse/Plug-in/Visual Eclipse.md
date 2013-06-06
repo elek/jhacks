@@ -1,15 +1,15 @@
 ---
-creationDate: 1107513870663 
-author: kocka 
-contentAuthor: kocka 
-title: Eclipse/Plug-in/Visual Eclipse 
-contentUpdateDate: 1133194369299 
-name: EclipsePlug-inVisual Eclipse 
-layout: wiki 
-date: 1133194369299 
-creator: kocka 
+creationDate        : 2005-02-04 11:44:30 +0100 
+author              : admin 
+title               : Eclipse/Plug-in/Visual Eclipse 
+name                : Eclipse/Plug-in/Visual Eclipse 
+layout              : wiki 
+path                : Eclipse/Plug-in/Visual Eclipse 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://www.eclipse.org/vep/
+[http://www.eclipse.org/vep/](http://www.eclipse.org/vep/)
 
 Szoval tesztelgetve a Visual Eclipse plugint, csak elszore szivas, utanna meg lehet szokni. Lehet vele [swing](../../Swing.html), [swt](../../swt.html) es [awt](../../AWT.html) alkalmazasokat fejlesztgetni.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1192702750693 
-author: kocka 
-contentAuthor: kocka 
-title: Gráf reprezentációk és algoritmusok 
-contentUpdateDate: 1206449856228 
-name: graph 
-layout: wiki 
-date: 1206449856228 
-creator: kocka 
+creationDate        : 2007-10-18 12:19:10 +0200 
+author              : kocka 
+title               : Gráf reprezentációk és algoritmusok 
+name                : graph 
+layout              : wiki 
+path                : graph 
+date                : 2008-03-25 13:57:36 +0100 
+version             : 6 
+creator             : kocka 
 ---
 *   [jung](jung.html)
 *   [jgrapht](Missing.html)
@@ -15,31 +15,19 @@ creator: kocka
 
 # Formátumok
 
-
 *   [GraphML](GraphML.html)
 *   [RDF](RDF.html) (ez legalábbis még ide vág)
 
 # Satöbbik
-
 
 *   [mindmap-ek](mindmap.html)
 
 
 
 
-
-
-
-
-
-(Gráf[:url:http://foo.com/](Missing.html)
-
+(Gráf[:url:[http://foo.com/](http://foo.com/)](Missing.html)
    (Reprezentációk
-
-      (jung[:url:http://foo.com/](Missing.html))
-
+      (jung[:url:[http://foo.com/](http://foo.com/)](Missing.html))
    )
-
 )
-
 

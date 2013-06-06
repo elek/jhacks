@@ -1,13 +1,13 @@
 ---
-creationDate: 1105005964940 
-author: zsoltk 
-contentAuthor: zsoltk 
-title: IKVM 
-contentUpdateDate: 1105037579856 
-name: IKVM 
-layout: wiki 
-date: 1105037579856 
-creator: boci 
+creationDate        : 2005-01-06 11:06:04 +0100 
+author              : admin 
+title               : IKVM 
+name                : IKVM 
+layout              : wiki 
+path                : IKVM 
+date                : 2006-03-26 01:42:41 +0100 
+version             : 1 
+creator             : boci 
 ---
 Az IKVM egy [.NET](.net.html)-re epulo Java [VM](Missing.html). Haszons lesz az uj [.NET](.net.html)-et nativan tamogato [Operacios rendszer](Operacios%20rendszer.html)eknel.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1092227152185 
-author: kocka 
-contentAuthor: kocka 
-title: jython 
-contentUpdateDate: 1122816820100 
-name: jython 
-layout: wiki 
-date: 1122816820100 
-creator: kocka 
+creationDate        : 2004-08-11 14:25:52 +0200 
+author              : admin 
+title               : jython 
+name                : jython 
+layout              : wiki 
+path                : jython 
+date                : 2006-03-26 01:48:18 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.jython.org/images/jython-new-small.gif)(http://www.jython.org/)
 

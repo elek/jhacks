@@ -1,13 +1,13 @@
 ---
-creationDate: 1190210027441 
-author: karenin 
-contentAuthor: karenin 
-title: Wicket 
-contentUpdateDate: 1190210027441 
-name: Wicket 
-layout: wiki 
-date: 1190210027441 
-creator: karenin 
+creationDate        : 2007-09-19 15:53:47 +0200 
+author              : karenin 
+title               : Wicket 
+name                : Wicket 
+layout              : wiki 
+path                : Wicket 
+date                : 2007-09-19 15:53:47 +0200 
+version             : 1 
+creator             : karenin 
 ---
 [Komponens alapú](Component%20Based%20Web%20Frameworks.html) web framework, most már ő is az apache égisze alatt van.
 

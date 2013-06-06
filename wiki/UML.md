@@ -1,13 +1,13 @@
 ---
-creationDate: 1092302876110 
-author: kocka 
-contentAuthor: kocka 
-title: UML 
-contentUpdateDate: 1190234496677 
-name: UML 
-layout: wiki 
-date: 1190234496677 
-creator: kocka 
+creationDate        : 2004-08-12 11:27:56 +0200 
+author              : kocka 
+title               : UML 
+name                : UML 
+layout              : wiki 
+path                : UML 
+date                : 2007-09-19 22:41:36 +0200 
+version             : 5 
+creator             : kocka 
 ---
 __Unified Modelling Language__
 
@@ -23,7 +23,5 @@ UML diagrammok tamogatasa
 *   [AndroMDA](AndroMDA.html)
 *   [Possedion UML](Missing.html)
 *   [Argo UML](Argo%20UML.html)
-
-
 
 Szorosan kapcsolodik hozza az [MDA](MDA.html) (Modell Driven Architecture), az [AndroMDA](AndroMDA.html)-n belul lathatunk ra peldat.

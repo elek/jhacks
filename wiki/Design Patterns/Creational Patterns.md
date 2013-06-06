@@ -1,13 +1,13 @@
 ---
-creationDate: 1165314244410 
-author: karenin 
-contentAuthor: karenin 
-title: Design Patterns/Creational Patterns 
-contentUpdateDate: 1190898604310 
-name: Design PatternsCreational Patterns 
-layout: wiki 
-date: 1190898604310 
-creator: kocka 
+creationDate        : 2006-12-05 11:24:04 +0100 
+author              : karenin 
+title               : Design Patterns/Creational Patterns 
+name                : Design Patterns/Creational Patterns 
+layout              : wiki 
+path                : Design Patterns/Creational Patterns 
+date                : 2007-09-27 15:10:04 +0200 
+version             : 4 
+creator             : kocka 
 ---
 Objektumok letrehozasara vonatkozo [Design Patterns](../Design%20Patterns.html)
 

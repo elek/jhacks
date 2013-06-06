@@ -1,13 +1,13 @@
 ---
-creationDate: 1136240163739 
-author: kocka 
-contentAuthor: kocka 
-title: websphere application server - community edition 
-contentUpdateDate: 1136240163739 
-name: was-ce 
-layout: wiki 
-date: 1136240163739 
-creator: kocka 
+creationDate        : 2006-01-02 23:16:03 +0100 
+author              : admin 
+title               : websphere application server - community edition 
+name                : was-ce 
+layout              : wiki 
+path                : was-ce 
+date                : 2006-03-26 01:51:25 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Az [IBM](IBM.html) kozossegnek szant [alkalmazas szerver](Alkalmazas%20Szerver.html)e, ami tulajdonkeppen egesz egyszeruen egy [geronimo](geronimo.html), egy splas-screen-es installerrel meg egy nem tul komoly adminisztracios alkalmazassal. Szoval a [websphere](Websphere.html)hez a neven kivul nem sok koze van.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1115991430090 
-author: kocka 
-contentAuthor: kocka 
-title: Boo 
-contentUpdateDate: 1116332838038 
-name: Boo 
-layout: wiki 
-date: 1116332838038 
-creator: kocka 
+creationDate        : 2005-05-13 15:37:10 +0200 
+author              : admin 
+title               : Boo 
+name                : Boo 
+layout              : wiki 
+path                : Boo 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://boo.codehaus.org/boo.png)(http://boo.codehaus.org/)
 

@@ -1,15 +1,15 @@
 ---
-creationDate: 1133266316372 
-author: renszarv 
-contentAuthor: renszarv 
-title: Eclipse/Plug-in/Visual Editor 
-contentUpdateDate: 1133642748000 
-name: EclipsePlug-inVisual Editor 
-layout: wiki 
-date: 1133642748000 
-creator: renszarv 
+creationDate        : 2005-11-29 13:11:56 +0100 
+author              : admin 
+title               : Eclipse/Plug-in/Visual Editor 
+name                : Eclipse/Plug-in/Visual Editor 
+layout              : wiki 
+path                : Eclipse/Plug-in/Visual Editor 
+date                : 2006-03-26 01:42:38 +0100 
+version             : 1 
+creator             : renszarv 
 ---
-http://www.eclipse.org/vep/
+[http://www.eclipse.org/vep/](http://www.eclipse.org/vep/)
 
 Szoval tesztelgetve a Visual Editor plugint, csak elszore szivas, utanna meg lehet szokni. Lehet vele [swing](../../Swing.html), [swt](../../swt.html) es [awt](../../AWT.html) alkalmazasokat fejlesztgetni.
 

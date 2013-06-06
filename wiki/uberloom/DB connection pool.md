@@ -1,12 +1,12 @@
 ---
-creationDate: 1107700952908 
-author: kocka 
-contentAuthor: kocka 
-title: uberloom/DB connection pool 
-contentUpdateDate: 1112043796422 
-name: uberloomDB connection pool 
-layout: wiki 
-date: 1112043796422 
-creator: kocka 
+creationDate        : 2005-02-06 15:42:32 +0100 
+author              : admin 
+title               : uberloom/DB connection pool 
+name                : uberloom/DB connection pool 
+layout              : wiki 
+path                : uberloom/DB connection pool 
+date                : 2006-03-26 01:51:21 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Asszem ez nem erdemel kulonosebb fejtorest :)

@@ -1,13 +1,13 @@
 ---
-creationDate: 1115800755730 
-author: kocka 
-contentAuthor: kocka 
-title: gyanus 
-contentUpdateDate: 1129566599533 
-name: gyanus 
-layout: wiki 
-date: 1129566599533 
-creator: kocka 
+creationDate        : 2005-05-11 10:39:15 +0200 
+author              : admin 
+title               : gyanus 
+name                : gyanus 
+layout              : wiki 
+path                : gyanus 
+date                : 2006-03-26 01:48:00 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Mikor kezd el gyanus lenni egy szoftver:
 

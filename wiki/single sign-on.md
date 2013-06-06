@@ -1,13 +1,13 @@
 ---
-creationDate: 1121768056552 
-author: kocka 
-contentAuthor: kocka 
-title: single sign-on 
-contentUpdateDate: 1121768056552 
-name: single sign-on 
-layout: wiki 
-date: 1121768056552 
-creator: kocka 
+creationDate        : 2005-07-19 12:14:16 +0200 
+author              : admin 
+title               : single sign-on 
+name                : single sign-on 
+layout              : wiki 
+path                : single sign-on 
+date                : 2006-03-26 01:48:46 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Single sign-on rendeszerek java-hoz:
 

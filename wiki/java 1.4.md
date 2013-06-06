@@ -1,13 +1,13 @@
 ---
-creationDate: 1118841148733 
-author: kocka 
-contentAuthor: kocka 
-title: java 1.4 
-contentUpdateDate: 1161876866425 
-name: java 1.4 
-layout: wiki 
-date: 1161876866425 
-creator: kocka 
+creationDate        : 2005-06-15 15:12:28 +0200 
+author              : kocka 
+title               : java 1.4 
+name                : java 1.4 
+layout              : wiki 
+path                : java 1.4 
+date                : 2006-10-26 17:34:26 +0200 
+version             : 3 
+creator             : kocka 
 ---
 A [java](java.html) 1.4 fobb ujdonsagai ezek voltak (tortenelem orakra hogy elgyen mibol keszulni):
 

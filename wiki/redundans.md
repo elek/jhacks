@@ -1,13 +1,13 @@
 ---
-creationDate: 1106479804233 
-author: kocka 
-contentAuthor: kocka 
-title: redundans 
-contentUpdateDate: 1108329085054 
-name: redundans 
-layout: wiki 
-date: 1108329085054 
-creator: renszarv 
+creationDate        : 2005-01-23 12:30:04 +0100 
+author              : admin 
+title               : redundans 
+name                : redundans 
+layout              : wiki 
+path                : redundans 
+date                : 2006-03-26 01:48:40 +0100 
+version             : 1 
+creator             : renszarv 
 ---
 A [rekurziv](rekurziv.html) snip utan szabadon:<br/>
 Redundans<br/>

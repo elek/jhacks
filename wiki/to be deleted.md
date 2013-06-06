@@ -1,13 +1,13 @@
 ---
-creationDate: 1142170146145 
-author: kocka 
-contentAuthor: kocka 
-title: to be deleted 
-contentUpdateDate: 1142170146145 
-name: to be deleted 
-layout: wiki 
-date: 1142170146145 
-creator: kocka 
+creationDate        : 2006-03-12 14:29:06 +0100 
+author              : admin 
+title               : to be deleted 
+name                : to be deleted 
+layout              : wiki 
+path                : to be deleted 
+date                : 2006-03-26 01:51:19 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Torlendo snippek listaja:
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1113749410512 
-author: kocka 
-contentAuthor: kocka 
-title: jad 
-contentUpdateDate: 1113749410512 
-name: jad 
-layout: wiki 
-date: 1113749410512 
-creator: kocka 
+creationDate        : 2005-04-17 16:50:10 +0200 
+author              : admin 
+title               : jad 
+name                : jad 
+layout              : wiki 
+path                : jad 
+date                : 2006-03-26 01:48:09 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.kpdus.com/images/jad.gif)(http://www.kpdus.com/jad.html)
 

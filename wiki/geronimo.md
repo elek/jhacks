@@ -1,13 +1,13 @@
 ---
-creationDate: 1091012504912 
-author: kocka 
-contentAuthor: kocka 
-title: geronimo 
-contentUpdateDate: 1195821752621 
-name: geronimo 
-layout: wiki 
-date: 1195821752621 
-creator: kocka 
+creationDate        : 2004-07-28 13:01:44 +0200 
+author              : kocka 
+title               : geronimo 
+name                : geronimo 
+layout              : wiki 
+path                : geronimo 
+date                : 2007-11-23 13:42:32 +0100 
+version             : 15 
+creator             : kocka 
 ---
 ![image](http://www.epiqtech.com/corp/products/technology/opensource/images/design7_450x50.gif)(http://geronimo.apache.org/)
 
@@ -20,22 +20,15 @@ Lasd meg:
 *   [servlet](servlet.html): [jetty](jetty.html), [tomcat](tomcat.html)
 *   egyeb cuccok: [spring](spring.html)
 
-
-
 Geronimo ala konnyen lehet fejleszteni az [eclipse](Eclipse.html) [eclipse/plug-in/wtp](Eclipse/Plug-in/WTP.html) [eclipse/plug-in](Eclipse/Plug-in.html)-javal [webapp](webapp.html)okat, satobbit. Adminisztralni is egesz konnyen lehet az ujjabb 1.1-es verziot a konzol alkalmazasaval (szerintem kicsit [weblogic](weblogic.html) ihletesu, bar egyszerubb, de nagyon hasznos). A 2.X-es szeria mar jol boldogul a [java 1.5-tel](java%201.5.html).
-
-
 
 Mókás kis dolog benne például az, hogy az összes megnyitott portot az alap konfig file egy kis properties fileban tartja, így nagyon könnyű több példányt feltelepíteni egy gépre, ráadásul kis offsetet is be lehet állítani. Ellenben más alkalmazás szerverekkel, ahol bogarászhatjuk végig a teljes konfigot. Szóval szép kis ötlet :)
 
-
-
 Linkek:
+
 *   [geronimo book](http://chariotsolutions.com/geronimo/)
 *   Az [IBM](IBM.html) developerWorks [geronimo szekcioja](http://www-128.ibm.com/developerworks/opensource/top-projects/geronimo.html) egesz jo mellesleg...
 *   [Onjava: What is geronimo?](http://www.onjava.com/lpt/a/6664)
 *   [Geronimo wiki](http://cwiki.apache.org/geronimo/)
-
-
 
 

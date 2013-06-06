@@ -1,15 +1,15 @@
 ---
-creationDate: 1102590180796 
-author: kocka 
-contentAuthor: kocka 
-title: javalist 
-contentUpdateDate: 1195136061684 
-name: javalist 
-layout: wiki 
-date: 1195136061684 
-creator: kocka 
+creationDate        : 2004-12-09 12:03:00 +0100 
+author              : kocka 
+title               : javalist 
+name                : javalist 
+layout              : wiki 
+path                : javalist 
+date                : 2007-11-15 15:14:21 +0100 
+version             : 4 
+creator             : kocka 
 ---
-http://www.javagrund.hu/javasite/
+[http://www.javagrund.hu/javasite/](http://www.javagrund.hu/javasite/)
 
 A legjelentosebb magyar nyelvu [java](java.html) levelezo lista. Mellesleg az egyetlen.
 

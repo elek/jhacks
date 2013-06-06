@@ -1,13 +1,13 @@
 ---
-creationDate: 1164557170275 
-author: karenin 
-contentAuthor: karenin 
-title: MIDP 
-contentUpdateDate: 1164557170275 
-name: MIDP 
-layout: wiki 
-date: 1164557170275 
-creator: karenin 
+creationDate        : 2006-11-26 17:06:10 +0100 
+author              : karenin 
+title               : MIDP 
+name                : MIDP 
+layout              : wiki 
+path                : MIDP 
+date                : 2006-11-26 17:06:10 +0100 
+version             : 1 
+creator             : karenin 
 ---
 Mobile Information Device Profile
 

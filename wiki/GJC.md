@@ -1,13 +1,13 @@
 ---
-creationDate: 1105521728869 
-author: boci 
-contentAuthor: boci 
-title: GJC 
-contentUpdateDate: 1105521728869 
-name: GJC 
-layout: wiki 
-date: 1105521728869 
-creator: boci 
+creationDate        : 2005-01-12 10:22:08 +0100 
+author              : admin 
+title               : GJC 
+name                : GJC 
+layout              : wiki 
+path                : GJC 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
+creator             : boci 
 ---
 GNU Java Compiler
 

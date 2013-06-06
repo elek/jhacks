@@ -1,13 +1,13 @@
 ---
-creationDate: 1158832172533 
-author: kocka 
-contentAuthor: kocka 
-title: Laszlo/laszlo integration 
-contentUpdateDate: 1158832314404 
-name: Laszlolaszlo integration 
-layout: wiki 
-date: 1158832314404 
-creator: kocka 
+creationDate        : 2006-09-21 11:49:32 +0200 
+author              : kocka 
+title               : Laszlo/laszlo integration 
+name                : Laszlo/laszlo integration 
+layout              : wiki 
+path                : Laszlo/laszlo integration 
+date                : 2006-09-21 11:51:54 +0200 
+version             : 2 
+creator             : kocka 
 ---
 A laszlo a [webservices](../WebServices.html), [soap](../SOAP.html), [xml-rpc](../xml-rpc.html) es mas [rpc](../RPC.html) hivasain segitsegevel konnyen integralhato meglevo es futo rendszerekhez. Ez persze csak proxy-s felallasban mukodik, amivel kapcsolatban azt kell tudni hogy a hivas _nyilvan_ nem a browserbol fog kiindulni, hanem a browser elkuldi a kerest a szervernek aki majd vegrehajtja az [rpc](../RPC.html) hivast.
 

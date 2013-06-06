@@ -1,16 +1,16 @@
 ---
-creationDate: 1106813804088 
-author: kocka 
-contentAuthor: kocka 
-title: jTDS 
-contentUpdateDate: 1106813939629 
-name: jTDS 
-layout: wiki 
-date: 1106813939629 
-creator: kocka 
+creationDate        : 2005-01-27 09:16:44 +0100 
+author              : admin 
+title               : jTDS 
+name                : jTDS 
+layout              : wiki 
+path                : jTDS 
+date                : 2006-03-26 01:48:08 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://jtds.sourceforge.net/images/logo.gif)<br/>
-http://jtds.sourceforge.net/
+[http://jtds.sourceforge.net/](http://jtds.sourceforge.net/)
 
 A JTDS egy free es [open source](Open%20Source.html) [JDBC](JDBC.html) driver [MSSQL](MSSQL.html) es [sybase](Sybase.html) [RDBMS](RDBMS.html)ekhez.
 

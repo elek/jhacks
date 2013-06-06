@@ -1,13 +1,13 @@
 ---
-creationDate: 1167731967062 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/XML reflection 
-contentUpdateDate: 1167731967062 
-name: WTFXML reflection 
-layout: wiki 
-date: 1167731967062 
-creator: kocka 
+creationDate        : 2007-01-02 10:59:27 +0100 
+author              : kocka 
+title               : WTF/XML reflection 
+name                : WTF/XML reflection 
+layout              : wiki 
+path                : WTF/XML reflection 
+date                : 2007-01-02 10:59:27 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [Szabadalom](../szabadalom.html)ra erdemes technika, zsenialis nemet-angol-indiai csapattol volt lehetosegem ellesni. :-D
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1141666772339 
-author: kocka 
-contentAuthor: kocka 
-title: XP/write tests first 
-contentUpdateDate: 1190277582714 
-name: XPwrite tests first 
-layout: wiki 
-date: 1190277582714 
-creator: kocka 
+creationDate        : 2006-03-06 18:39:32 +0100 
+author              : kocka 
+title               : XP/write tests first 
+name                : XP/write tests first 
+layout              : wiki 
+path                : XP/write tests first 
+date                : 2007-09-20 10:39:42 +0200 
+version             : 3 
+creator             : kocka 
 ---
 No, miért kell az [XP](../XP.html) szerint elöbb tesztet írni?
 

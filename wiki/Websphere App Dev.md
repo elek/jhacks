@@ -1,13 +1,13 @@
 ---
-creationDate: 1093598360617 
-author: kocka 
-contentAuthor: kocka 
-title: Websphere App Dev 
-contentUpdateDate: 1166537895742 
-name: Websphere App Dev 
-layout: wiki 
-date: 1166537895742 
-creator: kocka 
+creationDate        : 2004-08-27 11:19:20 +0200 
+author              : kocka 
+title               : Websphere App Dev 
+name                : Websphere App Dev 
+layout              : wiki 
+path                : Websphere App Dev 
+date                : 2006-12-19 15:18:15 +0100 
+version             : 4 
+creator             : kocka 
 ---
 __Websphere Application Developer__
 
@@ -23,26 +23,14 @@ __Websphere Application Developer__
 *   [RDBMS](RDBMS.html) plugin
 *   [Webservices](WebServices.html) support (hat mondjuk ez vajon minek, ha [xfire](xfire.html)ra gondolok, nem kell hozza semmi support egy editoron kivul)
 
-
-
 es meg sok mas.
-
-
 
 Na es az ara: hat hanyagoljuk, ugy 4000 dolcsi korul volt legutobb amikor neztem :( Akkor inkab a magyar fejlesztok fogjak az eclipse-t teletuzdelik mindenfele pluginnal, [xdoclet](XDoclet.html), aztan had szoljon, egyebkent a [MyEclipse](myeclipse.html) arban is, kezelhetosegben is verte a tesztjeinken. Csak hat az nem [IBM](IBM.html) :-D
 
-
-
 Tovabbi szopas-lehetoseg a telepites, mert a telepito csomag tartalmazza a [java](java.html) futaskornyezetet is (vajon minek), ami kicsit specialis allatfaj, Fedora ala a compat csomagokat elso lepeskent fel kell pakolni, meg a libXp-t is, es aztan mar nem fog annyit jajgatni.
-
-
 
 Valamint ha sikerult feltelepiteni, az [open source](Open%20Source.html)on es [eclipse](Eclipse.html)n szocializalodott fejleszto dobbenten veszi eszre hogy az eclipse regi verziojara epul az egesz, ilyenkor kicsit boldogtalan az ember.
 
-
-
 De ha ilyesmiket felre tud az ember tenni, akkor eleg produktivan lehet benne hegeszteni, ha az ember kihasznalja minden lehetoseget.
-
-
 
 

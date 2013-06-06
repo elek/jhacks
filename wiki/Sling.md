@@ -1,15 +1,15 @@
 ---
-creationDate: 1207173325720 
-author: karenin 
-contentAuthor: karenin 
-title: Sling 
-contentUpdateDate: 1207223075407 
-name: Sling 
-layout: wiki 
-date: 1207223075407 
-creator: karenin 
+creationDate        : 2008-04-02 23:55:25 +0200 
+author              : karenin 
+title               : Sling 
+name                : Sling 
+layout              : wiki 
+path                : Sling 
+date                : 2008-04-03 13:44:35 +0200 
+version             : 3 
+creator             : karenin 
 ---
-http://incubator.apache.org/sling
+[http://incubator.apache.org/sling](http://incubator.apache.org/sling)
 
 [Apache](apache.html) incubator projekt. [OSGi](OSGi.html) és [JCR](Content%20repository.html) alapú web framework. 
 

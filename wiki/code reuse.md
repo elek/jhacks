@@ -1,13 +1,13 @@
 ---
-creationDate: 1161343264285 
-author: kocka 
-contentAuthor: kocka 
-title: code reuse 
-contentUpdateDate: 1161343264285 
-name: code reuse 
-layout: wiki 
-date: 1161343264285 
-creator: kocka 
+creationDate        : 2006-10-20 13:21:04 +0200 
+author              : kocka 
+title               : code reuse 
+name                : code reuse 
+layout              : wiki 
+path                : code reuse 
+date                : 2006-10-20 13:21:04 +0200 
+version             : 1 
+creator             : kocka 
 ---
 Mivel a kornyezetek egyre csak valtoznak (allitloag fejlodnek :)), a kod erteke eleg gyorsan inflalodik. A kod pedig draga dolog, foleg hogy senki nem tudja mennyibe kerul. Aki tudja az rosszul. Ezert fejlodott ki az igeny a sokkal inkabb idotallo kodra, ami kevesebb valtoztatassal eli tul.
 

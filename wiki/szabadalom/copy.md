@@ -1,13 +1,13 @@
 ---
-creationDate: 1114434371845 
-author: kocka 
-contentAuthor: kocka 
-title: szabadalom/copy 
-contentUpdateDate: 1114434371845 
-name: szabadalomcopy 
-layout: wiki 
-date: 1114434371845 
-creator: kocka 
+creationDate        : 2005-04-25 15:06:11 +0200 
+author              : admin 
+title               : szabadalom/copy 
+name                : szabadalom/copy 
+layout              : wiki 
+path                : szabadalom/copy 
+date                : 2006-03-26 01:51:14 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Programkod masolasara beadott szoftverszabadalmi javaslat. Mindenre vonatkozik ami masolodik es program.
 

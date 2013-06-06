@@ -1,13 +1,13 @@
 ---
-creationDate: 1193143330170 
-author: kocka 
-contentAuthor: kocka 
-title: kocka/mini bio progik 
-contentUpdateDate: 1193654391215 
-name: kockamini bio progik 
-layout: wiki 
-date: 1193654391215 
-creator: kocka 
+creationDate        : 2007-10-23 14:42:10 +0200 
+author              : kocka 
+title               : kocka/mini bio progik 
+name                : kocka/mini bio progik 
+layout              : wiki 
+path                : kocka/mini bio progik 
+date                : 2007-10-29 11:39:51 +0100 
+version             : 8 
+creator             : kocka 
 ---
 Par [python](../python.html) progi biologusoknak, biologusoktol :) Bocsi az offtopic dologert.
 

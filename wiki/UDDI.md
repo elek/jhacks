@@ -1,13 +1,13 @@
 ---
-creationDate: 1160942183305 
-author: karenin 
-contentAuthor: karenin 
-title: UDDI 
-contentUpdateDate: 1160942183305 
-name: UDDI 
-layout: wiki 
-date: 1160942183305 
-creator: karenin 
+creationDate        : 2006-10-15 21:56:23 +0200 
+author              : karenin 
+title               : UDDI 
+name                : UDDI 
+layout              : wiki 
+path                : UDDI 
+date                : 2006-10-15 21:56:23 +0200 
+version             : 1 
+creator             : karenin 
 ---
 Universal Description, Discovery and Integration.
 

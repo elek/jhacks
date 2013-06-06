@@ -1,12 +1,12 @@
 ---
-creationDate: 1182778898429 
-author: kocka 
-contentAuthor: kocka 
-title: laszlo/LZX/Spring integracio 
-contentUpdateDate: 1182778898429 
-name: laszloLZXSpring integracio 
-layout: wiki 
-date: 1182778898429 
-creator: kocka 
+creationDate        : 2007-06-25 15:41:38 +0200 
+author              : kocka 
+title               : laszlo/LZX/Spring integracio 
+name                : laszlo/LZX/Spring integracio 
+layout              : wiki 
+path                : laszlo/LZX/Spring integracio 
+date                : 2007-06-25 15:41:38 +0200 
+version             : 1 
+creator             : kocka 
 ---
 [TODO](../../TODO.html)

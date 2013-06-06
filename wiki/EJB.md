@@ -1,14 +1,22 @@
 ---
-creationDate: 1090942127037 
-author: karenin 
-contentAuthor: karenin 
-title: EJB 
-contentUpdateDate: 1223364627171 
-name: EJB 
-layout: wiki 
-date: 1223364627171 
-creator: zsoltk 
+creationDate        : 2004-07-27 17:28:47 +0200 
+author              : karenin 
+title               : EJB 
+name                : EJB 
+layout              : wiki 
+path                : EJB 
+date                : 2008-10-07 09:30:27 +0200 
+version             : 15 
+creator             : zsoltk 
 ---
+
+-   [EJB2](EJB2.html)
+-   [EJB3](EJB3.html)
+-   [EJBCA](EJBCA.html)
+-   [EJB/entity bean](EJB/entity bean.html)
+-   [EJB/MDB](EJB/MDB.html)
+-   [EJB](EJB.html)
+
 
 
 # A varazsszo.
@@ -43,22 +51,16 @@ A következő verzió az EJB 3.1 lesz, ami várhatóan a 2009-es [JavaOne](JavaO
 
 EJB 3:
 
-*   http://today.java.net/pub/a/today/2004/08/05/ejbnewlife.html
-
-
+*   [http://today.java.net/pub/a/today/2004/08/05/ejbnewlife.html](http://today.java.net/pub/a/today/2004/08/05/ejbnewlife.html)
 
 Erdekessegek:
-*   http://www.javaworld.com/javaworld/jw-12-2000/jw-1215-anyclass.html
 
-
+*   [http://www.javaworld.com/javaworld/jw-12-2000/jw-1215-anyclass.html](http://www.javaworld.com/javaworld/jw-12-2000/jw-1215-anyclass.html)
 
 Site-ok:
-*   http://www.ejbsig.de/
 
-
+*   [http://www.ejbsig.de/](http://www.ejbsig.de/)
 
 Lasd meg: [JNDI](JNDI.html), [persistence](persistence.html), [JDBC](JDBC.html), [J2EE](j2ee.html), [RDBMS](RDBMS.html), [IDE](IDE.html)
-
-
 
 

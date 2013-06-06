@@ -1,13 +1,13 @@
 ---
-creationDate: 1190894925834 
-author: karenin 
-contentAuthor: karenin 
-title: Design Patterns/Creational Patterns/Abstract Factory 
-contentUpdateDate: 1190894925834 
-name: Design PatternsCreational PatternsAbstract Factory 
-layout: wiki 
-date: 1190894925834 
-creator: karenin 
+creationDate        : 2007-09-27 14:08:45 +0200 
+author              : karenin 
+title               : Design Patterns/Creational Patterns/Abstract Factory 
+name                : Design Patterns/Creational Patterns/Abstract Factory 
+layout              : wiki 
+path                : Design Patterns/Creational Patterns/Abstract Factory 
+date                : 2007-09-27 14:08:45 +0200 
+version             : 1 
+creator             : karenin 
 ---
 A tipikus példa amit erre szoktak mondani az a LookAndFeel készletek. Kell kettő vagy több ostálykészlet (Window,Border,stb.), amikből egy készletet szeretnék egyszerre használni (pl. MotifWindow,MotifBorder, stb.)
 

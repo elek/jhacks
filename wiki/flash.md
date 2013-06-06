@@ -1,13 +1,13 @@
 ---
-creationDate: 1184234834418 
-author: kocka 
-contentAuthor: kocka 
-title: flash 
-contentUpdateDate: 1206262540717 
-name: flash 
-layout: wiki 
-date: 1206262540717 
-creator: kocka 
+creationDate        : 2007-07-12 12:07:14 +0200 
+author              : kocka 
+title               : flash 
+name                : flash 
+layout              : wiki 
+path                : flash 
+date                : 2008-03-23 09:55:40 +0100 
+version             : 8 
+creator             : kocka 
 ---
 [java](java.html)s flash fejleszteshez:
 
@@ -16,20 +16,16 @@ creator: kocka
 *   [flex](flex.html)
 *   [blazeds](BlazeDS.html)
 *   [graniteds](http://www.graniteds.org/) (az adobe lifecycle free megfelelője, [spring](spring.html) integrációval többek közt)
-*   http://aseclipseplugin.sourceforge.net/wordpress/ ([eclipse](Eclipse.html) actionscript plugin)
-
-
+*   [http://aseclipseplugin.sourceforge.net/wordpress/](http://aseclipseplugin.sourceforge.net/wordpress/) ([eclipse](Eclipse.html) actionscript plugin)
 
 Satöbbi:
+
 *   [Air](AIR.html)
 *   [RTMP](rtmp.html) streaming format.
 *   [amf](AMF.html)
 
-
-
 Egyéb:
+
 *   [Third Party Tools Support For Flex & Flash Development](http://www.infoq.com/news/2008/02/flex-3rd-party-tools)
-
-
 
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1091785642839 
-author: kocka 
-contentAuthor: kocka 
-title: IDE 
-contentUpdateDate: 1165999291001 
-name: IDE 
-layout: wiki 
-date: 1165999291001 
-creator: kocka 
+creationDate        : 2004-08-06 11:47:22 +0200 
+author              : kocka 
+title               : IDE 
+name                : IDE 
+layout              : wiki 
+path                : IDE 
+date                : 2006-12-13 09:41:31 +0100 
+version             : 11 
+creator             : kocka 
 ---
 __Integrated Developement Environment__
 
@@ -21,9 +21,8 @@ __Integrated Developement Environment__
 *   [Sun Java Studio Enterprise](Sun%20Java%20Studio%20Enterprise.html) ([sun](Sun.html))
 *   [weblogic workshop](weblogic%20workshop.html) ([BEA](bea.html))
 
-
-
 Amit egy ide ad:
+
 *   [build](build.html) support (tobbnyire [ant](ant.html) az elvaras, de legyen pluginelheto)
 *   [ide/syntax highlight](Missing.html)
 *   [ide/code completion](ide/code%20completion.html)
@@ -33,7 +32,5 @@ Amit egy ide ad:
 *   [profiler](profiler.html) (jobb esetben)
 *   grafikus editorok
 *   [version control](version%20control.html) support
-
-
 
 

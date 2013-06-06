@@ -1,13 +1,13 @@
 ---
-creationDate: 1122553023859 
-author: kocka 
-contentAuthor: kocka 
-title: Extreme Programming 
-contentUpdateDate: 1214485432330 
-name: XP 
-layout: wiki 
-date: 1214485432330 
-creator: kocka 
+creationDate        : 2005-07-28 14:17:03 +0200 
+author              : kocka 
+title               : Extreme Programming 
+name                : XP 
+layout              : wiki 
+path                : XP 
+date                : 2008-06-26 15:03:52 +0200 
+version             : 11 
+creator             : kocka 
 ---
 Egy csomo otlet amivel a szoftver minoseget lehet javitani:
 
@@ -19,20 +19,12 @@ Egy csomo otlet amivel a szoftver minoseget lehet javitani:
 *   satobbi
 
 
-
-
-
 Tudtommal nincs magyarorszagon kifejezetten XP ceg, de a legtobb helyen atvettek mar a modszereibol. Persze lattam mar sajnos olyan helyet is ahol meg a [CVS](CVS.html)t sem ismertek, keruljetek messzire!
 
-
-
 Linkek:
-*   http://www.xprogramming.com/
 
-
+*   [http://www.xprogramming.com/](http://www.xprogramming.com/)
 
 Lasd meg: [RUP](rup.html), [scrum](scrum.html)
-
-
 
 

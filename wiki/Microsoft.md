@@ -1,17 +1,17 @@
 ---
-creationDate: 1099998779090 
-author: karenin 
-contentAuthor: karenin 
-title: Microsoft 
-contentUpdateDate: 1201868946626 
-name: Microsoft 
-layout: wiki 
-date: 1201868946626 
-creator: kocka 
+creationDate        : 2004-11-09 12:12:59 +0100 
+author              : karenin 
+title               : Microsoft 
+name                : Microsoft 
+layout              : wiki 
+path                : Microsoft 
+date                : 2008-02-01 13:29:06 +0100 
+version             : 4 
+creator             : kocka 
 ---
 __Microsoft Corporation__
 
-http://www.microsoft.com/
+[http://www.microsoft.com/](http://www.microsoft.com/)
 
 (kicsipuha vallalat)
 

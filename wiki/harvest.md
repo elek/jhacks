@@ -1,14 +1,18 @@
 ---
-creationDate: 1090839668775 
-author: kocka 
-contentAuthor: kocka 
-title: harvest 
-contentUpdateDate: 1110200313906 
-name: harvest 
-layout: wiki 
-date: 1110200313906 
-creator: kocka 
+creationDate        : 2004-07-26 13:01:08 +0200 
+author              : admin 
+title               : harvest 
+name                : harvest 
+layout              : wiki 
+path                : harvest 
+date                : 2006-03-26 01:48:00 +0100 
+version             : 1 
+creator             : kocka 
 ---
+
+-   [harvest/containers](harvest/containers.html)
+-   [harvest](harvest.html)
+
 
 
 
@@ -17,9 +21,10 @@ A Harvest egy java alapu rugalmas alkalmazas integracios megoldas. Java komponen
 
 Sajnos kicsit tul altalanos ahhoz hogy meg tudjam fogalmazni hogy pontosan mi is. Igazabol tobbfele rendszernek kepezheti alapjat.
 A sajat 5leteim:
-1. replikacios megoldas \(cross-db, cross-db-structure\)
-1. [ETL](ETL.html) eszkoz \(extraction transformation load\)
-1. rendszer integracios platform \(szinkron, asszinkorn\)
+
+1.   replikacios megoldas \(cross-db, cross-db-structure\)
+1.   [ETL](ETL.html) eszkoz \(extraction transformation load\)
+1.   rendszer integracios platform \(szinkron, asszinkorn\)
 
 Jelenleg [Tyrex](tyrex.html)-et tartalmaz tranzakcio kontrollerkent, [j2ee](j2ee.html) kornyezet integracio folyamatban.
 

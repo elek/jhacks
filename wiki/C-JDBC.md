@@ -1,17 +1,17 @@
 ---
-creationDate: 1105455204335 
-author: kocka 
-contentAuthor: kocka 
-title: C-JDBC 
-contentUpdateDate: 1220798076257 
-name: C-JDBC 
-layout: wiki 
-date: 1220798076257 
-creator: kocka 
+creationDate        : 2005-01-11 15:53:24 +0100 
+author              : kocka 
+title               : C-JDBC 
+name                : C-JDBC 
+layout              : wiki 
+path                : C-JDBC 
+date                : 2008-09-07 16:34:36 +0200 
+version             : 5 
+creator             : kocka 
 ---
 __Cluster-JDBC__
 
-http://c-jdbc.objectweb.org/
+[http://c-jdbc.objectweb.org/](http://c-jdbc.objectweb.org/)
 
 Egy virtualis adatbazis [JDBC](JDBC.html) meghajto, amivel egyszerre tobb uniform adatbazist erhetsz el. Egyreszt terheles elosztas szempontbol, masreszt pedig failover mechanizmuskent eleg jo.
 

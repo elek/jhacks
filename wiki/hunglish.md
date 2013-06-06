@@ -1,13 +1,13 @@
 ---
-creationDate: 1090935001331 
-author: kocka 
-contentAuthor: kocka 
-title: hunglish 
-contentUpdateDate: 1090935001331 
-name: hunglish 
-layout: wiki 
-date: 1090935001331 
-creator: kocka 
+creationDate        : 2004-07-27 15:30:01 +0200 
+author              : admin 
+title               : hunglish 
+name                : hunglish 
+layout              : wiki 
+path                : hunglish 
+date                : 2006-03-26 01:48:02 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Hunglish = hung\(arian eng\)lish<br/>
 <br/>

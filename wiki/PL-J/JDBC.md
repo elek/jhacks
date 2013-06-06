@@ -1,13 +1,13 @@
 ---
-creationDate: 1108564240401 
-author: kocka 
-contentAuthor: kocka 
-title: PL-J/JDBC 
-contentUpdateDate: 1108565832022 
-name: PL-JJDBC 
-layout: wiki 
-date: 1108565832022 
-creator: kocka 
+creationDate        : 2005-02-16 15:30:40 +0100 
+author              : admin 
+title               : PL-J/JDBC 
+name                : PL-J/JDBC 
+layout              : wiki 
+path                : PL-J/JDBC 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [PL-J](../PL-J.html) [JDBC](../JDBC.html) drivere. Sajatos allatfaj:
 
@@ -19,7 +19,5 @@ A [PL-J](../PL-J.html) [JDBC](../JDBC.html) drivere. Sajatos allatfaj:
 *   Metainformaciok a konfiguraciobol.
 *   Erosen konfiguralhato.
 *   Plan pool. Az prepared statement-ekhez megtartja egy ideig a plan-t, ezt tobbszor felhasznalhatja.
-
-
 
 Hat ennyi, szoval egy atlagos [JDBC](../JDBC.html) drivertol sokban kulonbozik.

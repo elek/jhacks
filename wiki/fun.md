@@ -1,13 +1,13 @@
 ---
-creationDate: 1165831585479 
-author: kocka 
-contentAuthor: kocka 
-title: fun 
-contentUpdateDate: 1165831585479 
-name: fun 
-layout: wiki 
-date: 1165831585479 
-creator: kocka 
+creationDate        : 2006-12-11 11:06:25 +0100 
+author              : kocka 
+title               : fun 
+name                : fun 
+layout              : wiki 
+path                : fun 
+date                : 2006-12-11 11:06:25 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [java](java.html)-jellegu mokak, amik nem fernek bele a [WTF](WTF.html)-be :)
 

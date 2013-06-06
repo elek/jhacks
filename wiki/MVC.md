@@ -1,13 +1,13 @@
 ---
-creationDate: 1100725389191 
-author: kocka 
-contentAuthor: kocka 
-title: Model View Control 
-contentUpdateDate: 1166693358247 
-name: MVC 
-layout: wiki 
-date: 1166693358247 
-creator: boci 
+creationDate        : 2004-11-17 22:03:09 +0100 
+author              : kocka 
+title               : Model View Control 
+name                : MVC 
+layout              : wiki 
+path                : MVC 
+date                : 2006-12-21 10:29:18 +0100 
+version             : 5 
+creator             : boci 
 ---
 Harom reteg model. Kulonvalasztja a megjelenitest a vezerlest es az adatbazis kezelest. UI tervezesben fontos.
 
@@ -30,7 +30,5 @@ Nehany MVC framework:
 *   [tapestry](tapestry.html)
 *   [WebWork](WebWork.html)
 *   [swing](Swing.html) a desktopokhoz
-
-
 
 

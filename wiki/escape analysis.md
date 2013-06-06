@@ -1,13 +1,13 @@
 ---
-creationDate: 1129103876515 
-author: renszarv 
-contentAuthor: renszarv 
-title: escape analysis 
-contentUpdateDate: 1129109576457 
-name: escape analysis 
-layout: wiki 
-date: 1129109576457 
-creator: kocka 
+creationDate        : 2005-10-12 09:57:56 +0200 
+author              : admin 
+title               : escape analysis 
+name                : escape analysis 
+layout              : wiki 
+path                : escape analysis 
+date                : 2006-03-26 01:47:55 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [kocka](kocka.html) szerint:~~Ez valami olyasmi hogy csekkolja hogy a programod hogy er el objektumokat, es azt felhasznalja ahhoz hogy erosebben parhuzamosithato legyen.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1092133682544 
-author: kocka 
-contentAuthor: kocka 
-title: OJB 
-contentUpdateDate: 1135001165513 
-name: OJB 
-layout: wiki 
-date: 1135001165513 
-creator: kocka 
+creationDate        : 2004-08-10 12:28:02 +0200 
+author              : admin 
+title               : OJB 
+name                : OJB 
+layout              : wiki 
+path                : OJB 
+date                : 2006-03-26 01:42:47 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __ObJectRelational Bridge__
 

@@ -1,14 +1,17 @@
 ---
-creationDate: 1180448230899 
-author: karenin 
-contentAuthor: karenin 
-title: struts/struts 2 
-contentUpdateDate: 1200673378554 
-name: strutsstruts 2 
-layout: wiki 
-date: 1200673378554 
-creator: kocka 
+creationDate        : 2007-05-29 16:17:10 +0200 
+author              : karenin 
+title               : struts/struts 2 
+name                : struts/struts 2 
+layout              : wiki 
+path                : struts/struts 2 
+date                : 2008-01-18 17:22:58 +0100 
+version             : 7 
+creator             : kocka 
 ---
+
+-   [struts/struts 2](../struts/struts 2.html)
+
 
 
 A Struts 2 egy hatalmas nagy átírás erdménye. Újdonságok nagy vonalakban:
@@ -20,11 +23,8 @@ A Struts 2 egy hatalmas nagy átírás erdménye. Újdonságok nagy vonalakban:
 *   Tovabbra is egyszeruen integralhato [IoC](../ioc.html) rendszerekkel, mint pl [spring](../spring.html)
 *   [tiles](../tiles.html) kiforkolva
 
-
-
 __Könyv__
+
 *   [Starting Struts 2](http://www.infoq.com/minibooks/starting-struts2)
-
-
 
 

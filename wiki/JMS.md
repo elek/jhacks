@@ -1,13 +1,13 @@
 ---
-creationDate: 1091019898026 
-author: kocka 
-contentAuthor: kocka 
-title: JMS 
-contentUpdateDate: 1190199350269 
-name: JMS 
-layout: wiki 
-date: 1190199350269 
-creator: kocka 
+creationDate        : 2004-07-28 15:04:58 +0200 
+author              : kocka 
+title               : JMS 
+name                : JMS 
+layout              : wiki 
+path                : JMS 
+date                : 2007-09-19 12:55:50 +0200 
+version             : 10 
+creator             : kocka 
 ---
 Java Messaging Service
 
@@ -22,19 +22,12 @@ A Message Queue-k vilaganak alapotlete az, hogy nem fontos hogy azonnal megkapja
 *   [JbossMQ](Missing.html) ([JBOSS](jboss.html))
 *   [SonicMQ](Missing.html) ([Progress](Progress.html), _ha olyan az MQ mint az [RDBMS](RDBMS.html)-uk, akkor ki se probaljatok!_) 
 
-
-
 Egy eszrevetel: Bar a legtobb konyv rendszerinegracio szo alatt a [JMS](JMS.html)-t erti, a JMS valojaban eleg konkret esete a rendszerintegracionak, mondhatni hogy csak [java](java.html) [mom](MOM.html). Es tok jo is ebbol a szempontbol, csak az [esb](ESB.html)/[jbi](JBI.html) egy absztraktabb esete ennek.
 
-
-
 Cikkek:
+
 *   [Asynchronous Messaging Made Easy With Spring JMS](http://www.onjava.com/pub/a/onjava/2006/02/22/asynchronous-messaging-with-spring-jms.html?page=5)
 
-
-
 Lasd meg: [EJB/MDB](EJB/MDB.html)
-
-
 
 

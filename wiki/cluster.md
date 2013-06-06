@@ -1,13 +1,13 @@
 ---
-creationDate: 1102501819837 
-author: kocka 
-contentAuthor: kocka 
-title: cluster 
-contentUpdateDate: 1165483220362 
-name: cluster 
-layout: wiki 
-date: 1165483220362 
-creator: kocka 
+creationDate        : 2004-12-08 11:30:19 +0100 
+author              : kocka 
+title               : cluster 
+name                : cluster 
+layout              : wiki 
+path                : cluster 
+date                : 2006-12-07 10:20:20 +0100 
+version             : 6 
+creator             : kocka 
 ---
 __Cluster__
 

@@ -1,14 +1,14 @@
 ---
-creationDate: 1199389870536 
-author: kocka 
-contentAuthor: kocka 
-title: Acceleo 
-contentUpdateDate: 1199389870536 
-name: Acceleo 
-layout: wiki 
-date: 1199389870536 
-creator: kocka 
+creationDate        : 2008-01-03 20:51:10 +0100 
+author              : kocka 
+title               : Acceleo 
+name                : Acceleo 
+layout              : wiki 
+path                : Acceleo 
+date                : 2008-01-03 20:51:10 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://www.acceleo.org/
+[http://www.acceleo.org/](http://www.acceleo.org/)
 
 [MDA](MDA.html) rendszer [eclipse](Eclipse.html)-re építve.

@@ -1,15 +1,15 @@
 ---
-creationDate: 1126606666603 
-author: kocka 
-contentAuthor: kocka 
-title: magic 
-contentUpdateDate: 1126606666603 
-name: magic 
-layout: wiki 
-date: 1126606666603 
-creator: kocka 
+creationDate        : 2005-09-13 12:17:46 +0200 
+author              : admin 
+title               : magic 
+name                : magic 
+layout              : wiki 
+path                : magic 
+date                : 2006-03-26 01:48:25 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://www.dpml.net/magic/latest/index.html
+[http://www.dpml.net/magic/latest/index.html](http://www.dpml.net/magic/latest/index.html)
 
 Egy ritka [build](build.html) tool, ami a [maven](maven.html) fejlesztesebol agazott le. Igazabol a dpml-en kivul nem hiszem hogy hasznalnak, ugyhogy a link es egyeb rovat kimarad :)
 

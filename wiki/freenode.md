@@ -1,13 +1,13 @@
 ---
-creationDate: 1112042441379 
-author: kocka 
-contentAuthor: kocka 
-title: freenode 
-contentUpdateDate: 1112042441379 
-name: freenode 
-layout: wiki 
-date: 1112042441379 
-creator: kocka 
+creationDate        : 2005-03-28 22:40:41 +0200 
+author              : admin 
+title               : freenode 
+name                : freenode 
+layout              : wiki 
+path                : freenode 
+date                : 2006-03-26 01:47:57 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://freenode.net/logo.jpg)(http://freenode.net/)
 

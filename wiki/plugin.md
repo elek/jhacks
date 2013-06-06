@@ -1,13 +1,13 @@
 ---
-creationDate: 1102514083313 
-author: kocka 
-contentAuthor: kocka 
-title: plugin 
-contentUpdateDate: 1103363960622 
-name: plugin 
-layout: wiki 
-date: 1103363960622 
-creator: kanni_baa 
+creationDate        : 2004-12-08 14:54:43 +0100 
+author              : admin 
+title               : plugin 
+name                : plugin 
+layout              : wiki 
+path                : plugin 
+date                : 2006-03-26 01:48:37 +0100 
+version             : 1 
+creator             : kanni_baa 
 ---
 kiegeszito cucc, amit bedugaszolhacc egy tamogato alkalmazasba bele
 

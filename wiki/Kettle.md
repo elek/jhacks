@@ -1,13 +1,13 @@
 ---
-creationDate: 1133864455156 
-author: kocka 
-contentAuthor: kocka 
-title: Kettle 
-contentUpdateDate: 1133864455156 
-name: Kettle 
-layout: wiki 
-date: 1133864455156 
-creator: kocka 
+creationDate        : 2005-12-06 11:20:55 +0100 
+author              : admin 
+title               : Kettle 
+name                : Kettle 
+layout              : wiki 
+path                : Kettle 
+date                : 2006-03-26 01:42:45 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.kettle.be/index_bestanden/image001.gif)(http://www.kettle.be/)
 

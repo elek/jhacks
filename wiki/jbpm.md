@@ -1,12 +1,12 @@
 ---
-creationDate: 1203948647192 
-author: tvik 
-contentAuthor: tvik 
-title: jbpm 
-contentUpdateDate: 1203948647192 
-name: jbpm 
-layout: wiki 
-date: 1203948647192 
-creator: tvik 
+creationDate        : 2008-02-25 15:10:47 +0100 
+author              : tvik 
+title               : jbpm 
+name                : jbpm 
+layout              : wiki 
+path                : jbpm 
+date                : 2008-02-25 15:10:47 +0100 
+version             : 1 
+creator             : tvik 
 ---
 A [jboss](jboss.html) által fejlesztett [workflow](workflow.html) motor.

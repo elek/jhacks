@@ -1,13 +1,13 @@
 ---
-creationDate: 1112789375053 
-author: kocka 
-contentAuthor: kocka 
-title: PostGIS 
-contentUpdateDate: 1112789375053 
-name: PostGIS 
-layout: wiki 
-date: 1112789375053 
-creator: kocka 
+creationDate        : 2005-04-06 14:09:35 +0200 
+author              : admin 
+title               : PostGIS 
+name                : PostGIS 
+layout              : wiki 
+path                : PostGIS 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.postgis.org/img-bin/postgis_logo.jpg)(http://www.postgis.org/)
 

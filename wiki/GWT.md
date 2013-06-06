@@ -1,13 +1,13 @@
 ---
-creationDate: 1191068241555 
-author: renszarv 
-contentAuthor: renszarv 
-title: GWT 
-contentUpdateDate: 1203771077045 
-name: GWT 
-layout: wiki 
-date: 1203771077045 
-creator: karenin 
+creationDate        : 2007-09-29 14:17:21 +0200 
+author              : renszarv 
+title               : GWT 
+name                : GWT 
+layout              : wiki 
+path                : GWT 
+date                : 2008-02-23 13:51:17 +0100 
+version             : 2 
+creator             : karenin 
 ---
 Google Web Toolkit
 

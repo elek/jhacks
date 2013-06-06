@@ -1,14 +1,14 @@
 ---
-creationDate: 1124729824939 
-author: renszarv 
-contentAuthor: renszarv 
-title: Squirrel-SQL 
-contentUpdateDate: 1124729824939 
-name: Squirrel-SQL 
-layout: wiki 
-date: 1124729824939 
-creator: renszarv 
+creationDate        : 2005-08-22 18:57:04 +0200 
+author              : admin 
+title               : Squirrel-SQL 
+name                : Squirrel-SQL 
+layout              : wiki 
+path                : Squirrel-SQL 
+date                : 2006-03-26 01:42:58 +0100 
+version             : 1 
+creator             : renszarv 
 ---
 DB-be kukucskáló alkalmazás. Jó ha van a háznál.
 
-http://squirrel-sql.sourceforge.net/
+[http://squirrel-sql.sourceforge.net/](http://squirrel-sql.sourceforge.net/)

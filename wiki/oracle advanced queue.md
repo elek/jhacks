@@ -1,13 +1,13 @@
 ---
-creationDate: 1128378570502 
-author: kocka 
-contentAuthor: kocka 
-title: oracle advanced queue 
-contentUpdateDate: 1128378570502 
-name: oracle advanced queue 
-layout: wiki 
-date: 1128378570502 
-creator: kocka 
+creationDate        : 2005-10-04 00:29:30 +0200 
+author              : admin 
+title               : oracle advanced queue 
+name                : oracle advanced queue 
+layout              : wiki 
+path                : oracle advanced queue 
+date                : 2006-03-26 01:48:34 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy MQ feature az [oracle](Oracle.html) [rdbms](RDBMS.html)-ben, valami olyasmi akar lenni mint a [db2](DB2.html)-ben az [mqseries](Missing.html) integration, csak ez olyan falabas.
 

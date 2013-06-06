@@ -1,13 +1,13 @@
 ---
-creationDate: 1113999058922 
-author: kocka 
-contentAuthor: kocka 
-title: annogen 
-contentUpdateDate: 1113999058922 
-name: annogen 
-layout: wiki 
-date: 1113999058922 
-creator: kocka 
+creationDate        : 2005-04-20 14:10:58 +0200 
+author              : admin 
+title               : annogen 
+name                : annogen 
+layout              : wiki 
+path                : annogen 
+date                : 2006-03-26 01:43:04 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://annogen.codehaus.org/images/logo50.png)(http://annogen.codehaus.org/)
 

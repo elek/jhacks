@@ -1,13 +1,13 @@
 ---
-creationDate: 1164556813248 
-author: karenin 
-contentAuthor: karenin 
-title: CDC 
-contentUpdateDate: 1164556813248 
-name: CDC 
-layout: wiki 
-date: 1164556813248 
-creator: karenin 
+creationDate        : 2006-11-26 17:00:13 +0100 
+author              : karenin 
+title               : CDC 
+name                : CDC 
+layout              : wiki 
+path                : CDC 
+date                : 2006-11-26 17:00:13 +0100 
+version             : 1 
+creator             : karenin 
 ---
 Connected Device Configuration
 

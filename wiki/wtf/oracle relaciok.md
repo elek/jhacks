@@ -1,15 +1,15 @@
 ---
-creationDate: 1194646852992 
-author: kocka 
-contentAuthor: kocka 
-title: Mese a gonosz N-N kapcsolatokról 
-contentUpdateDate: 1194646852992 
-name: wtforacle relaciok 
-layout: wiki 
-date: 1194646852992 
-creator: kocka 
+creationDate        : 2007-11-09 23:20:52 +0100 
+author              : kocka 
+title               : Mese a gonosz N-N kapcsolatokról 
+name                : wtf/oracle relaciok 
+layout              : wiki 
+path                : wtf/oracle relaciok 
+date                : 2007-11-09 23:20:52 +0100 
+version             : 1 
+creator             : kocka 
 ---
-Ez a mese még az [Oracle](Oracle.html) 8i korából származik, a régi szép idők ugye :). Egy nagyon nagy terhelésnek kitett alkalmazást fejlesztettünk, amit néhány random helyen izmosan optimalizáltunk, más helyeken (például az architektúra terv) inkáb hanyagoltunk.
+Ez a mese még az [Oracle](../Oracle.html) 8i korából származik, a régi szép idők ugye :). Egy nagyon nagy terhelésnek kitett alkalmazást fejlesztettünk, amit néhány random helyen izmosan optimalizáltunk, más helyeken (például az architektúra terv) inkáb hanyagoltunk.
 
 Egy ilyen eset volt az, hogy egy komponens programozója bitsorozatban reprezentálta azt hogy egy akármi milyen kategóriákba tartozik, így tényleg villámgyorsan, egy címezéssel, egy shifteléssel és egy XOR művelettel kiderült hogy abba a kategóriába bele tartozik-e. Végülis...
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1202766696656 
-author: karenin 
-contentAuthor: karenin 
-title: SDO 
-contentUpdateDate: 1202769655851 
-name: SDO 
-layout: wiki 
-date: 1202769655851 
-creator: kocka 
+creationDate        : 2008-02-11 22:51:36 +0100 
+author              : karenin 
+title               : SDO 
+name                : SDO 
+layout              : wiki 
+path                : SDO 
+date                : 2008-02-11 23:40:55 +0100 
+version             : 3 
+creator             : kocka 
 ---
 Service Data Objects
 

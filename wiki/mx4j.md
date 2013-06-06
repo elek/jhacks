@@ -1,13 +1,13 @@
 ---
-creationDate: 1112081615947 
-author: kocka 
-contentAuthor: kocka 
-title: mx4j 
-contentUpdateDate: 1112081615947 
-name: mx4j 
-layout: wiki 
-date: 1112081615947 
-creator: kocka 
+creationDate        : 2005-03-29 09:33:35 +0200 
+author              : admin 
+title               : mx4j 
+name                : mx4j 
+layout              : wiki 
+path                : mx4j 
+date                : 2006-03-26 01:48:31 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://mx4j.sourceforge.net/images/logo.gif)(http://mx4j.sourceforge.net/)
 

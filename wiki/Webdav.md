@@ -1,15 +1,15 @@
 ---
-creationDate: 1116849415280 
-author: kocka 
-contentAuthor: kocka 
-title: Webdav 
-contentUpdateDate: 1194804915056 
-name: Webdav 
-layout: wiki 
-date: 1194804915056 
-creator: kocka 
+creationDate        : 2005-05-23 13:56:55 +0200 
+author              : kocka 
+title               : Webdav 
+name                : Webdav 
+layout              : wiki 
+path                : Webdav 
+date                : 2007-11-11 19:15:15 +0100 
+version             : 3 
+creator             : kocka 
 ---
-http://www.ietf.org/rfc/rfc2518.txt
+[http://www.ietf.org/rfc/rfc2518.txt](http://www.ietf.org/rfc/rfc2518.txt)
 
 [HTTP](HTTP.html)re epulo protokol amivel filet fel lehet pakolni, le lehet szedni, meg verziozva van, ilyesmi.
 

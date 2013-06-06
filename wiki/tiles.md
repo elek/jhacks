@@ -1,15 +1,15 @@
 ---
-creationDate: 1134649921507 
-author: kocka 
-contentAuthor: kocka 
-title: Tiles 
-contentUpdateDate: 1194959799054 
-name: tiles 
-layout: wiki 
-date: 1194959799054 
-creator: kocka 
+creationDate        : 2005-12-15 13:32:01 +0100 
+author              : kocka 
+title               : Tiles 
+name                : tiles 
+layout              : wiki 
+path                : tiles 
+date                : 2007-11-13 14:16:39 +0100 
+version             : 6 
+creator             : kocka 
 ---
-http://tiles.apache.org/
+[http://tiles.apache.org/](http://tiles.apache.org/)
 
 Egy szerver oldali UI komponens rendszer.
 Na, szóval amit a [tapestry](tapestry.html) komponensnek nevez, az itt tile.
@@ -30,7 +30,7 @@ Szoval egy alapvetoen jo otlet, csak sok vele a szopas :(
 
 Had tegyem kozze [gonosz](gonosz.html) osztalyomat amivel [spring](spring.html) contextben regisztralhatod a controller beanjeidet, igy nem kell a [spring](spring.html)es applicationcontext-bol bogarasznod ki a szukseges ban-eket, hanem hasznalhatod a setter vagy konstruktor alapu [dependency injection](dependency%20injection.html)t.
 
-{% highlight java %}
+```
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRequest;
@@ -50,7 +50,7 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
  * @author kocka
  */
 public class SpringDefinitionsFactory 
-		extends I18nFactorySet \{
+		extends I18nFactorySet {
 
 	Logger logger = Logger.getLogger(SpringDefinitionsFactory.class);
 	
@@ -59,26 +59,26 @@ public class SpringDefinitionsFactory
 	 */
 	public ComponentDefinition getDefinition(String name,
 			ServletRequest request, ServletContext servletContext)
-			throws NoSuchDefinitionException, DefinitionsFactoryException \{
+			throws NoSuchDefinitionException, DefinitionsFactoryException {
 		if(logger.isDebugEnabled())
 			logger.debug("requested definition of "+name);
 
 		ApplicationContext context = WebApplicationContextUtils.getWebApplicationContext(servletContext);
 		ComponentDefinition def = super.getDefinition(name, request, servletContext);
-		if(def != null)\{
+		if(def != null){
 			String controller = def.getController();
 			Controller controllerInstance = def.getControllerInstance();
-			if(controllerInstance == null && controller != null)\{
+			if(controllerInstance == null && controller != null){
 				controllerInstance = (Controller) context.getBean(controller);
 				def.setControllerInstance(controllerInstance);
-			\}
-		\}
+			}
+		}
 		return def;
-	\}
+	}
 
-\}
+}
 
-{% endhighlight %}
+```
 
 
 1.1.1 Apache Tiles

@@ -1,13 +1,13 @@
 ---
-creationDate: 1116331734738 
-author: renszarv 
-contentAuthor: renszarv 
-title: CLI 
-contentUpdateDate: 1116331734738 
-name: CLI 
-layout: wiki 
-date: 1116331734738 
-creator: renszarv 
+creationDate        : 2005-05-17 14:08:54 +0200 
+author              : admin 
+title               : CLI 
+name                : CLI 
+layout              : wiki 
+path                : CLI 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
+creator             : renszarv 
 ---
 Common Language Infrastructure
 

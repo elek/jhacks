@@ -1,15 +1,15 @@
 ---
-creationDate: 1117809811752 
-author: kocka 
-contentAuthor: kocka 
-title: xwiki 
-contentUpdateDate: 1193319360597 
-name: xwiki 
-layout: wiki 
-date: 1193319360597 
-creator: kocka 
+creationDate        : 2005-06-03 16:43:31 +0200 
+author              : kocka 
+title               : xwiki 
+name                : xwiki 
+layout              : wiki 
+path                : xwiki 
+date                : 2007-10-25 15:36:00 +0200 
+version             : 3 
+creator             : kocka 
 ---
-http://www.xwiki.org/
+[http://www.xwiki.org/](http://www.xwiki.org/)
 
 Tervek amit eltett telre...
 

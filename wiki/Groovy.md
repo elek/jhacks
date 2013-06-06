@@ -1,13 +1,13 @@
 ---
-creationDate: 1091821735390 
-author: kocka 
-contentAuthor: kocka 
-title: Groovy 
-contentUpdateDate: 1184754302112 
-name: Groovy 
-layout: wiki 
-date: 1184754302112 
-creator: kocka 
+creationDate        : 2004-08-06 21:48:55 +0200 
+author              : kocka 
+title               : Groovy 
+name                : Groovy 
+layout              : wiki 
+path                : Groovy 
+date                : 2007-07-18 12:25:02 +0200 
+version             : 10 
+creator             : kocka 
 ---
 ![image](http://docs.codehaus.org/download/userResources/GROOVY/logo)(http://groovy.codehaus.org/)
 
@@ -21,22 +21,15 @@ amit erdemes tudni:
 *   [ide](IDE.html) support: [eclipse](Eclipse.html), [netbeans](Netbeans.html), [idea](IDEA.html) es egyebek elerhetoek a weboldalrol.
 *   [build](build.html): [ant](ant.html)tal, [maven](maven.html)nel vagy akar [gant](gant.html)tal :)
 
-
-
 Groovy JSR:
-
-http://www.jcp.org/en/jsr/detail?id=241
-
-
+[http://www.jcp.org/en/jsr/detail?id=241](http://www.jcp.org/en/jsr/detail?id=241)
 
 Konyvek:
+
 *   Groovy in action
 
-
-
 Miegymas:
+
 *   [groovy conference videoblog](http://blip.tv/file/141271)
-
-
 
 

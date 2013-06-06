@@ -1,13 +1,13 @@
 ---
-creationDate: 1123076661425 
-author: kocka 
-contentAuthor: kocka 
-title: Object Relational Mapping 
-contentUpdateDate: 1123076737080 
-name: ORM 
-layout: wiki 
-date: 1123076737080 
-creator: kocka 
+creationDate        : 2005-08-03 15:44:21 +0200 
+author              : admin 
+title               : Object Relational Mapping 
+name                : ORM 
+layout              : wiki 
+path                : ORM 
+date                : 2006-03-26 01:42:47 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Sok ilyen van a [java](java.html)hoz, senki sem akar nagyon proceduralisan butykolgetni adatbazisokat amikor objektumorientaltan is lenet.
 

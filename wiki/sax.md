@@ -1,13 +1,13 @@
 ---
-creationDate: 1121784996035 
-author: karenin 
-contentAuthor: karenin 
-title: Simple Api for XML 
-contentUpdateDate: 1181819463923 
-name: sax 
-layout: wiki 
-date: 1181819463923 
-creator: kocka 
+creationDate        : 2005-07-19 16:56:36 +0200 
+author              : karenin 
+title               : Simple Api for XML 
+name                : sax 
+layout              : wiki 
+path                : sax 
+date                : 2007-06-14 13:11:03 +0200 
+version             : 2 
+creator             : kocka 
 ---
 ( pont ugy kell kimondani mint azt hogy 'sucks', nem minden ok nelkul :) )
 

@@ -1,15 +1,15 @@
 ---
-creationDate: 1197032298347 
-author: kocka 
-contentAuthor: kocka 
-title: avalon/metro 
-contentUpdateDate: 1197032298536 
-name: avalonmetro 
-layout: wiki 
-date: 1197032298536 
-creator: kocka 
+creationDate        : 2007-12-07 13:58:18 +0100 
+author              : kocka 
+title               : avalon/metro 
+name                : avalon/metro 
+layout              : wiki 
+path                : avalon/metro 
+date                : 2007-12-07 13:58:18 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://dpml.net/
+[http://dpml.net/](http://dpml.net/)
 
 (Nem a [SUN](../Sun.html) [Metro](../metro.html)ja)
 

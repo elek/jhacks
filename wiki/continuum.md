@@ -1,13 +1,13 @@
 ---
-creationDate: 1114588453180 
-author: kocka 
-contentAuthor: kocka 
-title: continuum 
-contentUpdateDate: 1206712760281 
-name: continuum 
-layout: wiki 
-date: 1206712760281 
-creator: kocka 
+creationDate        : 2005-04-27 09:54:13 +0200 
+author              : kocka 
+title               : continuum 
+name                : continuum 
+layout              : wiki 
+path                : continuum 
+date                : 2008-03-28 14:59:20 +0100 
+version             : 24 
+creator             : kocka 
 ---
 ![image](http://maven.apache.org/continuum/images/continuum_logo_75.gif)(http://maven.apache.org/continuum/)
 
@@ -26,20 +26,16 @@ Szivasok:
 *   ha egy sourceforge-os svn repot akarsz hasznalni, de meg nem trustoltad a sourceforge svn repo kulcsat, ilyenkor addig anyaz amig svn klienssel ki nem csekoutolsz egy tetszoleges projectet es el nem fogadod orokre a kulcsot
 *   Valahogy beragad a build ha az [svn](svn.html) szetesik, peldaul azert mert rossz a halozatod. Mondjuk ha rossz a halozat az alapbol szopas. Ilyenkor ujra kell inditani.
 
-
-
 Cikkek:
+
 *   [Continuous Integration with Continuum](http://today.java.net/pub/a/today/2006/05/30/continuous-integration-with-continuum.html)
 *   [Configuring Continuum for CI](http://www.testearly.com/2006/08/05/configuring-continuum-for-ci/)
 
-
-
 Neten elerheto continuum szerverek:
-*   http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/ ([cocoon](cocoon.html) projectek)
-*   http://build1.webtide.com:8080/continuum/servlet/continuum ([jetty](jetty.html))
-*   http://ci.abstracthorizon.org/continuum/servlet/continuum ([proximity](proximity.html), szimatikusan szejjelszedett project :) )
-*   http://ci.kockahome.dyndns.org/continuum/servlet/continuum ([kocka](kocka.html), ha eppen megy a gepem :-D)
 
-
+*   [http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/](http://cocoon.zones.apache.org:12000/continuum/servlet/continuum/) ([cocoon](cocoon.html) projectek)
+*   [http://build1.webtide.com:8080/continuum/servlet/continuum](http://build1.webtide.com:8080/continuum/servlet/continuum) ([jetty](jetty.html))
+*   [http://ci.abstracthorizon.org/continuum/servlet/continuum](http://ci.abstracthorizon.org/continuum/servlet/continuum) ([proximity](proximity.html), szimatikusan szejjelszedett project :) )
+*   [http://ci.kockahome.dyndns.org/continuum/servlet/continuum](http://ci.kockahome.dyndns.org/continuum/servlet/continuum) ([kocka](kocka.html), ha eppen megy a gepem :-D)
 
 

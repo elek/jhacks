@@ -1,13 +1,13 @@
 ---
-creationDate: 1146126054534 
-author: kocka 
-contentAuthor: kocka 
-title: Asynchronous JavaScript And XML 
-contentUpdateDate: 1213004443615 
-name: ajax 
-layout: wiki 
-date: 1213004443615 
-creator: kocka 
+creationDate        : 2006-04-27 10:20:54 +0200 
+author              : kocka 
+title               : Asynchronous JavaScript And XML 
+name                : ajax 
+layout              : wiki 
+path                : ajax 
+date                : 2008-06-09 11:40:43 +0200 
+version             : 6 
+creator             : kocka 
 ---
 Egy nagyon elterjed buzzword a sokfele technologiara ami ide besorolhato. Meg olyanokat is ide sorolnak gyakran amik nem is [javascript](javascript.html)esek, csak rich client interface-t ado [webapp](webapp.html) legyen. A technologia lenyegi resze a [XMLHttpRequest](http://www.w3.org/TR/XMLHttpRequest/) amit a browsernek kell szolgaltatnia a scriptek szamara hogy azok asszinkron hivasokat hajthassanak vegre a szerveren.
 
@@ -21,7 +21,5 @@ Cuccok:
 *   [zk1](zk1.html) (bármilyen servlethez)
 *   [Tacos](http://tacos.sourceforge.net/) ([tapestry](tapestry.html)-hez)
 *   [ajax4jsf](https://ajax4jsf.dev.java.net) ([JSF](JSF.html)-hez)
-
-
 
 És még [sokan](http://www.ajaxprojects.com/ajax/viewcategory.php?categoryid=2]) mások.

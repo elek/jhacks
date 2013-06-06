@@ -1,15 +1,15 @@
 ---
-creationDate: 1171628606625 
-author: kocka 
-contentAuthor: kocka 
-title: appfuse 
-contentUpdateDate: 1171628606625 
-name: appfuse 
-layout: wiki 
-date: 1171628606625 
-creator: kocka 
+creationDate        : 2007-02-16 13:23:26 +0100 
+author              : kocka 
+title               : appfuse 
+name                : appfuse 
+layout              : wiki 
+path                : appfuse 
+date                : 2007-02-16 13:23:26 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://www.appfuse.org/
+[http://www.appfuse.org/](http://www.appfuse.org/)
 
 Tulajdonkeppen egy [RAD](rad.html) eszkoz, gyorsan lehet elstartolni vele projecteket [struts](struts.html), [tapestry](tapestry.html), [spring](spring.html), [hibernate](Hibernate.html), [jsf](JSF.html) cuccokkal, kezeli a mainstream [RDBMS](RDBMS.html)eket: [postgresql](PostgreSQL.html), [mysql](MySQL.html), stb... 
 

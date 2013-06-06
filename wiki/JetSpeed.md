@@ -1,13 +1,13 @@
 ---
-creationDate: 1102425068269 
-author: kocka 
-contentAuthor: kocka 
-title: JetSpeed 
-contentUpdateDate: 1113568538782 
-name: JetSpeed 
-layout: wiki 
-date: 1113568538782 
-creator: kocka 
+creationDate        : 2004-12-07 14:11:08 +0100 
+author              : admin 
+title               : JetSpeed 
+name                : JetSpeed 
+layout              : wiki 
+path                : JetSpeed 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://portals.apache.org/jetspeed-1/images/logo.gif)(http://portals.apache.org/)
 

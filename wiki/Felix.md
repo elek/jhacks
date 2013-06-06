@@ -1,15 +1,15 @@
 ---
-creationDate: 1208039798442 
-author: kocka 
-contentAuthor: kocka 
-title: Felix 
-contentUpdateDate: 1208039798442 
-name: Felix 
-layout: wiki 
-date: 1208039798442 
-creator: kocka 
+creationDate        : 2008-04-13 00:36:38 +0200 
+author              : kocka 
+title               : Felix 
+name                : Felix 
+layout              : wiki 
+path                : Felix 
+date                : 2008-04-13 00:36:38 +0200 
+version             : 1 
+creator             : kocka 
 ---
-http://felix.apache.org
+[http://felix.apache.org](http://felix.apache.org)
 
 Az [apache](ASF.html) [OSGi](OSGi.html) imlementációja.
 

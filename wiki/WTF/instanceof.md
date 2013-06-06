@@ -1,20 +1,20 @@
 ---
-creationDate: 1129901689912 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/instanceof 
-contentUpdateDate: 1129908797162 
-name: WTFinstanceof 
-layout: wiki 
-date: 1129908797162 
-creator: kocka 
+creationDate        : 2005-10-21 15:34:49 +0200 
+author              : admin 
+title               : WTF/instanceof 
+name                : WTF/instanceof 
+layout              : wiki 
+path                : WTF/instanceof 
+date                : 2006-03-26 01:43:02 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Emberek, az instanceof operator @deprecated. Most indiai kollegaink bemutatnak egy teljesen uj es hatekony megoldast a lehelyettesitesere:
 
-{% highlight java %}
-if(obj.toString().startsWith("biszbasz")) \{
+```
+if(obj.toString().startsWith("biszbasz")) {
  ...
-\}
-{% endhighlight %}
+}
+```
 
 Na? Remelem fajt :-D

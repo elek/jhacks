@@ -1,13 +1,13 @@
 ---
-creationDate: 1166614895295 
-author: kocka 
-contentAuthor: kocka 
-title: findbugs 
-contentUpdateDate: 1166615004169 
-name: findbugs 
-layout: wiki 
-date: 1166615004169 
-creator: kocka 
+creationDate        : 2006-12-20 12:41:35 +0100 
+author              : kocka 
+title               : findbugs 
+name                : findbugs 
+layout              : wiki 
+path                : findbugs 
+date                : 2006-12-20 12:43:24 +0100 
+version             : 3 
+creator             : kocka 
 ---
 ![image](http://findbugs.sourceforge.net/buggy-sm.png)(http://findbugs.sourceforge.net/)
 

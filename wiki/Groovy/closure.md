@@ -1,24 +1,24 @@
 ---
-creationDate: 1161167618512 
-author: kocka 
-contentAuthor: kocka 
-title: Groovy/closure 
-contentUpdateDate: 1193326626882 
-name: Groovyclosure 
-layout: wiki 
-date: 1193326626882 
-creator: kocka 
+creationDate        : 2006-10-18 12:33:38 +0200 
+author              : kocka 
+title               : Groovy/closure 
+name                : Groovy/closure 
+layout              : wiki 
+path                : Groovy/closure 
+date                : 2007-10-25 17:37:06 +0200 
+version             : 10 
+creator             : kocka 
 ---
 A closure a [groovy](../Groovy.html)ban kb olyan mint egy callback osztaly [java](../java.html)ban (bár már nagyban forr a vita a [java 1.7](../java%201.7.html) [closures](../closures.html) körül), csak annal kicsit rovidebben meg lehet fogalmazni :)
 
 peldaul van egy listank aminek minden elemere kiiratnank +1-et a kimenetre.
-{% highlight java %}
+```
 
-def plusoneclos = \{ println it + 1\}
+def plusoneclos = { println it + 1}
 
 [1,2,3,4].each(plusoneclos)
 
-{% endhighlight %}
+```
 
 nagyon kompakt, meg elsore nagyon erthetetlen, de azta jo moka.
 

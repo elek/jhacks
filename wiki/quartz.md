@@ -1,16 +1,16 @@
 ---
-creationDate: 1110897998255 
-author: kocka 
-contentAuthor: kocka 
-title: quartz 
-contentUpdateDate: 1122843882116 
-name: quartz 
-layout: wiki 
-date: 1122843882116 
-creator: kocka 
+creationDate        : 2005-03-15 15:46:38 +0100 
+author              : admin 
+title               : quartz 
+name                : quartz 
+layout              : wiki 
+path                : quartz 
+date                : 2006-03-26 01:48:39 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.opensymphony.com/quartz/images/quartzEJS.jpg)<br/>
-http://www.opensymphony.com/quartz/
+[http://www.opensymphony.com/quartz/](http://www.opensymphony.com/quartz/)
 
 Job scheduler [J2EE](j2ee.html) ([EJB](EJB.html) vagy egyszeruen csak [cop](COP.html) rendszerekhez). Ezen a teren nagyjabol egyeduralkodo.
 

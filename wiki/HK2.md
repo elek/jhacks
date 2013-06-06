@@ -1,15 +1,15 @@
 ---
-creationDate: 1180729114863 
-author: karenin 
-contentAuthor: karenin 
-title: HK2 
-contentUpdateDate: 1180729114863 
-name: HK2 
-layout: wiki 
-date: 1180729114863 
-creator: karenin 
+creationDate        : 2007-06-01 22:18:34 +0200 
+author              : karenin 
+title               : HK2 
+name                : HK2 
+layout              : wiki 
+path                : HK2 
+date                : 2007-06-01 22:18:34 +0200 
+version             : 1 
+creator             : karenin 
 ---
-https://hk2.dev.java.net/
+[https://hk2.dev.java.net/](https://hk2.dev.java.net/)
 
 A [Glassfish](glassfish.html) v3 kernele. Szép demókat szoktak róla mutatni, hogy milyen gyors, mert csak azt tölti be, amire szükségünk van.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1112821821737 
-author: kocka 
-contentAuthor: kocka 
-title: VIM 
-contentUpdateDate: 1112822467305 
-name: VIM 
-layout: wiki 
-date: 1112822467305 
-creator: kocka 
+creationDate        : 2005-04-06 23:10:21 +0200 
+author              : admin 
+title               : VIM 
+name                : VIM 
+layout              : wiki 
+path                : VIM 
+date                : 2006-03-26 01:43:00 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.vim.org/images/vim_header.gif)(http://www.vim.org/)
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1125320779152 
-author: karenin 
-contentAuthor: karenin 
-title: httpunit 
-contentUpdateDate: 1208372920501 
-name: httpunit 
-layout: wiki 
-date: 1208372920501 
-creator: kocka 
+creationDate        : 2005-08-29 15:06:19 +0200 
+author              : karenin 
+title               : httpunit 
+name                : httpunit 
+layout              : wiki 
+path                : httpunit 
+date                : 2008-04-16 21:08:40 +0200 
+version             : 3 
+creator             : kocka 
 ---
 ![image](http://httpunit.sourceforge.net/doc/images/HttpUnit.jpg)(http://httpunit.sourceforge.net/)
 

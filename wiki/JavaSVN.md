@@ -1,15 +1,15 @@
 ---
-creationDate: 1107938300544 
-author: kocka 
-contentAuthor: kocka 
-title: JavaSVN 
-contentUpdateDate: 1107938300544 
-name: JavaSVN 
-layout: wiki 
-date: 1107938300544 
-creator: kocka 
+creationDate        : 2005-02-09 09:38:20 +0100 
+author              : admin 
+title               : JavaSVN 
+name                : JavaSVN 
+layout              : wiki 
+path                : JavaSVN 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://tmate.org/svn/
+[http://tmate.org/svn/](http://tmate.org/svn/)
 
 [SVN](svn.html) kliens API.
 

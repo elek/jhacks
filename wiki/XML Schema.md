@@ -1,13 +1,13 @@
 ---
-creationDate: 1161296723257 
-author: karenin 
-contentAuthor: karenin 
-title: XML Schema 
-contentUpdateDate: 1161296723257 
-name: XML Schema 
-layout: wiki 
-date: 1161296723257 
-creator: karenin 
+creationDate        : 2006-10-20 00:25:23 +0200 
+author              : karenin 
+title               : XML Schema 
+name                : XML Schema 
+layout              : wiki 
+path                : XML Schema 
+date                : 2006-10-20 00:25:23 +0200 
+version             : 1 
+creator             : karenin 
 ---
 A DTD modern alternatívája
 
@@ -16,7 +16,5 @@ A DTD modern alternatívája
 *   tud egy csomó típust alapból
 *   ezek mellé lehet definiálni is sajátokat
 *   szép öröklődéses a definíciós szintaxisa
-
-
 
 Konkurense a [Relax-NG](Missing.html)

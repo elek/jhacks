@@ -1,13 +1,13 @@
 ---
-creationDate: 1107527466554 
-author: kocka 
-contentAuthor: kocka 
-title: Autoboxing 
-contentUpdateDate: 1142091500887 
-name: Autoboxing 
-layout: wiki 
-date: 1142091500887 
-creator: kocka 
+creationDate        : 2005-02-04 15:31:06 +0100 
+author              : admin 
+title               : Autoboxing 
+name                : Autoboxing 
+layout              : wiki 
+path                : Autoboxing 
+date                : 2006-03-26 01:42:34 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Autoboxing/unboxing
 
@@ -17,18 +17,18 @@ Syntax sugar, azaz valojaban objektum letrehozassal es metodushivassal mukodik.<
 Szemleltetesul:
 
 Alapbol igy megy:<br/>
-{% highlight java %}
+```
 Integer i = 1;
 int j = i;
-{% endhighlight %}
+```
 
 Nyilvan ha elemi valtozonak null-t akarsz adni ertekul valahogy akkor [NPE](NPE.html) keletkezik:<br/>
-{% highlight java %}
+```
 Integer i = null;
 int j = i;
-{% endhighlight %}
+```
 Ennek azert nyilvan vannak kevesbe evidens esetei is, peldaul amikor fuggvenyhivas ad vissza Long-kent nullt, amibol egybol long-ot csinlasz. Amikor pedig method signature-ben valtoztatod a parametert objektumbol elemi tipusba vagy vissza, akkor jobb egy full clean rebuild.
 
 Cikkek:
 
-*   http://today.java.net/pub/a/today/2005/03/24/autoboxing.html - ez a cikk bovebben leirja milyen aknakra lehet lepni az autoboxing mezon.
+*   [http://today.java.net/pub/a/today/2005/03/24/autoboxing.html](http://today.java.net/pub/a/today/2005/03/24/autoboxing.html) - ez a cikk bovebben leirja milyen aknakra lehet lepni az autoboxing mezon.

@@ -1,13 +1,13 @@
 ---
-creationDate: 1114184081620 
-author: kocka 
-contentAuthor: kocka 
-title: j4sql/javadoc tags/j4sql.function 
-contentUpdateDate: 1115506801828 
-name: j4sqljavadoc tagsj4sql.function 
-layout: wiki 
-date: 1115506801828 
-creator: kocka 
+creationDate        : 2005-04-22 17:34:41 +0200 
+author              : admin 
+title               : j4sql/javadoc tags/j4sql.function 
+name                : j4sql/javadoc tags/j4sql.function 
+layout              : wiki 
+path                : j4sql/javadoc tags/j4sql.function 
+date                : 2006-03-26 01:48:06 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A jsproc.function taggel egyszeruen keszithetunk SQL funkciokat.
 
@@ -23,8 +23,8 @@ onNullInput|nem|NULL parameterek eseten meg kell-e hivni? 'called' vagy 'returns
 
 
 Pelda:
-{% highlight java %}
-public class Functions \{
+```
+public class Functions {
   /**
    * Calculates the factorial of the value.
    * 
@@ -32,12 +32,12 @@ public class Functions \{
    * deterministic="true" sqlAccess="no"
    *
    */
-  public static long factorial(int a) \{
+  public static long factorial(int a) {
     long val = 1;
-    for(int i=1; i<a; i++)\{
+    for(int i=1; i<a; i++){
       l = l*i;
-    \}
+    }
     return l;
-  \}
-\}
-{% endhighlight %}
+  }
+}
+```

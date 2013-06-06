@@ -1,13 +1,13 @@
 ---
-creationDate: 1100515480473 
-author: kocka 
-contentAuthor: kocka 
-title: beehive 
-contentUpdateDate: 1129553451661 
-name: beehive 
-layout: wiki 
-date: 1129553451661 
-creator: boci 
+creationDate        : 2004-11-15 11:44:40 +0100 
+author              : admin 
+title               : beehive 
+name                : beehive 
+layout              : wiki 
+path                : beehive 
+date                : 2006-03-26 01:43:07 +0100 
+version             : 1 
+creator             : boci 
 ---
 [__Apache Beehive__](http://beehive.apache.org/)
 
@@ -30,8 +30,5 @@ Egy ket dolog amit nem ertek benne.
 *   mi a turo az a specialis [ant](ant.html) task? Miert nem lehet csak ugy a szokasos modon buildelni?
 *   Minek masni a nyers husokra?
 
-
-
 Egyebkent ha egyszer kesz lesz a [pollinate](pollinate.html), akkor biztos franko lesz, de tegnapra legyen mar kesz :)
-
 </[kocka](kocka.html)-comments>

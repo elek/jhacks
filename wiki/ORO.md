@@ -1,13 +1,13 @@
 ---
-creationDate: 1112876831990 
-author: kocka 
-contentAuthor: kocka 
-title: ORO 
-contentUpdateDate: 1112876831990 
-name: ORO 
-layout: wiki 
-date: 1112876831990 
-creator: kocka 
+creationDate        : 2005-04-07 14:27:11 +0200 
+author              : admin 
+title               : ORO 
+name                : ORO 
+layout              : wiki 
+path                : ORO 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://jakarta.apache.org/oro/images/logo.gif)(http://jakarta.apache.org/oro/)
 

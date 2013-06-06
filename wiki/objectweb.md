@@ -1,16 +1,16 @@
 ---
-creationDate: 1108636608201 
-author: kocka 
-contentAuthor: kocka 
-title: objectweb 
-contentUpdateDate: 1108636708188 
-name: objectweb 
-layout: wiki 
-date: 1108636708188 
-creator: kocka 
+creationDate        : 2005-02-17 11:36:48 +0100 
+author              : admin 
+title               : objectweb 
+name                : objectweb 
+layout              : wiki 
+path                : objectweb 
+date                : 2006-03-26 01:48:32 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.objectweb.org/media/interface/logoow3.gif)(http://www.objectweb.org/)<br/>
-http://www.objectweb.org/
+[http://www.objectweb.org/](http://www.objectweb.org/)
 
 Egy [open source](Open%20Source.html) szovetseg, licenszeik eleg valtozatosak, [GPL](GPL.html), [LGPL](LGPL.html), [ASF](ASF.html) es mas [BSD](BSD.html) szeru cuccok.
 

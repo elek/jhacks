@@ -1,13 +1,13 @@
 ---
-creationDate: 1110916964545 
-author: kocka 
-contentAuthor: kocka 
-title: mule 
-contentUpdateDate: 1169073499521 
-name: mule 
-layout: wiki 
-date: 1169073499521 
-creator: kocka 
+creationDate        : 2005-03-15 21:02:44 +0100 
+author              : kocka 
+title               : mule 
+name                : mule 
+layout              : wiki 
+path                : mule 
+date                : 2007-01-17 23:38:19 +0100 
+version             : 5 
+creator             : kocka 
 ---
 ![image](http://www.muleumo.org/images/logo-with-title-small.gif)(http://mule.codehaus.org/)
 
@@ -18,7 +18,5 @@ Keszuloben van hozza egy [eclipse](Eclipse.html) [eclipse/plug-in](Eclipse/Plug-
 Cikkek:
 
 *   [Mule: a case study](http://www.theserverside.com/tt/articles/article.tss?l=CaseStudyMule)
-
-
 
 

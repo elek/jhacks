@@ -1,13 +1,13 @@
 ---
-creationDate: 1091021869581 
-author: kocka 
-contentAuthor: kocka 
-title: together 
-contentUpdateDate: 1112882405432 
-name: together 
-layout: wiki 
-date: 1112882405432 
-creator: kocka 
+creationDate        : 2004-07-28 15:37:49 +0200 
+author              : admin 
+title               : together 
+name                : together 
+layout              : wiki 
+path                : together 
+date                : 2006-03-26 01:51:19 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy csili vili UML designer a [borland](borland.html)tol.
 
@@ -34,5 +34,6 @@ Ami viszont problem:
 
 
 A [windows](Windows.html)os verzio szuper, meg jo. Ellenben a [Linux](Linux.html)-os verzioval vannak gondok. Elsore azt hittem en vagyok a hulye, de ra kelett jonnom, nem. Szoval a bugok:
+
 *   A helo systembe csak ugy tudsz bemenni, ha a folinkre pozicionalsz, majd megnyomod a 'Next Topic' gombot. Mondanom sem kell, hogy W$ alatt, ez duplaklikkre megy.
 *   Az elozo meg hagyjam, de a masik bug amit talaltam, az az, hogy egyszeruen nem lehet elovarazsolni a diagram editort. Elvileg rogton meg kene nyilnia, ha egy uj diagramot csinalsz, vagy megnyitsz egyet, (W$ alatt meg is tortenik persze...) de Linux alatt egyszeruen nem megy... VAZZ!!! (Annyi tennek hozza, hogy megy, de csak akkor, ha root-kent futtatom (Slackware 10.0))

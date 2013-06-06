@@ -1,13 +1,13 @@
 ---
-creationDate: 1190897733895 
-author: karenin 
-contentAuthor: karenin 
-title: Design Patterns/Creational Patterns/Builder 
-contentUpdateDate: 1190897982009 
-name: Design PatternsCreational PatternsBuilder 
-layout: wiki 
-date: 1190897982009 
-creator: karenin 
+creationDate        : 2007-09-27 14:55:33 +0200 
+author              : karenin 
+title               : Design Patterns/Creational Patterns/Builder 
+name                : Design Patterns/Creational Patterns/Builder 
+layout              : wiki 
+path                : Design Patterns/Creational Patterns/Builder 
+date                : 2007-09-27 14:59:42 +0200 
+version             : 2 
+creator             : karenin 
 ---
 Egyike azoknak a mintáknak ameylek annyira alacsony szintűek, hogy nagyon magyarázni kell, hogy miért is minták.
 

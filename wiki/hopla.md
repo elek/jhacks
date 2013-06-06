@@ -1,13 +1,13 @@
 ---
-creationDate: 1170596553961 
-author: kocka 
-contentAuthor: kocka 
-title: hopla 
-contentUpdateDate: 1170597282351 
-name: hopla 
-layout: wiki 
-date: 1170597282351 
-creator: kocka 
+creationDate        : 2007-02-04 14:42:33 +0100 
+author              : kocka 
+title               : hopla 
+name                : hopla 
+layout              : wiki 
+path                : hopla 
+date                : 2007-02-04 14:54:42 +0100 
+version             : 2 
+creator             : kocka 
 ---
 Hungarian [OpenLaszlo](openlaszlo.html) Community
 

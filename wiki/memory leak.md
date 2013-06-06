@@ -1,13 +1,13 @@
 ---
-creationDate: 1093873655239 
-author: kocka 
-contentAuthor: kocka 
-title: memory leak 
-contentUpdateDate: 1126102037508 
-name: memory leak 
-layout: wiki 
-date: 1126102037508 
-creator: kocka 
+creationDate        : 2004-08-30 15:47:35 +0200 
+author              : admin 
+title               : memory leak 
+name                : memory leak 
+layout              : wiki 
+path                : memory leak 
+date                : 2006-03-26 01:48:27 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Olyan memoria terulet, amit a program allokalt, de valamilyen hiba vagy hianyossag miatt akkor sem szabaditja fel es adja vissza a rendszernek, amikor mar nem hasznalja.
 

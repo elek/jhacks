@@ -1,13 +1,13 @@
 ---
-creationDate: 1104922451641 
-author: kocka 
-contentAuthor: kocka 
-title: midlet 
-contentUpdateDate: 1104922451641 
-name: midlet 
-layout: wiki 
-date: 1104922451641 
-creator: kocka 
+creationDate        : 2005-01-05 11:54:11 +0100 
+author              : admin 
+title               : midlet 
+name                : midlet 
+layout              : wiki 
+path                : midlet 
+date                : 2006-03-26 01:48:28 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [j2me](j2me.html) alkalmazas.
 

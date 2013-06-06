@@ -1,15 +1,15 @@
 ---
-creationDate: 1132927934397 
-author: kocka 
-contentAuthor: kocka 
-title: Web service description language 
-contentUpdateDate: 1193318897135 
-name: WSDL 
-layout: wiki 
-date: 1193318897135 
-creator: kocka 
+creationDate        : 2005-11-25 15:12:14 +0100 
+author              : kocka 
+title               : Web service description language 
+name                : WSDL 
+layout              : wiki 
+path                : WSDL 
+date                : 2007-10-25 15:28:17 +0200 
+version             : 4 
+creator             : kocka 
 ---
-Egy [xml](XML.html) nyelv a [webservices](WebServices.html) leirasara. [w3c](w3c.html) specifikacio: http://www.w3.org/TR/2001/NOTE-wsdl-20010315
+Egy [xml](XML.html) nyelv a [webservices](WebServices.html) leirasara. [w3c](w3c.html) specifikacio: [http://www.w3.org/TR/2001/NOTE-wsdl-20010315](http://www.w3.org/TR/2001/NOTE-wsdl-20010315)
 
 Kivalloan alkalmas a dolog rendszerek integraciojara (foleg kulonbozo cegek szolgaltatasai eseteben, vagy kulonbozo platformok ([.net](.net.html) vs [java](java.html)))
 

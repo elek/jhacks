@@ -1,13 +1,13 @@
 ---
-creationDate: 1198701846860 
-author: kocka 
-contentAuthor: kocka 
-title: Open Space Technology 
-contentUpdateDate: 1198701858287 
-name: open space 
-layout: wiki 
-date: 1198701858287 
-creator: kocka 
+creationDate        : 2007-12-26 21:44:06 +0100 
+author              : kocka 
+title               : Open Space Technology 
+name                : open space 
+layout              : wiki 
+path                : open space 
+date                : 2007-12-26 21:44:18 +0100 
+version             : 2 
+creator             : kocka 
 ---
 Egy viszonylag új név, egy nem annyira ój dolognak. A hagyományos konferencia közismert bűne az, hogy egy ember beszél (esetenként hívhatjuk ezt monológnak is) a többi figyel, és a téma egy előre meghatározott útvonalon halad.
 
@@ -20,13 +20,7 @@ Linkek:
 *   [wikipédia szócikk](http://en.wikipedia.org/wiki/Open_Space_Technology)
 
 
-
-
-
 Lásd: [konferencia](konferencia.html)
-
-
-
 
 
 

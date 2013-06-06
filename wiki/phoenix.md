@@ -1,13 +1,13 @@
 ---
-creationDate: 1102425723896 
-author: kocka 
-contentAuthor: kocka 
-title: phoenix 
-contentUpdateDate: 1102425723896 
-name: phoenix 
-layout: wiki 
-date: 1102425723896 
-creator: kocka 
+creationDate        : 2004-12-07 14:22:03 +0100 
+author              : admin 
+title               : phoenix 
+name                : phoenix 
+layout              : wiki 
+path                : phoenix 
+date                : 2006-03-26 01:48:36 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy korai [IoC](ioc.html) container volt.
 

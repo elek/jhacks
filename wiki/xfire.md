@@ -1,13 +1,13 @@
 ---
-creationDate: 1111399766013 
-author: kocka 
-contentAuthor: kocka 
-title: xfire 
-contentUpdateDate: 1165315760589 
-name: xfire 
-layout: wiki 
-date: 1165315760589 
-creator: kocka 
+creationDate        : 2005-03-21 11:09:26 +0100 
+author              : kocka 
+title               : xfire 
+name                : xfire 
+layout              : wiki 
+path                : xfire 
+date                : 2006-12-05 11:49:20 +0100 
+version             : 8 
+creator             : kocka 
 ---
 ![image](http://xfire.codehaus.org/xfire_logo.jpg)(http://xfire.codehaus.org/)
 
@@ -27,10 +27,6 @@ cikkek:
 
 *   [XFire: The easy and simple way to develop Web services](http://www.javaworld.com/javaworld/jw-05-2006/jw-0501-xfire_p.html)
 
-
-
 Lasd: [webservices](WebServices.html)
-
-
 
 

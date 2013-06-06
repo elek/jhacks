@@ -1,13 +1,13 @@
 ---
-creationDate: 1119097512953 
-author: kocka 
-contentAuthor: kocka 
-title: PMD 
-contentUpdateDate: 1166437049216 
-name: PMD 
-layout: wiki 
-date: 1166437049216 
-creator: kocka 
+creationDate        : 2005-06-18 14:25:12 +0200 
+author              : kocka 
+title               : PMD 
+name                : PMD 
+layout              : wiki 
+path                : PMD 
+date                : 2006-12-18 11:17:29 +0100 
+version             : 2 
+creator             : kocka 
 ---
 ![image](http://pmd.sourceforge.net/images/pmd_logo_small.jpg)(http://pmd.sourceforge.net/)
 

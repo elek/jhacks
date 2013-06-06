@@ -1,12 +1,12 @@
 ---
-creationDate: 1182779132601 
-author: kocka 
-contentAuthor: kocka 
-title: laszlo/LZX/skinek 
-contentUpdateDate: 1182779132601 
-name: laszloLZXskinek 
-layout: wiki 
-date: 1182779132601 
-creator: kocka 
+creationDate        : 2007-06-25 15:45:32 +0200 
+author              : kocka 
+title               : laszlo/LZX/skinek 
+name                : laszlo/LZX/skinek 
+layout              : wiki 
+path                : laszlo/LZX/skinek 
+date                : 2007-06-25 15:45:32 +0200 
+version             : 1 
+creator             : kocka 
 ---
 [TODO](../../TODO.html)

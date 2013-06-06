@@ -1,13 +1,13 @@
 ---
-creationDate: 1107700539627 
-author: kocka 
-contentAuthor: kocka 
-title: uberloom/domain management 
-contentUpdateDate: 1107700539627 
-name: uberloomdomain management 
-layout: wiki 
-date: 1107700539627 
-creator: kocka 
+creationDate        : 2005-02-06 15:35:39 +0100 
+author              : admin 
+title               : uberloom/domain management 
+name                : uberloom/domain management 
+layout              : wiki 
+path                : uberloom/domain management 
+date                : 2006-03-26 01:51:22 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy domain kiszlogalasara, Ez nem feltetlenul lenne egy http domain, vagy ilyesmi,  inkab egy felso szintu loom domain, amiben lennenek e-mail domain-ek, http-domainek, ilyesmi. Mindez csak az [uberloom/authentication](../uberloom/authentication.html)hoz kellene.
 

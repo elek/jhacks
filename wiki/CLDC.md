@@ -1,13 +1,13 @@
 ---
-creationDate: 1164556620766 
-author: karenin 
-contentAuthor: karenin 
-title: CLDC 
-contentUpdateDate: 1164556620766 
-name: CLDC 
-layout: wiki 
-date: 1164556620766 
-creator: karenin 
+creationDate        : 2006-11-26 16:57:00 +0100 
+author              : karenin 
+title               : CLDC 
+name                : CLDC 
+layout              : wiki 
+path                : CLDC 
+date                : 2006-11-26 16:57:00 +0100 
+version             : 1 
+creator             : karenin 
 ---
 Connected Limited Device Configuration
 

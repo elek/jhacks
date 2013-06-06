@@ -1,15 +1,15 @@
 ---
-creationDate: 1204708916336 
-author: karenin 
-contentAuthor: karenin 
-title: Hudson 
-contentUpdateDate: 1204712096843 
-name: Hudson 
-layout: wiki 
-date: 1204712096843 
-creator: kocka 
+creationDate        : 2008-03-05 10:21:56 +0100 
+author              : karenin 
+title               : Hudson 
+name                : Hudson 
+layout              : wiki 
+path                : Hudson 
+date                : 2008-03-05 11:14:56 +0100 
+version             : 2 
+creator             : kocka 
 ---
-https://hudson.dev.java.net/
+[https://hudson.dev.java.net/](https://hudson.dev.java.net/)
 
 Egy [continuous integration](Continuous%20Integration.html) szerver. Érdekességei:
 
@@ -18,7 +18,5 @@ Egy [continuous integration](Continuous%20Integration.html) szerver. Érdekessé
 *   Egészen jó [webes](webapp.html) felület.
 *   Könnyen telepíthető (nem használ adatbázist)
 *   Jól pluginelhető
-
-
 
 

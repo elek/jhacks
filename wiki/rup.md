@@ -1,13 +1,13 @@
 ---
-creationDate: 1122547103732 
-author: kocka 
-contentAuthor: kocka 
-title: Rational Unified Process 
-contentUpdateDate: 1188038335846 
-name: rup 
-layout: wiki 
-date: 1188038335846 
-creator: kocka 
+creationDate        : 2005-07-28 12:38:23 +0200 
+author              : kocka 
+title               : Rational Unified Process 
+name                : rup 
+layout              : wiki 
+path                : rup 
+date                : 2007-08-25 12:38:55 +0200 
+version             : 5 
+creator             : kocka 
 ---
 Egy leiras es szoftver termek ami segit megoldani a termelesi folyamatokat szoftverfejleszto szervezeten belul. Olyan dolgokat javasol mint peldaul dokumentalt folyamatok, komponens alapu fejlesztes ([COP](COP.html)), vizualis tervezes ([UML](UML.html)), [iterativ fejlesztes](iterativ%20processz.html), meg hasonlok...
 

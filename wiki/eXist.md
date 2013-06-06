@@ -1,13 +1,13 @@
 ---
-creationDate: 1142152969198 
-author: pedro 
-contentAuthor: pedro 
-title: eXist 
-contentUpdateDate: 1142159147787 
-name: eXist 
-layout: wiki 
-date: 1142159147787 
-creator: pedro 
+creationDate        : 2006-03-12 09:42:49 +0100 
+author              : admin 
+title               : eXist 
+name                : eXist 
+layout              : wiki 
+path                : eXist 
+date                : 2006-03-26 01:47:53 +0100 
+version             : 1 
+creator             : pedro 
 ---
 Nyílt forrású natív [XML](XML.html) adatbázis. Natív alatt azt kell érteni, hogy az adattárolás történik [XML](XML.html)-ben.
 
@@ -29,14 +29,10 @@ Lekérdezés és hozzáférés mehet sok formában:
 *   dokument és csomópont szintű update [XUpdate](Missing.html)-tel.
 
 
-
-
-
 Komoly hiányosságok:
+
 *   nincs tranzakció kezelés,
 *   nincs schema validálás ... meg egyáltalán schema kezelés,
 *   az [XQuery](XQuery.html) támogatás egyenlőre 97%-os ... ráadásul a keménymagos funkciók out of scope.
-
-
 
 Ha lib-ként használod, alapból eléred mind az alap, mind az [XQuery](XQuery.html)-vel előállított [XML](XML.html) doksi [DOM](dom.html)-ját. Néhány óra doksi olvasás után be tudtam tolni [JonAS](jonas.html) alá ... onnantól kezdve a web konténerből mindenféle úton-módon lehet használni. [EJB](EJB.html) konténerről egyenlőre ne beszéljünk ... amúgy sincs tranzakciókezelés ...

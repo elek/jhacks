@@ -1,15 +1,15 @@
 ---
-creationDate: 1107774499708 
-author: kocka 
-contentAuthor: kocka 
-title: JBossMail 
-contentUpdateDate: 1107774573786 
-name: JBossMail 
-layout: wiki 
-date: 1107774573786 
-creator: kocka 
+creationDate        : 2005-02-07 12:08:19 +0100 
+author              : admin 
+title               : JBossMail 
+name                : JBossMail 
+layout              : wiki 
+path                : JBossMail 
+date                : 2006-03-26 01:42:41 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://www.jboss.org/products/mailservices
+[http://www.jboss.org/products/mailservices](http://www.jboss.org/products/mailservices)
 
 Mail szerver [JBOSS](jboss.html) [alkalmazas szerver](Alkalmazas%20Szerver.html)hez.
 

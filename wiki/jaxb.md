@@ -1,13 +1,13 @@
 ---
-creationDate: 1133886903646 
-author: karenin 
-contentAuthor: karenin 
-title: Java XML Binding 
-contentUpdateDate: 1161295523807 
-name: jaxb 
-layout: wiki 
-date: 1161295523807 
-creator: kocka 
+creationDate        : 2005-12-06 17:35:03 +0100 
+author              : karenin 
+title               : Java XML Binding 
+name                : jaxb 
+layout              : wiki 
+path                : jaxb 
+date                : 2006-10-20 00:05:23 +0200 
+version             : 3 
+creator             : kocka 
 ---
 A regi generalos moka... meltan kevesbe nepszeru, ugyanis belegeneralja neked a bean-be az [XML](XML.html)es reprezentaciot.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1121721346702 
-author: kocka 
-contentAuthor: kocka 
-title: report 
-contentUpdateDate: 1195034430718 
-name: report 
-layout: wiki 
-date: 1195034430718 
-creator: kocka 
+creationDate        : 2005-07-18 23:15:46 +0200 
+author              : kocka 
+title               : report 
+name                : report 
+layout              : wiki 
+path                : report 
+date                : 2007-11-14 11:00:30 +0100 
+version             : 3 
+creator             : kocka 
 ---
 Java riport rendszerek:
 
@@ -15,7 +15,5 @@ Java riport rendszerek:
 *   [jasperreports](jasperreports.html)
 *   [birt](birt.html)
 *   meg persze a sok kis házi technológia
-
-
 
 Meg valami?

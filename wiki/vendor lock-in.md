@@ -1,13 +1,13 @@
 ---
-creationDate: 1093872969105 
-author: kocka 
-contentAuthor: kocka 
-title: vendor lock-in 
-contentUpdateDate: 1157716827144 
-name: vendor lock-in 
-layout: wiki 
-date: 1157716827144 
-creator: kocka 
+creationDate        : 2004-08-30 15:36:09 +0200 
+author              : kocka 
+title               : vendor lock-in 
+name                : vendor lock-in 
+layout              : wiki 
+path                : vendor lock-in 
+date                : 2006-09-08 14:00:27 +0200 
+version             : 2 
+creator             : kocka 
 ---
 __Vendor lock-in__
 

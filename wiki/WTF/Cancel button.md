@@ -1,13 +1,13 @@
 ---
-creationDate: 1133189429422 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/Cancel button 
-contentUpdateDate: 1133193797304 
-name: WTFCancel button 
-layout: wiki 
-date: 1133193797304 
-creator: kocka 
+creationDate        : 2005-11-28 15:50:29 +0100 
+author              : admin 
+title               : WTF/Cancel button 
+name                : WTF/Cancel button 
+layout              : wiki 
+path                : WTF/Cancel button 
+date                : 2006-03-26 01:43:01 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Na kozzetennek egy sajat gyartamanyomat is :)
 

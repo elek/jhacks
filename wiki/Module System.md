@@ -1,13 +1,13 @@
 ---
-creationDate: 1180728560718 
-author: karenin 
-contentAuthor: karenin 
-title: Module System 
-contentUpdateDate: 1180728560718 
-name: Module System 
-layout: wiki 
-date: 1180728560718 
-creator: karenin 
+creationDate        : 2007-06-01 22:09:20 +0200 
+author              : karenin 
+title               : Module System 
+name                : Module System 
+layout              : wiki 
+path                : Module System 
+date                : 2007-06-01 22:09:20 +0200 
+version             : 1 
+creator             : karenin 
 ---
 Jobb híján lett ez a neve a snipnek. Alapvetően a moduláris tervezés megvalósításrairól van szó. 
 
@@ -33,5 +33,6 @@ Jobb híján lett ez a neve a snipnek. Alapvetően a moduláris tervezés megval
 A legizgalmasabb számomra pl. publikus és privát osztályok/csomagok megadása. Az azért frankó, mert ekkor lehetséges az, hogy ha két modul is monduk egy XMLparser termélktől függ, de két verziótól, akkor nem akadnak össze, mert a modulokból csak a publikus csomagokat látja a felhasználó.
 
 Lásd még:
-* [OSGi](OSGi.html)
-* [JSR-277](JSR-277.html)
+
+*   [OSGi](OSGi.html)
+*   [JSR-277](JSR-277.html)

@@ -1,13 +1,13 @@
 ---
-creationDate: 1148247636697 
-author: boci 
-contentAuthor: boci 
-title: aspectwerkz 
-contentUpdateDate: 1148248213341 
-name: aspectwerkz 
-layout: wiki 
-date: 1148248213341 
-creator: boci 
+creationDate        : 2006-05-21 23:40:36 +0200 
+author              : boci 
+title               : aspectwerkz 
+name                : aspectwerkz 
+layout              : wiki 
+path                : aspectwerkz 
+date                : 2006-05-21 23:50:13 +0200 
+version             : 2 
+creator             : boci 
 ---
 Az [aspectwerkz](http://docs.codehaus.org/display/AW/Home) egy egyszeru, konnyu, gyors [AOP](AOP.html) framework ami a [codehaus](codehaus.html) gondozasaban keszul. Konnyen illesztheto mar meglevo rendszerekhez. 
 

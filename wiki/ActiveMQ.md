@@ -1,15 +1,15 @@
 ---
-creationDate: 1092226430388 
-author: kocka 
-contentAuthor: kocka 
-title: ActiveMQ 
-contentUpdateDate: 1190582469509 
-name: ActiveMQ 
-layout: wiki 
-date: 1190582469509 
-creator: kocka 
+creationDate        : 2004-08-11 14:13:50 +0200 
+author              : kocka 
+title               : ActiveMQ 
+name                : ActiveMQ 
+layout              : wiki 
+path                : ActiveMQ 
+date                : 2007-09-23 23:21:09 +0200 
+version             : 8 
+creator             : kocka 
 ---
-http://activemq.apache.org/
+[http://activemq.apache.org/](http://activemq.apache.org/)
 
 Ex-[codehaus](codehaus.html) project, átvándorolt az [apache](ASF.html)-hoz, a [geronimo](geronimo.html) [alkalmazás szerver](Alkalmazas%20Szerver.html) része mint [JMS](JMS.html) szolgáltató.
 
@@ -21,15 +21,10 @@ Mitől érdekes:
 *   [drools](drools.html) integráció
 *   ezerféle protokolon és interface-n át elérhető: in-vm, tcp, multicast, akármi
 
-
-
 Linkek:
-*   Fejlesztői [blog](blog.html)ok: http://rajdavies.blogspot.com/ http://macstrac.blogspot.com/
 
-
+*   Fejlesztői [blog](blog.html)ok: [http://rajdavies.blogspot.com/](http://rajdavies.blogspot.com/) [http://macstrac.blogspot.com/](http://macstrac.blogspot.com/)
 
 Lásd még: [Camel](Missing.html)
-
-
 
 

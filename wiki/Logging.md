@@ -1,13 +1,13 @@
 ---
-creationDate: 1121245944292 
-author: karenin 
-contentAuthor: karenin 
-title: Logging 
-contentUpdateDate: 1203283138562 
-name: Logging 
-layout: wiki 
-date: 1203283138562 
-creator: kocka 
+creationDate        : 2005-07-13 11:12:24 +0200 
+author              : karenin 
+title               : Logging 
+name                : Logging 
+layout              : wiki 
+path                : Logging 
+date                : 2008-02-17 22:18:58 +0100 
+version             : 4 
+creator             : kocka 
 ---
 Java-hoz van tucat logging api, bar erdemes nem ezt hasznalni [debug](Missing.html)olas helyett :) de egy futo rendszer viselkedeset erdemes egy ilyen eszkozzel nyomonkovetni.
 
@@ -21,8 +21,7 @@ Szóval:
 *   [commons-logging](commons-logging.html)
 *   [logback](logback.html) aka. log4j NG
 
-
-
 Tenyesznek egyeb logging apik a neten:
-*   Ezt a marhat verjetek agyon: https://simple-log.dev.java.net/
+
+*   Ezt a marhat verjetek agyon: [https://simple-log.dev.java.net/](https://simple-log.dev.java.net/)
 *   [Avalon](avalon.html) logger, ez a jelenleg aktualis [fop](FOP.html) egyik dependencyje, agyon kene csapni oket erte...

@@ -1,13 +1,13 @@
 ---
-creationDate: 1127814696017 
-author: kocka 
-contentAuthor: kocka 
-title: CloverETL 
-contentUpdateDate: 1127814696017 
-name: CloverETL 
-layout: wiki 
-date: 1127814696017 
-creator: kocka 
+creationDate        : 2005-09-27 11:51:36 +0200 
+author              : admin 
+title               : CloverETL 
+name                : CloverETL 
+layout              : wiki 
+path                : CloverETL 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://cloveretl.berlios.de/picts/cloverLogoGreen.png)(http://cloveretl.berlios.de/)
 

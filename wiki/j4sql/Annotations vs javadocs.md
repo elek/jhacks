@@ -1,13 +1,13 @@
 ---
-creationDate: 1114085988634 
-author: kocka 
-contentAuthor: kocka 
-title: j4sql/Annotations vs javadocs 
-contentUpdateDate: 1114086034341 
-name: j4sqlAnnotations vs javadocs 
-layout: wiki 
-date: 1114086034341 
-creator: kocka 
+creationDate        : 2005-04-21 14:19:48 +0200 
+author              : admin 
+title               : j4sql/Annotations vs javadocs 
+name                : j4sql/Annotations vs javadocs 
+layout              : wiki 
+path                : j4sql/Annotations vs javadocs 
+date                : 2006-03-26 01:48:05 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Mindket megoldasnak megvan a maga elonye es hatranya:
 
@@ -17,16 +17,11 @@ Mindket megoldasnak megvan a maga elonye es hatranya:
 *   (-) viszont fuggoseg alakult ki a [j4sql](../j4sql.html) annotaciok es az alkalmazas kozott
 *   (-) [java 1.5](../java%201.5.html) fuggoseg, nem sokan hajtanak meg ilyet, adatbazisban meg meg kevesebben
 
-
-
 [javadoc](../javadoc.html) tagek:
+
 *   (-) a deployment adat csak forrasbol szedheto ki, vagy egy olyan library-vel is  bepakolhato a classfileokba mint a [metaclass](../MetaClass.html), csak akkor vegkep eltavolodtunk a standardtol
 *   (+) nincs fuggoseg, siman hasznalhato ms megoldasokkal egyut.
 
-
-
 Ugyhogy a megoldas: decoupling :) nyilvan. Mind a ketto lehetseges lesz, igy kicsit bolonyultabb, de abszolult rugalmas lesz.
-
-
 
 lasd meg: [qdox](../QDox.html)

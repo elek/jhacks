@@ -1,14 +1,14 @@
 ---
-creationDate: 1197032463374 
-author: kocka 
-contentAuthor: kocka 
-title: Web Services Interoperability Technologies 
-contentUpdateDate: 1197032463374 
-name: WSIT 
-layout: wiki 
-date: 1197032463374 
-creator: kocka 
+creationDate        : 2007-12-07 14:01:03 +0100 
+author              : kocka 
+title               : Web Services Interoperability Technologies 
+name                : WSIT 
+layout              : wiki 
+path                : WSIT 
+date                : 2007-12-07 14:01:03 +0100 
+version             : 1 
+creator             : kocka 
 ---
-https://wsit.dev.java.net/
+[https://wsit.dev.java.net/](https://wsit.dev.java.net/)
 
 Többek közt WS-AtomicTransaction implementáció. Ritkaság.

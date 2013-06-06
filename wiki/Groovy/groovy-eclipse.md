@@ -1,13 +1,13 @@
 ---
-creationDate: 1161340275673 
-author: kocka 
-contentAuthor: kocka 
-title: Groovy/groovy-eclipse 
-contentUpdateDate: 1161340275673 
-name: Groovygroovy-eclipse 
-layout: wiki 
-date: 1161340275673 
-creator: kocka 
+creationDate        : 2006-10-20 12:31:15 +0200 
+author              : kocka 
+title               : Groovy/groovy-eclipse 
+name                : Groovy/groovy-eclipse 
+layout              : wiki 
+path                : Groovy/groovy-eclipse 
+date                : 2006-10-20 12:31:15 +0200 
+version             : 1 
+creator             : kocka 
 ---
 [Groovy](../Groovy.html) [Eclipse](../Eclipse.html) [eclipse/plug-in](../Eclipse/Plug-in.html)
 
@@ -19,8 +19,7 @@ Amit tud:
 *   [ide/syntax highlight](../Missing.html)
 *   [groovy](../Groovy.html) class letrehozas
 
-
-
 Amit nagyon szeretnek de nem:
+
 *   [ide/code completion](../ide/code%20completion.html)
 *   [ide/code navigation](../Missing.html)

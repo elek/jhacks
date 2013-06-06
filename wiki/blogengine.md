@@ -1,13 +1,13 @@
 ---
-creationDate: 1184684572367 
-author: kocka 
-contentAuthor: kocka 
-title: blogengine 
-contentUpdateDate: 1184684572367 
-name: blogengine 
-layout: wiki 
-date: 1184684572367 
-creator: kocka 
+creationDate        : 2007-07-17 17:02:52 +0200 
+author              : kocka 
+title               : blogengine 
+name                : blogengine 
+layout              : wiki 
+path                : blogengine 
+date                : 2007-07-17 17:02:52 +0200 
+version             : 1 
+creator             : kocka 
 ---
 Blog szoftverek:
 
@@ -15,7 +15,5 @@ Blog szoftverek:
 *   [snipsnap](SnipSnap.html)
 *   [xwiki](xwiki.html)
 *   satobbi...
-
-
 
 Lasd meg: [blog](blog.html)

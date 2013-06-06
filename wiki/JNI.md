@@ -1,13 +1,13 @@
 ---
-creationDate: 1104399681963 
-author: kocka 
-contentAuthor: kocka 
-title: JNI 
-contentUpdateDate: 1117802276978 
-name: JNI 
-layout: wiki 
-date: 1117802276978 
-creator: kocka 
+creationDate        : 2004-12-30 10:41:21 +0100 
+author              : admin 
+title               : JNI 
+name                : JNI 
+layout              : wiki 
+path                : JNI 
+date                : 2006-03-26 01:42:43 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __Java Native Interface__
 

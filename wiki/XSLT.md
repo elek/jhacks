@@ -1,13 +1,13 @@
 ---
-creationDate: 1100727410655 
-author: boci 
-contentAuthor: boci 
-title: XSLT 
-contentUpdateDate: 1100727410655 
-name: XSLT 
-layout: wiki 
-date: 1100727410655 
-creator: boci 
+creationDate        : 2004-11-17 22:36:50 +0100 
+author              : admin 
+title               : XSLT 
+name                : XSLT 
+layout              : wiki 
+path                : XSLT 
+date                : 2006-03-26 01:43:04 +0100 
+version             : 1 
+creator             : boci 
 ---
 __Extensible Stylesheet Language Transformations__
 

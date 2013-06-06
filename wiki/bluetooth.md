@@ -1,13 +1,13 @@
 ---
-creationDate: 1162326372551 
-author: karenin 
-contentAuthor: karenin 
-title: bluetooth 
-contentUpdateDate: 1162326518370 
-name: bluetooth 
-layout: wiki 
-date: 1162326518370 
-creator: karenin 
+creationDate        : 2006-10-31 21:26:12 +0100 
+author              : karenin 
+title               : bluetooth 
+name                : bluetooth 
+layout              : wiki 
+path                : bluetooth 
+date                : 2006-10-31 21:28:38 +0100 
+version             : 2 
+creator             : karenin 
 ---
 Ipari szabvány wireless hálózatnak. Főleg kütyük egymás közötti kommunikációjára használják.
 Javaban JSR-82 rendelkezik róla. Mivel hardware közeli, ezért valamilyen natív (tehát oprendszer) interface is kell hozzá, ezért egy kicsit bonyolultabb hozzá találni implementációt.

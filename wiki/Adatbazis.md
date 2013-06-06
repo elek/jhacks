@@ -1,13 +1,13 @@
 ---
-creationDate: 1106513476570 
-author: kocka 
-contentAuthor: kocka 
-title: Adatbazis 
-contentUpdateDate: 1115364476095 
-name: Adatbazis 
-layout: wiki 
-date: 1115364476095 
-creator: kocka 
+creationDate        : 2005-01-23 21:51:16 +0100 
+author              : admin 
+title               : Adatbazis 
+name                : Adatbazis 
+layout              : wiki 
+path                : Adatbazis 
+date                : 2006-03-26 01:42:34 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [zsoltk](zsoltk.html) billentyuzetebol:
 
@@ -21,16 +21,18 @@ Amit meg erdemes tudni a mai vilagban es ezt a legutobbi projecten tanultam meg 
 
 Es akkor jojjenek a kapcsolodo snip-ek:<br/>
 Relacios adatbazisok:
-1. [MySQL](MySQL.html) Gyors, sokan hansznaljak, ennek ellenere nem a legjobb.
-1. [Oracle](Oracle.html) Lassu, meg tobben hasznaljak es pont ezert nem a legjobb.
-1. [Pointbase](Missing.html) Java alapu DB. Szep, okos, gyors, keveset fogyaszt es minden appszerver melle csomagoljak.
-1. [HSQL](HSQL.html) Masik Java alapu DB. Lasd fent, csak eppen nem csomagoljak.
-1. [Progress](Progress.html) Regi darab. Regi idokbol. Ennek ellenere nagyon jo kis darab. Csak ne akard JDBC-n keresztul hasznalni:)
-1. [MAXDB](MAXDB.html) [Kocka](kocka.html)?
-1. [MSSQL](MSSQL.html) Mert a [Microsoft](Microsoft.html) ilyet is gyart:)
+
+1.   [MySQL](MySQL.html) Gyors, sokan hansznaljak, ennek ellenere nem a legjobb.
+1.   [Oracle](Oracle.html) Lassu, meg tobben hasznaljak es pont ezert nem a legjobb.
+1.   [Pointbase](Missing.html) Java alapu DB. Szep, okos, gyors, keveset fogyaszt es minden appszerver melle csomagoljak.
+1.   [HSQL](HSQL.html) Masik Java alapu DB. Lasd fent, csak eppen nem csomagoljak.
+1.   [Progress](Progress.html) Regi darab. Regi idokbol. Ennek ellenere nagyon jo kis darab. Csak ne akard JDBC-n keresztul hasznalni:)
+1.   [MAXDB](MAXDB.html) [Kocka](kocka.html)?
+1.   [MSSQL](MSSQL.html) Mert a [Microsoft](Microsoft.html) ilyet is gyart:)
 
 Objektum Relacios adatbazisok:
-1. [PostgreSQL](PostgreSQL.html) Az egyetlen:) [Kocka](kocka.html)?<br/>
+
+1.   [PostgreSQL](PostgreSQL.html) Az egyetlen:) [Kocka](kocka.html)?<br/>
 
 Na hirtelen ennyit az adatbazisokrol. Egyebkent a snipet azert csinaltam, hogy betehessek egy linket: [Azzurri Clay, Database Modeling in Eclipse](http://www.azzurri.jp/en/software/clay/index.jsp). Egyetlen hibaja, hogy nem free.
 

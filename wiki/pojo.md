@@ -1,13 +1,13 @@
 ---
-creationDate: 1107245781221 
-author: kocka 
-contentAuthor: kocka 
-title: pojo 
-contentUpdateDate: 1166693324337 
-name: pojo 
-layout: wiki 
-date: 1166693324337 
-creator: kocka 
+creationDate        : 2005-02-01 09:16:21 +0100 
+author              : kocka 
+title               : pojo 
+name                : pojo 
+layout              : wiki 
+path                : pojo 
+date                : 2006-12-21 10:28:44 +0100 
+version             : 6 
+creator             : kocka 
 ---
 __Plain Old Java Object__
 

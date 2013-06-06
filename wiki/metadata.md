@@ -1,13 +1,13 @@
 ---
-creationDate: 1113987277132 
-author: kocka 
-contentAuthor: kocka 
-title: metadata 
-contentUpdateDate: 1113987298685 
-name: metadata 
-layout: wiki 
-date: 1113987298685 
-creator: kocka 
+creationDate        : 2005-04-20 10:54:37 +0200 
+author              : admin 
+title               : metadata 
+name                : metadata 
+layout              : wiki 
+path                : metadata 
+date                : 2006-03-26 01:48:28 +0100 
+version             : 1 
+creator             : kocka 
 ---
 [Java 1.5](java%201.5.html) alatt tarolhatsz metainformaciokat kulonbozo kod egysegeken, osztalyokon, metodusokon, lasd [annotations](annotations.html).
 

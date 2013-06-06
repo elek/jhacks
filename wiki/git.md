@@ -1,13 +1,13 @@
 ---
-creationDate: 1197986313399 
-author: kocka 
-contentAuthor: kocka 
-title: git 
-contentUpdateDate: 1197986313399 
-name: git 
-layout: wiki 
-date: 1197986313399 
-creator: kocka 
+creationDate        : 2007-12-18 14:58:33 +0100 
+author              : kocka 
+title               : git 
+name                : git 
+layout              : wiki 
+path                : git 
+date                : 2007-12-18 14:58:33 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [Linux](Linux.html)hoz használt [version control](version%20control.html) tool. 
 

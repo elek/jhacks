@@ -1,13 +1,13 @@
 ---
-creationDate: 1100726581289 
-author: kocka 
-contentAuthor: kocka 
-title: JSP 
-contentUpdateDate: 1166463137048 
-name: JSP 
-layout: wiki 
-date: 1166463137048 
-creator: boci 
+creationDate        : 2004-11-17 22:23:01 +0100 
+author              : kocka 
+title               : JSP 
+name                : JSP 
+layout              : wiki 
+path                : JSP 
+date                : 2006-12-18 18:32:17 +0100 
+version             : 4 
+creator             : boci 
 ---
 __JavaServer Pages__
 
@@ -23,13 +23,10 @@ Nehany tag library lelohely:
 *   [http://www.jspin.com/home/tags](http://www.jspin.com/home/tags)
 *   [http://www.servletsuite.com/jsp.htm](http://www.servletsuite.com/jsp.htm)
 
-
-
 Azok a [webapp](webapp.html) rendszerek amik JSP-re epitenek:
+
 *   [Struts](struts.html)
 *   [Beehive](beehive.html)
 *   [servlet_jsp](servlet_jsp.html)
-
-
 
 

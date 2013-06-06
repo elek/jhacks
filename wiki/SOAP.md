@@ -1,15 +1,15 @@
 ---
-creationDate: 1111399844989 
-author: kocka 
-contentAuthor: kocka 
-title: Simple Object Access Protocol 
-contentUpdateDate: 1193321191508 
-name: SOAP 
-layout: wiki 
-date: 1193321191508 
-creator: kocka 
+creationDate        : 2005-03-21 11:10:44 +0100 
+author              : kocka 
+title               : Simple Object Access Protocol 
+name                : SOAP 
+layout              : wiki 
+path                : SOAP 
+date                : 2007-10-25 16:06:31 +0200 
+version             : 7 
+creator             : kocka 
 ---
-http://www.w3.org/TR/soap/
+[http://www.w3.org/TR/soap/](http://www.w3.org/TR/soap/)
 
 Ahogy a neve is mutatja objektumok [XML](XML.html)-en keresztül való utaztatására mond meg dolgokat. 
 
@@ -25,16 +25,11 @@ Alapvetően protokol független, mivel a header cuccokat nem a protokol (pl. HTT
 *   [axis](axis.html) ([asf](ASF.html))
 *   Meg mindenfele kommersz cegnek van nyilvan sajatja
 
-
-
 java apik:
+
 *   JAX-RPC (magas szint)
 *   SAAJ (alacsony szint)
 
-
-
 Lasd: [WebServices](WebServices.html)
-
-
 
 

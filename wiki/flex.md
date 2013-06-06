@@ -1,13 +1,13 @@
 ---
-creationDate: 1184763129260 
-author: kocka 
-contentAuthor: kocka 
-title: Flex 
-contentUpdateDate: 1212158190513 
-name: flex 
-layout: wiki 
-date: 1212158190513 
-creator: kocka 
+creationDate        : 2007-07-18 14:52:09 +0200 
+author              : kocka 
+title               : Flex 
+name                : flex 
+layout              : wiki 
+path                : flex 
+date                : 2008-05-30 16:36:30 +0200 
+version             : 26 
+creator             : kocka 
 ---
 Egy [adobe](adobe.html) (gonosz) cucc, [flash](flash.html) UI generálására. Mivel [java](java.html)-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima [XML](XML.html) formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek [HTML](Missing.html) vagy [OpenLaszlo](Laszlo.html) kódot.
 
@@ -15,9 +15,9 @@ Egy [adobe](adobe.html) (gonosz) cucc, [flash](flash.html) UI generálására. M
 
 Választási lehetőségek:
 
- * UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
- * Van még egy [payware cucc](http://www.spket.com/download.html) is, ez támogatja az [openalaszlot](Laszlo.html) is.
- * [kocka/flexclipse](kocka/flexclipse.html) by [kocka](kocka.html) - szóval csak bátraknak :) teljesen minimalista
+*   UI editor hozzá a flex builder, ami [eclipse](Eclipse.html) alapú, viszont sajnos arany árban mérik. Tulajdonképpen a [ide/code completion](ide/code%20completion.html)on kívül nem is tud sokat, azt meg jobbára egy plén [eclipse](Eclipse.html) [XML](XML.html) editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...
+*   Van még egy [payware cucc](http://www.spket.com/download.html) is, ez támogatja az [openalaszlot](Laszlo.html) is.
+*   [kocka/flexclipse](kocka/flexclipse.html) by [kocka](kocka.html) - szóval csak bátraknak :) teljesen minimalista
 
 # Features
 
@@ -43,7 +43,6 @@ Hasonló termék az [openlaszlo](Laszlo.html), valamennyire az [XML](XML.html) h
 
 # Linkek
 
-
 *   [Buildelés Mavennel](http://techpolesen.blogspot.com/2007/05/flash-for-java-programmers-lesson-1.html) Mókás kis cucc, sajna a kommentekkel egyet kell értsek: mocsok lassú. Ez van :) [maven/maven2](maven/maven2.html) plugin [itt](http://mvnrepository.com/artifact/net.israfil.mojo/maven-flex2-plugin)
 *   Flex 3-hoz [maven](maven/maven2.html) plugin: [itt](http://code.google.com/p/flex-mojos/)
 *   [Flex 2.0 @ Work in combination with Spring and Hibernate](http://www.parleys.com/display/PARLEYS/Flex+2.0+at+Work+in+combination+with+Spring+and+Hibernate?showComments=true)
@@ -52,7 +51,5 @@ Hasonló termék az [openlaszlo](Laszlo.html), valamennyire az [XML](XML.html) h
 *   [Rich Text Editor](http://weblogs.macromedia.com/mc/archives/2006/09/disclosable_con_1.cfm)  olyasmi mint az FCKEditor javascriptben.
 *   [Top 5 Ways to Reduce Flex Application Startup Time](http://www.infoq.com/news/2008/05/flex-startup-time)
 *   [maven](maven.html) repo hozza: [flex mojo](http://flex-mojos.googlecode.com/svn/trunk/repository/)
-
-
 
 

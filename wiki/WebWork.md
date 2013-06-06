@@ -1,13 +1,13 @@
 ---
-creationDate: 1091696977816 
-author: kocka 
-contentAuthor: kocka 
-title: WebWork 
-contentUpdateDate: 1186478842519 
-name: WebWork 
-layout: wiki 
-date: 1186478842519 
-creator: zsoltk 
+creationDate        : 2004-08-05 11:09:37 +0200 
+author              : kocka 
+title               : WebWork 
+name                : WebWork 
+layout              : wiki 
+path                : WebWork 
+date                : 2007-08-07 11:27:22 +0200 
+version             : 5 
+creator             : zsoltk 
 ---
 [TODO](TODO.html), ezt alaposan fel kellene aktualizalni!
 
@@ -26,10 +26,6 @@ Semmi kulonoset nem tud, egyszer [MVC](MVC.html) 1, vagy 2 FW. Egy [XWork](Missi
 *   Sokfele view layer tamogatas ([JSP](JSP.html), [Velocity](Velocity.html), [FreeMarker](FreeMarker.html), [JasperReports](jasperreports.html), [XML](XML.html))
 *   Package es Namespace alapu action csoportositas.
 
-
-
-Link: http://www.opensymphony.com/webwork/
-
-
+Link: [http://www.opensymphony.com/webwork/](http://www.opensymphony.com/webwork/)
 
 

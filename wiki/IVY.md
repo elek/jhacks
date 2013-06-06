@@ -1,13 +1,13 @@
 ---
-creationDate: 1114619282254 
-author: karenin 
-contentAuthor: karenin 
-title: IVY 
-contentUpdateDate: 1165324254001 
-name: IVY 
-layout: wiki 
-date: 1165324254001 
-creator: kocka 
+creationDate        : 2005-04-27 18:28:02 +0200 
+author              : karenin 
+title               : IVY 
+name                : IVY 
+layout              : wiki 
+path                : IVY 
+date                : 2006-12-05 14:10:54 +0100 
+version             : 3 
+creator             : kocka 
 ---
 ![image](http://www.jayasoft.fr/org/modules/ivy/logo.png)(http://ivy.jayasoft.org/)
 

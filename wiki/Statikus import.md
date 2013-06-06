@@ -1,22 +1,22 @@
 ---
-creationDate: 1160944047930 
-author: karenin 
-contentAuthor: karenin 
-title: Statikus import 
-contentUpdateDate: 1160944047930 
-name: Statikus import 
-layout: wiki 
-date: 1160944047930 
-creator: karenin 
+creationDate        : 2006-10-15 22:27:27 +0200 
+author              : karenin 
+title               : Statikus import 
+name                : Statikus import 
+layout              : wiki 
+path                : Statikus import 
+date                : 2006-10-15 22:27:27 +0200 
+version             : 1 
+creator             : karenin 
 ---
 Elenyésző újítása a [Java 1.5](java%201.5.html)-nek. Egy osztály statikus tagjait lehet vele importálni. 
 
 Iskolapélda:
-{% highlight java %}
+```
 import static java.lang.Math.*;
 ...
 ...
 System.out.println(random());
-{% endhighlight %}
+```
 
 Nem csomag, hanem osztály elemeire mondjuk.

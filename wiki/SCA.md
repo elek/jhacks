@@ -1,13 +1,13 @@
 ---
-creationDate: 1202756881588 
-author: karenin 
-contentAuthor: karenin 
-title: SCA 
-contentUpdateDate: 1202756913376 
-name: SCA 
-layout: wiki 
-date: 1202756913376 
-creator: karenin 
+creationDate        : 2008-02-11 20:08:01 +0100 
+author              : karenin 
+title               : SCA 
+name                : SCA 
+layout              : wiki 
+path                : SCA 
+date                : 2008-02-11 20:08:33 +0100 
+version             : 2 
+creator             : karenin 
 ---
 Service Component Architecture
 

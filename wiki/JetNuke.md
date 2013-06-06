@@ -1,16 +1,16 @@
 ---
-creationDate: 1107157812621 
-author: kocka 
-contentAuthor: kocka 
-title: JetNuke 
-contentUpdateDate: 1107722922544 
-name: JetNuke 
-layout: wiki 
-date: 1107722922544 
-creator: kocka 
+creationDate        : 2005-01-31 08:50:12 +0100 
+author              : admin 
+title               : JetNuke 
+name                : JetNuke 
+layout              : wiki 
+path                : JetNuke 
+date                : 2006-03-26 01:42:44 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://hackers.forgeahead.hu/space/banners/sidebar/jetnuke-logo.gif)<br/>
-http://www.jetnuke.org/
+[http://www.jetnuke.org/](http://www.jetnuke.org/)
 
 _PHPNuke_hoz hasonlo logikat koveto, modularis portal rendszer. [Velocity](Velocity.html) support, satobbi, koll hajszolni egy kicsit.
 

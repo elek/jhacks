@@ -1,13 +1,13 @@
 ---
-creationDate: 1165999637616 
-author: kocka 
-contentAuthor: kocka 
-title: ide/code formating 
-contentUpdateDate: 1165999637616 
-name: idecode formating 
-layout: wiki 
-date: 1165999637616 
-creator: kocka 
+creationDate        : 2006-12-13 09:47:17 +0100 
+author              : kocka 
+title               : ide/code formating 
+name                : ide/code formating 
+layout              : wiki 
+path                : ide/code formating 
+date                : 2006-12-13 09:47:17 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A kod formazas alap-feature lett az utobbi evekben az [IDE](../IDE.html)kben. (Azert volt kivetel, peldaul a regi [weblogic workshop](../weblogic%20workshop.html) nem tudott ilyeneket, eleg gyoker cucc volt)
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1105703523216 
-author: kocka 
-contentAuthor: kocka 
-title: servlet 
-contentUpdateDate: 1193325460521 
-name: servlet 
-layout: wiki 
-date: 1193325460521 
-creator: kocka 
+creationDate        : 2005-01-14 12:52:03 +0100 
+author              : kocka 
+title               : servlet 
+name                : servlet 
+layout              : wiki 
+path                : servlet 
+date                : 2007-10-25 17:17:40 +0200 
+version             : 4 
+creator             : kocka 
 ---
 A Servlet api
 
@@ -18,7 +18,5 @@ Servlet containerek:
 *   [tomcat](tomcat.html)
 *   [jetty](jetty.html)
 *   [resin](resin.html)
-
-
 
 

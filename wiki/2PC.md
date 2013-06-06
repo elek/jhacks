@@ -1,13 +1,13 @@
 ---
-creationDate: 1112883708573 
-author: kocka 
-contentAuthor: kocka 
-title: 2 Phase Commit 
-contentUpdateDate: 1112883708573 
-name: 2PC 
-layout: wiki 
-date: 1112883708573 
-creator: kocka 
+creationDate        : 2005-04-07 16:21:48 +0200 
+author              : admin 
+title               : 2 Phase Commit 
+name                : 2PC 
+layout              : wiki 
+path                : 2PC 
+date                : 2006-03-26 01:42:33 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy regi technologia, az eloszotott tranzakciok nagyobb biztonsagaert talaltak ki. Elso fazisban a tranzakcioban reszt vevo eroforrasokat a tranzakcio vezerlo felszolitja szavazasra, ekkor a minden eroforras kezelo leellenorzi a sajat konzisztenciajat, majd ha minden eroforras kezelo igennel szavazott, akkor commitot kuld nekik a tranzakcio vezerlo. Ekkor mindegyiknek vegre kell hajtani a modositast.
 

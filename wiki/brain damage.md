@@ -1,13 +1,13 @@
 ---
-creationDate: 1129293973569 
-author: kocka 
-contentAuthor: kocka 
-title: brain damage 
-contentUpdateDate: 1129293973569 
-name: brain damage 
-layout: wiki 
-date: 1129293973569 
-creator: kocka 
+creationDate        : 2005-10-14 14:46:13 +0200 
+author              : admin 
+title               : brain damage 
+name                : brain damage 
+layout              : wiki 
+path                : brain damage 
+date                : 2006-03-26 01:43:08 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy francia egyuttes, ami egy basszusgitarbol es ket emberbol all. Leirhatatlan, de a nevuk mindent elmond.
 

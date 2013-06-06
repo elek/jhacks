@@ -1,13 +1,13 @@
 ---
-creationDate: 1100766208594 
-author: boci 
-contentAuthor: boci 
-title: SVG 
-contentUpdateDate: 1100766208594 
-name: SVG 
-layout: wiki 
-date: 1100766208594 
-creator: boci 
+creationDate        : 2004-11-18 09:23:28 +0100 
+author              : admin 
+title               : SVG 
+name                : SVG 
+layout              : wiki 
+path                : SVG 
+date                : 2006-03-26 01:42:54 +0100 
+version             : 1 
+creator             : boci 
 ---
 __Scalable Vector Graphics__
 

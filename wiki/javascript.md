@@ -1,13 +1,13 @@
 ---
-creationDate: 1099927735209 
-author: kocka 
-contentAuthor: kocka 
-title: javascript 
-contentUpdateDate: 1163613399101 
-name: javascript 
-layout: wiki 
-date: 1163613399101 
-creator: kocka 
+creationDate        : 2004-11-08 16:28:55 +0100 
+author              : kocka 
+title               : javascript 
+name                : javascript 
+layout              : wiki 
+path                : javascript 
+date                : 2006-11-15 18:56:39 +0100 
+version             : 3 
+creator             : kocka 
 ---
 Javascript != java
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1142169763862 
-author: pedro 
-contentAuthor: pedro 
-title: URI 
-contentUpdateDate: 1142176761386 
-name: URI 
-layout: wiki 
-date: 1142176761386 
-creator: kocka 
+creationDate        : 2006-03-12 14:22:43 +0100 
+author              : admin 
+title               : URI 
+name                : URI 
+layout              : wiki 
+path                : URI 
+date                : 2006-03-26 01:42:59 +0100 
+version             : 1 
+creator             : kocka 
 ---
 URI - Universal Resource Identifier
 
@@ -22,18 +22,12 @@ Pl szigorúen erre alapoz:
 *   [XML](XML.html),
 *   [REST](REST.html).
 
-
-
 Logikailag a felépítés a következő:
+
 *   URI > URL
 *   URI > URN
 
-
-
 Nem akarom feleslegesen koptatni a billentyűket ... a wikipediás cikk jól elmagyarázza:)
 
-
-
 (irta vala [pedro](pedro.html) mester)
-
 (így is van ...én írtam, de mivel béna vagyok Wiki ügyben [kocka](kocka.html)-nak ki kellett segítenie:)

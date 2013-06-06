@@ -1,12 +1,12 @@
 ---
-creationDate: 1182778868054 
-author: kocka 
-contentAuthor: kocka 
-title: laszlo/LZX/data binding 
-contentUpdateDate: 1182778868054 
-name: laszloLZXdata binding 
-layout: wiki 
-date: 1182778868054 
-creator: kocka 
+creationDate        : 2007-06-25 15:41:08 +0200 
+author              : kocka 
+title               : laszlo/LZX/data binding 
+name                : laszlo/LZX/data binding 
+layout              : wiki 
+path                : laszlo/LZX/data binding 
+date                : 2007-06-25 15:41:08 +0200 
+version             : 1 
+creator             : kocka 
 ---
 [TODO](../../TODO.html)

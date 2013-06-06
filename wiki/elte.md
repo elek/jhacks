@@ -1,15 +1,15 @@
 ---
-creationDate: 1125662623755 
-author: kocka 
-contentAuthor: kocka 
-title: elte 
-contentUpdateDate: 1168804361208 
-name: elte 
-layout: wiki 
-date: 1168804361208 
-creator: kocka 
+creationDate        : 2005-09-02 14:03:43 +0200 
+author              : kocka 
+title               : elte 
+name                : elte 
+layout              : wiki 
+path                : elte 
+date                : 2007-01-14 20:52:41 +0100 
+version             : 5 
+creator             : kocka 
 ---
-http://www.ik.elte.hu/
+[http://www.ik.elte.hu/](http://www.ik.elte.hu/)
 
 Legyen hat egy nagyon hasznos kis linkgyujtemeny tobbunk szeretett iskoljararol, az ELTErol.
 
@@ -21,10 +21,6 @@ Hasznos linkek foleg progmatosoknak:
 *   [progmatsite](http://progmatsite.syrius-software.hu/) ha esetleg megis ugydontessz hogy megprobalod tulelni :)
 *   [EPER](http://eper.elte.hu/), egy nagyon jo egyetemi radioado, sajnos matematika es informatika nincs rajta, de nagyon kiraly :)
 
-
-
 Az elten bar tanitanak [java](java.html)t (specin, evi 200 tanulo kapacitassal es mindig tele van, de csak nappalisoknak) es a nagy [Zold konyv](http://java.inf.elte.hu/) szerzoi is ott dolgoznak, valahogy az egesz iskolanak nem sok koze van az informatikahoz.
-
-
 
 Ja es persze az elte [gonosz](gonosz.html) bizonyos vonatkozasban.

@@ -1,36 +1,36 @@
 ---
-creationDate: 1103712506784 
-author: kocka 
-contentAuthor: kocka 
-title: PL-J/ObjectStorage 
-contentUpdateDate: 1114033564645 
-name: PL-JObjectStorage 
-layout: wiki 
-date: 1114033564645 
-creator: kocka 
+creationDate        : 2004-12-22 11:48:26 +0100 
+author              : admin 
+title               : PL-J/ObjectStorage 
+name                : PL-J/ObjectStorage 
+layout              : wiki 
+path                : PL-J/ObjectStorage 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [PL-J/Devtools](../PL-J/DevTools.html) for utan az ObjectStorage otlet is kicsit kanyarodik. Egy kis kiegeszites lenne a forkolt projecten.
 
-{% highlight java %}
+```
 
 import java.util.Date;
 
 /**
  * @plj.rdbmstype name="jPerson"
  */
-public class Person \{
+public class Person {
  Date birthDate;
  String name;
- public Date getBirthDate() \{ return birhthDate; \}
- public void setBirthDate(Date newBirthDate) \{ birthDate = newBirthDate; \}
- public String getName() \{ return name; \}
- public void setName(String newName) \{ name = newName; \}
-\}
+ public Date getBirthDate() { return birhthDate; }
+ public void setBirthDate(Date newBirthDate) { birthDate = newBirthDate; }
+ public String getName() { return name; }
+ public void setName(String newName) { name = newName; }
+}
 
-{% endhighlight %}
+```
 
 Generalt kodok:
-{% highlight java %}
+```
 create type jPerson
 
 create function jPerson_getName(jPerson) returns varchar as 
@@ -40,7 +40,7 @@ method=jPerson_getName
 ' language 'PL-J' immutable
 
 -- satobbi
-{% endhighlight %}
+```
 
 remelem az otletet ertitek.
 Na most mivel a funkciok _immutable_k ezert konnyen keszithetunk rajuk indexet, azaz a sebessegbol valoszinuleg nem veszitunk valami sokat, cserebe kapunk egy erdeks cuccot.

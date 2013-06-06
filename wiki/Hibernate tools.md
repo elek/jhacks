@@ -1,13 +1,13 @@
 ---
-creationDate: 1129796750457 
-author: boci 
-contentAuthor: boci 
-title: Hibernate tools 
-contentUpdateDate: 1129796750457 
-name: Hibernate tools 
-layout: wiki 
-date: 1129796750457 
-creator: boci 
+creationDate        : 2005-10-20 10:25:50 +0200 
+author              : admin 
+title               : Hibernate tools 
+name                : Hibernate tools 
+layout              : wiki 
+path                : Hibernate tools 
+date                : 2006-03-26 01:42:40 +0100 
+version             : 1 
+creator             : boci 
 ---
 Egy eclipse alapu eszkoz [hibernate](Hibernate.html)-hez.
 Nehany funkcio:
@@ -21,7 +21,5 @@ Nehany funkcio:
 *   Ant task tamogatas
 *   Model nezet
 *   stb...
-
-
 
 Elerheto [itt](http://www.hibernate.org/255.html)

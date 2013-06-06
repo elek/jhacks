@@ -1,13 +1,13 @@
 ---
-creationDate: 1180447801536 
-author: kocka 
-contentAuthor: kocka 
-title: struts/struts 1 
-contentUpdateDate: 1180450718792 
-name: strutsstruts 1 
-layout: wiki 
-date: 1180450718792 
-creator: kocka 
+creationDate        : 2007-05-29 16:10:01 +0200 
+author              : kocka 
+title               : struts/struts 1 
+name                : struts/struts 1 
+layout              : wiki 
+path                : struts/struts 1 
+date                : 2007-05-29 16:58:38 +0200 
+version             : 5 
+creator             : kocka 
 ---
 ![image](http://struts.apache.org/images/struts.gif)(http://jakarta.apache.org/struts/)
 
@@ -23,11 +23,7 @@ A hatranya az irdatlan nagyra novo xml fileok, meg az hogy ha nincs tool-od akko
 *   [vim](../VIM.html) yeah!!! :-D
 
 
-
-
-
 hasznos, OSS eszkoz lehet a [xdoclet](../XDoclet.html), mint a legtob esetben :)
-
 
 *   __struts-module__: egy struts konfiguracios file, es az altala tartalmazott alkalmazas objektumok. (nyilvan lehet tobb is)
 *   __formbean__: olyan bean, ami a formodrol szarmazo adatokat tartalmazza. ket jelentosege van: 1, nem neked kell szaroznod az adatok parselesevel, 2, az actionod vegre bean-t kap, nem egy request objektumot. Opcionalisan implementalhatod a validate metodust, amivel a nem evidens hibakat detektalhatod (pl amikor az e-mail cim nem e-mail cim, vagy a jelszo mezo ures, ilyesmi)
@@ -37,22 +33,16 @@ hasznos, OSS eszkoz lehet a [xdoclet](../XDoclet.html), mint a legtob esetben :)
 *   __tagek__: a struts jonehany taggel neheziti meg a [jsp](../JSP.html) fejlesztok eletet, koztuk [i18n](../i18n.html), bean kezeles, meg ilyesmi...
 *   __tiles__: Ez a view komponenesek ujrafelhasznalhatosagara szolgal, sajna ahany struts verzio megjelent eddig, annyifelekeppen mukodik benne, ami meglehetosen megneheziti hasznalatat. Termeszetesen nincs a jelenlegi verziorol dokumentacio :-D
 
-
-
 Lasd meg:  [beehive](../beehive.html), [webapp](../webapp.html), [mvc](../MVC.html)
 
-
-
 Cikkek: 
+
 *   [Get a better handle on Struts actions, with Spring](http://www-128.ibm.com/developerworks/java/library/j-sr2.html)
 
-
-
 Rokonsagok mas rendszerekkel:
+
 *   Integracio a [Spring](../spring.html)gel, ez ugy nez ki hogy a springes applicationcontext-et elkerheted a megfelelo osztalybol leszarmaztatott actionokbol. Szoval nem tul barati. A masik lehetoseg az hogy a spring maga jegyzi be az actionokat, es settereken keresztul be tudod pakolgatni a dependencyket. Szoval ez mar szeretnivalobb, viszont az meg nem tiszta hogy a [tiles](../tiles.html) controllereket hogyan lehet vele kezelni, ha lehet egyaltalan... mert annelkul loszart nem er az egesz. Erre amugy csinaltam egy osztalyt ami lehetove teszi hogy a Controller benajeidet a [spring](../spring.html) alkalmazas kontextusba pakold, de meg en se szeretem :)
 *   [webwork](../WebWork.html)
 *   [jsf](../JSF.html)
-
-
 
 

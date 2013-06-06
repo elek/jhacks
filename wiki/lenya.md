@@ -1,13 +1,13 @@
 ---
-creationDate: 1091986807791 
-author: kocka 
-contentAuthor: kocka 
-title: lenya 
-contentUpdateDate: 1111264880660 
-name: lenya 
-layout: wiki 
-date: 1111264880660 
-creator: kocka 
+creationDate        : 2004-08-08 19:40:07 +0200 
+author              : admin 
+title               : lenya 
+name                : lenya 
+layout              : wiki 
+path                : lenya 
+date                : 2006-03-26 01:48:22 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://lenya.apache.org/images/apache-lenya-light.png)(http://lenya.apache.org/)
 
@@ -22,9 +22,6 @@ Nagy dobasok a lenyaban:
 *   [workflow](workflow.html) api, nyilvan, irjal sajat implementaciot :)
 *   Nagyon jo azonositasi es jogosultsagkezelesi api
 *   Tucat wyswyg editor, parasztvakitas ezerrel
-
-
-
 
 
 Aki most arra gondolt hogy innentol kezdve programozni mar nem is kell, az valoszinuleg teved. Pl egy uj publikacio letrehzoasa igazi remalom, szerintem amig valami fejlesztest segito eszkozt ki nem talalnak hozza, pl egy [eclipse](Eclipse.html) [plug-in](Missing.html)t addig csunya melo lesz dolgozni vele.

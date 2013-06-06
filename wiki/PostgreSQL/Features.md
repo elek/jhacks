@@ -1,13 +1,13 @@
 ---
-creationDate: 1112082652633 
-author: kocka 
-contentAuthor: kocka 
-title: PostgreSQL/Features 
-contentUpdateDate: 1193910060070 
-name: PostgreSQLFeatures 
-layout: wiki 
-date: 1193910060070 
-creator: kocka 
+creationDate        : 2005-03-29 09:50:52 +0200 
+author              : kocka 
+title               : PostgreSQL/Features 
+name                : PostgreSQL/Features 
+layout              : wiki 
+path                : PostgreSQL/Features 
+date                : 2007-11-01 10:41:00 +0100 
+version             : 3 
+creator             : kocka 
 ---
 A PostgreSQL sok olyan funkciot nyujt, amit amugy csak a kereskedelmi szerverek nyujtottak: UDF-ek, view-k, triggerek, stb. Mara mar a legtobb onmagara valamit is ado [RDBMS](../RDBMS.html) tudja, ennek ellenere a PostgreSQL ezen felul is kepes valami pluszt nyujtani.<br/>
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1104493902255 
-author: karenin 
-contentAuthor: karenin 
-title: haboru 
-contentUpdateDate: 1181821008133 
-name: haboru 
-layout: wiki 
-date: 1181821008133 
-creator: kocka 
+creationDate        : 2004-12-31 12:51:42 +0100 
+author              : karenin 
+title               : haboru 
+name                : haboru 
+layout              : wiki 
+path                : haboru 
+date                : 2007-06-14 13:36:48 +0200 
+version             : 12 
+creator             : kocka 
 ---
 Szoval a java vilag haborui:
 
@@ -24,9 +24,6 @@ Szoval a java vilag haborui:
 *   [dom4j](dom4j.html) vs [jdom](jdom.html) :-D
 *   szabványos API/JCR vs. vendor függő, de dinamikusabban fejlődő megoldás
 
-
-
 Egyeb erdekes flame-k:
-
 
 *   [operacios rendszer](Operacios%20rendszer.html)ek (foleg [windows](Windows.html) vs [linux](Linux.html))

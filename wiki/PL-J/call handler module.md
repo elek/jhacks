@@ -1,17 +1,17 @@
 ---
-creationDate: 1108550508146 
-author: kocka 
-contentAuthor: kocka 
-title: call handler module 
-contentUpdateDate: 1108550508146 
-name: PL-Jcall handler module 
-layout: wiki 
-date: 1108550508146 
-creator: kocka 
+creationDate        : 2005-02-16 11:41:48 +0100 
+author              : admin 
+title               : call handler module 
+name                : PL-J/call handler module 
+layout              : wiki 
+path                : PL-J/call handler module 
+date                : 2006-03-26 01:42:50 +0100 
+version             : 1 
+creator             : kocka 
 ---
-A call handler module egy C nyelven irt funkcio [PostgreSQL](PostgreSQL.html) 8.0-hoz es 7.4-hez, ami egy par egyeb modult is magabafoglal.
+A call handler module egy C nyelven irt funkcio [PostgreSQL](../PostgreSQL.html) 8.0-hoz es 7.4-hez, ami egy par egyeb modult is magabafoglal.
 
-Egy Pl-J eljaras meghivasakor a call handler module kapja meg a vezerlest. A hivasi informaciobol letrehozza a hivasi infot, elkuldi a java szervernek, es kiszolgalja a java szerver tovabbi kereseit ([logging](Logging.html), [jdbc](JDBC.html) hivasok).
+Egy Pl-J eljaras meghivasakor a call handler module kapja meg a vezerlest. A hivasi informaciobol letrehozza a hivasi infot, elkuldi a java szervernek, es kiszolgalja a java szerver tovabbi kereseit ([logging](../Logging.html), [jdbc](../JDBC.html) hivasok).
 
 Ket helyettesitheto almodult tartalmaz:
 

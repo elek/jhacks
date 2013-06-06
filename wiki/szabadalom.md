@@ -1,13 +1,13 @@
 ---
-creationDate: 1114429642700 
-author: kocka 
-contentAuthor: kocka 
-title: szabadalom 
-contentUpdateDate: 1114429887537 
-name: szabadalom 
-layout: wiki 
-date: 1114429887537 
-creator: kocka 
+creationDate        : 2005-04-25 13:47:22 +0200 
+author              : admin 
+title               : szabadalom 
+name                : szabadalom 
+layout              : wiki 
+path                : szabadalom 
+date                : 2006-03-26 01:51:14 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Bejegyzés a nagy értelmező szótárból:
 
@@ -16,5 +16,7 @@ Bejegyzés a nagy értelmező szótárból:
 Továbbá: [software patent](software%20patent.html)
 
 Ja ezt azért nyitottam hogy a szoftver szabadalmi ötleteinket ide ömlesszük. És gazdagok leszünk :) __ALL YOUR BASE ARE BELONG TO US!__
+
+
 
 

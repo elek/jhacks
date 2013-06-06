@@ -1,13 +1,13 @@
 ---
-creationDate: 1098173283165 
-author: kocka 
-contentAuthor: kocka 
-title: BPEL 
-contentUpdateDate: 1180534420126 
-name: BPEL 
-layout: wiki 
-date: 1180534420126 
-creator: zsoltk 
+creationDate        : 2004-10-19 10:08:03 +0200 
+author              : kocka 
+title               : BPEL 
+name                : BPEL 
+layout              : wiki 
+path                : BPEL 
+date                : 2007-05-30 16:13:40 +0200 
+version             : 4 
+creator             : zsoltk 
 ---
 Bussiness Process Execution Language
 
@@ -17,17 +17,14 @@ Oasis-os szabvány, XML alapú üzleti logikát leíró nyelv. Kb. egy nagy [XML
 
 Linkek:
 
-*   Docs: http://www-128.ibm.com/developerworks/library/ws-bpel/
-*   JBoss.BPEL: http://jbpm.org/
-*   Sokminden, Oracle: http://www.oracle.com/technology/products/ias/bpel/index.html
-*   BEA implementascio es doc: http://dev2dev.bea.com/technologies/bpel/index.jsp
-
-
+*   Docs: [http://www-128.ibm.com/developerworks/library/ws-bpel/](http://www-128.ibm.com/developerworks/library/ws-bpel/)
+*   JBoss.BPEL: [http://jbpm.org/](http://jbpm.org/)
+*   Sokminden, Oracle: [http://www.oracle.com/technology/products/ias/bpel/index.html](http://www.oracle.com/technology/products/ias/bpel/index.html)
+*   BEA implementascio es doc: [http://dev2dev.bea.com/technologies/bpel/index.jsp](http://dev2dev.bea.com/technologies/bpel/index.jsp)
 
 Editorok:
+
 *   [NetBeans](Netbeans.html) Enterprise Pack (erősen összeforrasztva az OpenESB-vel)
-*   [eclipse](Eclipse.html): http://www.eclipse.org/bpel/index.php
-
-
+*   [eclipse](Eclipse.html): [http://www.eclipse.org/bpel/index.php](http://www.eclipse.org/bpel/index.php)
 
 

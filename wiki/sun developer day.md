@@ -1,13 +1,13 @@
 ---
-creationDate: 1213718745270 
-author: kocka 
-contentAuthor: kocka 
-title: SUN fejlesztői nap 
-contentUpdateDate: 1213718745270 
-name: sun developer day 
-layout: wiki 
-date: 1213718745270 
-creator: kocka 
+creationDate        : 2008-06-17 18:05:45 +0200 
+author              : kocka 
+title               : SUN fejlesztői nap 
+name                : sun developer day 
+layout              : wiki 
+path                : sun developer day 
+date                : 2008-06-17 18:05:45 +0200 
+version             : 1 
+creator             : kocka 
 ---
 Minden évben megrendezett [konferencia](konferencia.html) Budapesten.
 
@@ -18,7 +18,5 @@ __Ellőadások__:
 __Beszámolók__:
 
 *   [java technics](http://jtechnics.anzix.net/2008/06/sun-fejleszti-nap-aka-open-source.html)
-
-
 
 [todo](TODO.html): többi...

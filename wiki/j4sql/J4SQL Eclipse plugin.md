@@ -1,13 +1,13 @@
 ---
-creationDate: 1114351388011 
-author: kocka 
-contentAuthor: kocka 
-title: j4sql/J4SQL Eclipse plugin 
-contentUpdateDate: 1114354713332 
-name: j4sqlJ4SQL Eclipse plugin 
-layout: wiki 
-date: 1114354713332 
-creator: kocka 
+creationDate        : 2005-04-24 16:03:08 +0200 
+author              : admin 
+title               : j4sql/J4SQL Eclipse plugin 
+name                : j4sql/J4SQL Eclipse plugin 
+layout              : wiki 
+path                : j4sql/J4SQL Eclipse plugin 
+date                : 2006-03-26 01:48:06 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Lesz majdan egy [J4SQL](../j4sql.html) [Eclipse](../Eclipse.html) [Plugin](../plugin.html) is, aminek most meg nagyon kezdeti allapotban vannak a darabjai. A kovetkezo funkcionalitasok lesznek benne:
 

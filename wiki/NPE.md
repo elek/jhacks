@@ -1,17 +1,17 @@
 ---
-creationDate: 1102588297177 
-author: kocka 
-contentAuthor: kocka 
-title: NPE 
-contentUpdateDate: 1166801782830 
-name: NPE 
-layout: wiki 
-date: 1166801782830 
-creator: kanni_baa 
+creationDate        : 2004-12-09 11:31:37 +0100 
+author              : kocka 
+title               : NPE 
+name                : NPE 
+layout              : wiki 
+path                : NPE 
+date                : 2006-12-22 16:36:22 +0100 
+version             : 6 
+creator             : kanni_baa 
 ---
 núl pojinter ekszepsön
 
-
+[java.lang.NullPointerException](http://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html)
 
 Le kellett roviditeni mert gyakran fordul elo, es nem kiraj mindig leirni.
 
@@ -22,7 +22,5 @@ Amikor meg a suliban halgattam egy tanarom velemenyet a java-rol, akkor megjegye
 Erdekessegek:
 
 *   [A 10 year old null pointer bug](http://findbugs.blogspot.com/2006/09/10-year-old-null-pointer-bug.html) ([java 1.6](java%201.6.html) vonatkozasban)
-
-
 
 

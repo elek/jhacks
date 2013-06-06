@@ -1,13 +1,13 @@
 ---
-creationDate: 1121153751192 
-author: kocka 
-contentAuthor: kocka 
-title: Service Oriented Architecture 
-contentUpdateDate: 1121165826752 
-name: SOA 
-layout: wiki 
-date: 1121165826752 
-creator: kocka 
+creationDate        : 2005-07-12 09:35:51 +0200 
+author              : admin 
+title               : Service Oriented Architecture 
+name                : SOA 
+layout              : wiki 
+path                : SOA 
+date                : 2006-03-26 01:42:53 +0100 
+version             : 1 
+creator             : kocka 
 ---
 _SOA nem volt meg ilyen jo dolgunk._
 
@@ -20,7 +20,5 @@ Es persze platform fuggetlen is az egesz elmelet, mert amugy nyilvan mit erne az
 Linkek:
 
 *   [What is Service-Oriented Architecture?](http://webservices.xml.com/pub/a/ws/2003/09/30/soa.html)
-
-
 
 Lasd meg: [ioc](ioc.html), [soap](SOAP.html), [rest](REST.html), [xml](XML.html), [JBI](JBI.html), [hivemind](hivemind.html)

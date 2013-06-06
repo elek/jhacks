@@ -1,13 +1,13 @@
 ---
-creationDate: 1108720822874 
-author: karenin 
-contentAuthor: karenin 
-title: scripting 
-contentUpdateDate: 1191421613615 
-name: scripting 
-layout: wiki 
-date: 1191421613615 
-creator: kocka 
+creationDate        : 2005-02-18 11:00:22 +0100 
+author              : karenin 
+title               : scripting 
+name                : scripting 
+layout              : wiki 
+path                : scripting 
+date                : 2007-10-03 16:26:53 +0200 
+version             : 6 
+creator             : kocka 
 ---
 Csak emlekeztetokent: A [Java](java.html) csak egy nyelv a java VM-en futo nyelvek kozul, valojaban tobb is van ott.
 
@@ -23,10 +23,6 @@ Nehany nyelv:
 *   [BeanShell](BeanShell.html)
 *   [sleep](sleep.html)
 
-
-
 Linkek
-
-
 
 Lásd még [Scripting API](Scripting%20API.html)

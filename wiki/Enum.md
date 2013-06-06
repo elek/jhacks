@@ -1,23 +1,23 @@
 ---
-creationDate: 1160943816963 
-author: karenin 
-contentAuthor: karenin 
-title: Enum 
-contentUpdateDate: 1160943832903 
-name: Enum 
-layout: wiki 
-date: 1160943832903 
-creator: karenin 
+creationDate        : 2006-10-15 22:23:36 +0200 
+author              : karenin 
+title               : Enum 
+name                : Enum 
+layout              : wiki 
+path                : Enum 
+date                : 2006-10-15 22:23:52 +0200 
+version             : 2 
+creator             : karenin 
 ---
 [Java 1.5](java%201.5.html) újítás, típusos felsorolás konstanst lehet vele ízlésesen csinálni.
 
 Definíciója az osztályéhoz hasonló:
 
-{% highlight java %}
-public enum Evszak \{
+```
+public enum Evszak {
     TAVASZ, NYAR, OSZ, TEL
-\}
-{% endhighlight %}
+}
+```
 
 Jó, mert:
 

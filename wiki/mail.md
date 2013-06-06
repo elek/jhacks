@@ -1,22 +1,21 @@
 ---
-creationDate: 1141667195126 
-author: kocka 
-contentAuthor: kocka 
-title: mail 
-contentUpdateDate: 1141667195126 
-name: mail 
-layout: wiki 
-date: 1141667195126 
-creator: kocka 
+creationDate        : 2006-03-06 18:46:35 +0100 
+author              : admin 
+title               : mail 
+name                : mail 
+layout              : wiki 
+path                : mail 
+date                : 2006-03-26 01:48:26 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Szerverek:
 
 *   [james](james.html)
 *   [Jbossmail](JBossMail.html)
 
-
-
 Kliensek:
+
 *   [javamail](Missing.html)
 *   [commons](commons.html) [commons/net](commons/net.html)
 *   Meg par house-made dolog, ami még elő-előjön rémálmainkban.

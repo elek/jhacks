@@ -1,13 +1,13 @@
 ---
-creationDate: 1132659183037 
-author: kocka 
-contentAuthor: kocka 
-title: Just In Time compiler 
-contentUpdateDate: 1132659235844 
-name: JIT 
-layout: wiki 
-date: 1132659235844 
-creator: kocka 
+creationDate        : 2005-11-22 12:33:03 +0100 
+author              : admin 
+title               : Just In Time compiler 
+name                : JIT 
+layout              : wiki 
+path                : JIT 
+date                : 2006-03-26 01:42:43 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [VM](Missing.html) kepes arra, hogy a [bytecode](bytecode.html)ot atforditsa nativ kodda pont akkor amikor szukseg van ra. Ennek kovetkezteben a [VM](Missing.html) inditasa meg mindig elfogadhatoan gyors, minden osztalyt csak a betoltese soran fordit at.
 

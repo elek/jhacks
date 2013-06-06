@@ -1,13 +1,13 @@
 ---
-creationDate: 1092240854735 
-author: kocka 
-contentAuthor: kocka 
-title: spagetti kod 
-contentUpdateDate: 1135352445038 
-name: spagetti kod 
-layout: wiki 
-date: 1135352445038 
-creator: kocka 
+creationDate        : 2004-08-11 18:14:14 +0200 
+author              : admin 
+title               : spagetti kod 
+name                : spagetti kod 
+layout              : wiki 
+path                : spagetti kod 
+date                : 2006-03-26 01:48:51 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A spagetti kod bar nem csak utasitasok szekvenciajabol all, a lenyege hogy nagyon hosszu procedurakat irsz, es ezek altalaban nagyon konkretak is, aminek kovetkezteben a kod ujrafelhasznalasa a kod at- vagy ujrairasaval tortenik. Ha meg esetleg nem probaltad volna, tudnod kell hogy spagettikodot olvasni igencsak fajdalmas dolog.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1213050324207 
-author: kocka 
-contentAuthor: kocka 
-title: mylyn 
-contentUpdateDate: 1213050324207 
-name: mylyn 
-layout: wiki 
-date: 1213050324207 
-creator: kocka 
+creationDate        : 2008-06-10 00:25:24 +0200 
+author              : kocka 
+title               : mylyn 
+name                : mylyn 
+layout              : wiki 
+path                : mylyn 
+date                : 2008-06-10 00:25:24 +0200 
+version             : 1 
+creator             : kocka 
 ---
 Az [eclipse](Eclipse.html) pluginja, ami a [issue tracker](issue%20tracker.html) integrációval foglalkozik. Van hozzá több különböző cucc, alapból [bugzilla](Missing.html) és [trac](Missing.html)
 

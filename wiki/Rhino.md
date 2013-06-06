@@ -1,15 +1,15 @@
 ---
-creationDate: 1208372812752 
-author: kocka 
-contentAuthor: kocka 
-title: Rhino 
-contentUpdateDate: 1208384513034 
-name: Rhino 
-layout: wiki 
-date: 1208384513034 
-creator: karenin 
+creationDate        : 2008-04-16 21:06:52 +0200 
+author              : kocka 
+title               : Rhino 
+name                : Rhino 
+layout              : wiki 
+path                : Rhino 
+date                : 2008-04-17 00:21:53 +0200 
+version             : 3 
+creator             : karenin 
 ---
-http://www.mozilla.org/rhino/
+[http://www.mozilla.org/rhino/](http://www.mozilla.org/rhino/)
 
 Javaban írt JavaScript motor. Még a Netscapen belül kezdték fejleszteni, majd későőb átkerült  Mozilla alapítványhoz, aki [Open Source](Open%20Source.html)-olta .
 

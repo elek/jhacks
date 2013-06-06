@@ -1,13 +1,13 @@
 ---
-creationDate: 1102777277600 
-author: kocka 
-contentAuthor: kocka 
-title: JRE 
-contentUpdateDate: 1226348609428 
-name: JRE 
-layout: wiki 
-date: 1226348609428 
-creator: kocka 
+creationDate        : 2004-12-11 16:01:17 +0100 
+author              : kocka 
+title               : JRE 
+name                : JRE 
+layout              : wiki 
+path                : JRE 
+date                : 2008-11-10 21:23:29 +0100 
+version             : 11 
+creator             : kocka 
 ---
 __Java Runtime Environment__
 
@@ -20,9 +20,8 @@ Lasd meg:
 *   [scala](scala.html) ?
 *   [clojure](http://clojure.org/)
 
-
-
 JRE implementaciok:
+
 *   [OpenJDK](OpenJDK.html) ([Sun](Sun.html))(amit kb mindenki hasznal, ingyenes volt, most mar jobbara [GPL](GPL.html))
 *   [IBM](IBM.html) JRE (ingyenes)
 *   [JRocket](jrocket.html) ([BEA](bea.html)) (ingyenes)
@@ -31,7 +30,5 @@ JRE implementaciok:
 *   [ikvm](IKVM.html) (szabad)
 *   [harmony](Harmony.html) [ASF](ASF.html)
 *   [JRE/JCVM](JRE/JCVM.html) [LGPL](LGPL.html)
-
-
 
 

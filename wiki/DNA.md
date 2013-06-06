@@ -1,16 +1,16 @@
 ---
-creationDate: 1096120350294 
-author: kocka 
-contentAuthor: kocka 
-title: DNA 
-contentUpdateDate: 1102425269100 
-name: DNA 
-layout: wiki 
-date: 1102425269100 
-creator: kocka 
+creationDate        : 2004-09-25 15:52:30 +0200 
+author              : admin 
+title               : DNA 
+name                : DNA 
+layout              : wiki 
+path                : DNA 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://dna.codehaus.org/images/dna-logo.png)<br/>
-http://dna.codehaus.org/
+[http://dna.codehaus.org/](http://dna.codehaus.org/)
 
 Egy [IoC](ioc.html) framework a [codehaus](codehaus.html)-tol. _(Yet Another IoC Framework, mikor fog valaki vegre rendet tenni ezen a teruleten?)_ 
 

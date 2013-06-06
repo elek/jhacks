@@ -1,13 +1,13 @@
 ---
-creationDate: 1107957203734 
-author: kocka 
-contentAuthor: kocka 
-title: 4th Generation Language 
-contentUpdateDate: 1107957203734 
-name: 4GL 
-layout: wiki 
-date: 1107957203734 
-creator: kocka 
+creationDate        : 2005-02-09 14:53:23 +0100 
+author              : admin 
+title               : 4th Generation Language 
+name                : 4GL 
+layout              : wiki 
+path                : 4GL 
+date                : 2006-03-26 01:42:33 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Ez meg nem volt definialva, ugyhogy akkor:<br/>
 Igazabol soha senki nem definialta egyertelmuen hogy mi a 4GL, es gyanus hogy mindenki tok mast ert alatta. Divatszo :) Annyi biztos hogy a UI leirasara is alkalmasnak kell lennie a nyelvnek. Regebben a Delphi-re mondtak azt hogy 4GL, ugyanis tulnyomoreszt UI dolgokkal volt teletomve, de ha igy definialjuk, akkor a java is ugyanugy a 4GL kategoriaba tartozhat.

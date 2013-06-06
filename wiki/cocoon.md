@@ -1,13 +1,13 @@
 ---
-creationDate: 1090866961966 
-author: kocka 
-contentAuthor: kocka 
-title: cocoon 
-contentUpdateDate: 1141133681073 
-name: cocoon 
-layout: wiki 
-date: 1141133681073 
-creator: kocka 
+creationDate        : 2004-07-26 20:36:01 +0200 
+author              : admin 
+title               : cocoon 
+name                : cocoon 
+layout              : wiki 
+path                : cocoon 
+date                : 2006-03-26 01:43:09 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://cocoon.apache.org/images/cocoon.gif)(http://cocoon.codehaus.org/)
 

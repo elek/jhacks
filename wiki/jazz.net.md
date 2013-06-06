@@ -1,15 +1,15 @@
 ---
-creationDate: 1201699692125 
-author: kocka 
-contentAuthor: kocka 
-title: Jazz Project 
-contentUpdateDate: 1201699692125 
-name: jazz.net 
-layout: wiki 
-date: 1201699692125 
-creator: kocka 
+creationDate        : 2008-01-30 14:28:12 +0100 
+author              : kocka 
+title               : Jazz Project 
+name                : jazz.net 
+layout              : wiki 
+path                : jazz.net 
+date                : 2008-01-30 14:28:12 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://jazz.net
+[http://jazz.net](http://jazz.net)
 
 Az [IBM](IBM.html) [Rational](Rational.html) egy [collaborative development](collaborative%20development.html) cuccosa, és annál kicsit talán több.
 
@@ -20,14 +20,8 @@ Ami bele van integrálva:
 *   [wiki](wiki.html)
 *   [forum](Missing.html)
 
-
-
 Stb...
 
-
-
 [Todo](TODO.html): Ez a snip elég felszines, valamint [jazz](jazz.html) nevű snip már létezik (felhasználói), erre valamit ki kéne találni...
-
-
 
 {}

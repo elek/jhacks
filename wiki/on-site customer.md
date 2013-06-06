@@ -1,13 +1,13 @@
 ---
-creationDate: 1133194089517 
-author: kocka 
-contentAuthor: kocka 
-title: on-site customer 
-contentUpdateDate: 1133194089517 
-name: on-site customer 
-layout: wiki 
-date: 1133194089517 
-creator: kocka 
+creationDate        : 2005-11-28 17:08:09 +0100 
+author              : admin 
+title               : on-site customer 
+name                : on-site customer 
+layout              : wiki 
+path                : on-site customer 
+date                : 2006-03-26 01:48:33 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Az [XP](XP.html) altal javasolt modszer: az ugyfel kepviseloje legyen a fejlesztes helyszinen. (Igazabol ez inkabb arra jo hogy az ugyfel nyakara lehet tolni a felelosseget, mert o mondott hulyeseget, tokeletes :) )
 

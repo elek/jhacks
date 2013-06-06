@@ -1,13 +1,13 @@
 ---
-creationDate: 1133194656494 
-author: kocka 
-contentAuthor: kocka 
-title: axis 
-contentUpdateDate: 1193318847681 
-name: axis 
-layout: wiki 
-date: 1193318847681 
-creator: kocka 
+creationDate        : 2005-11-28 17:17:36 +0100 
+author              : kocka 
+title               : axis 
+name                : axis 
+layout              : wiki 
+path                : axis 
+date                : 2007-10-25 15:27:27 +0200 
+version             : 2 
+creator             : kocka 
 ---
 ![image](http://ws.apache.org/axis/images/axis3.jpg)(http://ws.apache.org/axis/)
 

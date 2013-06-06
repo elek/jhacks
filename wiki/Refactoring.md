@@ -1,19 +1,24 @@
 ---
-creationDate: 1120131560219 
-author: kocka 
-contentAuthor: kocka 
-title: Refactoring 
-contentUpdateDate: 1161947399968 
-name: Refactoring 
-layout: wiki 
-date: 1161947399968 
-creator: kocka 
+creationDate        : 2005-06-30 13:39:20 +0200 
+author              : kocka 
+title               : Refactoring 
+name                : Refactoring 
+layout              : wiki 
+path                : Refactoring 
+date                : 2006-10-27 13:09:59 +0200 
+version             : 6 
+creator             : kocka 
 ---
 Egy ismerosom szerint nem az szamit hogy hogy designolsz es hogy kodolsz, hanem az hogy hogy tudsz refaktoralni. Van benne valami igazsag :)
 
 A refacoringhoz jol jon egy kis [IDE](IDE.html) support is, <[kocka](kocka.html)-maganvelemeny>ebben az [IDEA](IDEA.html) verhetetlen, de az [eclipse](Eclipse.html) is tud trukkoket</[kocka](kocka.html)-maganvelemeny>
 
 Ide had jojjenek a gyenge kod javitasara tett javaslatok, eszkozok, foleg a [WTF](WTF.html)ek. Ihletonek esetleg jol johet nehany tipp a [petshop collection](petshop%20collection.html)bol.
+
+
+-   [Refactoring/custom authentication](Refactoring/custom authentication.html)
+-   [Refactoring](Refactoring.html)
+-   [Refactoring/logging](Refactoring/logging.html)
 
 
 
@@ -25,8 +30,6 @@ Na es ez nem mindig sikerul, de ennek nem feltetlenul te vagy az oka. Mindenki d
 
 Hasznos cuccok:
 
-*   http://www.refactoring.com/
-
-
+*   [http://www.refactoring.com/](http://www.refactoring.com/)
 
 

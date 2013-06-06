@@ -1,15 +1,15 @@
 ---
-creationDate: 1130531782955 
-author: kocka 
-contentAuthor: kocka 
-title: testgen4web 
-contentUpdateDate: 1130531782955 
-name: testgen4web 
-layout: wiki 
-date: 1130531782955 
-creator: kocka 
+creationDate        : 2005-10-28 22:36:22 +0200 
+author              : admin 
+title               : testgen4web 
+name                : testgen4web 
+layout              : wiki 
+path                : testgen4web 
+date                : 2006-03-26 01:51:17 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://developer.spikesource.com/wiki/index.php?title=Projects:TestGen4Web
+[http://developer.spikesource.com/wiki/index.php?title=Projects:TestGen4Web](http://developer.spikesource.com/wiki/index.php?title=Projects:TestGen4Web)
 
 Egy nagyon igeretesnek tuno kis cucc, amivel a [firefox](Missing.html)odban tudsz http tesztet osszeallitani. Kb ugy mint az [internet exploiter](Internet%20Exploiter.html)rel a [astra load test](Missing.html) eseteben.
 

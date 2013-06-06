@@ -1,13 +1,13 @@
 ---
-creationDate: 1121722458276 
-author: kocka 
-contentAuthor: kocka 
-title: castor 
-contentUpdateDate: 1141139992904 
-name: castor 
-layout: wiki 
-date: 1141139992904 
-creator: kocka 
+creationDate        : 2005-07-18 23:34:18 +0200 
+author              : admin 
+title               : castor 
+name                : castor 
+layout              : wiki 
+path                : castor 
+date                : 2006-03-26 01:43:08 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://castor.codehaus.org/images/castor.gif)(http://castor.codehaus.org/)
 

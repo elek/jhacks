@@ -1,12 +1,12 @@
 ---
-creationDate: 1112042589391 
-author: kocka 
-contentAuthor: kocka 
-title: standalone 
-contentUpdateDate: 1112042589391 
-name: standalone 
-layout: wiki 
-date: 1112042589391 
-creator: kocka 
+creationDate        : 2005-03-28 22:43:09 +0200 
+author              : admin 
+title               : standalone 
+name                : standalone 
+layout              : wiki 
+path                : standalone 
+date                : 2006-03-26 01:48:52 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Standalone az az alkalmazas, amit kulon java virtualis gepben inditassz el. A standalone alkalmazasok kiindulasi pontja a 'public static void main'.

@@ -1,12 +1,12 @@
 ---
-creationDate: 1107700731101 
-author: kocka 
-contentAuthor: kocka 
-title: uberloom/clustering support 
-contentUpdateDate: 1107700731101 
-name: uberloomclustering support 
-layout: wiki 
-date: 1107700731101 
-creator: kocka 
+creationDate        : 2005-02-06 15:38:51 +0100 
+author              : admin 
+title               : uberloom/clustering support 
+name                : uberloom/clustering support 
+layout              : wiki 
+path                : uberloom/clustering support 
+date                : 2006-03-26 01:51:22 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Na ez egy erdekes dolog lenne, valoszinu eleg melyre kellene nyulni mindenben hozza, ugyhogy meg kutatasi tema :)

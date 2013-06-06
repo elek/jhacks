@@ -1,13 +1,13 @@
 ---
-creationDate: 1164882268469 
-author: kocka 
-contentAuthor: kocka 
-title: qalab 
-contentUpdateDate: 1166436963093 
-name: qalab 
-layout: wiki 
-date: 1166436963093 
-creator: kocka 
+creationDate        : 2006-11-30 11:24:28 +0100 
+author              : kocka 
+title               : qalab 
+name                : qalab 
+layout              : wiki 
+path                : qalab 
+date                : 2006-12-18 11:16:03 +0100 
+version             : 4 
+creator             : kocka 
 ---
 ![image](http://www.objectlab.co.uk/images/qalab.gif)(http://qalab.sourceforge.net/)
 
@@ -18,7 +18,5 @@ Ami azert hasznos, ha akarjuk latni merre megyunk :)
 Linkek:
 
 *   [The Meaning of Code Metrics, Andy (a diszkos csako) okit minket a code metrics idobeli ertelmerol](http://thediscoblog.com/2006/12/15/the-meaning-of-code-metrics/)
-
-
 
 

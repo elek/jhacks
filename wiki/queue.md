@@ -1,13 +1,13 @@
 ---
-creationDate: 1130520739727 
-author: kocka 
-contentAuthor: kocka 
-title: queue 
-contentUpdateDate: 1130527495091 
-name: queue 
-layout: wiki 
-date: 1130527495091 
-creator: nyuszko 
+creationDate        : 2005-10-28 19:32:19 +0200 
+author              : admin 
+title               : queue 
+name                : queue 
+layout              : wiki 
+path                : queue 
+date                : 2006-03-26 01:48:39 +0100 
+version             : 1 
+creator             : nyuszko 
 ---
 A queue egy olyan [JMS](JMS.html) dolog, amibe bekuldod az uzenetet, es a vegen valaki (pontosan egy valaki) kiszedi. Vagy nem szedi ki, mert elevul, ilyen is lehet :)
 

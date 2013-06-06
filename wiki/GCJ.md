@@ -1,13 +1,13 @@
 ---
-creationDate: 1115723764701 
-author: renszarv 
-contentAuthor: renszarv 
-title: GCJ 
-contentUpdateDate: 1150026571812 
-name: GCJ 
-layout: wiki 
-date: 1150026571812 
-creator: kocka 
+creationDate        : 2005-05-10 13:16:04 +0200 
+author              : renszarv 
+title               : GCJ 
+name                : GCJ 
+layout              : wiki 
+path                : GCJ 
+date                : 2006-06-11 13:49:31 +0200 
+version             : 2 
+creator             : kocka 
 ---
 ![image](http://gcc.gnu.org/java/gcj.jpg)(http://gcc.gnu.org/java/)
 

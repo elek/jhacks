@@ -1,15 +1,15 @@
 ---
-creationDate: 1107957485369 
-author: kocka 
-contentAuthor: kocka 
-title: Websphere 
-contentUpdateDate: 1164197028286 
-name: Websphere 
-layout: wiki 
-date: 1164197028286 
-creator: kocka 
+creationDate        : 2005-02-09 14:58:05 +0100 
+author              : kocka 
+title               : Websphere 
+name                : Websphere 
+layout              : wiki 
+path                : Websphere 
+date                : 2006-11-22 13:03:48 +0100 
+version             : 3 
+creator             : kocka 
 ---
-http://www.ibm.com/software/websphere/
+[http://www.ibm.com/software/websphere/](http://www.ibm.com/software/websphere/)
 
 Az [IBM](IBM.html) [J2EE](j2ee.html) termekcsaladja, totalisan fullfeature. Manapsag a leggyorsabban terjedo [alkalmazas szerver](Alkalmazas%20Szerver.html) a penzes [j2ee](j2ee.html) piacon.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1103620892034 
-author: kocka 
-contentAuthor: kocka 
-title: MySQL 
-contentUpdateDate: 1212830361149 
-name: MySQL 
-layout: wiki 
-date: 1212830361149 
-creator: kocka 
+creationDate        : 2004-12-21 10:21:32 +0100 
+author              : kocka 
+title               : MySQL 
+name                : MySQL 
+layout              : wiki 
+path                : MySQL 
+date                : 2008-06-07 11:19:21 +0200 
+version             : 4 
+creator             : kocka 
 ---
 "Az en SQL-em"
 

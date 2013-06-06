@@ -1,13 +1,13 @@
 ---
-creationDate: 1194809836826 
-author: karenin 
-contentAuthor: karenin 
-title: Toplink 
-contentUpdateDate: 1194809836826 
-name: Toplink 
-layout: wiki 
-date: 1194809836826 
-creator: karenin 
+creationDate        : 2007-11-11 20:37:16 +0100 
+author              : karenin 
+title               : Toplink 
+name                : Toplink 
+layout              : wiki 
+path                : Toplink 
+date                : 2007-11-11 20:37:16 +0100 
+version             : 1 
+creator             : karenin 
 ---
 Az Oracle [ORM](ORM.html) toolja javához. Ez is régi motoros már, de van már JPA is benne. Az egyszerűsített változata (Toplink Essentials) szabadon használható (és nyílt a forrása). Ez van egyébként a Glassfishez is szállítva, és a JPA 3.0 refernecia implementációjának tekintendő.
 

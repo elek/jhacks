@@ -1,16 +1,16 @@
 ---
-creationDate: 1114009907527 
-author: renszarv 
-contentAuthor: renszarv 
-title: WTF/szam parzolas 
-contentUpdateDate: 1114009907527 
-name: WTFszam parzolas 
-layout: wiki 
-date: 1114009907527 
-creator: renszarv 
+creationDate        : 2005-04-20 17:11:47 +0200 
+author              : admin 
+title               : WTF/szam parzolas 
+name                : WTF/szam parzolas 
+layout              : wiki 
+path                : WTF/szam parzolas 
+date                : 2006-03-26 01:43:02 +0100 
+version             : 1 
+creator             : renszarv 
 ---
 Névtelen indiai programozó munkáját dicséri 
 
-{% highlight java %}
+```
  int ize = new Integer( req.getParameter( "ize" ) ).parseInt( req.getParameter( "ize" ) );
-{% endhighlight %}
+```

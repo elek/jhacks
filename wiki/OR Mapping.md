@@ -1,13 +1,13 @@
 ---
-creationDate: 1091611672782 
-author: kocka 
-contentAuthor: kocka 
-title: Object Relation Mapping 
-contentUpdateDate: 1212835470424 
-name: OR Mapping 
-layout: wiki 
-date: 1212835470424 
-creator: zsoltk 
+creationDate        : 2004-08-04 11:27:52 +0200 
+author              : kocka 
+title               : Object Relation Mapping 
+name                : OR Mapping 
+layout              : wiki 
+path                : OR Mapping 
+date                : 2008-06-07 12:44:30 +0200 
+version             : 3 
+creator             : zsoltk 
 ---
 De mivel ez nem teljesen ertheto, ezert egy kicsit bovebben: Relacios adatbazis tablainak mappelese Objektum orientalt kornyezetbe.
 
@@ -19,7 +19,7 @@ Ilyen mondon, letrehozva egy kvazi Objektumrelacios adatbazist. Azert kvazi, mer
 
 Nagy elonye a hagyomanyos megkozelitessel szemben, hogy a programjainkban nem kell kulonosebben foglalkozni az adatbazis felepitesevel. Nem kell SQL muveleteket irogatnunk. Nem kell kulon foglalkoznunk a tablak kapcsolataival. Egyszoval nagyban meg tudja konnyiteni az eletunket.
 
-A temaban egy atfogo elmeleti munka: http://www.chimu.com/publications/objectRelational/index.html
+A temaban egy atfogo elmeleti munka: [http://www.chimu.com/publications/objectRelational/index.html](http://www.chimu.com/publications/objectRelational/index.html)
 
 Valamint a kulonbozo libek és apik:
 

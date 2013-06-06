@@ -1,13 +1,13 @@
 ---
-creationDate: 1106559181637 
-author: kocka 
-contentAuthor: kocka 
-title: DBCP 
-contentUpdateDate: 1106559181637 
-name: DBCP 
-layout: wiki 
-date: 1106559181637 
-creator: kocka 
+creationDate        : 2005-01-24 10:33:01 +0100 
+author              : admin 
+title               : DBCP 
+name                : DBCP 
+layout              : wiki 
+path                : DBCP 
+date                : 2006-03-26 01:42:36 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __DataBase Connection Pool__
 

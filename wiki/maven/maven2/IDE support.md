@@ -1,13 +1,13 @@
 ---
-creationDate: 1163672279997 
-author: kocka 
-contentAuthor: kocka 
-title: maven/maven2/IDE support 
-contentUpdateDate: 1166689151515 
-name: mavenmaven2IDE support 
-layout: wiki 
-date: 1166689151515 
-creator: kocka 
+creationDate        : 2006-11-16 11:17:59 +0100 
+author              : kocka 
+title               : maven/maven2/IDE support 
+name                : maven/maven2/IDE support 
+layout              : wiki 
+path                : maven/maven2/IDE support 
+date                : 2006-12-21 09:19:11 +0100 
+version             : 7 
+creator             : kocka 
 ---
 A [maven/maven2](../../maven/maven2.html) eleg frankon tamogatja az [eclipse](../../Eclipse.html) [IDE](../../IDE.html)t, viszont a leszarmaztatott idekkel ([myeclipse](../../myeclipse.html), [websphere app dev](../../Websphere%20App%20Dev.html)) problemaba utkozhet az ember, amire most egy kis megoldast hozok fel.
 
@@ -17,21 +17,21 @@ Alaptechnologia: [maven profile](http://maven.apache.org/guides/introduction/int
 
 Peldaul egy [webapp](../../webapp.html) eseten az [eclipse](../../Eclipse.html) supportot igy deklaraltad: 
 
-{% highlight java %}
+```
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<workspace>$\{basedir\}</workspace>
+					<workspace>${basedir}</workspace>
 					<wtpversion>1.0</wtpversion>
 				</configuration>
 			</plugin>
-{% endhighlight %}
+```
 
 most jon a zavaro tenyezo hogy nehany szerencses munkatarsnak jutott [myeclipse](../../myeclipse.html) licensz, mas kevesbe szerencsesnek esetleg [websphere app dev](../../Websphere%20App%20Dev.html), es frankon megoldjuk eztet is:
 
-{% highlight java %}
+```
 	<profiles>
 
 		<profile>
@@ -48,7 +48,7 @@ most jon a zavaro tenyezo hogy nehany szerencses munkatarsnak jutott [myeclipse]
 						<artifactId>maven-eclipse-plugin</artifactId>
 						<version>2.2</version>
 						<configuration>
-							<workspace>$\{basedir\}</workspace>
+							<workspace>${basedir}</workspace>
 							<downloadSources>true</downloadSources>
 							<additionalBuildcommands>
 								<buildcommand>
@@ -90,7 +90,7 @@ most jon a zavaro tenyezo hogy nehany szerencses munkatarsnak jutott [myeclipse]
 						<artifactId>maven-eclipse-plugin</artifactId>
 						<version>2.2</version>
 						<configuration>
-							<workspace>$\{basedir\}</workspace>
+							<workspace>${basedir}</workspace>
 							<downloadSources>true</downloadSources>
 							<additionalBuildcommands>
 								<buildcommand>
@@ -151,17 +151,17 @@ most jon a zavaro tenyezo hogy nehany szerencses munkatarsnak jutott [myeclipse]
 		</profile>
 	</profiles>
 
-{% endhighlight %}
+```
 
 Innentol aki [myeclipse](../../myeclipse.html)t akar hajtani annak igy kell a [maven](../../maven.html)-nel kigeneraltatni a project descriptorokat:
-{% highlight java %}
+```
 mvn -DIDE=myeclipse eclipse:eclipse
-{% endhighlight %}
+```
 
 Mig a balsorsu [websphere app dev](../../Websphere%20App%20Dev.html) felhasznalok:
-{% highlight java %}
+```
 mvn -DIDE=wsad eclipse:eclipse
-{% endhighlight %}
+```
 
 Ilyen modon fuggetlenne tettuk a projectunket a fejlesztokornyezettol. Azt meg erdemes megjegyezni hogy a leszarmaztatott idek hasznalnak helyenkent nem szabvanyos allomanyokat amiket maguk generalnak, ezeket az eclipse plugin nem tamogatja per pillanat, de lehet oket kezzel editalni.
 

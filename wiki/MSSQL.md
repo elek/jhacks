@@ -1,13 +1,13 @@
 ---
-creationDate: 1106814294833 
-author: kocka 
-contentAuthor: kocka 
-title: MSSQL 
-contentUpdateDate: 1194611488044 
-name: MSSQL 
-layout: wiki 
-date: 1194611488044 
-creator: kocka 
+creationDate        : 2005-01-27 09:24:54 +0100 
+author              : kocka 
+title               : MSSQL 
+name                : MSSQL 
+layout              : wiki 
+path                : MSSQL 
+date                : 2007-11-09 13:31:28 +0100 
+version             : 5 
+creator             : kocka 
 ---
 A Microsoft [RDBMS](RDBMS.html)e, egykoron a [sybase](Sybase.html) fejlesztéséről leforkolva. Igazabol igazhito linux juzerkent mondanom kellene rola valami csunyat, de nem tudok, sot igy par ev hasznalat utan, bar kicsit egyszerucskenek tartom, igazabol nagyon bekesen megvagyok vele. Az [SQL](SQL.html) dialektusanak kicsit specialis az ize, meg tiszta GUI az egesz, meg a clusterezessel [alaposan el lehet szarni](WTF/MSSQL%20cluster.html).
 

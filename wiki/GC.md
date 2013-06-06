@@ -1,13 +1,13 @@
 ---
-creationDate: 1093859596968 
-author: kocka 
-contentAuthor: kocka 
-title: GC 
-contentUpdateDate: 1126102067168 
-name: GC 
-layout: wiki 
-date: 1126102067168 
-creator: kocka 
+creationDate        : 2004-08-30 11:53:16 +0200 
+author              : admin 
+title               : GC 
+name                : GC 
+layout              : wiki 
+path                : GC 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __Garbage Collector__
 
@@ -23,17 +23,11 @@ A GC megfelelo beallitasa kulcskerdes az optimalis sebesseg eleresehez. (ugyanis
 
 olvasnivalo:
 
-*   http://java.sun.com/docs/hotspot/VMOptions.html
-*   http://java.sun.com/docs/hotspot/gc1.4.2/index.html
-
-
+*   [http://java.sun.com/docs/hotspot/VMOptions.html](http://java.sun.com/docs/hotspot/VMOptions.html)
+*   [http://java.sun.com/docs/hotspot/gc1.4.2/index.html](http://java.sun.com/docs/hotspot/gc1.4.2/index.html)
 
 Erdemes a forrast is elolvasni, erdekes dolgok derulnek ki.
 
-
-
 Lasd meg: [OOM](OOM.html), [memory leak](memory%20leak.html)
-
-
 
 

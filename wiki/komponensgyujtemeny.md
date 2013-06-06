@@ -1,13 +1,13 @@
 ---
-creationDate: 1095079303334 
-author: kocka 
-contentAuthor: kocka 
-title: komponensgyujtemeny 
-contentUpdateDate: 1095079303334 
-name: komponensgyujtemeny 
-layout: wiki 
-date: 1095079303334 
-creator: kocka 
+creationDate        : 2004-09-13 14:41:43 +0200 
+author              : admin 
+title               : komponensgyujtemeny 
+name                : komponensgyujtemeny 
+layout              : wiki 
+path                : komponensgyujtemeny 
+date                : 2006-03-26 01:48:22 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __Komponens gyujtemenyek__
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1091779853029 
-author: kocka 
-contentAuthor: kocka 
-title: Linux 
-contentUpdateDate: 1166091771070 
-name: Linux 
-layout: wiki 
-date: 1166091771070 
-creator: kocka 
+creationDate        : 2004-08-06 10:10:53 +0200 
+author              : kocka 
+title               : Linux 
+name                : Linux 
+layout              : wiki 
+path                : Linux 
+date                : 2006-12-14 11:22:51 +0100 
+version             : 7 
+creator             : kocka 
 ---
 ![image](http://www.linux.org/info/images/officialpenguin.gif)(http://www.linux.org/)
 
@@ -20,11 +20,9 @@ _(Hat kb ennyit erdemes tudni a Linuxrol egy java programozonak ahhoz hogy dolgo
 
 Ha esetleg tobbre lenne szukseg:
 
-*   http://www.kernel.org/ a kernel fejlesztes honlapja
-*   http://www.hup.hu/ a magyar linux (es bsd) fanok klubbja
-*   http://community.java.net/linux/ a java.net linux kozossegi lapja
+*   [http://www.kernel.org/](http://www.kernel.org/) a kernel fejlesztes honlapja
+*   [http://www.hup.hu/](http://www.hup.hu/) a magyar linux (es bsd) fanok klubbja
+*   [http://community.java.net/linux/](http://community.java.net/linux/) a java.net linux kozossegi lapja
 *   [Oszama Bin Laden Linuxot hasznal](http://shelleytherepublican.com/2006/04/linux-european-threat-to-our-computers.html) :-D
-
-
 
 

@@ -1,23 +1,23 @@
 ---
-creationDate: 1112530311379 
-author: kocka 
-contentAuthor: kocka 
-title: WTF/Indent 
-contentUpdateDate: 1112530485073 
-name: WTFIndent 
-layout: wiki 
-date: 1112530485073 
-creator: kocka 
+creationDate        : 2005-04-03 14:11:51 +0200 
+author              : admin 
+title               : WTF/Indent 
+name                : WTF/Indent 
+layout              : wiki 
+path                : WTF/Indent 
+date                : 2006-03-26 01:43:01 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Indantalas java-ban :)
 
 Nem az a tipikus atomszar, de jot rohogtem rajta. Ez nem vicc, ez eles :) Pont ezert veszelyes.
 
-{% highlight java %}
+```
     /**
      * Returns indent string.
      */
-    public static String indent(int i) \{
+    public static String indent(int i) {
 	return  ("..........................."
                +"..........................."
                +"..........................."
@@ -30,5 +30,5 @@ Nem az a tipikus atomszar, de jot rohogtem rajta. Ez nem vicc, ez eles :) Pont e
                +"..........................."
                +"...........................")
 		   .substring(0, i * 1);
-    \}
-{% endhighlight %}
+    }
+```

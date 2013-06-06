@@ -1,13 +1,13 @@
 ---
-creationDate: 1159046533334 
-author: kocka 
-contentAuthor: kocka 
-title: JSF 
-contentUpdateDate: 1212938204034 
-name: JSF 
-layout: wiki 
-date: 1212938204034 
-creator: karenin 
+creationDate        : 2006-09-23 23:22:13 +0200 
+author              : kocka 
+title               : JSF 
+name                : JSF 
+layout              : wiki 
+path                : JSF 
+date                : 2008-06-08 17:16:44 +0200 
+version             : 6 
+creator             : karenin 
 ---
 Java Server Faces (jsr 127). Webes framework. Sokan a [Struts](struts.html) utodjanak mondjak, mert a vezetoje az a bizonzos Craig McClanahan, aki a [Struts](struts.html)-ert is felelos.
 
@@ -28,7 +28,5 @@ Egyéb: [seam](Missing.html)
 Linkek:
 
 *   [Basics and Concepts of JSF](http://parleys.com/display/PARLEYS/Basics+and+Concepts+of+JSF?showComments=true)
-
-
 
 

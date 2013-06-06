@@ -1,13 +1,13 @@
 ---
-creationDate: 1100564792892 
-author: boci 
-contentAuthor: boci 
-title: JFace 
-contentUpdateDate: 1100564792892 
-name: JFace 
-layout: wiki 
-date: 1100564792892 
-creator: boci 
+creationDate        : 2004-11-16 01:26:32 +0100 
+author              : admin 
+title               : JFace 
+name                : JFace 
+layout              : wiki 
+path                : JFace 
+date                : 2006-03-26 01:42:42 +0100 
+version             : 1 
+creator             : boci 
 ---
 A JFace egy kiterjesztes az [swt](swt.html) felhasznaloi kornyezethez.
 

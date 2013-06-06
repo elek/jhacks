@@ -1,15 +1,18 @@
 ---
-creationDate: 1118672044101 
-author: karenin 
-contentAuthor: karenin 
-title: glassfish 
-contentUpdateDate: 1209492978219 
-name: glassfish 
-layout: wiki 
-date: 1209492978219 
-creator: kocka 
+creationDate        : 2005-06-13 16:14:04 +0200 
+author              : karenin 
+title               : glassfish 
+name                : glassfish 
+layout              : wiki 
+path                : glassfish 
+date                : 2008-04-29 20:16:18 +0200 
+version             : 11 
+creator             : kocka 
 ---
 ![image](http://glassfish.dev.java.net/public/image/glassfish_logo.gif)(http://glassfish.dev.java.net/)
+
+
+-   [glassfish](glassfish.html)
 
 
 
@@ -19,14 +22,10 @@ Erdekes ujitasok:
 
 *   [NIO](NIO.html) alapu [HTTP](HTTP.html) listener (Grizzly)
 *   lazy initialization, csak azokat a szolgaltatasokat inditja el, amire szukseg van (v3)
-*   Glassfish news blog: http://blogs.sun.com/theaquarium
-
-
+*   Glassfish news blog: [http://blogs.sun.com/theaquarium](http://blogs.sun.com/theaquarium)
 
 Verziók:
 
-* v1 a múzeumból
-
-* v2 jelenleg ez a stabil, főleg clusterezésben újabb, az admin felület JSF-es ilyenek
-
-* v3 teljesen új architektúra ([HK2](HK2.html) és [OSGi](OSGi.html)). Moduláris lesz, ezért állítólag alapból kevesebb erőforrást eszik. Támogatni fogja a szkript nyelveket, és beágyazott módban is lehet majd indítani (értsd Java kódból).
+*   v1 a múzeumból
+*   v2 jelenleg ez a stabil, főleg clusterezésben újabb, az admin felület JSF-es ilyenek
+*   v3 teljesen új architektúra ([HK2](HK2.html) és [OSGi](OSGi.html)). Moduláris lesz, ezért állítólag alapból kevesebb erőforrást eszik. Támogatni fogja a szkript nyelveket, és beágyazott módban is lehet majd indítani (értsd Java kódból).

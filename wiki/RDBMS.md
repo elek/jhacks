@@ -1,13 +1,13 @@
 ---
-creationDate: 1091185986863 
-author: kocka 
-contentAuthor: kocka 
-title: Relational DataBase Management System 
-contentUpdateDate: 1194686914306 
-name: RDBMS 
-layout: wiki 
-date: 1194686914306 
-creator: kocka 
+creationDate        : 2004-07-30 13:13:06 +0200 
+author              : kocka 
+title               : Relational DataBase Management System 
+name                : RDBMS 
+layout              : wiki 
+path                : RDBMS 
+date                : 2007-11-10 10:28:34 +0100 
+version             : 13 
+creator             : kocka 
 ---
 Relacios adatbazis kezelo rendszer.
 
@@ -24,21 +24,16 @@ Eloszotott szerverek (a teljesseg igenye nelkul):
 *   [SAPDB](SAPDB.html) alias [MAXDB](MAXDB.html)
 *   [Ingres](Missing.html)
 
-
-
 Beagyazott:
+
 *   [HSQL](HSQL.html)
 *   [CloudScape](CloudScape.html) ([IBM](IBM.html))
 *   [Derby](Derby.html) ([ASF](ASF.html)) (a [CloudScape](CloudScape.html) szabad forkja)
 
-
-
 [JDBC](JDBC.html) Driver mindegyikhez található a weboldalán, valamint külön ide az nem RDBMS-specifikus [JDBC](JDBC.html) Driverek:
+
 *   [C-JDBC](C-JDBC.html) és [HA-JDBC](Missing.html), clusterezett [JDBC](JDBC.html) driverek, [alamazás szerver](Alkalmazas%20Szerver.html) szinten lehet velük [clusterezni](cluster.html) az adatbázisokat
 *   végülis a [dbcp](DBCP.html) is tartalmaz egy wrapper drivert, amivel a DBCP wrappelt kapcsolatokat lehet kérni, azt hiszem poolozza is az objektumokat.
-
-
-
 
 
 Szinten olvasd el az [Adatbazis](Adatbazis.html) snippet.

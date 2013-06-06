@@ -1,13 +1,13 @@
 ---
-creationDate: 1133888955720 
-author: kocka 
-contentAuthor: kocka 
-title: lamp 
-contentUpdateDate: 1133889040271 
-name: lamp 
-layout: wiki 
-date: 1133889040271 
-creator: kocka 
+creationDate        : 2005-12-06 18:09:15 +0100 
+author              : admin 
+title               : lamp 
+name                : lamp 
+layout              : wiki 
+path                : lamp 
+date                : 2006-03-26 01:48:22 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A [Linux](Linux.html) [Apache](apache.html) [PHP](PHP.html) [MySQL](MySQL.html) roviditese. 
 

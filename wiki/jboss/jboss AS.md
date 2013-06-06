@@ -1,13 +1,13 @@
 ---
-creationDate: 1212935651783 
-author: kocka 
-contentAuthor: kocka 
-title: jboss/jboss AS 
-contentUpdateDate: 1212935651783 
-name: jbossjboss AS 
-layout: wiki 
-date: 1212935651783 
-creator: kocka 
+creationDate        : 2008-06-08 16:34:11 +0200 
+author              : kocka 
+title               : jboss/jboss AS 
+name                : jboss/jboss AS 
+layout              : wiki 
+path                : jboss/jboss AS 
+date                : 2008-06-08 16:34:11 +0200 
+version             : 1 
+creator             : kocka 
 ---
 A [JBoss](../jboss.html) [alkalmazás szervere](../Alkalmazas%20Szerver.html). Nagyon elterjedt, aminek a fő oka az volt hogy az első free termék volt a kategóriában (akkor még EJBoss néven).
 

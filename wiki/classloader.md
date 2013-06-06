@@ -1,15 +1,15 @@
 ---
-creationDate: 1151659142703 
-author: kocka 
-contentAuthor: kocka 
-title: classloader 
-contentUpdateDate: 1151659142703 
-name: classloader 
-layout: wiki 
-date: 1151659142703 
-creator: kocka 
+creationDate        : 2006-06-30 11:19:02 +0200 
+author              : kocka 
+title               : classloader 
+name                : classloader 
+layout              : wiki 
+path                : classloader 
+date                : 2006-06-30 11:19:02 +0200 
+version             : 1 
+creator             : kocka 
 ---
-A  es az o dicso leszarmayottai.
+A [java.lang.ClassLoader](http://docs.oracle.com/javase/7/docs/api/java/lang/ClassLoader.html) es az o dicso leszarmayottai.
 
 Egy teljesen ujszeru koncepcio volt a [java](java.html)ban mar a legelejen, mondhatni core java feature. Mindenesetre a VM a classloader hierarchiat hasznalja amikor egy osztalyt be kell tolteni.
 

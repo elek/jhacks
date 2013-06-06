@@ -1,13 +1,13 @@
 ---
-creationDate: 1108565169761 
-author: kocka 
-contentAuthor: kocka 
-title: JDBC/takolasok/JDBC-ODBC bridge 
-contentUpdateDate: 1108565169761 
-name: JDBCtakolasokJDBC-ODBC bridge 
-layout: wiki 
-date: 1108565169761 
-creator: kocka 
+creationDate        : 2005-02-16 15:46:09 +0100 
+author              : admin 
+title               : JDBC/takolasok/JDBC-ODBC bridge 
+name                : JDBC/takolasok/JDBC-ODBC bridge 
+layout              : wiki 
+path                : JDBC/takolasok/JDBC-ODBC bridge 
+date                : 2006-03-26 01:42:42 +0100 
+version             : 1 
+creator             : kocka 
 ---
 A JDBC-ODBC Bridge egy rakas szerencsetlenseg, ha csak egy mod van ra ne hasznaljatok! ([Kocka](../../kocka.html), [Sybase](../../Sybase.html)-zel)
 

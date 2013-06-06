@@ -1,15 +1,15 @@
 ---
-creationDate: 1091611954698 
-author: kocka 
-contentAuthor: kocka 
-title: Hibernate 
-contentUpdateDate: 1165407910728 
-name: Hibernate 
-layout: wiki 
-date: 1165407910728 
-creator: zsoltk 
+creationDate        : 2004-08-04 11:32:34 +0200 
+author              : kocka 
+title               : Hibernate 
+name                : Hibernate 
+layout              : wiki 
+path                : Hibernate 
+date                : 2006-12-06 13:25:10 +0100 
+version             : 6 
+creator             : zsoltk 
 ---
-http://hibernate.org/
+[http://hibernate.org/](http://hibernate.org/)
 
 Talan az egyik legerosebb [open source](Open%20Source.html) [OR Mapping](OR%20Mapping.html) cucc ([LGPL](LGPL.html)). Implementalja a javax.persistence apit, azaz a 3.2 releasetol most mar teljesen szabvanyos feluleten keresztul is hasznalhato.
 

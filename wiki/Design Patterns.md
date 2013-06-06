@@ -1,13 +1,13 @@
 ---
-creationDate: 1163671414441 
-author: kocka 
-contentAuthor: kocka 
-title: Design Patterns 
-contentUpdateDate: 1190975767859 
-name: Design Patterns 
-layout: wiki 
-date: 1190975767859 
-creator: karenin 
+creationDate        : 2006-11-16 11:03:34 +0100 
+author              : kocka 
+title               : Design Patterns 
+name                : Design Patterns 
+layout              : wiki 
+path                : Design Patterns 
+date                : 2007-09-28 12:36:07 +0200 
+version             : 7 
+creator             : karenin 
 ---
 Ismétlődő megoldások általános problémákra. Olyan problémák megfolgalmazása, ami többszőr többféle alakban is, de azért hasonlóan felmerül. Ezekre próbál megoldásokat ismerteteni, mindegyiknek az előnyeit és hátrányait számbavenni.
 
@@ -23,7 +23,11 @@ A leirt mintak persze tetszoleges ([OOP](oop.html)) nyelvre ertendoek, nem csak 
 
 
 
-
-
+-   [Design Patterns](Design Patterns.html)
+-   [Design Patterns/Creational Patterns/Factory Method](Design Patterns/Creational Patterns/Factory Method.html)
+-   [Design Patterns/Creational Patterns/Prototype](Design Patterns/Creational Patterns/Prototype.html)
+-   [Design Patterns/Creational Patterns](Design Patterns/Creational Patterns.html)
+-   [Design Patterns/Creational Patterns/Builder](Design Patterns/Creational Patterns/Builder.html)
+-   [Design Patterns/Creational Patterns/Abstract Factory](Design Patterns/Creational Patterns/Abstract Factory.html)
 
 

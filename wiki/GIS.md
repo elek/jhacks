@@ -1,13 +1,13 @@
 ---
-creationDate: 1103365383819 
-author: kocka 
-contentAuthor: kocka 
-title: GIS 
-contentUpdateDate: 1193910914457 
-name: GIS 
-layout: wiki 
-date: 1193910914457 
-creator: kocka 
+creationDate        : 2004-12-18 11:23:03 +0100 
+author              : kocka 
+title               : GIS 
+name                : GIS 
+layout              : wiki 
+path                : GIS 
+date                : 2007-11-01 10:55:14 +0100 
+version             : 3 
+creator             : kocka 
 ---
 __Geological Information System__
 
@@ -15,7 +15,7 @@ Az informatikan belul egy kulon kis vilag, a terkep informaciok tarolasara, keze
 
 Linkek:
 
-*   http://opengis.org/
+*   [http://opengis.org/](http://opengis.org/)
 *   [postgis](PostGIS.html)
 *   [geotools](geotools.html)
 *   [geo-google](http://geo-google.sf.net/) Google-ra epulo geocoder

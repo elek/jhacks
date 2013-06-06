@@ -1,13 +1,13 @@
 ---
-creationDate: 1103556120267 
-author: kocka 
-contentAuthor: kocka 
-title: unix 
-contentUpdateDate: 1103556120267 
-name: unix 
-layout: wiki 
-date: 1103556120267 
-creator: kocka 
+creationDate        : 2004-12-20 16:22:00 +0100 
+author              : admin 
+title               : unix 
+name                : unix 
+layout              : wiki 
+path                : unix 
+date                : 2006-03-26 01:51:23 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Zanzasitva.
 
@@ -20,4 +20,4 @@ A [Solaris](Solaris.html) pedig peldaul mindket definicionak megfelel.<br/>
 
 Linkek:<br/>
 
-*   http://www.hup.hu/ Hivatalosan unix portal, gyakorlatilag linux/bsd, idonkent egy kis [solaris](Solaris.html)sal.
+*   [http://www.hup.hu/](http://www.hup.hu/) Hivatalosan unix portal, gyakorlatilag linux/bsd, idonkent egy kis [solaris](Solaris.html)sal.

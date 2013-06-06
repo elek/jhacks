@@ -1,19 +1,17 @@
 ---
-creationDate: 1227177436600 
-author: khaliy 
-contentAuthor: khaliy 
-title: WTF/ejb 
-contentUpdateDate: 1227177436600 
-name: WTFejb 
-layout: wiki 
-date: 1227177436600 
-creator: khaliy 
+creationDate        : 2008-11-20 11:37:16 +0100 
+author              : khaliy 
+title               : WTF/ejb 
+name                : WTF/ejb 
+layout              : wiki 
+path                : WTF/ejb 
+date                : 2008-11-20 11:37:16 +0100 
+version             : 1 
+creator             : khaliy 
 ---
 Periódus (Session) beanek fajtái:
 
 *   Alapos (stateful): ...
 *   Hontalan(stateless): ...
-
-
 
 :-)

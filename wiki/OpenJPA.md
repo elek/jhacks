@@ -1,15 +1,15 @@
 ---
-creationDate: 1194819087965 
-author: kocka 
-contentAuthor: kocka 
-title: OpenJPA 
-contentUpdateDate: 1195122244735 
-name: OpenJPA 
-layout: wiki 
-date: 1195122244735 
-creator: kocka 
+creationDate        : 2007-11-11 23:11:27 +0100 
+author              : kocka 
+title               : OpenJPA 
+name                : OpenJPA 
+layout              : wiki 
+path                : OpenJPA 
+date                : 2007-11-15 11:24:04 +0100 
+version             : 4 
+creator             : kocka 
 ---
-http://openjpa.apache.org/
+[http://openjpa.apache.org/](http://openjpa.apache.org/)
 
 Az [apache](ASF.html) [JPA](JPA.html) implementációja. Egészen frankó a dokumentációja. A többi lassan kiderül...
 
@@ -24,7 +24,5 @@ Az [IBM](IBM.html) is [adoptálta](http://www.infoq.com/news/2007/06/openjpa) a 
 Linkek:
 
 *   [Patrick Linskey discusses OpenJPA and the JPA specification](http://www.infoq.com/interviews/openjpa-patrick-linskey) (beszélgetős műsor)
-
-
 
 

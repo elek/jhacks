@@ -1,14 +1,22 @@
 ---
-creationDate: 1092669297187 
-author: kocka 
-contentAuthor: kocka 
-title: JDBC 
-contentUpdateDate: 1165399248577 
-name: JDBC 
-layout: wiki 
-date: 1165399248577 
-creator: kocka 
+creationDate        : 2004-08-16 17:14:57 +0200 
+author              : kocka 
+title               : JDBC 
+name                : JDBC 
+layout              : wiki 
+path                : JDBC 
+date                : 2006-12-06 11:00:48 +0100 
+version             : 24 
+creator             : kocka 
 ---
+
+-   [JDBC/hasznalat](JDBC/hasznalat.html)
+-   [JDBC](JDBC.html)
+-   [JDBC/takolasok/JDBC-ODBC bridge](JDBC/takolasok/JDBC-ODBC bridge.html)
+-   [JDBC/takolasok](JDBC/takolasok.html)
+-   [JDBC/takolasok/ResultSetMetaData](JDBC/takolasok/ResultSetMetaData.html)
+-   [JDBC/takolasok/Orakulum + weblogic 8.1](JDBC/takolasok/Orakulum + weblogic 8.1.html)
+
 
 
 Elsore az ember azt hinne hogy a Java DataBase Connectivity roviditese lehet, de nem, a __JDBC\[TM](Missing.html)__ a [sun](Sun.html) bejegyzett vedjegye. :)<br/>
@@ -21,10 +29,6 @@ __JDBC frontendek:__
 *   [squirrel-sql](Squirrel-SQL.html)
 *   [Oracle SQL Developer](http://www.oracle.com/technology/software/products/sql/index.html) ([JDBC](JDBC.html), de csak [oracle](Oracle.html)-hez)
 
-
-
 Lasd meg: [JTA](JTA.html)
-
-
 
 

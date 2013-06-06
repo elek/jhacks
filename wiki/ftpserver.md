@@ -1,15 +1,15 @@
 ---
-creationDate: 1106557252149 
-author: kocka 
-contentAuthor: kocka 
-title: ftpserver 
-contentUpdateDate: 1106557252149 
-name: ftpserver 
-layout: wiki 
-date: 1106557252149 
-creator: kocka 
+creationDate        : 2005-01-24 10:00:52 +0100 
+author              : admin 
+title               : ftpserver 
+name                : ftpserver 
+layout              : wiki 
+path                : ftpserver 
+date                : 2006-03-26 01:47:57 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://incubator.apache.org/
+[http://incubator.apache.org/](http://incubator.apache.org/)
 
 Egy sajnalatos modon sok ideje pihenopalyan allo fejlesztes, az FTP protokol teljes implementaciojaval teljesen javaban, mindezt [avalon](avalon.html) komponensekkent is implementala.
 

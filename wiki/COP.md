@@ -1,13 +1,13 @@
 ---
-creationDate: 1091002438094 
-author: kocka 
-contentAuthor: kocka 
-title: Component Oriented Programming\\ 
-contentUpdateDate: 1122844660250 
-name: COP 
-layout: wiki 
-date: 1122844660250 
-creator: kocka 
+creationDate        : 2004-07-28 10:13:58 +0200 
+author              : admin 
+title               : Component Oriented Programming\\ 
+name                : COP 
+layout              : wiki 
+path                : COP 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
+creator             : kocka 
 ---
 <br/>
 Egy nem igazan uj, de meg mindig feljovoben levo programozasi iranyvonal. A lenyege hogy csak komponenseket fejlesztessz, majd ezekbol a komponensekbol allitod ossze a szoftvered. [code reuse](code%20reuse.html)
@@ -20,7 +20,5 @@ A komponens lehet egy osztaly, vagy egy csomag, egy egesz library, vagy egy szof
 *   ujrafelhasznalhato tobb alkalmazasban
 *   egy meghatarozott feluleten keresztul erheto el, ami elrejti a komponens belso mukodeset
 *   es emiatt viszonylag konnyen helyettesitheto mas, ugyanezt a feluletet implementalo komponensekkel. Elmeletileg. Azert ha az [SQL](SQL.html) nyelvre gondolunk mint interface-re [RDBMS](RDBMS.html)ek fele, akkor tudjuk hogy megsem olyan egyszeru a dolog :) (~na jo ez csak elmelet~)
-
-
 
 Lasd meg: [RUP](rup.html), [XP](XP.html)

@@ -1,13 +1,13 @@
 ---
-creationDate: 1165482707885 
-author: kocka 
-contentAuthor: kocka 
-title: terracotta 
-contentUpdateDate: 1165482827455 
-name: terracotta 
-layout: wiki 
-date: 1165482827455 
-creator: kocka 
+creationDate        : 2006-12-07 10:11:47 +0100 
+author              : kocka 
+title               : terracotta 
+name                : terracotta 
+layout              : wiki 
+path                : terracotta 
+date                : 2006-12-07 10:13:47 +0100 
+version             : 2 
+creator             : kocka 
 ---
 ![image](http://www.terracotta.org/confluence/download/userResources/logo)(http://www.terracotta.org/)
 

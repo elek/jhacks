@@ -1,14 +1,14 @@
 ---
-creationDate: 1217103510223 
-author: kocka 
-contentAuthor: kocka 
-title: Drools proto 
-contentUpdateDate: 1217103539444 
-name: kockadrools-proto 
-layout: wiki 
-date: 1217103539444 
-creator: kocka 
+creationDate        : 2008-07-26 22:18:30 +0200 
+author              : kocka 
+title               : Drools proto 
+name                : kocka/drools-proto 
+layout              : wiki 
+path                : kocka/drools-proto 
+date                : 2008-07-26 22:18:59 +0200 
+version             : 2 
+creator             : kocka 
 ---
-Kis project [drools](drools.html) probalgatásra és a politikailag inkorrekt véleményeim kifejtésére.
+Kis project [drools](../drools.html) probalgatásra és a politikailag inkorrekt véleményeim kifejtésére.
 
-[kocka](kocka.html)
+[kocka](../kocka.html)

@@ -1,13 +1,13 @@
 ---
-creationDate: 1106900902194 
-author: kocka 
-contentAuthor: kocka 
-title: issue tracker 
-contentUpdateDate: 1213050005222 
-name: issue tracker 
-layout: wiki 
-date: 1213050005222 
-creator: kocka 
+creationDate        : 2005-01-28 09:28:22 +0100 
+author              : kocka 
+title               : issue tracker 
+name                : issue tracker 
+layout              : wiki 
+path                : issue tracker 
+date                : 2008-06-10 00:20:05 +0200 
+version             : 3 
+creator             : kocka 
 ---
 Javaban irt issue tracker webalkalmazasok:
 
@@ -16,10 +16,7 @@ Javaban irt issue tracker webalkalmazasok:
 *   [scarab](scarab.html)
 *   [jtrac](Missing.html)
 
-
-
 Egyéb:
-
 
 *   [mylyn](mylyn.html)
 *   [fasttrack](fasttrack.html)

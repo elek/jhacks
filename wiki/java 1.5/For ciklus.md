@@ -1,38 +1,38 @@
 ---
-creationDate: 1113999653818 
-author: kocka 
-contentAuthor: kocka 
-title: java 1.5/For ciklus 
-contentUpdateDate: 1180547291300 
-name: java 1.5For ciklus 
-layout: wiki 
-date: 1180547291300 
-creator: kocka 
+creationDate        : 2005-04-20 14:20:53 +0200 
+author              : kocka 
+title               : java 1.5/For ciklus 
+name                : java 1.5/For ciklus 
+layout              : wiki 
+path                : java 1.5/For ciklus 
+date                : 2007-05-30 19:48:11 +0200 
+version             : 4 
+creator             : kocka 
 ---
 A [java 1.5](../java%201.5.html) uj ciklusszervezese.
 
 Nehany betut meg akartak takaritani nekunk, es ez sikerult is.
 
-{% highlight java %}
+```
 
-String[] array = new String[] \{"Ize","Hogyishivjak","Tood","Biszbasz"\};
-for(String s: array)\{
+String[] array = new String[] {"Ize","Hogyishivjak","Tood","Biszbasz"};
+for(String s: array){
   System.out.println(s);
-\}
+}
 
-{% endhighlight %}
+```
 
 Csodas kombinacioban lehet hasznalni a [generics](../Generics.html)-szel:
 
-{% highlight java %}
+```
 
 Collection<String> col;
 ...
-for(String s:col)\{
+for(String s:col){
   System.out.println(s);
-\}
+}
 
-{% endhighlight %}
+```
 
 A l?nyeg annyi, hogy amit iter?l az ember, az Iterable kell hogy legyen.
 

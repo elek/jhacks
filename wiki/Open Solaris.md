@@ -1,15 +1,15 @@
 ---
-creationDate: 1106901419380 
-author: kocka 
-contentAuthor: kocka 
-title: Open Solaris 
-contentUpdateDate: 1120247346290 
-name: Open Solaris 
-layout: wiki 
-date: 1120247346290 
-creator: kocka 
+creationDate        : 2005-01-28 09:36:59 +0100 
+author              : admin 
+title               : Open Solaris 
+name                : Open Solaris 
+layout              : wiki 
+path                : Open Solaris 
+date                : 2006-03-26 01:42:48 +0100 
+version             : 1 
+creator             : kocka 
 ---
-http://opensolaris.org/
+[http://opensolaris.org/](http://opensolaris.org/)
 
 A [SUN](Sun.html) [Solaris](Solaris.html) [operacios rendszer](Operacios%20rendszer.html)e egy szabad licence alatt. 
 
@@ -20,10 +20,6 @@ Egy ideje letoltheto szabadon a Solaris 10, nehany tapasztalat vele:
 *   Rossz pont: a gnu csomagokat valami agyament helyre pakolta be: /usr/sfw/ kerestem egy ideig, forditani nem lehet nelkule...
 *   Juzereknek: gyonyoru gnome felulet. Persze szerver OS-nel nem tudom minek.
 
-
-
-Trey solaris osszefoglaloja a hupon: http://www.hup.hu/modules.php?name=News&file=article&sid=9065
-
-
+Trey solaris osszefoglaloja a hupon: [http://www.hup.hu/modules.php?name=News&file=article&sid=9065](http://www.hup.hu/modules.php?name=News&file=article&sid=9065)
 
 Lasd meg: [Unix](unix.html), [Linux](Linux.html), [Operacios rendszer](Operacios%20rendszer.html), [SUN](Sun.html), [solaris](Solaris.html), [java](java.html)

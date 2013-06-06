@@ -1,15 +1,15 @@
 ---
-creationDate: 1112948919405 
-author: karenin 
-contentAuthor: karenin 
-title: jdom 
-contentUpdateDate: 1160688920660 
-name: jdom 
-layout: wiki 
-date: 1160688920660 
-creator: kocka 
+creationDate        : 2005-04-08 10:28:39 +0200 
+author              : karenin 
+title               : jdom 
+name                : jdom 
+layout              : wiki 
+path                : jdom 
+date                : 2006-10-12 23:35:20 +0200 
+version             : 3 
+creator             : kocka 
 ---
-http://jdom.org/
+[http://jdom.org/](http://jdom.org/)
 
 Meg egy [XML](XML.html) api, mert a biodiverzitas noveli a stabilitast, de nem egy szoftveren belul :)
 

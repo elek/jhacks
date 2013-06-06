@@ -1,12 +1,12 @@
 ---
-creationDate: 1091086979147 
-author: sztupi 
-contentAuthor: sztupi 
-title: Knowledge Library/Konyvek 
-contentUpdateDate: 1091087053298 
-name: Knowledge LibraryKonyvek 
-layout: wiki 
-date: 1091087053298 
-creator: sztupi 
+creationDate        : 2004-07-29 09:42:59 +0200 
+author              : admin 
+title               : Knowledge Library/Konyvek 
+name                : Knowledge Library/Konyvek 
+layout              : wiki 
+path                : Knowledge Library/Konyvek 
+date                : 2006-03-26 01:42:45 +0100 
+version             : 1 
+creator             : sztupi 
 ---
-* [ Knowledge Library/Konyvek/Software engineering](../Missing.html)
+*   [ Knowledge Library/Konyvek/Software engineering](../Missing.html)

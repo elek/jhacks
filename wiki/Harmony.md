@@ -1,13 +1,13 @@
 ---
-creationDate: 1115667858803 
-author: kocka 
-contentAuthor: kocka 
-title: Harmony 
-contentUpdateDate: 1212936170758 
-name: Harmony 
-layout: wiki 
-date: 1212936170758 
-creator: kocka 
+creationDate        : 2005-05-09 21:44:18 +0200 
+author              : kocka 
+title               : Harmony 
+name                : Harmony 
+layout              : wiki 
+path                : Harmony 
+date                : 2008-06-08 16:42:50 +0200 
+version             : 13 
+creator             : kocka 
 ---
 ![image](http://harmony.apache.org/images/harmony-logo-new.png)(http://harmony.apache.org/)
 
@@ -17,10 +17,8 @@ Legutóbb egy [eclipse](Eclipse.html) felstartolásával próbáltam ki, hogy m�
 
 Linkek:
 
-*   http://harmony.apache.org/
+*   [http://harmony.apache.org/](http://harmony.apache.org/)
 *   [wiki](http://wiki.apache.org/harmony/)
 *   [Google's Android SDK Bypasses Java ME in Favor of Java Lite and Apache Harmony](http://www.infoq.com/news/2007/11/android-java)
-
-
 
 

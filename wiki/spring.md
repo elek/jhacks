@@ -1,13 +1,13 @@
 ---
-creationDate: 1093869107118 
-author: kocka 
-contentAuthor: kocka 
-title: Spring Framework 
-contentUpdateDate: 1205323926651 
-name: spring 
-layout: wiki 
-date: 1205323926651 
-creator: kocka 
+creationDate        : 2004-08-30 14:31:47 +0200 
+author              : kocka 
+title               : Spring Framework 
+name                : spring 
+layout              : wiki 
+path                : spring 
+date                : 2008-03-12 13:12:06 +0100 
+version             : 20 
+creator             : kocka 
 ---
 __[TODO](TODO.html): ez a snip megérett egy alapos átírásra.__
 
@@ -37,45 +37,33 @@ A Spring az alábbiakkal támogatja a webalkalmazások fejleszését:
 
 ## Spring ORM
 
-
 *   [hibernate](Hibernate.html), [jdo](JDO.html), [jdbc](JDBC.html) support a híres templates megoldással vagy nélküle.
 *   [JPA](JPA.html) support is van már
 
 ## [IDE](IDE.html) támogatás
 
-
-
 Ez nem szükséges egy springes fejlesztéshez, de tud segíteni olyanokban mint a context xml-el szerkesztése, web flow diagrammok, stb...
-
 Az [eclipse](Eclipse.html) [plugin](http://springide.org/) 2.0ás verziójáról egy cikk: [Introducing Spring IDE 2.0](http://www.javabeat.net/articles/2007/09/introduction-to-spring-ide-2-0/5)
 
 ## Spring és [unit-tesztelés](test.html)
-
-
 
 Korábban is elterjedt megoldás volt az, hogy a tesztelendő POJO létrehozását és inicializációját a spring-re bízta egy unit teszt. Erre mindenkinek megvolt a saját kis megoldása. Figyelemre méltó viszont a [unitils](Unitils.html) spring támogatása, amiben csak [annotiációkkal](annotations.html) megmondhatjuk hogy melyik XML-ből jöjjön létre az alkalmazás context, és melyik bean-ek hova injektálódjanak be.
 
 ## Külső, kapcsolódó projectek
 
-
 *   security: [acegi](acegi.html)
 
 ## Cikkek, linkek
 
-
-
 1.1.1 Cikkek:
+
 *   [What's New in Spring 2.5: Part 1](http://www.infoq.com/articles/spring-2.5-part-1)
 *   [Why Spring JDBC?](http://today.java.net/pub/a/today/2006/05/09/why-spring-jdbc.html)
 
-
-
 1.1.1 Linkek:
+
 *   [Spring weboldal](http://www.springframework.org/)
 *   [Spring HUB](http://springhub.com/)
-
-
-
 
 
 

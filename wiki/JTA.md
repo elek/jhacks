@@ -1,17 +1,17 @@
 ---
-creationDate: 1091019654598 
-author: kocka 
-contentAuthor: kocka 
-title: JTA 
-contentUpdateDate: 1105450313070 
-name: JTA 
-layout: wiki 
-date: 1105450313070 
-creator: kocka 
+creationDate        : 2004-07-28 15:00:54 +0200 
+author              : admin 
+title               : JTA 
+name                : JTA 
+layout              : wiki 
+path                : JTA 
+date                : 2006-03-26 01:42:43 +0100 
+version             : 1 
+creator             : kocka 
 ---
 __Java Transaction Architecture__
 
-http://java.sun.com/products/jta/
+[http://java.sun.com/products/jta/](http://java.sun.com/products/jta/)
 
 Szerveroldali tranzakciokezeles.
 

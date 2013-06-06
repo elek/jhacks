@@ -1,13 +1,13 @@
 ---
-creationDate: 1204902927459 
-author: karenin 
-contentAuthor: karenin 
-title: BD-J 
-contentUpdateDate: 1204902927459 
-name: BD-J 
-layout: wiki 
-date: 1204902927459 
-creator: karenin 
+creationDate        : 2008-03-07 16:15:27 +0100 
+author              : karenin 
+title               : BD-J 
+name                : BD-J 
+layout              : wiki 
+path                : BD-J 
+date                : 2008-03-07 16:15:27 +0100 
+version             : 1 
+creator             : karenin 
 ---
 __Blue-ray Disc Java__
 

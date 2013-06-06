@@ -1,16 +1,16 @@
 ---
-creationDate: 1203283606589 
-author: karenin 
-contentAuthor: karenin 
-title: slf4j 
-contentUpdateDate: 1203283606589 
-name: slf4j 
-layout: wiki 
-date: 1203283606589 
-creator: karenin 
+creationDate        : 2008-02-17 22:26:46 +0100 
+author              : karenin 
+title               : slf4j 
+name                : slf4j 
+layout              : wiki 
+path                : slf4j 
+date                : 2008-02-17 22:26:46 +0100 
+version             : 1 
+creator             : karenin 
 ---
 Simple Logging Facade for Java 
-http://www.slf4j.org/
+[http://www.slf4j.org/](http://www.slf4j.org/)
 
 Ahogy a neve is mutatja, csak egyfajta közös felületet nyújt a meglévő [logging](Logging.html) megoldásokra. Valahogy úgy kell elképzelni, mint az összes jó loggoló framework legnagyobb közös osztóját, azaz csak az a nagyon alap van benne, ami mindegyikben. 
 

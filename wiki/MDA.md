@@ -1,13 +1,13 @@
 ---
-creationDate: 1190630799462 
-author: kocka 
-contentAuthor: kocka 
-title: MDA 
-contentUpdateDate: 1199389635553 
-name: MDA 
-layout: wiki 
-date: 1199389635553 
-creator: kocka 
+creationDate        : 2007-09-24 12:46:39 +0200 
+author              : kocka 
+title               : MDA 
+name                : MDA 
+layout              : wiki 
+path                : MDA 
+date                : 2008-01-03 20:47:15 +0100 
+version             : 2 
+creator             : kocka 
 ---
 Model Driven Architecture
 
@@ -16,7 +16,5 @@ Magyarul a modellből ([UML](UML.html)) generáljuk az program jó részét. Enn
 *   [AndroMDA](AndroMDA.html)
 *   [Acceleo](Acceleo.html)
 *   [RAD](rad.html)
-
-
 
 

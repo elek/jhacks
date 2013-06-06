@@ -1,12 +1,12 @@
 ---
-creationDate: 1134383423238 
-author: kocka 
-contentAuthor: kocka 
-title: openlaszlo 
-contentUpdateDate: 1134383423238 
-name: openlaszlo 
-layout: wiki 
-date: 1134383423238 
-creator: kocka 
+creationDate        : 2005-12-12 11:30:23 +0100 
+author              : admin 
+title               : openlaszlo 
+name                : openlaszlo 
+layout              : wiki 
+path                : openlaszlo 
+date                : 2006-03-26 01:48:33 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Lasd: [laszlo](Laszlo.html)

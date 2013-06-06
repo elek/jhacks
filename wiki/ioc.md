@@ -1,13 +1,13 @@
 ---
-creationDate: 1091442270567 
-author: tvik 
-contentAuthor: tvik 
-title: Inversion of Control 
-contentUpdateDate: 1202213734341 
-name: ioc 
-layout: wiki 
-date: 1202213734341 
-creator: kocka 
+creationDate        : 2004-08-02 12:24:30 +0200 
+author              : tvik 
+title               : Inversion of Control 
+name                : ioc 
+layout              : wiki 
+path                : ioc 
+date                : 2008-02-05 13:15:34 +0100 
+version             : 17 
+creator             : kocka 
 ---
 Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg [COP](COP.html)).
 Ugy 4-5 evvel ezelott par ember agymenese volt, utanna ugy 1-2 evvel ezelottig hype lett, es azota szerintem mainstream technologia, szoval aki kicsit is ad magara az ismeri.
@@ -24,11 +24,7 @@ Altipusok:
 *   "magad uram ha szolgad nincs" (pl [avalon](avalon.html)) (ezt hivatalosan intrusiv IOC-nek hívják, de ez nagyon csúnya név)
 
 
-
-
-
 nehany szoftver/framework:
-
 
 *   [avalon](avalon.html) -> [loom](loom.html)
 *   [spring](spring.html)
@@ -39,13 +35,10 @@ nehany szoftver/framework:
 *   a [geronimo](geronimo.html) szerver kernelje ([gbean](Missing.html))
 *   [guice](guice.html) a Google-től.
 
-
-
 Linkek:
-*   http://today.java.net/pub/a/today/2004/02/10/ioc.html
-*   http://www.theserverside.com/articles/article.tss?l=IOCBeginners
-*   http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html
 
-
+*   [http://today.java.net/pub/a/today/2004/02/10/ioc.html](http://today.java.net/pub/a/today/2004/02/10/ioc.html)
+*   [http://www.theserverside.com/articles/article.tss?l=IOCBeginners](http://www.theserverside.com/articles/article.tss?l=IOCBeginners)
+*   [http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html](http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html)
 
 

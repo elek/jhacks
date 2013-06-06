@@ -1,15 +1,15 @@
 ---
-creationDate: 1107416671568 
-author: kocka 
-contentAuthor: kocka 
-title: SAP 
-contentUpdateDate: 1212935917628 
-name: SAP 
-layout: wiki 
-date: 1212935917628 
-creator: kocka 
+creationDate        : 2005-02-03 08:44:31 +0100 
+author              : kocka 
+title               : SAP 
+name                : SAP 
+layout              : wiki 
+path                : SAP 
+date                : 2008-06-08 16:38:37 +0200 
+version             : 5 
+creator             : kocka 
 ---
-http://www.sap.com/
+[http://www.sap.com/](http://www.sap.com/)
 
 Egy europai szarmazasu multi. Egesz pontosan nemet, aki ezt nem tudna biztosan ra fog jonni azonnal miutan beleolvas az [abap](Missing.html)os kodjaikba :)
 
@@ -23,4 +23,4 @@ Kiraly kis adatbazisuk az [SAPDB](SAPDB.html) sajatos ellentetkent ez [open sour
 
 Linkek:
 
-*   http://tv.sys-con.com/read/77469.htm (egy kis riport a sap [j2ee](j2ee.html) emberevel)
+*   [http://tv.sys-con.com/read/77469.htm](http://tv.sys-con.com/read/77469.htm) (egy kis riport a sap [j2ee](j2ee.html) emberevel)

@@ -1,13 +1,13 @@
 ---
-creationDate: 1108381890891 
-author: kocka 
-contentAuthor: kocka 
-title: World Wide Web Consortium 
-contentUpdateDate: 1196158886790 
-name: w3c 
-layout: wiki 
-date: 1196158886790 
-creator: kocka 
+creationDate        : 2005-02-14 12:51:30 +0100 
+author              : kocka 
+title               : World Wide Web Consortium 
+name                : w3c 
+layout              : wiki 
+path                : w3c 
+date                : 2007-11-27 11:21:26 +0100 
+version             : 4 
+creator             : kocka 
 ---
 ![image](http://www.w3.org/Icons/w3c_main)(http://www.w3c.org/)
 

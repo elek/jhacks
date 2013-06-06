@@ -1,13 +1,13 @@
 ---
-creationDate: 1115474684208 
-author: kocka 
-contentAuthor: kocka 
-title: GNU 
-contentUpdateDate: 1115474733544 
-name: GNU 
-layout: wiki 
-date: 1115474733544 
-creator: kocka 
+creationDate        : 2005-05-07 16:04:44 +0200 
+author              : admin 
+title               : GNU 
+name                : GNU 
+layout              : wiki 
+path                : GNU 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://www.gnu.org/graphics/gnu-head-sm.jpg)(http://www.gnu.org/)
 

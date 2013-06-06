@@ -1,17 +1,17 @@
 ---
-creationDate: 1091022438366 
-author: zsoltk 
-contentAuthor: zsoltk 
-title: millstone 
-contentUpdateDate: 1091022485343 
-name: millstone 
-layout: wiki 
-date: 1091022485343 
-creator: zsoltk 
+creationDate        : 2004-07-28 15:47:18 +0200 
+author              : admin 
+title               : millstone 
+name                : millstone 
+layout              : wiki 
+path                : millstone 
+date                : 2006-03-26 01:48:29 +0100 
+version             : 1 
+creator             : zsoltk 
 ---
 Egyik kedvencem.
 
-Elerheto a http://www.millstone.org cimen. Erdemes megnezni a Feature Demo nevezetu reszt.
+Elerheto a [http://www.millstone.org](http://www.millstone.org) cimen. Erdemes megnezni a Feature Demo nevezetu reszt.
 
 Gondoltma irok rola, de vegulis atemeltem azt (a jol ismert __Copy - Paste__ pattern) amit egy masik wikibe irtam:
 
@@ -23,9 +23,9 @@ Kulon kiemelendo, hogy minden komponenshez tartoznak kulonbozo esemenyek - a'la 
 
 A library felepitese nem tulzottan bonyolult es eleg jol elkulonitett reszekbol all, igy elvileg lehetseges barmilyen konkret megjelenitesi reteg implementalasa. A library 3 fo reszre oszthato:
 
-    * Fuggetlen vizualis kompoenensek
-    * Adatkezelo komponensek
-    * Konkret megjelenito komponensek
+*   Fuggetlen vizualis kompoenensek
+*   Adatkezelo komponensek
+*   Konkret megjelenito komponensek
 
 A programozas folyaman nagyreszt a vizualis komponenseket hasznaltam, bar az adatkezelo komponensek is igertesnek tunnek. A konkret megjelenites meg csak HTML outputot tud letrehozni, de ez egyenlore boven elegnek tunik, figyelembe veve, hogy milyen macerat tud okozni egy komolyabb HTML oldal lekezelese.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1167997471235 
-author: kocka 
-contentAuthor: kocka 
-title: yikulju 
-contentUpdateDate: 1170180874395 
-name: yikulju 
-layout: wiki 
-date: 1170180874395 
-creator: kocka 
+creationDate        : 2007-01-05 12:44:31 +0100 
+author              : kocka 
+title               : yikulju 
+name                : yikulju 
+layout              : wiki 
+path                : yikulju 
+date                : 2007-01-30 19:14:34 +0100 
+version             : 8 
+creator             : kocka 
 ---
 ![image](http://www.jhacks.hu/space/yikulju/ribus_logo.jpg)(http://yikulju.sourceforge.net/)
 
@@ -18,7 +18,5 @@ Egyelore csak a [maven](maven.html) generalt site, meg a kod valtoztatasok nelku
 *   [irc](irc.html)en keresztul meg nem mukodik igazan frankon
 *   embedded [mule](mule.html)
 *   kicsit kezesebb edit felulet kellene tan az editalashoz.
-
-
 
 

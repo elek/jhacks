@@ -1,18 +1,16 @@
 ---
-creationDate: 1196159254756 
-author: kocka 
-contentAuthor: kocka 
-title: Mindmap dolgok java-ban 
-contentUpdateDate: 1196327523715 
-name: mindmap 
-layout: wiki 
-date: 1196327523715 
-creator: kocka 
+creationDate        : 2007-11-27 11:27:34 +0100 
+author              : kocka 
+title               : Mindmap dolgok java-ban 
+name                : mindmap 
+layout              : wiki 
+path                : mindmap 
+date                : 2007-11-29 10:12:03 +0100 
+version             : 4 
+creator             : kocka 
 ---
 *   [Mindraider](Missing.html)
 *   [freemind](freemind.html)
-*   Kicsit a [wikik](wiki.html) is belelógnak a képbe. Egy nagyon jópofa kis implementáció van például itt: http://wikimindmap.org/
-
-
+*   Kicsit a [wikik](wiki.html) is belelógnak a képbe. Egy nagyon jópofa kis implementáció van például itt: [http://wikimindmap.org/](http://wikimindmap.org/)
 
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1119093272304 
-author: kocka 
-contentAuthor: kocka 
-title: checkstyle 
-contentUpdateDate: 1119093272304 
-name: checkstyle 
-layout: wiki 
-date: 1119093272304 
-creator: kocka 
+creationDate        : 2005-06-18 13:14:32 +0200 
+author              : admin 
+title               : checkstyle 
+name                : checkstyle 
+layout              : wiki 
+path                : checkstyle 
+date                : 2006-03-26 01:43:09 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://checkstyle.sourceforge.net/images/logo.png)(http://checkstyle.sourceforge.net/)
 

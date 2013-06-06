@@ -1,13 +1,13 @@
 ---
-creationDate: 1090917688699 
-author: kocka 
-contentAuthor: kocka 
-title: servlet_jsp 
-contentUpdateDate: 1193325771708 
-name: servlet_jsp 
-layout: wiki 
-date: 1193325771708 
-creator: kocka 
+creationDate        : 2004-07-27 10:41:28 +0200 
+author              : kocka 
+title               : servlet_jsp 
+name                : servlet_jsp 
+layout              : wiki 
+path                : servlet_jsp 
+date                : 2007-10-25 17:22:51 +0200 
+version             : 4 
+creator             : kocka 
 ---
 Servlet + JSP a legegyszerubb megoldas valamifele [MVC](MVC.html) architektura kialakitasara a webalkalmazasban.
 

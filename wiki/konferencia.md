@@ -1,13 +1,13 @@
 ---
-creationDate: 1191358995211 
-author: kocka 
-contentAuthor: kocka 
-title: javaval kapcsolatos konferenciák 
-contentUpdateDate: 1213717766871 
-name: konferencia 
-layout: wiki 
-date: 1213717766871 
-creator: kocka 
+creationDate        : 2007-10-02 23:03:15 +0200 
+author              : kocka 
+title               : javaval kapcsolatos konferenciák 
+name                : konferencia 
+layout              : wiki 
+path                : konferencia 
+date                : 2008-06-17 17:49:26 +0200 
+version             : 7 
+creator             : kocka 
 ---
 ## Hazai
 
@@ -15,7 +15,6 @@ creator: kocka
 *   [Java paláver](http://www.jum.hu) ([JUM](Missing.html))
 
 ## Europa
-
 
 *   [Javapolis](http://www.javapolis.com) -> 2008-tól [Javoxx](http://www.javoxx.com), a helyszín marad Antwerpen.
 *   Jazoon
@@ -27,7 +26,5 @@ creator: kocka
 
 *   [JavaOne](JavaOne.html)
 *   EclipseCon
-
-
 
 [TODO](TODO.html): kicsit kevésbé hiányos lista :)

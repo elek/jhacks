@@ -1,13 +1,13 @@
 ---
-creationDate: 1136799996853 
-author: renszarv 
-contentAuthor: renszarv 
-title: resin 
-contentUpdateDate: 1136799996853 
-name: resin 
-layout: wiki 
-date: 1136799996853 
-creator: renszarv 
+creationDate        : 2006-01-09 10:46:36 +0100 
+author              : admin 
+title               : resin 
+name                : resin 
+layout              : wiki 
+path                : resin 
+date                : 2006-03-26 01:48:41 +0100 
+version             : 1 
+creator             : renszarv 
 ---
 Egy félig kereskedelmi, félig nyilt forrásu [j2ee](j2ee.html) szerver ([GPL](GPL.html)), teljesitményre kihegyezve. Mindenféle praktikus cuccal megfejelve, mint pl Burlap/Hessian nevü [webservice](Missing.html) keretrendszer, egy Quercus nevü [php](PHP.html) forditó, futtató [servlet](servlet.html)...
- Innen : http://caucho.com/
+ Innen : [http://caucho.com/](http://caucho.com/)

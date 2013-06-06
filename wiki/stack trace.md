@@ -1,13 +1,13 @@
 ---
-creationDate: 1120042330120 
-author: kocka 
-contentAuthor: kocka 
-title: stack trace 
-contentUpdateDate: 1120042330120 
-name: stack trace 
-layout: wiki 
-date: 1120042330120 
-creator: kocka 
+creationDate        : 2005-06-29 12:52:10 +0200 
+author              : admin 
+title               : stack trace 
+name                : stack trace 
+layout              : wiki 
+path                : stack trace 
+date                : 2006-03-26 01:48:52 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Hiba keletkezesekor a stack alapota, ami tartalmazza azt hogy melyik osztaly melyik metodusaban tortent a hiba es hogy a forraskod hanyadik soraban.
 

@@ -1,13 +1,13 @@
 ---
-creationDate: 1180446566029 
-author: karenin 
-contentAuthor: karenin 
-title: JSR 
-contentUpdateDate: 1180446584406 
-name: JSR 
-layout: wiki 
-date: 1180446584406 
-creator: karenin 
+creationDate        : 2007-05-29 15:49:26 +0200 
+author              : karenin 
+title               : JSR 
+name                : JSR 
+layout              : wiki 
+path                : JSR 
+date                : 2007-05-29 15:49:44 +0200 
+version             : 2 
+creator             : karenin 
 ---
 __Java Specification Request__
 

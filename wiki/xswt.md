@@ -1,13 +1,13 @@
 ---
-creationDate: 1100564799138 
-author: boci 
-contentAuthor: boci 
-title: xswt 
-contentUpdateDate: 1100564799138 
-name: xswt 
-layout: wiki 
-date: 1100564799138 
-creator: boci 
+creationDate        : 2004-11-16 01:26:39 +0100 
+author              : admin 
+title               : xswt 
+name                : xswt 
+layout              : wiki 
+path                : xswt 
+date                : 2006-03-26 01:51:30 +0100 
+version             : 1 
+creator             : boci 
 ---
 __XML Standard Widget Toolki__
 

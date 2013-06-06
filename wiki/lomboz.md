@@ -1,13 +1,13 @@
 ---
-creationDate: 1100601727076 
-author: kocka 
-contentAuthor: kocka 
-title: lomboz 
-contentUpdateDate: 1115217621531 
-name: lomboz 
-layout: wiki 
-date: 1115217621531 
-creator: boci 
+creationDate        : 2004-11-16 11:42:07 +0100 
+author              : admin 
+title               : lomboz 
+name                : lomboz 
+layout              : wiki 
+path                : lomboz 
+date                : 2006-03-26 01:48:25 +0100 
+version             : 1 
+creator             : boci 
 ---
 ![image](http://www.objectlearn.com/images/lomtext.gif)(http://www.objectlearn.com/index.jsp)
 
@@ -26,31 +26,20 @@ A Lomboz egy [eclipse](Eclipse.html) plugin mely [j2ee](j2ee.html) applikaciok k
 *   Live szerver oldali hibakovetes (JSP es [EJB](EJB.html)), beepitett java hibakeresovel
 *   WebService kliensek generalasa WSDL filebol (Apache Axis-al)
 
-
-
 Tesztelve az alabbi webszervereken:
 
-* Apache Tomcat
-
-* JBOSS
-
-* JOnAS
-
-* Resin
-
-* Orion
-
-* JRun
-
-* Oracle IAS
-
-* BEA WebLogic Server
-
-* IBM WebSphere
-
-
+*   Apache Tomcat
+*   JBOSS
+*   JOnAS
+*   Resin
+*   Orion
+*   JRun
+*   Oracle IAS
+*   BEA WebLogic Server
+*   IBM WebSphere
 
 Linkek:
+
 *   A project weblapja: [http://lomboz.objectweb.org](http://lomboz.objectweb.org)
 *   Egy kis tutorial: [http://www.tusc.com.au/tutorial/html/index.html](http://www.tusc.com.au/tutorial/html/index.html)
-*   doco: http://www.objectlearn.com/support/docs/index.jsp
+*   doco: [http://www.objectlearn.com/support/docs/index.jsp](http://www.objectlearn.com/support/docs/index.jsp)

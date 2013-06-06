@@ -1,13 +1,13 @@
 ---
-creationDate: 1137251807905 
-author: kocka 
-contentAuthor: kocka 
-title: compass 
-contentUpdateDate: 1137251807905 
-name: compass 
-layout: wiki 
-date: 1137251807905 
-creator: kocka 
+creationDate        : 2006-01-14 16:16:47 +0100 
+author              : admin 
+title               : compass 
+name                : compass 
+layout              : wiki 
+path                : compass 
+date                : 2006-03-26 01:47:48 +0100 
+version             : 1 
+creator             : kocka 
 ---
 ![image](http://compassframework.org/download/userResources/logo)(http://compassframework.org/)
 

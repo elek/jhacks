@@ -1,13 +1,13 @@
 ---
-creationDate: 1100563886809 
-author: kocka 
-contentAuthor: kocka 
-title: swt 
-contentUpdateDate: 1218900790755 
-name: swt 
-layout: wiki 
-date: 1218900790755 
-creator: boci 
+creationDate        : 2004-11-16 01:11:26 +0100 
+author              : kocka 
+title               : swt 
+name                : swt 
+layout              : wiki 
+path                : swt 
+date                : 2008-08-16 17:33:10 +0200 
+version             : 4 
+creator             : boci 
 ---
 __Standard Widget Toolkit__
 

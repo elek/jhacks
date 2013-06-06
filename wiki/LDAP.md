@@ -1,13 +1,13 @@
 ---
-creationDate: 1106815185822 
-author: kocka 
-contentAuthor: kocka 
-title: LDAP 
-contentUpdateDate: 1106815185822 
-name: LDAP 
-layout: wiki 
-date: 1106815185822 
-creator: kocka 
+creationDate        : 2005-01-27 09:39:45 +0100 
+author              : admin 
+title               : LDAP 
+name                : LDAP 
+layout              : wiki 
+path                : LDAP 
+date                : 2006-03-26 01:42:45 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Lightweight Directory Access Protocol
 

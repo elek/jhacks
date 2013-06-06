@@ -1,12 +1,14 @@
 ---
-creationDate: 1108565071372 
-author: kocka 
-contentAuthor: kocka 
-title: JDBC Takolasok 
-contentUpdateDate: 1108565086673 
-name: JDBCtakolasok 
-layout: wiki 
-date: 1108565086673 
-creator: kocka 
+creationDate        : 2005-02-16 15:44:31 +0100 
+author              : admin 
+title               : JDBC Takolasok 
+name                : JDBC/takolasok 
+layout              : wiki 
+path                : JDBC/takolasok 
+date                : 2006-03-26 01:42:42 +0100 
+version             : 1 
+creator             : kocka 
 ---
+
+
 

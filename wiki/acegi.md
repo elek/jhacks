@@ -1,13 +1,13 @@
 ---
-creationDate: 1136458232515 
-author: kocka 
-contentAuthor: kocka 
-title: acegi 
-contentUpdateDate: 1176993619267 
-name: acegi 
-layout: wiki 
-date: 1176993619267 
-creator: kocka 
+creationDate        : 2006-01-05 11:50:32 +0100 
+author              : kocka 
+title               : acegi 
+name                : acegi 
+layout              : wiki 
+path                : acegi 
+date                : 2007-04-19 16:40:19 +0200 
+version             : 2 
+creator             : kocka 
 ---
 ![image](http://acegisecurity.org/logo.gif)(http://acegisecurity.org/)
 

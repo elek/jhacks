@@ -1,21 +1,21 @@
 ---
-creationDate: 1161169596864 
-author: kocka 
-contentAuthor: kocka 
-title: Groovy/iteration 
-contentUpdateDate: 1161169596864 
-name: Groovyiteration 
-layout: wiki 
-date: 1161169596864 
-creator: kocka 
+creationDate        : 2006-10-18 13:06:36 +0200 
+author              : kocka 
+title               : Groovy/iteration 
+name                : Groovy/iteration 
+layout              : wiki 
+path                : Groovy/iteration 
+date                : 2006-10-18 13:06:36 +0200 
+version             : 1 
+creator             : kocka 
 ---
 [Groovy](../Groovy.html)ba lehet intervallumot meghatarozni ciklusnak, valahogy igy:
 
-{% highlight java %}
-for (i in [100.10000]) \{
+```
+for (i in [100.10000]) {
 println i
-\}
-{% endhighlight %}
+}
+```
 
 Megint legyegesen kompaktabb mint a [java](../java.html) szintaxis. Megintcsak kit erdekel :)
 

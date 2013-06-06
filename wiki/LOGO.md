@@ -1,13 +1,13 @@
 ---
-creationDate: 1091823329558 
-author: kocka 
-contentAuthor: kocka 
-title: LOGO 
-contentUpdateDate: 1190358107989 
-name: LOGO 
-layout: wiki 
-date: 1190358107989 
-creator: kocka 
+creationDate        : 2004-08-06 22:15:29 +0200 
+author              : kocka 
+title               : LOGO 
+name                : LOGO 
+layout              : wiki 
+path                : LOGO 
+date                : 2007-09-21 09:01:47 +0200 
+version             : 10 
+creator             : kocka 
 ---
 __A Hackers site logoi__
 

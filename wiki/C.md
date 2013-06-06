@@ -1,13 +1,13 @@
 ---
-creationDate: 1108564879657 
-author: kocka 
-contentAuthor: kocka 
-title: C 
-contentUpdateDate: 1119792226117 
-name: C 
-layout: wiki 
-date: 1119792226117 
-creator: kocka 
+creationDate        : 2005-02-16 15:41:19 +0100 
+author              : admin 
+title               : C 
+name                : C 
+layout              : wiki 
+path                : C 
+date                : 2006-03-26 01:42:35 +0100 
+version             : 1 
+creator             : kocka 
 ---
 Egy meglehetosen regi, proceduralis nyelv. Nevet az A-rol es a B-rol kapta :) Elsosorban [operacios rendszer](Operacios%20rendszer.html)ekhez, vagy rendszerkozeli funkcionalitashoz, beagyazott cuccokhoz.
 

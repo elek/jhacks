@@ -1,13 +1,13 @@
 ---
-creationDate: 1134392927676 
-author: kocka 
-contentAuthor: kocka 
-title: Ger/JMeter 
-contentUpdateDate: 1134397657441 
-name: GerJMeter 
-layout: wiki 
-date: 1134397657441 
-creator: Ger 
+creationDate        : 2005-12-12 14:08:47 +0100 
+author              : admin 
+title               : Ger/JMeter 
+name                : Ger/JMeter 
+layout              : wiki 
+path                : Ger/JMeter 
+date                : 2006-03-26 01:42:39 +0100 
+version             : 1 
+creator             : Ger 
 ---
 Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.
 
@@ -25,9 +25,8 @@ __Komponens típusok:__
 *   Pre processors: még a samplerek végrehajtása elött , samplereket modifikáló komponensek: HTML Link Parser, URL rewriting, User parameters, Counter, stb…
 *   Post processors: a samplerek eredményét feldolgozó komponensek: reguláris kifejezések, Result status action handler,  stb…
 
-
-
 __Előnyök:__
+
 *   Ingyenes
 *   Komponens alapú szemlélet
 *   Univerzális, komponensek széles választéka, de akár ki is egészíthető
@@ -38,16 +37,14 @@ __Előnyök:__
 *   Reguláris kifejezések
 *   Automatikus URL felvétel egy HTTP Proxy segítségével
 
-
-
 __Hátrány:__
+
 *   HTTPS alatt nincsen automatikus URL felvétel
 *   Nagyobb teszt közben szinte lehetetlen leállítani, helyette ki kell lőni az egész progit
 *   Teszt közben nincsen progress bar, csak indirekt módon lehet következtetni hol jár
 
-
-
 __További információ:__
-*   http://jakarta.apache.org/jmeter/index.html
-*   http://jakarta.apache.org/jmeter/usermanual/index.html
-*   http://jakarta.apache.org/jmeter/usermanual/component_reference.html
+
+*   [http://jakarta.apache.org/jmeter/index.html](http://jakarta.apache.org/jmeter/index.html)
+*   [http://jakarta.apache.org/jmeter/usermanual/index.html](http://jakarta.apache.org/jmeter/usermanual/index.html)
+*   [http://jakarta.apache.org/jmeter/usermanual/component_reference.html](http://jakarta.apache.org/jmeter/usermanual/component_reference.html)

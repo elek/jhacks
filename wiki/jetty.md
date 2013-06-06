@@ -1,15 +1,15 @@
 ---
-creationDate: 1105700383773 
-author: kocka 
-contentAuthor: kocka 
-title: jetty 
-contentUpdateDate: 1190627988687 
-name: jetty 
-layout: wiki 
-date: 1190627988687 
-creator: kocka 
+creationDate        : 2005-01-14 11:59:43 +0100 
+author              : kocka 
+title               : jetty 
+name                : jetty 
+layout              : wiki 
+path                : jetty 
+date                : 2007-09-24 11:59:48 +0200 
+version             : 3 
+creator             : kocka 
 ---
-http://www.mortbay.org/jetty/
+[http://www.mortbay.org/jetty/](http://www.mortbay.org/jetty/)
 
 Egy viszonylag kis meretu, beagyazhato [servlet](servlet.html) es [jsp](JSP.html) container. Tobbfele disztroban terjed, felhasznalo igenyeknek megfeleloen.
 
