@@ -1,16 +1,281 @@
 ---
-creationDate        : 2007-06-25 15:42:30 +0200 
-author              : kocka 
+author              : migrator 
 title               : TODO 
+layout              : default 
 name                : TODO 
-layout              : wiki 
-path                : TODO 
-date                : 2007-07-11 17:28:24 +0200 
-version             : 3 
-creator             : kocka 
+date                : 2013-06-06 23:10:38 +0200 
 ---
-Exek az oldalak várnak megírásra illetve javításra:
+# TODO
 
-
-
-Ezt az oldalt a snip-xref macro generálja, ha egy oldalon hibát találsz, tegyél rá linket a TODO snipre!
+-  graniteds
+-  eclipse/plug-in/ve
+-  Mindraider
+-  XUpdate
+-  petals
+-  WebSynergy
+-  web.xml
+-  catalina
+-  VM
+-  Netbeans/Plug-in
+-  XWork
+-  schema
+-  silverlight
+-  Speedo
+-  Design Patterns/Builder
+-  gráfok
+-  Patterns of Enterprise Application Architecture
+-  data mining
+-  mavent
+-  whitespace
+-  javaspace
+-  nukes
+-  Possedion UML
+-  design pattern
+-  OpenESB 3.0
+-  sourceforge
+-  JUM
+-  adatbazison
+-  modernebb [ioc
+-  LWUIT
+-  WebObjects
+-  debug
+-  vss
+-  jgraph
+-  test categorization
+-  buzzword
+-  Webdaw
+-  Design Pattern
+-  eclipse/plug-in/JDT
+-  crawler
+-  Gears
+-  XA
+-  jtrac
+-  immutable
+-  OS400
+-  IBatis
+-  Rational XDE
+-  clustering
+-  ui
+-  rubby
+-  axioma
+-  xsl
+-  Continous Integration
+-  jboss wiki
+-  jdepend
+-  continous integration
+-  wtp
+-  Strategy
+-  bugtracker
+-  jum
+-  maven2
+-  tranzakcio
+-  webwork2
+-  triviális
+-  XMI
+-  debugger
+-  Werkflow
+-  dogma
+-  code completion
+-  exception
+-  httpclient
+-  abap
+-  ssl
+-  Eclipse/Plug-in/AJDT
+-  commons/httpclient
+-  xpp3
+-  osworkflow
+-  EasyMock
+-  JavaSpaces
+-  jpython
+-  jroller
+-  j2sdk
+-  classworlds
+-  SonicMQ
+-  synchronized
+-  msn
+-  xmlbeans
+-  xreports
+-  Zold Konyv
+-  Relax-NG
+-  Design Patterns/Factory Method
+-  bcel
+-  macromedia
+-  multiplatform
+-  Equinox
+-  make
+-  Testablity
+-  RBDMS
+-  avalon/merlin
+-  forum
+-  cayenne
+-  TM
+-  Kodo
+-  bytecode analysis
+-  Receptklub
+-  Microsoft.NET
+-  threadpool
+-  JamVM
+-  redhat
+-  JbossMQ
+-  javagroups
+-  jUDDI
+-  performance
+-  threading modell
+-  maven-proxy
+-  coldfusion
+-  Ingres
+-  IceTea
+-  jmaki
+-  EJB 3
+-  Configuration
+-  JDBM
+-  Websphgere App dev
+-  java system application server
+-  subversive
+-  jdm
+-  mutable
+-  luntbuild
+-  Web services
+-  html
+-  jdk
+-  jgrapht
+-  plug-in
+-  JAXM
+-  JAXP
+-  Entity Bean
+-  java desktop system
+-  tag
+-  jess
+-  ide/code navigation
+-  JMonkeyEngine
+-  OpenWFE
+-  Design Patterns/Structural Patterns
+-  Netscape
+-  TCL
+-  AIX
+-  java module system
+-  OsWorkflow
+-  platform
+-  netweaver
+-  firefox
+-  atlasian
+-  Websphere MQ
+-  ide/syntax highlight
+-  web services
+-  gsp
+-  jndikit
+-  HA-JDBC
+-  snpisnap
+-  Knowledge Library/Blogok
+-  OpenRDF
+-  banners\sidebar
+-  Policy
+-  closure
+-  Turbine
+-  csv
+-  pluto
+-  css
+-  z\/OS
+-  Aspectj
+-  JAX-RS
+-  mqseries
+-  tcl
+-  dwr
+-   Knowledge Library/Konyvek/Software engineering
+-  bugzilla
+-  ervlet
+-  Camel
+-  jrdf
+-  Pointbase
+-  prewayler
+-  URL
+-  BME
+-  ejb 3
+-  linuxon
+-  AspectJ
+-  Jakarta
+-  mylin
+-  JavaMail
+-  functional test
+-  MaxineVM
+-  odmg
+-  Web Services
+-  Eclipse/WTP
+-  dhtml
+-  cglib
+-  OOP/Encapsulation
+-  Knowledge Library/Linkek
+-  InterBase
+-  jakarta-regexp
+-  TCP/IP
+-  23..30\
+-  java 1.3
+-  XDE Developer
+-  OOP/Inheritance
+-  heap
+-  OpenLDAP
+-  jboss AS
+-  HTML
+-  socket
+-  JDM
+-  enhydra shark
+-  ERP
+-  JFaceDbc
+-  trac
+-  :url:http://foo.com/
+-  jar hell
+-  iText
+-  javamail
+-  IM
+-  portal
+-  josso
+-  gbean
+-  websphhere app dev
+-  imap
+-  SyncML
+-  BPM
+-  j4sql/javadoc tags/j4sql.returns
+-  @date<'11/11/2005' and @date>'02/02,1998'\
+-  stack
+-  web alkalmazas
+-  ruby on rails
+-  RSS
+-  OpenCMS
+-  shell script
+-  webstart
+-  pop3
+-  rollback
+-  TM\
+-  don4j
+-  checked exception
+-  sip4j
+-  DataSource
+-  API
+-  data push
+-  pool
+-  astra load test
+-  easyb
+-  seam
+-  Abstract Factory
+-  merlin
+-  serp
+-  entity bean
+-  findbug
+-  neural network
+-  4.1
+-  glassfish/grizzly
+-  xwork
+-  OpenSocial
+-  OOP/Polymorphism
+-  Rational Rose
+-  xmlrpc
+-  Design Patterns/Abstract Factory
+-  JCR
+-  Java SE
+-  hammurapi
+-  JORAM
+-  web service
+-  design tool
+-  interbase
+-  webservice
+-  jacl
