@@ -8,6 +8,7 @@ path                : StAX
 date                : 2007-07-05 17:34:56 +0200 
 version             : 5 
 creator             : karenin 
+tags                : XMLAPI, API
 ---
 [http://java.sun.com/javase/6/docs/api/javax/xml/stream/package-summary.html](http://java.sun.com/javase/6/docs/api/javax/xml/stream/package-summary.html)
 
@@ -17,6 +18,7 @@ Egy konkret esetben nekem a [sax](sax.html)-nal is gyorsabbnak bizonyult egy 50-
 Java EE 5-ben alapbol benne van, ha 1.4-esed van, akkor gyorsan frissits :).
 
 Az illata:
+
 ```
 XMLInputFactory f = XMLInputFactory.newInstance();
 XMLStreamReader r = f.createXMLStreamReader(inputStream);
