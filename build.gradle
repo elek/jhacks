@@ -1,0 +1,28 @@
+buildscript {
+    repositories {
+        maven {
+            url uri('../repo')
+        }
+        mavenCentral()
+	
+    }
+    dependencies {
+              classpath 'net.anzix.imprempta:gradle-plugin:1.0-SNAPSHOT'
+	      classpath 'org.ajoberstar:gradle-git:0.4.0'
+
+    }
+}
+
+
+apply plugin: 'github-pages'
+
+githubPages {
+  repoUri = 'https://github.com/elek/jhacks.git'
+  pages {
+    from("build/_site") {
+      include '**/*'
+    } 
+  }
+}
+
+task site(type: net.anzix.imprempta.gradle.SiteTask);
