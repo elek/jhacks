@@ -1,7 +1,7 @@
 buildscript {
     repositories {
         maven {
-            url uri('../repo')
+            url uri('http://repository-anzix.forge.cloudbees.com/snapshot/')
         }
         mavenCentral()
 	
@@ -13,16 +13,22 @@ buildscript {
     }
 }
 
+project.ext {
+   sitedir = new File(buildDir,"_site")
+}
 
 apply plugin: 'github-pages'
 
 githubPages {
   repoUri = 'https://github.com/elek/jhacks.git'
   pages {
-    from("build/_site") {
+    from(project.ext.sitedir) {
       include '**/*'
     } 
   }
 }
 
-task site(type: net.anzix.imprempta.gradle.SiteTask);
+task site(type: net.anzix.imprempta.gradle.SiteTask) {
+   destination = project.ext.sitedir.absolutePath
+}
+
