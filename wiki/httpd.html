@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>httpd</h1>
+<p><strong>Apache HTTPD</strong></p><p>Az <a href="ASF.html">ASF</a> altal fejlesztett Http daemon. A webszerverek piacan a legnagyobb reszesedest a httpd foglalja el.</p><p>A nev jelentese <code>A Pachy http Daemon</code> (Innen jon az Apache, amirol az alapitvany a nevet kapta). Az elso versioi tenyleg statikisan mokodgettek, majd a nagy elorrelepest jelento 1.3-as szeria modulok (amolyan plugin dolgok) fejleszteset tette lehetove, es egybol tartalmazott is tucat modult: <a href="Missing.html">ssl</a>, <a href="Webdav.html">webdav</a>, azonositasi modulokat, log modulokat, tartalom generalo modulok, stb.</p><p>A 2.0-as szeria nagy ujitasa a process/for hibrid uzemmod, amivel jobban passzol az operacios rendszer kepesseigihez.</p><p>A <a href="tomcat.html">Tomcat</a> es a httpd osszecsatolasat a <a href="mod_jk.html">mod_jk</a> modul vegzi, ez <a href="JNI.html">JNI</a> hivasokon vagy tcp/ip socketen keresztul kommunikal a tomcat ajp konektoraval. Persze lehet mod_proxy-val is csinalni, de nem tudom abban mi a poen :)</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

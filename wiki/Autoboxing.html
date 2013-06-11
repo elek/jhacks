@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Autoboxing</h1>
+<p>Autoboxing/unboxing</p><p>Egy mokas kis mechanizmus a <a href="java%201.5.html">java 1.5</a>-ben arra hogy az elemi tipusok kompatibilisek legyenek az osztaly megfelelojukkel. </p><p>Syntax sugar, azaz valojaban objektum letrehozassal es metodushivassal mukodik.<br/> Szemleltetesul:</p><p>Alapbol igy megy:<br/> <code>
+Integer i = 1;
+int j = i;
+</code></p><p>Nyilvan ha elemi valtozonak null-t akarsz adni ertekul valahogy akkor <a href="NPE.html">NPE</a> keletkezik:<br/> <code>
+Integer i = null;
+int j = i;
+</code> Ennek azert nyilvan vannak kevesbe evidens esetei is, peldaul amikor fuggvenyhivas ad vissza Long-kent nullt, amibol egybol long-ot csinlasz. Amikor pedig method signature-ben valtoztatod a parametert objektumbol elemi tipusba vagy vissza, akkor jobb egy full clean rebuild.</p><p>Cikkek:</p>
+<ul>
+  <li><a href="http://today.java.net/pub/a/today/2005/03/24/autoboxing.html">http://today.java.net/pub/a/today/2005/03/24/autoboxing.html</a> - ez a cikk bovebben leirja milyen aknakra lehet lepni az autoboxing mezon.</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

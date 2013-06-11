@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Flex</h1>
+<p>Egy <a href="adobe.html">adobe</a> (gonosz) cucc, <a href="flash.html">flash</a> UI generálására. Mivel <a href="java.html">java</a>-ban lett megírva, platformfüggetlen, az SDK pedig ingyért van. A forráskód (mxml) sima <a href="XML.html">XML</a> formátumú, helyenként actionscript kód blokkokkal tarkítva a képet :) Tulajdonképpen nem okozhat nagy megdöbbenést azoknak akik gyakran néznek <a href="Missing.html">HTML</a> vagy <a href="Laszlo.html">OpenLaszlo</a> kódot.</p><h1><a href="IDE.html">IDE</a> support</h1><p>Választási lehetőségek:</p>
+<ul>
+  <li>UI editor hozzá a flex builder, ami <a href="Eclipse.html">eclipse</a> alapú, viszont sajnos arany árban mérik. Tulajdonképpen a <a href="ide/code%20completion.html">ide/code completion</a>on kívül nem is tud sokat, azt meg jobbára egy plén <a href="Eclipse.html">eclipse</a> <a href="XML.html">XML</a> editorral is meg lehetne oldani ha lenne XSD vagy DTD hozzá. Eddig még nem találtam...</li>
+  <li>Van még egy <a href="http://www.spket.com/download.html">payware cucc</a> is, ez támogatja az <a href="Laszlo.html">openalaszlot</a> is.</li>
+  <li><a href="kocka/flexclipse.html">kocka/flexclipse</a> by <a href="kocka.html">kocka</a> - szóval csak bátraknak :) teljesen minimalista</li>
+</ul><h1>Features</h1><p>Remoting: Lehet benne sima <a href="WebServices.html">web services</a> hívásokkal is dolgozni, vagy <a href="XML.html">XML</a>+<a href="HTTP.html">http</a> remoting, esetleg <a href="AMF.html">AMF</a> protokollal. Open Source backendek mögé a <a href="BlazeDS.html">blazeds</a> és a <a href="Missing.html">graniteds</a>. <a href="data%20binding.html">data binding</a>: kapcsos zárójelek közé írt propertynevekkel egyszerűen. Ezzel érdemes eljátszogatni, mert mókás :)</p><p>Egy kis demo, csak az ize kedveert...</p><p><img src="http://flexclipse.googlecode.com/svn/wiki/editor.jpg"  alt="image"/></p><p><img src="http://flexclipse.googlecode.com/svn/wiki/swfviewer.jpg"  alt="image"/></p><h1>Konkurencia</h1><p>Hasonló termék az <a href="Laszlo.html">openlaszlo</a>, valamennyire az <a href="XML.html">XML</a> hierarchia is hasnolít, csak ott valami <a href="javascript.html">javascript</a>-szerű nyelv van, itt meg actionscript ugye. Valamint a flex-ben nem találom (bár nem is hiányzik egyelőre) a proxyzott webapp felállást.</p><h1>Tesztelés</h1><p><a href="test.html">Teszt</a> megoldások hozzá:</p>
+<ul>
+  <li><a href="http://airrunner.org">airRunner</a></li>
+  <li><a href="http://code.google.com/p/as3flexunitlib">flexunit</a></li>
+</ul><h1>Linkek</h1>
+<ul>
+  <li><a href="http://techpolesen.blogspot.com/2007/05/flash-for-java-programmers-lesson-1.html">Buildelés Mavennel</a> Mókás kis cucc, sajna a kommentekkel egyet kell értsek: mocsok lassú. Ez van :) <a href="maven/maven2.html">maven/maven2</a> plugin <a href="http://mvnrepository.com/artifact/net.israfil.mojo/maven-flex2-plugin">itt</a></li>
+  <li>Flex 3-hoz <a href="maven/maven2.html">maven</a> plugin: <a href="http://code.google.com/p/flex-mojos/">itt</a></li>
+  <li><a href="http://www.parleys.com/display/PARLEYS/Flex+2.0+at+Work+in+combination+with+Spring+and+Hibernate?showComments=true">Flex 2.0 @ Work in combination with Spring and Hibernate</a></li>
+  <li><a href="http://www.adobe.com/devnet/flex/articles/flexjava.html">Video Tutorial: Creating an expressive application using Flex, Hibernate, and XFire</a></li>
+  <li><a href="http://flex.org/">flex.org</a> Flexes komponensek, doksik, ilyesmi...</li>
+  <li><a href="http://weblogs.macromedia.com/mc/archives/2006/09/disclosable_con_1.cfm">Rich Text Editor</a> olyasmi mint az FCKEditor javascriptben.</li>
+  <li><a href="http://www.infoq.com/news/2008/05/flex-startup-time">Top 5 Ways to Reduce Flex Application Startup Time</a></li>
+  <li><a href="maven.html">maven</a> repo hozza: <a href="http://flex-mojos.googlecode.com/svn/trunk/repository/">flex mojo</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-05-30</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

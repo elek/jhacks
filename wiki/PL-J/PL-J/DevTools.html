@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../stylesheets/styles.css">
+    <link rel="stylesheet" href="../../../stylesheets/pygment_trac.css">
+    <script src="../../../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>PL-J/DevTools</h1>
+<p><strong>FORKOLVA</strong></p><p>Ez a package kikerult a <a href="../PL-J.html">PL-J</a> alol es alapos refactoring utan <a href="../j4sql.html">J4SQL</a> lett az uj othona.</p><p>A <a href="../PL-J.html">PL-J</a> DevTools egy kulon projectben keszulo kis taszkok (<a href="../ant.html">ant</a>hoz es <a href="../maven.html">maven</a>hez) keszlete lesz java tarolt eljarasok keszitesehez. Eddig igazabol a tervezes zajlik. Egy nagyon buta peldaval hogy mit fog csinalni:</p><p><a href="../CVS.html">CVS</a>: A DevTools elerheto a <a href="../PL-J.html">PL-J</a> <a href="../CVS.html">CVS</a>ben.<br/> web cvs: <a href="http://cvs.plj.codehaus.org/pl-j-devtools/">http://cvs.plj.codehaus.org/pl-j-devtools/</a></p><p>Jelenleg meg eleg minimalis funckionalitasa van, csak <a href="../PostgreSQL.html">PostgreSQL</a>-<a href="../PL-J.html">PL-J</a> kombinacora.</p>
+<pre><code>public class JSProc1 {
+
+/**
+ * A very stupid UDF.
+ * 
+ * @jsproc.udf name=&quot;int_add&quot;
+ * @jsproc.return integer
+ * @jsproc.param arg1 in integer
+ * @jsproc.param arg2 in integer
+ * @jsproc.properties immutable
+ */
+public static int add(int arg1, int arg2) {
+ return arg1 + arg2;
+}
+
+}
+</code></pre><p>Es ebbol neked legeneralja majd a kovetkezo SQL kodot <a href="../PostgreSQL.html">PostgreSQL</a>-hez es <a href="../PL-J.html">Pl-J</a>-hez:</p>
+<pre><code><br/>create function int_add(integer, integer) returns integer as
+&#39;
+class=JSProc1
+method=add
+&#39; language &#39;PL-J&#39; immutable
+
+comment on function int_add(integer, integer) is &#39;A very stupid UDF.&#39;;
+
+</code></pre><p>Hat KB ennyi. Na most az extra az annyi, hogy nem csak <a href="../PostgreSQL.html">PostgreSQL</a>/<a href="../PL-J.html">PL-J</a>-re generalna kodot, hanem mas DB-kre is, <a href="../DB2.html">Db2</a>, <a href="../Oracle.html">Oracle</a>, satobbi...</p><p>Na ezzel kapcsolatban <a href="../pljava.html">PLjava</a> Thomas beszolt nemreg, hogy o irt <a href="../annotations.html">annotations</a>t amit szerinte hasznalnom kellene. Meg az sem biztos hogy egyaltalan implementalni fogom az o annotacioit, ugyanis:</p>
+<ul>
+  <li>A <a href="../PL-J.html">PL-J</a> tipus mappelo rendszere N:N mappeles, mig a <a href="../pljava.html">PLJava</a> 1:1, a fenti <a href="../annotations.html">annotations</a> pont erre epul ra, de nagyon</li>
+  <li>Na es mi legyen a java 1.4 juzerekkel?</li>
+  <li>Na es mizujs a szabvanyokkal es a portolhatosaggal?</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

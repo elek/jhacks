@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Tiles</h1>
+<p><a href="http://tiles.apache.org/">http://tiles.apache.org/</a></p><p>Egy szerver oldali UI komponens rendszer. Na, szóval amit a <a href="tapestry.html">tapestry</a> komponensnek nevez, az itt tile.</p><h2>Történet</h2><p>A tiles a <a href="struts/struts%201.html">struts 1-el</a> indult, majd a <a href="struts/struts%202.html">struts/struts 2</a> már nélküle jött ki, és külön topp level <a href="ASF.html">apache</a> projectet kapott a cucc.</p><p>1.1.1 Struts tiles</p><p>Valahogy ennyi az egesz: egy <a href="XML.html">xml</a>ben definialod hogy milyen darabokbol all a view, es ezekhez rendelsz <a href="JSP.html">jsp</a>-ket. Ez hierarchikusan is megy, azaz pl definialsz egy alap komponenst ami a headert meg a footert deklaralja, es a tobbi leszarmaztatott meg tudja hogy mi a content.</p><p>A view darabokhoz definialhatsz egy controllert is, ez egy koddarab ami lefut mielott a jsp megkapna a vezerlest, es pl betoltheti a szukseges adatokat. a ami viszont faj: A <a href="JSP.html">jsp</a>ben kell meghatarozni hogy melyik az az osztaly, nem deklaracios <a href="XML.html">xml</a>ben.</p><p>Meg persze tartoznak hozza <a href="JSP.html">jsp</a> tagek, amivel lehet include-olni. Vegulis ennyivel ubereli a <a href="JSP.html">jsp</a> include csodajat. Amivel alulmulja az az hogy a beinclude-olt jsp-bol mar ugyanigy tiles-szal nem lehet masikat betolteni, szoval igy nem hierarchikus.</p><p>Szoval egy alapvetoen jo otlet, csak sok vele a szopas :(</p><p>Had tegyem kozze <a href="gonosz.html">gonosz</a> osztalyomat amivel <a href="spring.html">spring</a> contextben regisztralhatod a controller beanjeidet, igy nem kell a <a href="spring.html">spring</a>es applicationcontext-bol bogarasznod ki a szukseges ban-eket, hanem hasznalhatod a setter vagy konstruktor alapu <a href="dependency%20injection.html">dependency injection</a>t.</p>
+<pre><code><br/>import javax.servlet.ServletContext;
+import javax.servlet.ServletRequest;
+
+import org.apache.log4j.Logger;
+import org.apache.struts.tiles.ComponentDefinition;
+import org.apache.struts.tiles.Controller;
+import org.apache.struts.tiles.DefinitionsFactoryException;
+import org.apache.struts.tiles.NoSuchDefinitionException;
+import org.apache.struts.tiles.xmlDefinition.I18nFactorySet;
+import org.springframework.context.ApplicationContext;
+import org.springframework.web.context.support.WebApplicationContextUtils;
+
+/**
+ * This is a hack around the tiles architecture, so that one can register controller beans in spring.
+ * 
+ * @author kocka
+ */
+public class SpringDefinitionsFactory 
+		extends I18nFactorySet {
+
+	Logger logger = Logger.getLogger(SpringDefinitionsFactory.class);
+	
+	/* (non-Javadoc)
+	 * @see org.apache.struts.tiles.DefinitionsFactory#getDefinition(java.lang.String, javax.servlet.ServletRequest, javax.servlet.ServletContext)
+	 */
+	public ComponentDefinition getDefinition(String name,
+			ServletRequest request, ServletContext servletContext)
+			throws NoSuchDefinitionException, DefinitionsFactoryException {
+		if(logger.isDebugEnabled())
+			logger.debug(&quot;requested definition of &quot;+name);
+
+		ApplicationContext context = WebApplicationContextUtils.getWebApplicationContext(servletContext);
+		ComponentDefinition def = super.getDefinition(name, request, servletContext);
+		if(def != null){
+			String controller = def.getController();
+			Controller controllerInstance = def.getControllerInstance();
+			if(controllerInstance == null &amp;&amp; controller != null){
+				controllerInstance = (Controller) context.getBean(controller);
+				def.setControllerInstance(controllerInstance);
+			}
+		}
+		return def;
+	}
+
+}
+
+</code></pre><p>1.1.1 Apache Tiles</p><p>Top level project, elvileg független a <a href="struts.html">strutstól</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-11-13</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

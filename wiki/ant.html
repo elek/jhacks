@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>ant</h1>
+<p><img src="http://hackers.forgeahead.hu/space/banners/sidebar/ant_logo_large.gif"  alt="image"/><br/> <strong>ANT</strong></p><p><a href="http://ant.apache.org/">http://ant.apache.org/</a></p><p>Napjaink legszelesebb korben elfogadott <a href="build.html">build</a> toolja elsosorban <a href="java.html">java</a> fejlesztesekhez.</p><p>Az anthoz erdemes ismerni a tortenelmi hatteret: a <a href="unix.html">unix</a> make parancsot. A make parancsot foleg <a href="C.html">C</a>/C++ projectekben hasznaljak arra hogy a forditasi folyamatot automatizaljak es fel is gyorsitsak azaltal hogy csak a szukseges parancsokat hajtjak vegre. A make-nek megmondod hogy milyen file-okat kell elkeszitenie, es melyik file mibol keszul el es hogyan. A make kezeli a file-ok fuggosegeit, es ha egy file foggosegei kozul valami ujabb mint maga a file, akkor azt a file-t ujraforditja. Pl: ``` all: sayhello</p><p>sayhello: sayhello.o hellolib.o</p>
+<pre><code><br/>Az ant :
+
+*   a build fileok [XML](XML.html) fileok, amivel kicsit konnyebben atlatja es megerti az is aki nem boklaszik ant fileokban egesz nap
+*   szakit a file alapokkal
+*   vegre platformfuggetlen (ha nem irsz baromsagot a build file-ba ugye ;) )
+*   kihasznalja a java nyelv minden lehetoseget, peldaul a szabvanyos [JDBC](JDBC.html) api-t is
+
+A build file egy projectet tartalmaz, ami tartalmazza a taskokat es az egyeb globalis strukturakat (tulajdonsagok, utmegadasok, stb). Az tartgetek mindenfele taskokat tartalmazhatnak. A tasokok gyakorlatilag a proceduralis leirasa annak hogy mit kell tenni. A targetek kozott termeszetesen lehetnek fuggosegek, a korfuggosegeket az ant detektalja es megbunteti :)
+
+pl:
+</code></pre><p>&lt;?xml version="1.0"?&gt;</p><p><project name="igazsagosztas" default="all"></p><p><target name="greeting" description="says hello nice">  <echo>Ho:jj! Hello!</echo>  </target></p><p><target name="all" depends="greeting">  <echo>es kesz is...</echo>  </target></p><p></project> ```</p><p>A legfontosabb build taskok megvannak alapbol, ha valami esetleg hianyozna akkor az architektura kiegeszithato mas taskokkal, amit a neten beszerezhetsz, vagy irhatsz ha nagyon perverz vagy.</p><p>linkek:</p>
+<ul>
+  <li>oreg mainstream technologia leven mindenhol tele van vele minden, nezd meg a sidebaron :)</li>
+</ul><p>Alternativa lehet esetleg a <a href="maven.html">maven</a></p><p>Az Ant a <a href="Netbeans.html">Netbeans</a> 4.x-es szeria beepitett build rendszere lesz, ami garantalja azt hogy a <a href="Netbeans.html">Netbeans</a>re epitett projectek barmilyen kornyezetben konnyen lefordithatoak. Termeszetesen szinte minden <a href="IDE.html">IDE</a> integralta es valamilyen feluletet biztosit hozza.</p><p>Lasd meg: <a href="Continuous%20Integration.html">continuous integration</a>, <a href="IDE.html">ide</a>, <a href="build.html">build</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-09-08</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

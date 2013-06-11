@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Prevayler</h1>
+<p>A <a href="http://www.prevayler.org/">Prevayler</a> meglehetosen elter a 'szokasos' perzisztencia retegektol. O ugyanis nem hasznal semmilyen <a href="Missing.html">RBDMS</a>-t. Igazabol semmit nem hasznal. Az egesz kutyu mindossze egy par szaz(!) soros kod. A felfogasa az, hogy a memoria az szinte ingyen van, ugyhogy taroljunk mindent benne. Meghozza hagyomanyos <a href="java.html">Java</a> objektumok formajaban (lasd: <a href="pojo.html">pojo</a>). A rendszerunkkel kapcsolatos megkotesek a kovetkezoek: </p>
+<ul>
+  <li>minden objektumunk szerializalhato kell hogy legyen. (lasd: <a href="serialization.html">serialization</a>)</li>
+  <li>az '<a href="RDBMS.html">adatbazison</a>' vegzett muveletek szinten szerializalhatoak es determinisztikusak kellenek hogy legyenek. Ez azt jelenti, hogy adott allapoton adott muveletet lefuttatva mindig ugyanaz tortenjen. Emiatt a muvelet parameterenek kell minden olyan dolgot megadni, ami valtozhat (pl. rendszerido - ez mondjuk automatikusan parametere minden muveletnek, vagy pl. ha egy file-bol olvasunk, akkor ne a filenev legyen a parameter - hiszen a tartalma valtozhat idokozben, vagy torlodhet, stb. - hanem a file aktualis tartalma).</li>
+  <li>Biztonsag: mi tortenik a szokasos becsapodo villam/felhekkelt rendszer/balfek takaritono eseteben? Na, az egesz ugy van megoldva, hogy minden muvelet vegrehajtasa elott a muveletet leszerializalja, es elmenti a tranzakcio-logban, ill. az egesz rendszert bizonyos idokozonkent (pl. minden ejfelkor) szepen leszerializalja egy fileba (snapshot). ha valamikor beall a crash, akkor szepen a legutolso snapshotbol visszaallitja az indulo 'adatbazist', majd az osszes, a snapshot ota tortent muveletet lefuttatja ujra rajta.</li>
+</ul><p>Egyszeru nem?</p>
+<ul>
+  <li>Elonyei: sokkal gyorsabb, mint barmelyik <a href="RDBMS.html">RDBMS</a>, kevesebb szivas van az adatreteg korul.</li>
+  <li>Hatranyai: nem <a href="SQL.html">SQL</a>-alapu, ami miatt esetleg mas rendszer kapcsolasa bizony nehezkesse valik.</li>
+</ul><p>jo cikk a temarol: </p><p><a href="http://www-106.ibm.com/developerworks/web/library/wa-objprev/index.html">http://www-106.ibm.com/developerworks/web/library/wa-objprev/index.html</a> A more up to date implementation (http://prevayler.codehaus.org/) By: Darwin </p><p>Most akkow prevayler, vagy <a href="Missing.html">prewayler</a>?</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-10-30</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

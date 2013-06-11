@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>tablespace</h1>
+<p>Szoval a talbespace egy fizikai helyet jelol, ahova pakolhatod a tablaidat. tipikusan tuning feladat szetpakolgatni oket. A lenyeg az hogy a hozzaferest parhuzmositsd, igy eleg sok idot nyerhetsz.</p><p>Szoval altalanossagban, ha jot akarsz:</p>
+<ul>
+  <li>nagy tablak eseten az indexet es a tablat kulon tablespace-be tedd</li>
+  <li>az index tablespace legyen inkabb gyorsabb eszkozon, a tablespace pedig inkab egy biztonsagosabbon</li>
+  <li>join-olas eseten, ha lenyeges a sebesseg, akkor a tablakat kulon eszkozon levo tablespace-be</li>
+  <li>ugyanazon az eszkozon ket kulonbozo tablespace picsafustot nem er, csak cikazik majd koztuk a fej, a pozicionalas meg mindig a leglassabb muvelet lesz.</li>
+</ul><p>kb...</p><p>Szoval roviden az lenne az idealis, ha minden db objektumodra lenne egy kicsi de gyors vincsid, meg az indexekre is kulon, meghuzva persze tonna memoriaval.<br/> Na ez az amire nincs penz, nyilvan az optimum az ar/teljesitmeny teren jelentkezik, ezt viszont nehez merni, ugyhogy mondjuk hogy az ugyfel elegedettsegen merjuk az egeszet, azt penzben lehet merni.</p><p>Ugyhogy amit fent irtam azt felejtsetek el! :D</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

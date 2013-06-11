@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>annotations</h1>
+<p>Az annotations uj feature a <a href="java%201.5.html">java 1.5</a>ben, amivel metainformaciot adhatsz hozza az osztalyokhoz, metodusokhoz, tagvaltozoidhoz, es ezeket egyszeru <a href="reflection.html">reflection</a> segitsegevel ki is olvashatod.</p><p>pelda: ``` @MetaData4Class(  meta = 1,  data = "meta" ) public class Demo {  @MetaData4Method( bla = "bla")  public void method() {} }</p><p>```</p><p>Ez kicsit odaut az olyan regi de jol bevallt cuccosoknak mint az <a href="XDoclet.html">xdoclet</a> peldaul, de azert ne temessuk meg :)</p><p>Specifikacio: <a href="http://www.jcp.org/en/jsr/detail?id=175">JSR 175</a></p><p>A dolog egy érdekessége hogy mekkora hatással lett a frameworkökre a technológia, kifejezetten annotations alapú rendszerek láttak napvilágot az 2006 első felétől egyre inkáb:</p>
+<ul>
+  <li><a href="tapestry.html">Tapestry</a> 4.x-től, de az 5.x már nagyon</li>
+  <li><a href="struts/struts%202.html">struts/struts 2</a></li>
+  <li><a href="junit.html">junit</a> 4.x-es széria</li>
+  <li><a href="testng.html">testNG</a> kezdetektől fogva</li>
+  <li><a href="jsr-181.html">jsr-181</a> <a href="WebServices.html">webservices</a> annotations</li>
+  <li><a href="guice.html">guice</a> <a href="ioc.html">ioc</a> framework.</li>
+  <li><a href="JPA.html">JPA</a>, <a href="Hibernate.html">hibernate</a></li>
+  <li>Az új <a href="j2ee.html">J2EE</a> standardban is például <a href="servlet_jsp.html">servleteket</a> így (is) lehet majd a <a href="webapp.html">webalkalmazásba</a> beledobni.</li>
+  <li>vagy bármi, amihez metaadatokat akarhatsz írni a kódba. <em>(Azért itt ezt valahogy ésszerű keretek közt érdemes tartani, nem akármiért költözött ki a kódból a konfiguráció :) )</em></li>
+</ul><p>cikkek:</p>
+<ul>
+  <li><a href="http://www.javaworld.com/javaworld/jw-08-2005/jw-0801-annotations_p.html"> Annotations to the rescue</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-03-23</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

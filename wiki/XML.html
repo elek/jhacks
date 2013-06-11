@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>eXtended Markup Language</h1>
+<p>A <a href="http://www.w3.org">Word Wide Web Consurtium</a> altal kiadott adatdefinicios szabvany. Egyszeru szabalyainak kosoznhetoen igen gyorsan elterjedt lett. <a href="XSLT.html">XSLT</a> segitsegevel az adatstruktura konnyen megjelenitheto.</p><p>Az XML egy idoben sajnos overhype-olt technologia volt, sokan feledketzek meg a korlatairol, es tettek olyan helyekre ahova nem valo. (Es mindezt teszik maig is joparan)<br/> Mindig tartsd szemelott hogy az XML egy portolhato adatformatum, de a parsolasa lassu. A rendszer hatarain atlepni vele konnyu es jo, a rendszeren belul nehez es rettenetes.</p><p>Szivasok az XML-ben: </p>
+<ul>
+  <li>amikor peldaul a parsered mindenkeppen validalni akarja a <a href="DTD.html">dtd</a>vel, de vagy offline vagy vagy a szerver eppen pihen. Ilyenkor kicsit pocsolhetsz rajta hogy vajon mi is romolhatott el...</li>
+  <li>A <a href="java.html">java</a> default xml apik olyan mint egy horrorfilmsorozat.</li>
+</ul><p>Parsolók:</p>
+<ul>
+  <li><a href="dom.html">DOM</a> szabványos dom fát épít</li>
+  <li>alternativ <a href="dom.html">DOM</a> implementaciok: <a href="jdom.html">jdom</a>, <a href="dom4j.html">dom4j</a></li>
+  <li><a href="sax.html">SAX</a> push parser, hatékonyabb, de kényelmetlenebb</li>
+  <li><a href="StAX.html">StAX</a> pull parser leghatékonyabb, és azért a SAX-nál kicsit kényelmesebb</li>
+</ul><p>Egyéb apik:</p>
+<ul>
+  <li><a href="jaxb.html">JAXB</a> xml és objektum hierarchia közötti meppelést csinál</li>
+  <li><a href="Missing.html">JAXP</a> az alap parzoló api</li>
+  <li><a href="JAXR.html">JAXR</a> registryket (pl. <a href="UDDI.html">UDDI</a>) elérő api</li>
+  <li><a href="Missing.html">JAXM</a> ezt még sose használtam, de ha vizsgán kérdezik, hogy mi ez, és benne van a message-ing szó, akkor ezt kell kiválasztani :)</li>
+  <li><a href="Missing.html">xpp3</a> nem callbackol, nem épít felhőkarcolókat, szedd ki magad és csinálj vele amit akarsz. Imádnivalóan gyors, csak azért persze kicsit fáj a kódot összevacakolni hozzá, kicsit procedurális lesz</li>
+</ul><p><a href="WebServices.html">webservices</a> szagú XML közeli API-k</p>
+<ul>
+  <li><a href="JAX-RPC.html">JAX-RPC</a> Web Services kliens/server API. Deprecated</li>
+  <li><a href="JAX-WS.html">JAX-WS</a> A JAX-RPC utódja. Annotációkkal web servicek. Szabványos lett, amit az <a href="xfire.html">XFire</a> már régen tudott.</li>
+  <li><a href="SAAJ.html">SAAJ</a> SOAP-os attachmenteket kezel.</li>
+</ul><p>Linkek:</p>
+<ul>
+  <li><a href="http://www.w3.org/XML/">http://www.w3.org/XML/</a></li>
+</ul><p>Lasd: <a href="w3c.html">w3c</a>, <a href="XSLT.html">xslt</a></p><h1>XML DB</h1><p>Az XML egy ideje bevete magat az adatbazis technologiak koze is, aminek itathatatlanul van nagyon sok elonye, de mivel meg mindig eleg uj dolognak minosul, igazabol a hatranyai gyakran jelentosebbek.</p><p>A rabbi is altalaban azt mondja ezekről, hogy nagyon frankók, csak sajnos a relációs adatbázis kezelő gyártóknak már sokkal nagyon tapasztalataik vannak, úgy hogy általában a megbízhatóság kedvéért inkább parzolunk és meppelünk.</p><p>Lasd: <a href="xql.html">XQL</a>, <a href="XPath.html">XPath</a>, <a href="xindice.html">xindice</a>, <a href="tamino.html">tamino</a>, valamint XML alapu <a href="RPC.html">RPC</a>-k (mert az a tuti-frnko) <a href="XML%20object%20mapping.html">XML object mapping</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-10-05</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

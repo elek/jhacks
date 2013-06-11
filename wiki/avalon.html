@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>avalon</h1>
+<p>Szoval reges regen letezett egy avalon project az <a href="ASF.html">ASF</a>nel <a href="http://avalon.apache.org">http://avalon.apache.org</a> cimen. Ezt feloszlattak, mert teljesen mozgaskeptelen volt. Ennek ellenere az avalon framework el, es van aki karbantartsa.</p><p>Az avalon orokosei:</p>
+<ul>
+  <li><a href="http://excalibur.apache.org/">http://excalibur.apache.org/</a> framework karbantartas, komponensek</li>
+  <li><a href="http://www.dpml.net/">http://www.dpml.net/</a> ide jott a hajbakapott avalon csapat es a merlin tobbek kozt</li>
+  <li><a href="loom.html">loom</a> a korabban elkoltozott csapat a phoenix utodjaval.</li>
+</ul><p>Az Avalon egy komponens framework. Segitsegevel az alkalmazasunkat ujrefalhsznalhato komponensekbol epithetjuk. (lasd meg <a href="COP.html">COP</a>, <a href="ioc.html">IoC</a>) Az avalon egy hatranya, hogy ahhoz hogy avalon containerben mukodjon a komponensed, ahhoz implementalnod kell tucat <a href="lifecycle.html">lifecycle</a> interfacet, ami avalon fuggove teheti a komponensedet. (a konfiguaciot es a dependency-ket is beleertve) A megoldas: vagy wrappeld, vagy extendeld egy avalon fuggo osztallyal a fuggetlen osztalyodat. Ezzel csak az a bajom, hogy a komponensek tipikusan nagyon kicsi kodot tartalmaznak, most implementalni egy ilyen osztalyt avalonhoz es <a href="picocontainer.html">picocontainer</a>hez es <a href="spring.html">spring</a>hez, es ott tartassz hogy a wrapper kod haromszor akkora mint a tulajdonkeppeni komponens. Az avalon viszont az elsok kozott volt, es ar van hozza mindenfele implementacio, a kis beagyazott kornyezetektol (<a href="plexus.html">plexus</a>) a szerver oldaliig (<a href="loom.html">loom</a>) minden. Szoval kulonosebben nem lesz attol kornyezetfuggo az alkalmazasod mert avalon-ra kodoltad ra. (na ezek inkab a <a href="PL-J.html">PL-J</a>vel kapcsolatos gondolataim voltak :)</p><p>Az avalon project 3 lenyeges resze:</p>
+<ol>
+  <li>framework <a href="http://ashkelon.forgeahead.hu/api.main.do?id=107">http://ashkelon.forgeahead.hu/api.main.do?id=107</a></li>
+  <li>components</li>
+  <li>containers</li>
+</ol><p>A <strong>framework</strong> tartalmazza az interface-ket, amiket implementahlatunk es hasznalhatunk komponenseinkkel.</p><p>A <strong>components</strong> egy tucatnyi mar elore megirt komponens konyvtara.</p><p>Container-bol jelenleg tobb is van:</p>
+<ol>
+  <li>Merlin: az avalon csapat jelenlegi implementacioja. Architekturalisan nagyon baba, sajnos se nem tul stabil eddig se nem tul managelheto, de azert jo...</li>
+  <li>Phoenix, @deprecated :( sajnos, pedig nagyon szerettem. JMX extension</li>
+  <li><a href="loom.html">Loom</a>. A phoenix utodja. Architekturalis atberhelesek, szerver oldalra eleg jo. Megy vele minden ami a phoenixben ment. <a href="http://loom.codehaus.org">http://loom.codehaus.org</a></li>
+  <li><a href="plexus.html">Plexus</a>. Light weigth container, beagyazhato. <a href="http://plexus.codehaus.org">http://plexus.codehaus.org</a></li>
+</ol><p>Avalonra epulo alkalmazasok:</p>
+<ol>
+  <li><a href="james.html">james</a> (java mail server) <a href="http://james.apache.org">http://james.apache.org</a></li>
+  <li><a href="cocoon.html">cocoon</a> <a href="http://cocoon.apache.org">http://cocoon.apache.org</a></li>
+  <li>telnetd, <a href="ftpserver.html">ftpserver</a>, etc <a href="http://incubator.apache.org">http://incubator.apache.org</a></li>
+  <li><a href="KLEEN.html">KLEEN</a></li>
+  <li><a href="java%20jabber%20server.html">java jabber server</a></li>
+  <li>es persze a vilaghiru <a href="PL-J.html">PL-J</a> es <a href="harvest.html">harvest</a> szoftverek :)</li>
+</ol>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

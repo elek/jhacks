@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Manta</h1>
+<p><a href="http://www.mantamq.org/">http://www.mantamq.org/</a></p><p>Egy Dual kereskedelmi/<a href="GPL.html">GPL</a> licenszelesu (szoval nem valami baratsagos) <a href="JMS.html">JMS</a> rendszer. Az sajatos erdekessege az hogy multicast-tal lehet neki uzengetni, es ha valamelyik szerver kihal a clusterbol, akkor meg mindig megy az egesz.</p><p>Egyebkent a forraskodja rendkivul <a href="gyanus.html">gyanus</a>: ```</p>
+<pre><code>private MantaAgent() {
+    try {
+
+        mantaHome = System.getProperty(MantaAgentConstants.MANTA_HOME);
+        if (mantaHome == null) {
+            System.out.println(&quot;Manta home was not set! - Please set the system property &#39;mantaHome&#39; to your manta home folder in the system property.&quot;);
+            System.out
+                    .println(&quot;In order for manta to work properly this property needs to be set to the folder were the manta folders exist (config, persistent, logs and more)&quot;);
+            mantaHome = &quot;.&quot;;
+        }
+        System.out.println(&quot;property &#39;mantaHome&#39;=&quot; + mantaHome);
+
+        //validate that the params exist end notify about it
+        configurationFolder = mantaHome + &quot;/config/&quot;;
+        defaultConfigurationFile = configurationFolder + &quot;/default_config.params&quot;;
+        agentConfigurationFile = configurationFolder + &quot;/component_config.params&quot;;
+        worldXmlFilePath = configurationFolder + &quot;/world.xml&quot;;
+        pesistentFolder = mantaHome + &quot;/persistent/&quot;;
+
+
+        System.out.println(&quot;property &#39;configurationFolder&#39;=&quot; + configurationFolder);
+        FileOrFolderExists(configurationFolder);
+        System.out.println(&quot;property &#39;defaultConfigurationFile&#39;=&quot; + defaultConfigurationFile);
+        FileOrFolderExists(defaultConfigurationFile);
+        System.out.println(&quot;property &#39;agentConfigurationFile&#39;=&quot; + agentConfigurationFile);
+        FileOrFolderExists(agentConfigurationFile);
+        System.out.println(&quot;property &#39;worldXmlFilePath&#39;=&quot; + worldXmlFilePath);
+        FileOrFolderExists(worldXmlFilePath);
+        System.out.println(&quot;property &#39;pesistentFolder&#39;=&quot; + pesistentFolder);
+        FileOrFolderExists(pesistentFolder);
+
+        PersistentConst.setPersistantDir(pesistentFolder)  ;
+
+
+    }
+    catch (Throwable t) {
+        t.printStackTrace();
+    }//catch
+
+}//MantaAgent
+</code></pre><p>```</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

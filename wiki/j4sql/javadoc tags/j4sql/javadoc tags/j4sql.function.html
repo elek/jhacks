@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../../../stylesheets/styles.css">
+    <link rel="stylesheet" href="../../../../../stylesheets/pygment_trac.css">
+    <script src="../../../../../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>j4sql/javadoc tags/j4sql.function</h1>
+<p>A jsproc.function taggel egyszeruen keszithetunk SQL funkciokat.</p><p>Attributumai:</p><p>Attributum|kotelezo|leiras|default name|igen|az UDF neve properties|nem|<a href="../../RDBMS.html">RDBMS</a> specifikus UDF tulajdonsagok security|nem|melyik felhasznalokent hivodjon meg a kod? 'invoker' vagy 'definer'|'invoker' deterministic|nem|A funkcio ugyanarra az inputra ugyanazt az outputot adja-e?|false sqlAccess|nem|A funkcio adatbazis hozzaferese. 'no', 'contains', 'reads', 'modifies'| 'contains' onNullInput|nem|NULL parameterek eseten meg kell-e hivni? 'called' vagy 'returns_null'|'calles'</p><p>Pelda: <code>
+public class Functions {
+  /**
+   * Calculates the factorial of the value.
+   * 
+   * @jsproc.function name=&quot;factorial&quot; onNullInput=&quot;returns_null&quot; 
+   * deterministic=&quot;true&quot; sqlAccess=&quot;no&quot;
+   *
+   */
+  public static long factorial(int a) {
+    long val = 1;
+    for(int i=1; i&lt;a; i++){
+      l = l*i;
+    }
+    return l;
+  }
+}
+</code></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

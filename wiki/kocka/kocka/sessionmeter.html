@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../stylesheets/styles.css">
+    <link rel="stylesheet" href="../../../stylesheets/pygment_trac.css">
+    <script src="../../../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Sessionmeter</h1>
+<p>Egy filter arra, hogy nyomon tudd kovetni a session-od valtozasait.</p><p>Ilyesmi lesz a kimenete: <code>
+Request: /testapp/index.jsp
+Request: /testapp/login.do
+- user         NEW 42
+Request: /testapp/profile.jsp
+- user         NOP 42
+Request: /testapp/updateprofile.do
+- user         CHG 90
+Request: /testapp/logout.do
+- user         DEL 42
+</code></p><p><strong>Fontos korlat</strong>: Ez a filter nem ugyanazt meri, mint amit a servlet container-ed. A servlet container-ed minden alkalommal ujra fogja szinkronizalni az adott bean-t, amikor ujra odadobod neki, a filter pedig csak azt tudja nezni hogy a kiserializalt minta valtozott-e. Van olyan eset, amikor nem jelez kapast, pedig a servlet container ujraszinkronizalja a dolgot. Feltetelezzuk hogy nem csinal teljesen hiabavalo munkat az alkalmazasod :)</p><p>Es az egeszet ide irtam le: <a href="http://iwillworkforfood.blogspot.com/2008/09/sessionmeter.html">http://iwillworkforfood.blogspot.com/2008/09/sessionmeter.html</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-09-18</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

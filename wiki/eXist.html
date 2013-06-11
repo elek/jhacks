@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>eXist</h1>
+<p>Nyílt forrású natív <a href="XML.html">XML</a> adatbázis. Natív alatt azt kell érteni, hogy az adattárolás történik <a href="XML.html">XML</a>-ben.</p><p><img src="http://wiki.exist-db.org/space/SnipSnap/config/logo.png"  alt="image"/>(http://exist.sourceforge.net/)</p><p><a href="http://exist.sourceforge.net/">eXist - Open Source Native XML Database</a></p><p>Sok mindenre használható ... egyenlőre sajnos komoly hiányosságai vannak.</p><p>Lekérdezés és hozzáférés mehet sok formában:</p>
+<ul>
+  <li><a href="http://xmldb-org.sourceforge.net/">XML:DB</a> kezdeményezés API-ját használva,</li>
+  <li><a href="REST%20-%20Representational%20State%20Transfer.html">REST</a> stílusú HTTP-vel (thanks to <a href="jetty.html">Jetty</a>),</li>
+  <li><a href="xml-rpc.html">XML-RPC</a>-vel,</li>
+  <li><a href="SOAP.html">SOAP</a> alapú webszolgáltatásokkal,</li>
+  <li><a href="Webdav.html">WebDAV</a>-val ... ez a része nagyon komoly ... sajnos még nem teljes</li>
+  <li><a href="XQuery.html">XQuery</a>-vel (majdnem teljes) ... esetleg megtámogatva:</li>
+  <li><a href="XPath.html">XPath</a>-tal,</li>
+  <li>dokument és csomópont szintű update <a href="Missing.html">XUpdate</a>-tel.</li>
+</ul><p>Komoly hiányosságok:</p>
+<ul>
+  <li>nincs tranzakció kezelés,</li>
+  <li>nincs schema validálás ... meg egyáltalán schema kezelés,</li>
+  <li>az <a href="XQuery.html">XQuery</a> támogatás egyenlőre 97%-os ... ráadásul a keménymagos funkciók out of scope.</li>
+</ul><p>Ha lib-ként használod, alapból eléred mind az alap, mind az <a href="XQuery.html">XQuery</a>-vel előállított <a href="XML.html">XML</a> doksi <a href="dom.html">DOM</a>-ját. Néhány óra doksi olvasás után be tudtam tolni <a href="jonas.html">JonAS</a> alá ... onnantól kezdve a web konténerből mindenféle úton-módon lehet használni. <a href="EJB.html">EJB</a> konténerről egyenlőre ne beszéljünk ... amúgy sincs tranzakciókezelés ...</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

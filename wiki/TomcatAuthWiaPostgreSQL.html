@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>TomcatAuthWiaPostgreSQL</h1>
+<p><a href="Missing.html">Receptklub</a> :)</p><p>Szoval nemreg, amikor a kis kihagyasok voltak a szerveren, a kihagyasok oka egy j2ee azonositasi schema bevezetese volt. Megosztanam a szaftosabb darabokat belole, hatha nem unjatok szet az agyatokat rajta.</p><p>Hozzavalok: </p>
+<ul>
+  <li><a href="PostgreSQL.html">PostgreSQL</a> 7.4</li>
+  <li><a href="tomcat.html">Tomcat</a> 5.0 (hat senki nem futtat <a href="EJB.html">EJB</a>t, minek akkor jboss... )</li>
+  <li>Egy szerver, vagy ketto, esetleg megegy de az mar nem tudom minek.</li>
+  <li>So, bors, olommentes paprika...</li>
+</ul><p>A problema: A Tomcat adminisztracios <a href="webapp.html">webapp</a> eleg gyengecske, es arra specializalodott, hogy eroforrasokat ki tudjak osztani futasidoben. A felhasznalo management spec jobb lenne rajta kivul.</p><p>A lepesek:</p><p>Mar regebben lehetove tettem a felhasznaloknak hogy IDENT azonositassal jelentkezzenek be az adatbazisba shellbol. Igy a <a href="Operacios%20rendszer.html">Operacios rendszer</a> azonositast elfogadja a <a href="PostgreSQL.html">PostgreSQL</a>. <a href="http://www.postgresql.org/docs/7.4/static/client-authentication.html">howto</a></p><p>Letrehoztam egy <a href="RDBMS.html">rdbms</a> <a href="Missing.html">schema</a>t ahol eltaroltam azokat a tablakat amik a jelszavakat es szerepkoroket tartalmazzak.</p><p>A <a href="tomcat.html">tomcat</a>-ban a conf/server.xml-ben modositottam a UserDatabase elementet, most mar egy DataSourceRealm-ot hasznal. <a href="http://jakarta.apache.org/tomcat/tomcat-5.0-doc/realm-howto.html">howto</a></p><p>Na most jon a hack ( vagy <a href="tak.html">tak</a> :D )</p><p>Minden juzernek kepesnek kell lennie arra hogy modositsa a sajat jelszavat, de nem lathatja semmikeppen sem senki maset. A users tablarol tuntessunk el a jogosultsagaikat, es egy stored procedure-n keresztul hagyjuk hogy updateljenek. Ez igy nez ki kb: <code>
+create or replace function update_my_pwd(varchar) returns void as 
+&#39;
+update users set password = $1 where name = session_user
+&#39; language sql security definer;
+</code></p><p>Innentol kezdve tok ecceru olyan scripteket irni, amikkel biztonsagosan kezelni lehet a jelszavakat, role-okat, satobbi.</p><p>Sok borssal fuszerezve talaljuk.</p><p>UDFekbol nagyon sokmindent lehet fozni, jo alapanyag.</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>junit</h1>
+<p><img src="http://www.junit.org/images/junitlogo.gif"  alt="image"/>(http://junit.org/)</p><p>Szoval a junit alapveto eszkoz egy onmagara valamit is ado programozo kezeben. Bar eleg egyszerucske. A junit teszteket hajt vegre. Valahogy igy:</p>
+<pre><code><br/>class TestWhatever extends TestCase {
+    //Ez hivodik meg a tesztek elott
+    public void setUp() {}
+    //Es a tesztek utan
+    public void tearDown() {}
+    //Es a tesztjeid csupa public es test-tel kezdodo metodusok, pl
+    publi void testAkarmi() {
+        ...
+    }
+}
+
+</code></pre><p>A kicsit ujabb es modernebb <strong>junit 4</strong> a <a href="java%201.5.html">java 1.5</a> <a href="annotations.html">annotations</a> feature-re epit, ezzel kb igy nez ki egy teszt:</p>
+<pre><code>class TestWhatever { //nem am extends, pojo baszkikaim!!!
+    @Test // ez a teszt maga
+    public void something() {
+    ...
+    }
+    @Before
+    public void elottehivdMarMegLecci() {
+    }
+}
+</code></pre><p>Szoval a jo oreg junit utannaeredt a fiatal tronfosztoknak mint a <a href="testng.html">testng</a>. Ha lassan is. A teljesen uj <a href="pojo.html">pojo</a> teszteknek szerintem az lesz a vege hogy paran beleirjak a teszteket az objektumokba magaba, tovabblepve pedig majd az eles metodusok teszt metodusokat is fognak hivni. En barmilyen allatsagot el tudok kepzelni :)</p><p>Az <a href="IDE.html">IDE</a>-k altalaban tartalmaznak valamilyen supportot a junit futtatashoz, az <a href="Eclipse.html">eclipse</a>-ben ez nagyon rulla, a tobbit nem tudom, de itt egy link hozza: <a href="http://www.junit.org/news/ide/index.htm">http://www.junit.org/news/ide/index.htm</a> (NetBeans pl. már simán kezeli)</p><p>A junit mindenféle portjai:</p>
+<ul>
+  <li><a href="dbunit.html">dbunit</a></li>
+  <li><a href="httpunit.html">httpunit</a></li>
+  <li>satobbiunit</li>
+</ul><p>Nekem a kedvencem az amikor egyszerűen csinálsz egy spring context-et és abból szedsz ki bean-eket amiken meghívhatsz a tesztekben metódusokat. Nagyon könnyen ujrafelhasználhatóvá teszi a teszteket.</p><p>A 4.1-es verzio ujitasa kozott a leglenyegesebb talan a <a href="Test/Categorization.html">Test/Categorization</a>, szinten <a href="java.html">java</a> <a href="annotations.html">annotations</a> segitsegevel. Sok uj es modern dolog van a <a href="Missing.html">4.1</a>ben csak sajnos semmi sem tamogatja per pillanat. Se <a href="Eclipse.html">eclipse</a>, se <a href="maven.html">maven</a>. Tul nagy szakitas volt a regi apival talan, de remelem ez lassan tovabb fejlodik.</p><p>Cikkek:</p>
+<ul>
+  <li><a href="http://today.java.net/pub/a/today/2006/03/28/testing-java-object-oriented.html">Testing Java in an Object-Oriented Way</a> (advanced)</li>
+  <li><a href="http://today.java.net/lpt/a/341">JUnit Reloaded</a></li>
+  <li><a href="http://pcjuzer.blogspot.com/2007/12/junit-4.html">Twik összefolgalója a 3-&gt;4-ról.</a></li>
+</ul><p>Lasd meg: <a href="XP.html">XP</a> <a href="test.html">test</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-12-03</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

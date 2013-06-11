@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>JCache</h1>
+<p><a href="java.html">Java</a> cache specifikacio, <a href="http://www.jcp.org/en/jsr/detail?id=107">jsr 107</a> Dokumentumokat egyelore csak <a href="https://jsr-107-interest.dev.java.net/">itt</a> lehet elerni, mivel nincsen public release, meg itt van egy jar hogy lasd hogy fog kinezni: <a href="http://www.ibiblio.org/maven/jcache/jars/jcache-1.0-dev-2.jar">http://www.ibiblio.org/maven/jcache/jars/jcache-1.0-dev-2.jar</a> (referencia implementacioval)</p><p>A moka az hogy <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Map.html">java.util.Map</a> leszarmazott a javax.cache.Cache osztaly, ugyhogy egyszeruen egy mapkent fersz hozza. Es ebbol persze van tranzakcionalis, tavoli, clusterezett, pirospottyos, meg mindenfele.</p><p><strong><a href="kocka.html">Kocka</a> says</strong>: Nyugodtan kossetek bele ebbe, de szerintem architekturat cache-re epiteni nem egy siraj otlet. Egyszerubb egy normalis <a href="persistence.html">persistence</a> rendszerre epiteni es az alatt legyen a cache, szoval elmeletileg egy <a href="j2ee.html">j2ee</a> alkalmazas fejlesztonek nem kellene tudnia a cache kezelesrol, csak a perzisztencia letezeserol. Lasd: <a href="Hibernate.html">hibernate</a>, <a href="JDO.html">jdo</a>, egyeb <a href="OR%20Mapping.html">or mapping</a></p><p>Lasd meg: <a href="coherence.html">coherence</a>, <a href="Missing.html">javaspace</a>, <a href="FCache.html">fcache</a>, <a href="ActiveSpace.html">activespace</a>, <a href="oscache.html">oscache</a> stb...</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-12-11</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

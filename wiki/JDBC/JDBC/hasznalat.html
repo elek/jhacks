@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../stylesheets/styles.css">
+    <link rel="stylesheet" href="../../../stylesheets/pygment_trac.css">
+    <script src="../../../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Nehany gyakorlati tanacs</h1>
+<p>A <a href="../JDBC.html">JDBC</a> szolgaltatasokat unmanaged kornyezetben ugy tudod elerni, hogy: <code>
+Class.forName(&quot;my.pet.database.Driver&quot;);
+DriverManager.getConnection(&quot;jdbc:pet:database&quot;,&quot;kocka&quot;,&quot;kocka&quot;);
+</code></p><p>A <a href="../JDBC.html">JDBC</a> Specifikacio szerint minden driver implementaciojanak class initializereben regisztralni kell a Driver egy peldanyat a DriverManager-ben. Managed kornyezetben (<a href="../Alkalmazas%20Szerver.html">Alkalmazas szerver</a>) ha esetleg JDBC hasznalatra vetemedsz, hasznald szepen a <a href="../JNDI.html">JNDI</a>-t egy DataSource lookupolasahoz, es szerezz connection-t abbol: <code>
+InitialContext ctx = new InitialContext();
+DataSource dsrc = (DataSource)ctx.lookup(dataSrcCtx);
+Connection conn = dsrc.getConnection();
+</code></p>
+<ul>
+  <li>Managed kornyezetben hasznald a <a href="../JTA.html">JTA</a>-t a JDBC <a href="../Missing.html">tranzakcio</a>k helyett, jobb ha a <a href="../DAO.html">DAO</a>-dban soha nem is probalsz commit-ot hivni.</li>
+  <li>Lenyeges pont az is, hogy <strong>NE FELEJTSD EL LEZARNI AZ EROFORRASOKAT</strong> mert jobb esetben OutOfMemoryException (<a href="../PostgreSQL.html">PostgreSQL</a> eseteben) rosszabb esetben kifogy a lockokbol az RDBMS (<a href="../Oracle.html">Oracle</a> tipikusan).</li>
+  <li>A finally blockban mindenhol ellenorizgetni kell, kapkodni a hibakat, tovabbdobalni oket, logolni.</li>
+  <li>Az is fontos hogy hasznald a PreparedStatement-eket a parameterek meghatarozasara akkor is ha dinamikus SQL-t hasznalsz.</li>
+</ul><p>Hat par azokbol ami a legjobban fel szokott bosszantani. :)</p><h1>Mis-use</h1><p>Egy erdekes JDBC kezeles egy ismert projectben: (csak a sema) <code>
+Statement s = null;
+try{
+s = con.createStatement();
+...
+ResultSet res = s.executeQuery();
+...
+s.close(); //a spec szerint ennek le kell zarnia a res-t is.
+s=null;
+} catch (Exception e){
+logger.error(&quot;Anyam segits!&quot;, e);
+}
+if(s != null){
+try{
+s.close();
+} catch (Exception e){
+logger.warn(&quot;Sejehajj&quot;,e);
+}
+}
+</code> Szoval ez igen, vegulis felszabaditja az eroforrast akkor is ha valamilyen hiba keletkezik, csak aztan elhalgatja a hibat, azon kivul hogy logolt, a tranzakcio probal majd tovabbmenni. Jobb esetben nem sikerul, de en az ellenkezojetol jobban paraznek. Amugy kicsit <a href="../C.html">C</a> sitlusra vall, mar nem az hogy elhalgatja, hanem az hogy Exception-t kap el. Bar mi is van <a href="../OOM.html">OOM</a> eseten? Az nem <a href="http://docs.oracle.com/javase/7/docs/api/java/lang/Exception.html">java.lang.Exception</a> leszamrmazott. Azert olyan van amikor kicsit nagy blobot szedunk lefele :)</p><p>Egy rovid levelvaltas a szerzovel, szerinte eleg jo es nem kell hogy jobb legyen, szerintem meg egyszer jol megszivja vele, de nekem ez nem faj.</p><h1>Mis-use 2</h1><p>Nagyon sokat szivtam azzal hogy egy akkori kollegam <a href="../JDBC.html">JDBC</a> trukkjeit (vagy <a href="../tak.html">tak</a>jait) kijavitsam. A kovetkezokeppen mukodott.</p>
+<ol>
+  <li>Az elozmeny: Termeszetesen irtak sajat connection-poolt. <a href="../tomcat.html">Tomcat</a>, <a href="../Oracle.html">Oracle</a> db, egy nagyobb tablaval (nehany-tizezer sor).</li>
+  <li>A Trukk: ket request jon a browserbol, az elsore nyit egy kapcsolatot es elinditja a query-t, a masodikra kipakolja. (ne kerdezd hogy ez miert jo)</li>
+  <li>A gebasz: a query sokaig fut, meg a kliens kapcsolat is eleg lassu, nem biztos hogy a masodik lekerdezes is megjon. Sot valoszinuleg nem.</li>
+  <li>A hibajelenseg: Valamiert meghal a <a href="../tomcat.html">tomcat</a>, neha az <a href="../Oracle.html">oracle</a> is. Rovid nyomozas utan kiderul a fenti helyzet. (aztan fel ora orjonges)</li>
+  <li>Az eslo megoldas: Atirom a connection pool-t hogy hasznalja a <a href="../JNDI.html">JNDI</a>s <a href="http://docs.oracle.com/javase/7/docs/api/javax/sql/Datasource.html">javax.sql.Datasource</a>-ot, aztan megprobalom valahogy atirni a mukodest. Perceken belul kiderul hogy joparszaz sort at kell irnom egyeb bugok miatt, vissza. Irtam egy kis wrappert a JDBC kore ami a lezarogatja a mar biztosan nem hasznalt eroforrasokat (<a href="../tak.html">tak</a>).</li>
+  <li>A vegso megoldas: eljottem, furodjenek a sajat sz@rukban :)</li>
+  <li>Viszont akkor is van tanulsag: <a href="../PHP.html">php</a> programmers, don't come to java town!</li>
+</ol><h1>Mis-use 3</h1><p>Szerintem amit a <a href="../SnipSnap.html">snipsnap</a> csinal a kapcsolatokkal, az is rossz, bar nagyon <a href="../Windows.html">windows</a> juzer frendli, de monolitikus.</p><h1>Konkluzio</h1><p>Ha nincs ra okod hogy <a href="../JDBC.html">JDBC</a>t hasznalj, akkor <a href="../OR%20Mapping.html">OR mapping</a>, <a href="../Hibernate.html">hibernate</a>. Azt nem lehet igy elbaszni :) Ha sebesseg kritikus alkalmazast irsz, (ilyen esetekben tenyleg nem annyira franko a <a href="../Hibernate.html">hibernate</a> meg a hasonlok) de nem akarsz folosleges kodot irni, akkor is vannak hasznos eszkozok, peldaul a <a href="../spring.html">spring</a> is ad egy hasznos frameworkot a <a href="../JDBC.html">JDBC</a> kod ala.</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

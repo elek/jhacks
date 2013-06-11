@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <script src="../javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>JPA</h1>
+<p>Az <a href="EJB3.html">ejb3</a>-al bevezetett új szabványos <a href="persistence.html">persistence</a> api. Legegyszerűbb taláb a <a href="JDBC.html">JDBC</a>-hez hasonlítani: Van egy független interface rendszer és az alá implementálhatnak megoldásokat a szállítók. A <a href="Hibernate.html">Hibernate</a> pl. gőzerővel dolgozik a Hibernate Entity Manager-en, amit lehet használni EJB3-ak alatti perzisztencia megvalósítására. De a Sunos cuccokat általában az Oracle Toplink Essential-al szállítják. A szép az, hogy ezeket bármikor lehet cserélgetni az alkalmazás alatt.</p><p>(Ja és az egész JPA-t lehet használni standalon alkalmazáskbans is)</p><p>Kb így néz ki:</p>
+<pre><code><br/>EntityManagerFactory emf = Persistence.createEntityManagerFactory(&quot;HibernatePU&quot;);
+EntityManager em = emf.createEntityManager();
+SampleEntity entity = em.find(SampleEntity.class,1l);
+em.close();
+</code></pre><p>(A HibernatePU-t egy persistence.xml-ben kell definiálni, ahol megmondjuk, hogy melyik gyártó megoldását akarjuk használni.)</p><p><strong><a href="IDE.html">IDE</a> támogatás</strong>:</p>
+<ul>
+  <li><a href="Eclipse.html">Eclipse</a> <a href="http://www.eclipse.org/webtools/dali/main.php">Dali</a></li>
+</ul><p><strong>JPA implementációk</strong>:</p>
+<ul>
+  <li><a href="Hibernate.html">Hibernate</a></li>
+  <li><a href="Toplink.html">Toplink</a></li>
+  <li><a href="OpenJPA.html">OpenJPA</a></li>
+  <li><a href="Missing.html">cayenne</a> (folyamatban)</li>
+  <li>Kodo</li>
+  <li><a href="eclipselink.html">eclipselink</a></li>
+</ul><p>Cikkek, prezentációk:</p>
+<ul>
+  <li><a href="http://www.parleys.com/display/PARLEYS/Java+Persistence+2.0?showComments=true">Java Persistence 2.0</a></li>
+  <li><a href="http://www.parleys.com/display/PARLEYS/Advanced+Topics+in+JPA">Advanced Topics in JPA</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-07-10</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
