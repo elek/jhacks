@@ -26,6 +26,7 @@ Nos, eddig semmi különös, igaz? Azért van még miről mesélni :-). Az egyik
 Ezután implementálja az adott interfészeket, teszteli a kódot (POJO-k, egyszerű tesztelni), majd ezt az implementációt egy másik .jar file-ba csomagolja, egy másik module-descriptor társaságában. Ez a module descriptor (namespace: com.acme.security.ldap) hozzáadja az implementációkat az előző modulban deklarált service-pointokhoz. Az implementációt az előző modulban meghatározott séma alapján konfigurálja.
 
 Király! Van egy API-nk és egy implementációnk. Most akkor mi? Egyszerű. A két .jar-t be kell passzintani az alkalmazásunk classpath-jába, és...
+
 ```
 Registry registry = RegistryBuilder.constructDefaultRegistry();
 AuthenticationService authService = 
