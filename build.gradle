@@ -32,3 +32,6 @@ task site(type: net.anzix.imprempta.gradle.SiteTask) {
    destination = project.ext.sitedir.absolutePath
 }
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.6'
+}
