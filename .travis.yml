@@ -1,0 +1,16 @@
+---
+language: java
+jdk:
+- oraclejdk7
+install: ./gradlew site
+script: ./gradlew publishGhPages -Pgithub.credentials.username=$GITHUB_USER -Pgithub.credentials.password=$GITHUB_PASSWORD
+env:
+  global:
+  - secure: |-
+      I4DgMTk4VKrHCWW/vc55Cum4SJzkGYcdMF8Da/mb6YBCU/JW7wQMh4RXOn3u
+      GcPcPqirK85vpvIQ66YduCHLRkzZXJWnbFyGoKVLXm2o7zg6ODBby6COHk83
+      OxSHaIdUKnkQjGDa1kDdpzDZC45tAUJOTjw8nAqh7PKmutf6INo=
+  - secure: |-
+      TACXH8+yvS8quAyErihtOQOF7yGT4A4vnuBYFlO33fUFrmCSCRTZ+kMwvy4h
+      DMVhqUasZkRBXDuJXsm+KhbVFwPLAVLjgrSwHjCduKfrSDzFtr6HpZ8KRcfm
+      3onY6tVStW6V1LlPYF/YZ6oxP3m1SpT83WGsXeA4HnVWVbrlZns=
