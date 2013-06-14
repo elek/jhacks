@@ -2,8 +2,8 @@
 language: java
 jdk:
 - oraclejdk7
-install: ./gradlew site
-script: ./gradlew publishGhPages -Pgithub.credentials.username=$GITHUB_USER -Pgithub.credentials.password=$GITHUB_PASSWORD
+install: ./gradlew -q site --info
+script: ./gradlew -q publishGhPages -Pgithub.credentials.username=$GITHUB_USER -Pgithub.credentials.password=$GITHUB_PASSWORD --info
 env:
   global:
   - secure: |-
