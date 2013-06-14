@@ -9,8 +9,8 @@ date                : 2007-06-29 23:18:16 +0200
 version             : 3 
 creator             : kocka 
 ---
-![image](http://mina.apache.org/index.data/MINA-200x80.png)(http://mina.apache.org/)
+[![image](http://mina.apache.org/index.data/MINA-200x80.png)](http://mina.apache.org/)
 
-Az apache mina egy általános célú hálózat framework. Támogatja az UDPt és a TCPt, ssl kódolást segít, tömörítést, APIt ad a protokol implementációjához és erős terhelésbírást tesz lehetővé a [SEDA](SEDA.html) architektúrával és a [NIO](NIO.html) hasznlatával.
+Az [apache](ASF.html) mina egy általános célú hálózat framework. Támogatja az UDPt és a TCPt, ssl kódolást segít, tömörítést, APIt ad a protokol implementációjához és erős terhelésbírást tesz lehetővé a [SEDA](SEDA.html) architektúrával és a [NIO](NIO.html) hasznlatával.
 
 
