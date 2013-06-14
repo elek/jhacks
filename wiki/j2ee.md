@@ -9,7 +9,7 @@ date                : 2008-06-08 17:23:19 +0200
 version             : 12 
 creator             : zsoltk 
 ---
-![image](http://hackers.forgeahead.hu/space/SnipSnap/config/j2ee_jdk_button_classic_red.gif)(http://java.sun.com/j2ee/download.html)
+[![image](http://hackers.forgeahead.hu/space/SnipSnap/config/j2ee_jdk_button_classic_red.gif)](http://java.sun.com/j2ee/download.html)
 
 Java (2) Enterprise Edition.
 
