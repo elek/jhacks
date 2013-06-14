@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>perforce</h1>
+<p><a href="http://www.perforce.com/">http://www.perforce.com/</a></p><p>Egy <a href="version%20control.html">perverzió kezelő</a> rendszer, <a href="Missing.html">multiplatform</a>. Nem szabad, de <a href="Open%20Source.html">free</a> szoftverekhez ingyen lehet használni. Van hozzá <a href="Eclipse.html">eclipse</a> <a href="http://www.perforce.com/perforce/products/p4wsad.html">plugin</a>, command line és grafikus kliens, webes kliens, proxy elé, meg egyéb kütyük.</p>
+<ul>
+  <li>Érdekes baleset vele például egy directory letörlése, mert ahhoz a workspace-det kell módosítani úgy, hogy az tényleg törölje. Vicces.</li>
+  <li>Összehasonlításként az sync (az svn up megfelelője) kb ugyanolyan fürge mint a svn-ben, viszont ezerszer gyorsabb mint a VSS. Ez most így tudománytalanul...</li>
+  <li>Tréfás dolog a kliens workspace is. A p4 nyilvántartja hogy ki szedte le a forráskódot és melyik gépről, és csak arról a gépről engedi újra azzal a kliens workspace névvel sync-elni. Ha esetleg letörölted a teljes forrásfát, na akkor egy 'p4 client -d -f myworkspace' paranccsal lehet rendet tenni, ami letörli azt amit már kézzel amúgy is :) Az is hasonló eset, amikor DHCP szerver vagy a vicces rendszergazda új IP címet vagy gépnevet oszt ki, na akkor is bukod a kliensedet teljesen.</li>
+  <li>Kicsit sokmindent nem lehet megcsinálni az egyébként tréfás grafikus kliensekről, például a directory törlést sehogy sem sikerült...</li>
+  <li>Ha pl 'rm -rf'-fel letörölted a forrsáfa egy részét és szeretnéf mégis visszakapni, hát akkor izé... Mind1, ilyet ne csinálj!</li>
+  <li>Sajnos az eclipse plugin időnként nem hozza fel a legfrissebb verziót a 'sync to head' parancsra, csak rátesz egy kis sárga ikont hogy nem a egfrissebb. Ezt elég nehéz észrevenni és kicsit erőszakoskodni kell vele hogy elmúljon. Állítólag pár refresh és Team - Refresh után már jó, szóval ezt soha ne felejtsd el végrehajtani ha sync to head-et csinálsz. Nem valami barátságos.</li>
+  <li>Egyszer egy fórumban olvastam egy mérges hozzászólást, miszerint az SVN fejlesztői egyszerűen lenyúlták a branchelés alapötletét a perforce-tól (azaz hogy másolsz tulajdonképpen). Mondjuk ez valószinűleg senkit sem érdekel addig amíg jobban csinálja.</li>
+  <li>Na még egy izgalmas részletet mesélnék erről a zseniális szoftverről: Amikor licenszeled (annyiba kerül hogy ennyiért már felvehetnél egy programozót úgy fél évre), akkor a szervered IP-címére kell a licenszt kérni, így amikor valamilyen technikai okból a szerver IP-címe változik, akkor bizony interakcióba kell lépni a sales team-mel és új licenszt kérni hozzá. Közben az ember azon gondolkodik, hogy ennyi idő alatt hányszor <a href="http://p42svn.tigris.org/">migrált volna át</a> <a href="subversion.html">subversionra</a> :-)</li>
+</ul><p>Szóval mindent összevetve, elég érdekes dolog, és nem túl szórakoztató hosszútávon. Aki mégis a kijárt utat akarja járni, az talán jobban jár a <a href="subversion.html">subversion</a>nal :)</p><p>Talán leginkább a <a href="ClearCase.html">ClearCase</a> hasonlít rá. - az se volt soha a szivem csücske :-)</p><p>Hova ne menj dolgonzi, ha el akarod kerülni:</p>
+<ul>
+  <li><a href="http://versioncontrolblog.com/2006/12/03/perforce-as-the-version-control-system-at-google/">google</a> :-((( ez van</li>
+  <li>morgan stanley, ez itthon</li>
+  <li>többek közt...</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-06-28</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

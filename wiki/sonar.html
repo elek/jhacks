@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Sonar</h1>
+<p><a href="http://sonar.hortis.ch/">http://sonar.hortis.ch/</a></p><p>Egy aggregátor <a href="checkstyle.html">checkstyle</a>, <a href="PMD.html">pmd</a>, cobertura és surefire elé, valamint a hozzá passzolo <a href="RDBMS.html">adatbázis</a> frontent <a href="webapp.html">webapp</a>. Alapból <a href="maven/maven2.html">mavennel</a> muzsikál együt, de <a href="ant.html">ant</a> projectekre is rá lehet kényszeríteni. <em>(Ilyenkor persze írni kell hozzá egy pom.xml-t mint általában a maven projectekhez és light módban kell futtatni ha a dependency-ket nem töltöttük ki, azaz a tesztek nem futnának és a forrás nem fordulna, ilyesmi)</em></p><p>A felgyűlt statisztikát időben és pillanatképként is nézhetjük. Szóval hasznos kis cucc...</p><p>A dolog szépségei:</p>
+<ul>
+  <li>Nem kell módisítani a pom.xml-t.</li>
+  <li>A fejlesztő szervezet coding policy-ját fel lehet konfigurálni egy központi helyen, ami mellesleg elég felhasználóbarát is.</li>
+  <li>Egy biztos helyen (<a href="RDBMS.html">adatbázis</a>) van a QA statisztika, onnan lehet riportolni is</li>
+</ul><p>A dolog hátulütői:</p>
+<ul>
+  <li><a href="GPL.html">GPL</a> és <a href="ruby.html">ruby</a>, túrkálja a forráskódot az akinek nincs jobb dolga :(</li>
+  <li>Elég lassú.</li>
+  <li>A rails framework persze nem akar <a href="Missing.html">DataSource</a>-t hasznalni, ebbol adodik par prbolema, peldaul hogy nem csatlakozik ujra ha az adatbazis levagta a kapcsolatot.</li>
+</ul><p>Egykori problémák:</p>
+<ul>
+  <li>Sajnos az 1.0-ás széria kicsit bétás. A <a href="Derby.html">derby</a> <a href="RDBMS.html">adatbázissal</a> elszáll, a <a href="PostgreSQL.html">postgresql</a>-lel el sem indul, <a href="MySQL.html">mysql</a>-lel pedig bár megyeget, de rémes hibaüzeneteket dobál setup közben - ami elbizonytalanítja az embert. Nem tudom mit használ perzisztencia rétegként hogy ilyenek vannak. <strong>az 1.1-es verzió sokkal jobb minőségűnek tűnik, most már stabil is</strong></li>
+  <li>Bajai vannak azzal, hogy ha <a href="annotations.html">annotációkat</a> teszünk metóduson belülre, ez egy dependency hibáiból jön egyébként. A light módban átmegy ezen, csak ilyenkor elég csökkentett információtartalmat szolgáltat. Ez hamarosan megoldódik, ha hihetünk a <a href="http://jira.codehaus.org/browse/MJNCSS-16">bugreportnak</a>. <strong>Update</strong>: 1.4RC1-től kezdve oké.</li>
+</ul><p>Lásd még: <a href="Continuous%20Integration.html">Continuous Integration</a>, <a href="qalab.html">QALab</a></p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-08-29</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

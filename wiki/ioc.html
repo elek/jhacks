@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Inversion of Control</h1>
+<p>Az IoC olyan keretrendszert ad a fejlesztett szoftveredhez, ami kezeli komponeneseid fuggosegeit egymason, oszzekapcsolja, konfiguralja esetleg manageli a komponenseket (Lasd meg <a href="COP.html">COP</a>). Ugy 4-5 evvel ezelott par ember agymenese volt, utanna ugy 1-2 evvel ezelottig hype lett, es azota szerintem mainstream technologia, szoval aki kicsit is ad magara az ismeri. Az IoC az amit Martin Fowler atnevezett <strong>Dependency injection</strong>-ra. Mind1, ugy hovja ahogy akarja :)</p><p>Alapfilozofia: "Dont call me. I will call you!"</p><p>Az <a href="EJB.html">ejb</a>3 is atvett az IoC tervezesi mintaibol egy keveset.</p><p>Altipusok:</p>
+<ul>
+  <li>setter based dependency injection (pl <a href="spring.html">spring</a>)</li>
+  <li>constructor based (pl <a href="picocontainer.html">picocontainer</a>?)</li>
+  <li>"magad uram ha szolgad nincs" (pl <a href="avalon.html">avalon</a>) (ezt hivatalosan intrusiv IOC-nek hívják, de ez nagyon csúnya név)</li>
+</ul><p>nehany szoftver/framework:</p>
+<ul>
+  <li><a href="avalon.html">avalon</a> -&gt; <a href="loom.html">loom</a></li>
+  <li><a href="spring.html">spring</a></li>
+  <li><a href="picocontainer.html">picocontainer</a></li>
+  <li><a href="bigyo.html">bigyo</a></li>
+  <li><a href="OSGi.html">OSGi</a></li>
+  <li><a href="hivemind.html">hivemind</a> (<a href="tapestry.html">tapestry</a>)</li>
+  <li>a <a href="geronimo.html">geronimo</a> szerver kernelje (<a href="Missing.html">gbean</a>)</li>
+  <li><a href="guice.html">guice</a> a Google-től.</li>
+</ul><p>Linkek:</p>
+<ul>
+  <li><a href="http://today.java.net/pub/a/today/2004/02/10/ioc.html">http://today.java.net/pub/a/today/2004/02/10/ioc.html</a></li>
+  <li><a href="http://www.theserverside.com/articles/article.tss?l=IOCBeginners">http://www.theserverside.com/articles/article.tss?l=IOCBeginners</a></li>
+  <li><a href="http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html">http://today.java.net/pub/a/today/2005/07/05/IOCAnnotation.html</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-02-05</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

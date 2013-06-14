@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>hivemind</h1>
+<p>Az <a href="ioc.html">IoC</a>/<a href="dependency%20injection.html">Dependency injection</a>/<a href="SOA.html">SOA</a> konténerek egyre népesebb táborának tagja. Fejlesztését az a Howard Lewis Ship kezdte, akinek a nagyszerű <a href="tapestry.html">Tapestry</a> frameworköt köszönhetjük (a Tapestry 3.1 a hivemind-ra fog épülni).</p><p>Első blikkre a hivemind csak egy az egyre szaporodó konténerek közül, de ha az ember jobban belenéz ezek világába, látszik, hogy egy-egy konténer főbb céljai eltérnek egymástól. Mint minden igazán jó project, ez is speciális szükségeletek kielégítésére jött létre, és később fejlődött azzá, ami. A <a href="avalon.html">Avalon</a> ugye a JServ (<a href="tomcat.html">Tomcat</a> előd) project <a href="Missing.html">design pattern</a>-jeit hasznosítja, a <a href="spring.html">spring</a>et az <a href="EJB.html">EJB</a> által keltett frusztráció szülte a világra, a hivemind... nos a hivemind azért jött létre, mert egy EJB alkalmazásban összegyűlt néhány tucatnyi task, amit az alkalmazás indulásakor végre kellett hajtani. Ehhez egy BEA specifikus hookot és egy Stateless Session Bean-t használtak, ahol erősen kellett figyelni a taskok sorrendjére, elkezdett hízni a bean, emellett a függőségei kiterjedtek a teljes alkalmazásra.</p><p>Ezután a kis félrevezető bevezető után talán térjünk rá a lényegre. Hivemind alapvető fogalmak:</p>
+<ul>
+  <li><strong>Services</strong> : Míg a <a href="spring.html">spring</a>-ben beanekről beszélünk, a hivemindban ezeket service-eknek hívjuk. Ez nem csak elnevezési különbség, ugyanis a springben bármilyen bean (ehh, buzzword ez is, bármilyen objektum) létrehozható, a hivemindban egy service nem több, mint <strong>egy</strong> interface. Legalábbis az alkalmazás többi részének. Természetesen ezen service-ek implementációja hagyományos objektum (azaz <a href="pojo.html">POJO</a>), amik függnek a többi szervíztől, és még konfigurálni is kell őket.</li>
+  <li><strong>Configuration</strong> : Ez szinte egy framework a frameworkben. A konfiguráció formátumát a fejlesztő határozhatja meg. Ami nem egészen igaz, mert annyi kikötés van, hogy XML formátumnak kell lennie, és a module descriptorban kell megadni. Ha ez egy kicsit homályos, akkor az az én hibám :-). A lényeg az, hogy a fejlesztő meghatároz egy konfigurációs sémát, ami egy szabálygyűjtemény, ami meghatározza a konfiguráció megadásának módját (~XML séma). A séma a megadott konfigurációs adatból egy vagy több objektumot állít elő. A service már ezeket az objektumokat kapja meg, mint konfiguráció. Ez némi előrelépés az avalonban látható Configuration.getChild() plumbinghoz képest. Asszem :-) (ja, és ez sokkal egyszerűbb, mint aminek elsőre tűnik).</li>
+  <li><strong>Microkernel</strong> : Az egészet egy microkernel fogja össze, ami gondoskodik a service-ek megfelelő időben történő létrehozásáról (lazy v. eager initialization), konfigurálásáról, a függőségek összekapcsolásáról, némi AOP szerű funkcionalitással vegyítve (csak interceptorok). Mindezt a module deployment descriptorok parse-olása után.</li>
+</ul><p>A végeredmény az, hogy az alkalmazás kódja mentes mindenféle framework függőségtől (bár lehetőség van egy lifecycle interface implementálására, ami nem javallot általában). A függőségek mint interface-ek, a konfiguráció mint objektumok jelennek meg a kódban.</p><p>Nos, eddig semmi különös, igaz? Azért van még miről mesélni :-). Az egyik érdekes dolog a modulok. Tegyük fel, hogy Kis Béla programozó fejleszti a cég security frameworkjét, amit majd több alkalmazásban akarnak felhsználni. Első dolga, hogy kialakítson egy API-t (az egyszerűség kedvéért tegyük fel, hogy így csinálja :-)), ami pár interface-t jelent. Ezeket az interface-eket, a hozzájuk tartozó support classokkal, exceptionökkel, stb. becsomagolja egy .jar archívba egy module descriptor társaságában. Ez a modul descriptor meghatároz legelőször egy namespace-t(com.acme.security), minden service-hez (pl. AuthenticationService) egy <strong>service-pointot</strong>, egy-két <strong>konfigurációs sémát</strong>.</p><p>Ezután implementálja az adott interfészeket, teszteli a kódot (POJO-k, egyszerű tesztelni), majd ezt az implementációt egy másik .jar file-ba csomagolja, egy másik module-descriptor társaságában. Ez a module descriptor (namespace: com.acme.security.ldap) hozzáadja az implementációkat az előző modulban deklarált service-pointokhoz. Az implementációt az előző modulban meghatározott séma alapján konfigurálja.</p><p>Király! Van egy API-nk és egy implementációnk. Most akkor mi? Egyszerű. A két .jar-t be kell passzintani az alkalmazásunk classpath-jába, és...</p>
+<pre><code>Registry registry = RegistryBuilder.constructDefaultRegistry();
+AuthenticationService authService = 
+  (AuthenticationService) registry.getService(AuthenticationService.class);
+// vagy explicit megadva a full q. service nevet
+AuthenticationService authService = 
+  (AuthenticationService) registry.getService(
+    "com.acme.security.AuthenticationService",
+    AuthenticationService.class);
+
+</code></pre><p>Ha másik implementációt akarunk, csak kicseréljük az implementációt tartalmazó .jar-t egy másikra. Ha véletlenül két implementációnk lenne, vagy egy sem, a registry attól még felépül (by default), logolva a hiányzó/duplicate service-eket (lehetőség van konfigurálni, hogy ilyenkor dobjob egy hátast meg egy exception-t).</p><p>A registry létrehozását és eltárolását természetesen egyszer kell elvégezni (pl. egy servlet initialize() metódusában, majd a servlet contextben eltárolni a registry-t).</p><p><strong>Service modellek</strong></p>
+<ul>
+  <li>primitive : Az alap. A framework az első hivatkozáskor példányosítja a service-t</li>
+  <li>singleton : A framework a service implementáció helyett egy proxy-t ad vissza (ami implementálja a service interface-t). Az első metódushívás során a proxy példányosítja a service-t. Ennek akkor van jelentősége, ha a service létrehozása sok költséggel jár.</li>
+  <li>threaded : A variációk ThreadLocalra című sorozat egy újabb része. Minden threadnek saját példánya van a service-ből. Nem kell ecsetelni, hogy ezzel elkerülhető a statikus utility classekbe ágyazott ThreadLocalok. Cool.</li>
+  <li>pooled : Ugyanaz mint a threaded, azzal a különbséggel, hogy minden thread egy poolból kapja a service-t. Ennél és a threaded modelnél szintén proxy magic zajlik a háttérben, nekünk semmivel sem kell törődni. Ja de. Lehetőség van lifecycle interface-ek implementálására (threaded: Discardable, pooled: PoolManageable).</li>
+</ul><p><strong>Service lifecycle</strong></p><p>Mint minden jobb családból származó konténer esetében (és nem minden jobb konténerből származó család esetében) a servicek életciklusa konfigurálható. Minden service (kivéve a threaded, ahol nincs értelme) implementálhatja a RegistryShutdownListener interface-t. Ez egy callback interface, amit a registry hív meg mikor azt lekapcsolják :-). Így a service-ek felsöpörhetik a portájukat a munka végeztével.</p><p>Ajánlatos a service-eket singleton modelként létrehozni (ami a default) ha nincs szükségünk a threaded féle modelre, mert a service proxy nem enged újabb hívásokat a registry shutdown után. A primitive service-nél, ahol nem játszik a proxy erre nincs lehetőség.</p><p><strong>Egyéb nyalánkságok</strong> </p><p>A moduldescriptorokból szép, böngészhető dokumentáció készíthető. Megintcsak: cool.</p><p>Spring integráció (SpringLookupFactory). Mivel a hivemindban nincs konyhapult, ezért ez is jól jöhet.</p><p>Ha meg is akarod érteni a hivemindot, akkor ajánlom a következő helyet: <a href="http://jakarta.apache.org/hivemind">http://jakarta.apache.org/hivemind</a> Itt mindent megtalálsz, ami kell :-)</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

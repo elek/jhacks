@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../stylesheets/styles.css">
+    <script src="../../../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../../../styles/idea.css"></link>
+   <script src="../../../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>struts/struts 1</h1>
+<p><img src="http://struts.apache.org/images/struts.gif"  alt="image"/>(http://jakarta.apache.org/struts/)</p><p>(strucc, <a href="../hunglish.html">hunglish</a>ban igy ejtjuk)</p><p>A hatranya az irdatlan nagyra novo xml fileok, meg az hogy ha nincs tool-od akkor kezzel kell :( Muszaj valami tool-t hasznalni:</p>
+<ul>
+  <li><a href="../Websphere%20App%20Dev.html">Websphere App Dev</a> (kivallo struts support, sajnos eleg dragan)</li>
+  <li><a href="../Oracle.html">Oracle</a> <a href="../JDeveloper.html">JDeveloper</a>-ben is tudsz struccos alkalmazast csinalni, hasonlo modon mint AppDev-ben.</li>
+  <li><a href="../myeclipse.html">myeclipse</a> szinten pezert (<a href="../Linux%2048.html">linux 48</a>on stabilnak bizonyult)</li>
+  <li><a href="../StrutsBox.html">StrutsBox</a> ingyen de kicsit furi dolog</li>
+  <li><a href="../VIM.html">vim</a> yeah!!! :-D</li>
+</ul><p>hasznos, OSS eszkoz lehet a <a href="../XDoclet.html">xdoclet</a>, mint a legtob esetben :)</p>
+<ul>
+  <li><strong>struts-module</strong>: egy struts konfiguracios file, es az altala tartalmazott alkalmazas objektumok. (nyilvan lehet tobb is)</li>
+  <li><strong>formbean</strong>: olyan bean, ami a formodrol szarmazo adatokat tartalmazza. ket jelentosege van: 1, nem neked kell szaroznod az adatok parselesevel, 2, az actionod vegre bean-t kap, nem egy request objektumot. Opcionalisan implementalhatod a validate metodust, amivel a nem evidens hibakat detektalhatod (pl amikor az e-mail cim nem e-mail cim, vagy a jelszo mezo ures, ilyesmi)</li>
+  <li><strong>action</strong>: egy osztaly ami a <a href="../HTTP.html">http</a> actionodat reprezentalja. Az action formbean-t kap, es ha nem dob egy exceptiont-t, akkor actionforwardot ad vissza. Az actionforward mondja meg hogy melyik <a href="../JSP.html">jsp</a> adja majd a kimenetet. Fontos megemliteni hogy az Action threadsafe kell hogy legyen mert csak egy peldanyosul belole.</li>
+  <li><strong>exception</strong>: a hetkoznapi exception, annyi extraval, hogy a struts modulban definialhatod hogy melyik <a href="../JSP.html">jsp</a>-t kell megjelenitani ha a vezerlo <a href="../servlet.html">servlet</a> azt kapja az actionodtol.</li>
+  <li><strong>i18n</strong>: a struts nagyon tamogatja az <a href="../i18n.html">i18n</a>-t, minden felhasznalo szamara megjelenitett szoveget az alkalmazas eroforrasokbol keres ki.</li>
+  <li><strong>tagek</strong>: a struts jonehany taggel neheziti meg a <a href="../JSP.html">jsp</a> fejlesztok eletet, koztuk <a href="../i18n.html">i18n</a>, bean kezeles, meg ilyesmi...</li>
+  <li><strong>tiles</strong>: Ez a view komponenesek ujrafelhasznalhatosagara szolgal, sajna ahany struts verzio megjelent eddig, annyifelekeppen mukodik benne, ami meglehetosen megneheziti hasznalatat. Termeszetesen nincs a jelenlegi verziorol dokumentacio :-D</li>
+</ul><p>Lasd meg: <a href="../beehive.html">beehive</a>, <a href="../webapp.html">webapp</a>, <a href="../MVC.html">mvc</a></p><p>Cikkek: </p>
+<ul>
+  <li><a href="http://www-128.ibm.com/developerworks/java/library/j-sr2.html">Get a better handle on Struts actions, with Spring</a></li>
+</ul><p>Rokonsagok mas rendszerekkel:</p>
+<ul>
+  <li>Integracio a <a href="../spring.html">Spring</a>gel, ez ugy nez ki hogy a springes applicationcontext-et elkerheted a megfelelo osztalybol leszarmaztatott actionokbol. Szoval nem tul barati. A masik lehetoseg az hogy a spring maga jegyzi be az actionokat, es settereken keresztul be tudod pakolgatni a dependencyket. Szoval ez mar szeretnivalobb, viszont az meg nem tiszta hogy a <a href="../tiles.html">tiles</a> controllereket hogyan lehet vele kezelni, ha lehet egyaltalan... mert annelkul loszart nem er az egesz. Erre amugy csinaltam egy osztalyt ami lehetove teszi hogy a Controller benajeidet a <a href="../spring.html">spring</a> alkalmazas kontextusba pakold, de meg en se szeretem :)</li>
+  <li><a href="../WebWork.html">webwork</a></li>
+  <li><a href="../JSF.html">jsf</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-05-29</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

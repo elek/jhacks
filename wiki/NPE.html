@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>NPE</h1>
+<p>núl pojinter ekszepsön</p><p><a href="http://docs.oracle.com/javase/7/docs/api/java/lang/NullPointerException.html">java.lang.NullPointerException</a></p><p>Le kellett roviditeni mert gyakran fordul elo, es nem kiraj mindig leirni.</p><p>Szoval az NPE egy hatalmas feature a java-ban, amikor a hivatkozasod nem mutat semmire, de megis meghivsz rajta egy metodst, akkor nem az egesz alkalmazasod hal meg, legalabbis nem feltetlenul, csak az adott muvelet nem sikerul, es kepzodik egy NPE, amit barhol elkaphatsz. Ha meg nem kapod el akkor kilep az alkalmazasod, vagy terminal a <a href="thread.html">thread</a>ed, <a href="Missing.html">rollback</a>el a <a href="Missing.html">tranzakcio</a>d, ilyesmi...</p><p>Amikor meg a suliban halgattam egy tanarom velemenyet a java-rol, akkor megjegyezte hogy annak ellenere hogy javaban nincsenek pointerek, a NPE egy erdekes jelenseg. Talan eleinte NullreferenceExceptionnak kellett volna elnevezni, es akkor ez a felreertes is tiszta lenne. De mi szeretjuk a NPE-t ugy ahogy van.</p><p>Erdekessegek:</p>
+<ul>
+  <li><a href="http://findbugs.blogspot.com/2006/09/10-year-old-null-pointer-bug.html">A 10 year old null pointer bug</a> (<a href="java%201.6.html">java 1.6</a> vonatkozasban)</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-12-22</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

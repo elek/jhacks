@@ -1,0 +1,9 @@
+exclude: ['LICENSE.md', 'README.md', 'config.rb', 'sass']
+
+permalink: ':title/'
+
+baseurl: ''
+
+pygments: true
+
+markdown: redcarpet

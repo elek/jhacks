@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <script src="../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../styles/idea.css"></link>
+   <script src="../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>GWT</h1>
+<p>Google Web Toolkit</p><p>Rich Client webtool <a href="Google.html">Google</a> módra. A játék benne, hogy mind a szerver oldali kódot, mind a kliens oldali kódot Java-ban lehet írni. A kliens oldali csomagokat lefordítja egy förtelmesen obfuscált, de működő javascript-re.</p><p>Ez a fordítás a szűk keresztmetszet, gyakorlatilag olyasmi élményt nyújt, mint a PDA-kon futó JVM-ekre írni valamit: csak 1.4-et lehet használni, és csak az alap Java API-k vannak meg rajta. Viszont szerver oldalon már bármit használhatunk, amit vidáman lehet kliens oldalról RPC-vel elérni általunk definiált interfészeken keresztül (<a href="http://code.google.com/webtoolkit/documentation/com.google.gwt.doc.DeveloperGuide.RemoteProcedureCalls.html">doksi</a>) </p><p>A Java-ból fordult komponenseket gyakorlatilag bármilyen HTML-be be lehet szúrni egy egy soros javascript hívás beillesztésével, és onnantól működik a dolog.</p><p>Két fajta módban futtatható: Hosted módban nem is fordul le javascript-é, hanem a JVM-en belül indul egy Swinges böngésző, és abban láttjuk az eredményt. Előnye, hogy mivel JVM-en belül vagyunk lehet Debugolni. A Web mode a js-re fordított végleges változatot jelenti.</p><p>Az alap telepítésben a hosted mód indításához és a fordításhoz is shell scriptet mellékelnek, ami mind a <a href="maven.html">maven</a> mind az <a href="ant.html">ant</a> funok számára ugyanolyan érthetetlen. Azonban lehet Eclipse projektet is generáltatni neki, illetve van hozzá Netbeans plugin (default telepítés Beta repositoryjában).</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-02-23</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

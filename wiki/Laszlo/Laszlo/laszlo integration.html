@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../../stylesheets/styles.css">
+    <script src="../../../javascripts/scale.fix.js"></script>
+       <link rel="stylesheet" href="../../../styles/idea.css"></link>
+   <script src="../../../js/highlight.pack.js"></script>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Laszlo/laszlo integration</h1>
+<p>A laszlo a <a href="../WebServices.html">webservices</a>, <a href="../SOAP.html">soap</a>, <a href="../xml-rpc.html">xml-rpc</a> es mas <a href="../RPC.html">rpc</a> hivasain segitsegevel konnyen integralhato meglevo es futo rendszerekhez. Ez persze csak proxy-s felallasban mukodik, amivel kapcsolatban azt kell tudni hogy a hivas <em>nyilvan</em> nem a browserbol fog kiindulni, hanem a browser elkuldi a kerest a szervernek aki majd vegrehajtja az <a href="../RPC.html">rpc</a> hivast.</p><p>Ez tobbnyire eleg, de azert nem mindig elfogadhato megoldas az hogy meg egy halozati hivast betegyunk, meg egy webappot deployoljunk, ez kisse pazarlos megoldas. Meg tehetjuk viszont azt hogy a mar letezo alkalmazasunkat epitjuk be a <a href="../Laszlo.html">laszlo</a> appba, es siman <a href="http://www.laszlosystems.com/lps-3.3/docs/guide/rpc-javarpc.html">javarpc</a> segitsegevel hasznaljuk.</p><p>Peldaul ha a <a href="../spring.html">spring</a>es beanjeinket akarjuk elerni, akkor irhatunk egy listenert, ami bedobalja a <a href="../Laszlo.html">laszlo</a> "__lzobj" map-jebe a <a href="../spring.html">spring</a> context objektumait. Eleg egyszeru iteracio, ezek utan a spring beanek hivhatoak javarpc-n keresztul, de ez tetszoleges mas <a href="../ioc.html">ioc</a> kontenerrel megoldhato.</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-09-21</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
