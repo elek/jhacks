@@ -30,11 +30,11 @@
 
       </header>
       <section>
-	{{ content }}
+	{{{ content }}}
       </section>
       <footer>
-        {{#if page.metadata.date }}
-        <p><small>Last change: {{created page}}</small></p>
+        {{#if page.date }}
+        <p><small>Last change: {{dateFormat page.date "yyyy-MM-dd"}}</small></p>
         {{/if}}
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
       </footer>
