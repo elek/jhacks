@@ -8,20 +8,21 @@ path                : ant
 date                : 2006-09-08 13:52:49 +0200 
 version             : 8 
 creator             : kocka 
+tag:
+   - build
 ---
 ![image](http://hackers.forgeahead.hu/space/banners/sidebar/ant_logo_large.gif)<br/>
-__ANT__
 
 [http://ant.apache.org/](http://ant.apache.org/)
 
-Napjaink legszelesebb korben elfogadott [build](build.html) toolja elsosorban [java](java.html) fejlesztesekhez.
+A klasszikus nagy öreg [build](build.html) tool elsosorban [java](java.html) fejlesztesekhez.
 
 Az anthoz erdemes ismerni a tortenelmi hatteret: a [unix](unix.html) make parancsot. A make parancsot foleg [C](C.html)/C++ projectekben hasznaljak arra hogy a forditasi folyamatot automatizaljak es fel is gyorsitsak azaltal hogy csak a szukseges parancsokat hajtjak vegre. A make-nek megmondod hogy milyen file-okat kell elkeszitenie, es melyik file mibol keszul el es hogyan. A make kezeli a file-ok fuggosegeit, es ha egy file foggosegei kozul valami ujabb mint maga a file, akkor azt a file-t ujraforditja. Pl:
+
 ```
 all: sayhello
 
 sayhello: sayhello.o hellolib.o
-
 ```
 
 Az ant :
@@ -34,7 +35,8 @@ Az ant :
 A build file egy projectet tartalmaz, ami tartalmazza a taskokat es az egyeb globalis strukturakat (tulajdonsagok, utmegadasok, stb). Az tartgetek mindenfele taskokat tartalmazhatnak. A tasokok gyakorlatilag a proceduralis leirasa annak hogy mit kell tenni. A targetek kozott termeszetesen lehetnek fuggosegek, a korfuggosegeket az ant detektalja es megbunteti :)
 
 pl:
-```
+
+```xml
 <?xml version="1.0"?>
 
 <project name="igazsagosztas" default="all">
@@ -56,8 +58,6 @@ linkek:
 
 *   oreg mainstream technologia leven mindenhol tele van vele minden, nezd meg a sidebaron :)
 
-Alternativa lehet esetleg a [maven](maven.html)
-
-Az Ant a [Netbeans](Netbeans.html) 4.x-es szeria beepitett build rendszere lesz, ami garantalja azt hogy a [Netbeans](Netbeans.html)re epitett projectek barmilyen kornyezetben konnyen lefordithatoak. Termeszetesen szinte minden [IDE](IDE.html) integralta es valamilyen feluletet biztosit hozza.
+Mivel hiányik belőle a Convention over configuration, ezért ugyanazt újra és újra le kell kódolni benne, ezért ma már nem nagyon javasolt használni, mert vannak sokkal okosabb toolok is. Pl. [maven](maven.html) vagy [Gradle](gradle.html)
 
 Lasd meg: [continuous integration](Continuous%20Integration.html), [ide](IDE.html), [build](build.html)
