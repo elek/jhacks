@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../stylesheets/styles.css">
+    <script src="../../javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>PL-J/PL-J belulrol</h1>
+<p><em>Most meglatjatok milyen rettenetes abraka lehet rajzolni gimppel egy kis hozzaertes es igenyesseg nelkul :)</em></p><p>A <a href="../PostgreSQL.html">PostgreSQL</a> koruli java tarolt eljaras rendszerek eseteben mindig kerdes volt a kommunikacio megvalositasa. A problema abbol adodik hogy a PostgreSQL nem threadel, mig a Java ha kell ha nem threadeket indit, ez a ketto nem jatszik szepen egyut, igy a <a href="../JNI.html">JNI</a> megvalositast alaposan korbe kell falazni, viszont ha kulon processzekben fut a java es a postgres, akkor elofordulhat hogy a processzek kozti kommunikacio lesz a bottleneck, de ha nem az akkor az orokonos processzvaltasok.</p><p><img src="http://hackers.forgeahead.hu/space/PL-J/PL-J+belulrol/plj-db-interaction.gif"  alt="image"/></p><p>Szoval ezt vegiggondolva, megis melyik uton induljak, akkor igy dontottem: socketelek, de a <a href="../JNI.html">JNI</a> is hagyok helyet. Ebbol jott letre a kommunikacios csatorna api ami kisse low level, es nem igazan konnyu hasznalni de ez mindegy mert ugyis csak nekem kell, es lehetove teszi hogy masfele implementaciokat helyettesitsunk be. Ezzel a designnal, kb ugy nez ki mint egy apache <a href="../httpd.html">httpd</a> -&gt; <a href="../mod_jk.html">mod_jk</a> -&gt; <a href="../tomcat.html">tomcat</a>, csak mindez adatbazis layeren.</p><p>Szoval a PL-J <a href="../ioc.html">IoC</a> elkepzeleseken alapszik, kis tucat komponensbol epul fel, amit termeszetesen akar at is lehet irni ha valaki annyira jol nyomja :)<br/> Egy komponens egy adott feladatkort tolt, tobbnyire eleg aprokat, pl a log4j rendszer bekonfiguralasa, ilyesmi. A legfobb komponens tipusok:</p>
+<ul>
+  <li><strong>channel</strong>, ami a kommunikaciot valositja meg,</li>
+  <li><strong>typemapper</strong>, ami RDBMS tipusokat tud mappelni Java osztalyokka es vissza</li>
+  <li><strong>executor</strong>, a UDF/trigger hivasok futtatasa.</li>
+</ul><p><img src="http://hackers.forgeahead.hu/space/PL-J/PL-J+belulrol/plj-components-overview.gif"  alt="image"/></p><p>Persze mindegyik konkret megvalositasa egyeb komponsnsek hasznalatat teszi szuksegesse vagy celszeruve, igy szulettek olyan kulon szerviz komponensek, mint:</p>
+<ul>
+  <li><strong>JDBC konfiguracio szolgaltatas</strong>, igy az alkalmazasodban tudod konfiguralni a JDBC driver viselkedeset. (Kicsit sokfele opcio van...)</li>
+  <li><a href="../log4j.html">Log4j</a> inicializalo szolgaltatas.</li>
+  <li>stb</li>
+</ul><p>A <a href="../loom.html">Loom</a> alkalmazasszerver sok finom szolgaltatast nyujt: <a href="../JMX.html">JMX</a>, hot deploy, az alkalmazas tobb alkalmazassal egy VM-ben tud futni, stb.</p><p><img src="http://hackers.forgeahead.hu/space/PL-J/PL-J+belulrol/plj-in-loom.gif"  alt="image"/></p><p>(folytkov, rettegj retek!)</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

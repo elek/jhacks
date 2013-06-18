@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../stylesheets/styles.css">
+    <script src="../../javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>PostgreSQL/Features</h1>
+<p>A PostgreSQL sok olyan funkciot nyujt, amit amugy csak a kereskedelmi szerverek nyujtottak: UDF-ek, view-k, triggerek, stb. Mara mar a legtobb onmagara valamit is ado <a href="../RDBMS.html">RDBMS</a> tudja, ennek ellenere a PostgreSQL ezen felul is kepes valami pluszt nyujtani.<br/></p><h1>Dinamiukus tipusrendszer</h1><p>A tipus rendszer dinamikus, azaz <strong>CREATE TYPE</strong> paranccsal sajat tipust hozhatsz letre, amiben sajat formatumoddal tarolhatod az adatokat.<br/> A PostgreSQL alapbol is tobb hasznos tipust tartalmaz, valamint a kiterjesztesek is adhatnak egyeb szabvanyos adattipusokat, pl <a href="../PostGIS.html">PostGIS</a>.</p><h1>Dinamiuks <a href="../PostgreSQL/proceduralis%20nyelv.html">Postgresql/proceduralis nyelv</a> tamogatas</h1><p>A tarolt eljaras rendszer is hasonloan <strong>CREATE LANGUAGE</strong> paranccsal uj <a href="../PostgreSQL/proceduralis%20nyelv.html">PostgreSQL/proceduralis nyelv</a>et illeszthetsz be.</p><h1>Inheritance</h1><p>Ez szerintem egy igazán figyelemre méltó dolog volt a postgresql 7.x szériában, és persze a 8.x is tarjta vele a kompatibilitást, de nem igazán fejlesztenek rá semmit se már (tudtommal). A relációk közt, ugynúgy mint például az <a href="../OR%20Mapping.html">OR Mappinggal</a> rájuk mappelt osztályok közt öröklődést lehetett megvalósítani. Az azt jelenti hogy ha B reláció A reláció leszármazottja, akkor ha B-be beteszel egy rekordot, akkor annak a (projekciója, nyilván) látszani fog A relációban is.</p><p>Ez egy érdekes dolog lett volna, <a href="../RDBMS.html">RDBMS</a> szintre letolni a öröklődések megoldását, ehelyett az terjedt el, hogy az <a href="../OR%20Mapping.html">OR Mapping</a> komponensek a két ismert alkalmazásszintű módszerrel dolgoznak.</p><h1><a href="../XML.html">XML</a></h1><p>A 8.3-as verzió érkezik beépített XML típus támogatással. Meglátjuk konkrétan mit tud...</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2007-11-01</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

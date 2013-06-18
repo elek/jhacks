@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../stylesheets/styles.css">
+    <script src="../../javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Kis torteneti attekintes</h1>
+<p>A regi frameworkokben nem volt arra semmi kozponti megoldas hogy ki milyen eroforrast hasznalhat, hogyan azonositsuk, stb, meg a ma hasznalatos webes programozasi nyelvek (<a href="../PHP.html">php</a>, <a href="../perl.html">perl</a>, satobbi) sem tartalmaz ra valami sok tamogatast.</p><p>Nade a <a href="../java.html">java</a> <a href="../webapp.html">webapp</a>ok deklarativ hozzaferes kezelest tartalmaznak, valamint a <a href="../Alkalmazas%20Szerver.html">alkalmazas szerver</a> feladata a <a href="../webapp.html">webapp</a>ok szamara az azonositast es a felhasznaloi role-ok ellenorzese. Ennyivel kevesebbet kell programozni, valamint egyetlen nagy vallalati azonositasi rendszerbe illesztheted a felhasznalodat. A custom dolgokat meg elvegezheted valahol a kodoban is, ha valami extrat akarsz.</p><h1>Problema</h1><p>A problema ott kezdodik hogy ezt a kezdok, <a href="../PHP.html">php</a> iranybol erkezok, vagy trehany dogok es mas gyanusan olcson kaphato munkaero sajna eleg gyakran nem tudja. Ez tobbyire oda vezet hogy nincs is valojaban biztonsagi ellenorzes, csak egy login screen ami mogott valojaban ellenorzes nelkul erheted el a funkcionalitast. Van olyan perverzio is hogy a sessionbe pakolt objektum letesese vagy nemletezese alapjan donti el hogy be van-e jelentkezve, ez az objektum pedig tobbnyire egy adatbazi szerver kapcsolat :) (Lasd a <a href="../JDBC.html">JDBC</a> agymeneseket es a <a href="../WTF.html">WTF</a>eket)</p><p>Pelda erre <a href="../suhaig.html">SuhaiG</a> <a href="../WTF/JSP%20esettanulmany.html">WTF/JSP esettanulmany</a>a.</p><h1>Workaround</h1><p>Ilyenkor szerintem elso lepeskent becsomagolhatjuk a rendszert egy szabvanyos azonositasi megoldassal, ha valami specialis eroforras kell a sessionbe a idiota logikanak, akkor azt tegyuk meg a sessionlistenerrel. Majd kesobb kinyirjuk azt is :) Innentol a biztonsag legalabb elerheto, de alaposan vegig kell ellenorizni utanna a rendszert, mert tobbnyire az ilyeneket a sajat hibaik tartjak eletben.</p><p>Lasd meg: <a href="../WTF.html">wtf</a>, <a href="../Refactoring.html">refactoring</a>, <a href="../webapp.html">webapp</a>, <a href="../security.html">security</a>, <a href="../JAAS.html">jaas</a> meg amit akarsz.</p><p>Naplementekor kelet fele fordulok. Arra van India. Csunyakat gondolok kozben.</p>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../stylesheets/styles.css">
+    <script src="../../javascripts/scale.fix.js"></script>
+       <script src="../../js/highlight.pack.js"></script>
+   <link rel="stylesheet" href="../../styles/idea.css"></link>
+   <script>hljs.initHighlightingOnLoad();</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>kocka/jndi-postprocessor</h1>
+<p>Egy <a href="../JNDI.html">JNDI</a> postprocessor <a href="../spring.html">springhez</a>. A spring alkalmazás kontextus startolása után végigtúrja a bean definicióidat és megprobálja vagy a teljes bean-eket vagy a tulajdonságaikat lehelyettesíteni a JNDI fa megfelelő objektumával.</p><p>Egyszerű és buta :)</p>
+<pre><code><bean id="overloader" class="net.anzix.jhacks.jndi.JNDIPostProcessor">
+  <constructor-arg><value>java:comp/env/test</value></constructor-arg>
+</bean>
+</code></pre><p>Ez a fenti snippet a test alól fogja próbálni behelyettesítgetni a <a href="../pojo.html">beanjeiet</a> JNDI resourceokkal.</p><p>Linkek:</p>
+<ul>
+  <li><a href="http://iwillworkforfood.blogspot.com/2008/04/tls-konfigurci-hovatevsrl.html">Alapötlet</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2008-04-15</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

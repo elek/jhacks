@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JHacks</title>
+
+    <link rel="stylesheet" href="../../stylesheets/styles.css">
+    <script src="../../javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- 3 -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JHacks</h1>
+        <p class="header">#java #wiki #hu [ARCHIVE_ONLY!]</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="../../index.html">Mi ez?</a></li>
+          <li class="download"><a class="buttons" href="../../List.html">Oldalindex</a></li>
+        </ul>
+
+        <p class="header">This archive is hosted on <a class="header name" href="https://github.com/elek/jhacks">github</a></p>
+
+
+      </header>
+      <section>
+	<h1>Ger/JMeter</h1>
+<p>Habár még sosem teszteltem, de mostanában megismerkedtem a JMeter-rel.</p><p><strong>Leírás:</strong> apache-os univerzális teljesítmény tesztelő, komponensekből építhetjük fel a teszteket egy GUI segítségével. </p><p><strong>Komponens típusok:</strong></p>
+<ul>
+  <li>Thread Group: szálak száma, elindulásuk időzítése és ciklusszámuk megadása</li>
+  <li>Sampler: ez az a valami, amivel tesztelünk. Lehet: <a href="../HTTP.html">HTTP</a>, <a href="../FTP.html">FTP</a>, <a href="../JMS.html">JMS</a>, <a href="../LDAP.html">LDAP</a>, <a href="../junit.html">JUnit</a>, <a href="../java.html">Java</a> osztály, Mail, <a href="../SOAP.html">SOAP</a>, <a href="../WebServices.html">WebServices</a>, <a href="../JDBC.html">JDBC</a>, stb …</li>
+  <li>Listener: ez az ami gyűjti a tesztadatokat: grafikonok, táblázatok, log fájl, mail, stb…</li>
+  <li>Assertions: ezzel lehet ellenőrizni a rendszertől kapott válaszokat: tartalom, válaszidő, válaszméret, <a href="../XML.html">XML</a> válasz verifikáció/validáció, <a href="../XPath.html">XPath</a>, <a href="../BeanShell.html">BeanShell</a> script, MD5, HTML verifikáció</li>
+  <li>Logic Controller: vezérlő szerkezetek, így a kapott válasz függvényében tudunk tesztet végezni (if, while, switch, random, once, stb…)</li>
+  <li>Timer: időzítési szabályok megadása</li>
+  <li>Config Element: konfigurációs beállítások (webauth, cookie, stb…)</li>
+  <li>Pre processors: még a samplerek végrehajtása elött , samplereket modifikáló komponensek: HTML Link Parser, URL rewriting, User parameters, Counter, stb…</li>
+  <li>Post processors: a samplerek eredményét feldolgozó komponensek: reguláris kifejezések, Result status action handler, stb…</li>
+</ul><p><strong>Előnyök:</strong></p>
+<ul>
+  <li>Ingyenes</li>
+  <li>Komponens alapú szemlélet</li>
+  <li>Univerzális, komponensek széles választéka, de akár ki is egészíthető</li>
+  <li>Grafikus kezelőfelület, de konzolos üzemmódban is lehet használni automatikus tesztek elvégzésére. Ugyanígy van ant támogatottsága.</li>
+  <li>Vezérlő szerkezetek</li>
+  <li>Változók, paraméterek, funkciók</li>
+  <li>Teszt válasz ellenőrzése</li>
+  <li>Reguláris kifejezések</li>
+  <li>Automatikus URL felvétel egy HTTP Proxy segítségével</li>
+</ul><p><strong>Hátrány:</strong></p>
+<ul>
+  <li>HTTPS alatt nincsen automatikus URL felvétel</li>
+  <li>Nagyobb teszt közben szinte lehetetlen leállítani, helyette ki kell lőni az egész progit</li>
+  <li>Teszt közben nincsen progress bar, csak indirekt módon lehet következtetni hol jár</li>
+</ul><p><strong>További információ:</strong></p>
+<ul>
+  <li><a href="http://jakarta.apache.org/jmeter/index.html">http://jakarta.apache.org/jmeter/index.html</a></li>
+  <li><a href="http://jakarta.apache.org/jmeter/usermanual/index.html">http://jakarta.apache.org/jmeter/usermanual/index.html</a></li>
+  <li><a href="http://jakarta.apache.org/jmeter/usermanual/component_reference.html">http://jakarta.apache.org/jmeter/usermanual/component_reference.html</a></li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Last change: 2006-03-26</small></p>
+        
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
